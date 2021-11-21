@@ -1,0 +1,5 @@
+src/
+tsconfig.json
+.*
+dist/bakkesmod/
+parse.*
