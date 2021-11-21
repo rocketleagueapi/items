@@ -1,20 +1,17 @@
-<h1 align="center">Items</h1>
+<h1 align="center">Rocket League Items Data</h1>
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000&label=Version" />
-    <a href="https://github.com/rocketleagueapi/items/blob/master/LICENSE" target="_blank">
-  <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/rocketleagueapi/items">
+    <a href="https://github.com/rocketleagueapi/items/packages/1108141" target="_blank">
+  <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/rocketleagueapi/items?label=Version">
   </a>
   <a href="https://github.com/rocketleagueapi/items/blob/master/LICENSE" target="_blank">
     <img alt="License: LGPL--3.0--or--later" src="https://img.shields.io/github/license/rocketleagueapi/items?color=green" />
   </a>
 </p>
 
-A collection of JSON files.
-
 ### 🏠 [Homepage](https://github.com/rocketleagueapi/items)
 
 ## Install
-Create the file `.npmrc` in order to point your package manager to the correct package repository.
+Create the file `.npmrc` with the following contents in order to point your package manager to the correct package repository.
 ```
 @rocketleagueapi:registry=https://npm.pkg.github.com
 ```
