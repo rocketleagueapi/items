@@ -7,6 +7,7 @@
     <img alt="License: LGPL--3.0--or--later" src="https://img.shields.io/github/license/rocketleagueapi/items?color=green" />
   </a>
 </p>
+A collection of JSON files including all items, paints, certifications, slots, special editions and series. 
 
 ### 🏠 [Homepage](https://github.com/rocketleagueapi/items)
 
