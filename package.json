@@ -1,7 +1,7 @@
 {
   "name": "@rocketleagueapi/items",
   "version": "1.0.2",
-  "description": "",
+  "description": " A collection of JSON files including all items, paints, certifications, slots, special editions and series.",
   "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
