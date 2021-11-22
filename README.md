@@ -26,7 +26,7 @@ or
 ```
 
 ## Updating
-The information can updated using [ItsBrank's Developer Tools Plugin](https://github.com/ItsBranK/DeveloperTools) with [Bakkesmod](https://bakkesmod.com/) to generate the raw JSON data.  Use the following console commands:
+The information can updated using [ItsBranK's Developer Tools Plugin](https://github.com/ItsBranK/DeveloperTools) with [Bakkesmod](https://bakkesmod.com/) to generate the raw JSON data.  Use the following console commands:
 
 ```sh
 brank_dump_slots {slot_index} {slot_label} {slot_plural_Label} {slot_online_label} {slot_description} [JSON]
