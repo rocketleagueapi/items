@@ -8,7 +8,7 @@ import { writeFileSync } from 'fs';
 import path from 'path';
 
 function write(name: string, data: any) {
-    writeFileSync(path.join(__dirname, './parsed/', name + '.json'), JSON.stringify(data));
+    writeFileSync(path.join(__dirname, './parsed/', name + '.json'), JSON.stringify(data, null, 2));
 }
 
 const certs = CertificationDump.reduce((acc, c) => {
