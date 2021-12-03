@@ -12,7 +12,7 @@ function write(name: string, data: any) {
 }
 
 const certs = CertificationDump.reduce((acc, c) => {
-    acc[c['Certified Database Id']] = c['Certified Database Name'];
+    acc[c['Certified Database Id']] = c['Certified Database Label'];
     return acc;
 }, {} as Record<number, string>);
 write('certs', certs);
