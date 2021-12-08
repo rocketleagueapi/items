@@ -11215,6 +11215,14 @@
     "quality": 4,
     "slot": 1
   },
+  "2385": {
+    "name": "Animus GP: Distortion",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
   "2386": {
     "name": "Animus GP: Snakeskin",
     "blueprint": false,
@@ -11910,6 +11918,14 @@
     "currency": false,
     "quality": 2,
     "slot": 1
+  },
+  "2497": {
+    "name": "Polygrid",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 7
   },
   "2498": {
     "name": "Centio: Gigapede",
@@ -27687,6 +27703,14 @@
     "quality": 8,
     "slot": 16
   },
+  "5608": {
+    "name": "MTRX: Inverted",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2
+  },
   "5610": {
     "name": "Season 1",
     "blueprint": true,
@@ -27974,6 +27998,14 @@
     "currency": false,
     "quality": 3,
     "slot": 1
+  },
+  "5666": {
+    "name": "Canister",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
+    "slot": 2
   },
   "5668": {
     "name": "No-Name",
@@ -28487,6 +28519,22 @@
     "quality": 3,
     "slot": 1
   },
+  "5767": {
+    "name": "Denver Broncos",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5768": {
+    "name": "Washington Football Team",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
   "5769": {
     "name": "Fennec: Alpine Esports",
     "blueprint": false,
@@ -28534,6 +28582,246 @@
     "currency": false,
     "quality": 3,
     "slot": 2
+  },
+  "5776": {
+    "name": "Arizona Cardinals",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5777": {
+    "name": "Atlanta Falcons",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5778": {
+    "name": "Baltimore Ravens",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5780": {
+    "name": "Buffalo Bills",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5781": {
+    "name": "Carolina Panthers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5782": {
+    "name": "Chicago Bears",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5783": {
+    "name": "Cincinnati Bengals",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5784": {
+    "name": "Cleveland Browns",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5785": {
+    "name": "Dallas Cowboys",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5786": {
+    "name": "Detroit Lions",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5787": {
+    "name": "Green Bay Packers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5788": {
+    "name": "Houston Texans",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5789": {
+    "name": "Indianapolis Colts",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5790": {
+    "name": "Jacksonville Jaguars",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5791": {
+    "name": "Kansas City Chiefs",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5792": {
+    "name": "Los Angeles Chargers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5793": {
+    "name": "Los Angeles Rams",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5794": {
+    "name": "Las Vegas Raiders",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5795": {
+    "name": "Miami Dolphins",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5796": {
+    "name": "Minnesota Vikings",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5797": {
+    "name": "New England Patriots",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5798": {
+    "name": "New Orleans Saints",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5799": {
+    "name": "New York Giants",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5800": {
+    "name": "New York Jets",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5801": {
+    "name": "Philadelphia Eagles",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5802": {
+    "name": "Pittsburgh Steelers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5803": {
+    "name": "Seattle Seahawks",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5804": {
+    "name": "San Francisco 49ers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5805": {
+    "name": "Tampa Bay Buccaneers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
+  },
+  "5806": {
+    "name": "Tennessee Titans",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4
   },
   "5809": {
     "name": "Tygris: Flames",
@@ -28831,6 +29119,14 @@
     "quality": 5,
     "slot": 2
   },
+  "5857": {
+    "name": "Ethereal",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
+    "slot": 14
+  },
   "5858": {
     "name": "Tyranno",
     "blueprint": false,
@@ -28838,6 +29134,14 @@
     "currency": false,
     "quality": 8,
     "slot": 0
+  },
+  "5859": {
+    "name": "Ethereal",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 3
   },
   "5860": {
     "name": "Ford F-150 RLE",
@@ -29399,6 +29703,22 @@
     "quality": 3,
     "slot": 18
   },
+  "5951": {
+    "name": "Jackal",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 0
+  },
+  "5953": {
+    "name": "Stride Tide",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 6,
+    "slot": 1
+  },
   "5955": {
     "name": "Ball-Star",
     "blueprint": false,
@@ -29406,6 +29726,14 @@
     "currency": false,
     "quality": 5,
     "slot": 15
+  },
+  "5958": {
+    "name": "Octane: Swayzee",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
   },
   "5959": {
     "name": "Sport Cycle",
@@ -29478,6 +29806,14 @@
     "currency": false,
     "quality": 2,
     "slot": 1
+  },
+  "5975": {
+    "name": "Phoenix Cannon",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 6,
+    "slot": 15
   },
   "5979": {
     "name": "Tyranno GXT",
@@ -30069,6 +30405,14 @@
     "paintable": true,
     "currency": false,
     "quality": 8,
+    "slot": 1
+  },
+  "6092": {
+    "name": "Warp Wave",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 5,
     "slot": 1
   },
   "6093": {
@@ -30871,6 +31215,14 @@
     "quality": 2,
     "slot": 16
   },
+  "6221": {
+    "name": "Jak'd",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
+    "slot": 2
+  },
   "6223": {
     "name": "Carbonated",
     "blueprint": false,
@@ -30966,6 +31318,14 @@
     "currency": false,
     "quality": 8,
     "slot": 13
+  },
+  "6242": {
+    "name": "Hasher",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
+    "slot": 2
   },
   "6243": {
     "name": "Nexus",
@@ -31118,6 +31478,14 @@
     "currency": false,
     "quality": 4,
     "slot": 1
+  },
+  "6314": {
+    "name": "Jackal",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13
   },
   "6331": {
     "name": "Twista: Revolved",
@@ -31413,6 +31781,14 @@
     "paintable": false,
     "currency": false,
     "quality": 3,
+    "slot": 1
+  },
+  "6493": {
+    "name": "Dominus: Martian Wind",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
     "slot": 1
   },
   "6554": {
@@ -32079,6 +32455,14 @@
     "quality": 3,
     "slot": 1
   },
+  "6791": {
+    "name": "Jackal: Stripes",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1
+  },
   "6792": {
     "name": "Fennec: G2 Esports",
     "blueprint": false,
@@ -32103,6 +32487,22 @@
     "quality": 3,
     "slot": 1
   },
+  "6795": {
+    "name": "Jackal: Flames",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1
+  },
+  "6796": {
+    "name": "Jackal: Wings",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1
+  },
   "6797": {
     "name": "BMW M240i",
     "blueprint": false,
@@ -32110,6 +32510,14 @@
     "currency": false,
     "quality": 0,
     "slot": 13
+  },
+  "6800": {
+    "name": "Jackal: Midline",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1
   },
   "6801": {
     "name": "Batman",
@@ -32263,6 +32671,14 @@
     "quality": 3,
     "slot": 1
   },
+  "6821": {
+    "name": "Ford Mustang Mach-E RLE",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2
+  },
   "6822": {
     "name": "Fennec: PWR",
     "blueprint": false,
@@ -32343,12 +32759,36 @@
     "quality": 8,
     "slot": 1
   },
+  "6836": {
+    "name": "Ford Mustang Shelby GT350R RLE",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 0
+  },
+  "6837": {
+    "name": "Ford Mustang Shelby GT350R RLE",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2
+  },
   "6838": {
     "name": "BMW",
     "blueprint": false,
     "paintable": false,
     "currency": false,
     "quality": 3,
+    "slot": 16
+  },
+  "6839": {
+    "name": "Spectral",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
     "slot": 16
   },
   "6840": {
@@ -32369,6 +32809,14 @@
   },
   "6842": {
     "name": "Octane: Pittsburgh Knights",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1
+  },
+  "6845": {
+    "name": "Jackal: Huntress",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -32519,6 +32967,14 @@
     "quality": 0,
     "slot": 22
   },
+  "6864": {
+    "name": "Jackal: Sharpshooter",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
+    "slot": 1
+  },
   "6865": {
     "name": "Furia",
     "blueprint": false,
@@ -32557,6 +33013,14 @@
     "paintable": false,
     "currency": false,
     "quality": 3,
+    "slot": 1
+  },
+  "6870": {
+    "name": "Octane: Green Bay Packers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
     "slot": 1
   },
   "6871": {
@@ -32695,6 +33159,14 @@
     "quality": 4,
     "slot": 14
   },
+  "6891": {
+    "name": "Water Resistant (feat. 8 4 8 5)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 18
+  },
   "6892": {
     "name": "Rocket League Sideswipe",
     "blueprint": false,
@@ -32702,6 +33174,14 @@
     "currency": false,
     "quality": 0,
     "slot": 18
+  },
+  "6893": {
+    "name": "Jackal: Silencer",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
+    "slot": 1
   },
   "6894": {
     "name": "Fennec: Team Singularity",
@@ -32807,6 +33287,14 @@
     "quality": 8,
     "slot": 2
   },
+  "6914": {
+    "name": "Ford Mustang Shelby GT350R RLE: 98",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
   "6915": {
     "name": "WHIPPED CREAM",
     "blueprint": false,
@@ -32846,6 +33334,14 @@
     "currency": false,
     "quality": 8,
     "slot": 2
+  },
+  "6922": {
+    "name": "Wow!",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 15
   },
   "6923": {
     "name": "Gravitron",
@@ -32943,6 +33439,22 @@
     "quality": 8,
     "slot": 2
   },
+  "6939": {
+    "name": "Ford Mustang Mach-E RLE",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 0
+  },
+  "6940": {
+    "name": "Ford Mustang Mach-E RLE: Ford Performance",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
   "6942": {
     "name": "Corbital",
     "blueprint": false,
@@ -32950,6 +33462,14 @@
     "currency": false,
     "quality": 8,
     "slot": 3
+  },
+  "6944": {
+    "name": "Hasher: Revolved",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 2
   },
   "6945": {
     "name": "Pulser",
@@ -32966,6 +33486,262 @@
     "currency": false,
     "quality": 8,
     "slot": 1
+  },
+  "6948": {
+    "name": "Arizona Cardinals",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6949": {
+    "name": "Atlanta Falcons",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6950": {
+    "name": "Baltimore Ravens",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6951": {
+    "name": "Buffalo Bills",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6952": {
+    "name": "Carolina Panthers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6953": {
+    "name": "Chicago Bears",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6954": {
+    "name": "Cincinnati Bengals",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6955": {
+    "name": "Cleveland Browns",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6956": {
+    "name": "Dallas Cowboys",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6957": {
+    "name": "Denver Broncos",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6958": {
+    "name": "Detroit Lions",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6959": {
+    "name": "Green Bay Packers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6960": {
+    "name": "Houston Texans",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6961": {
+    "name": "Indianapolis Colts",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6962": {
+    "name": "Jacksonville Jaguars",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6963": {
+    "name": "Kansas City Chiefs",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6964": {
+    "name": "Los Angeles Chargers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6965": {
+    "name": "Los Angeles Rams",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6966": {
+    "name": "Las Vegas Raiders",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6967": {
+    "name": "Miami Dolphins",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6968": {
+    "name": "Minnesota Vikings",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6969": {
+    "name": "New England Patriots",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6970": {
+    "name": "New Orleans Saints",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6971": {
+    "name": "New York Giants",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6972": {
+    "name": "New York Jets",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6973": {
+    "name": "Philadelphia Eagles",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6974": {
+    "name": "Pittsburgh Steelers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6975": {
+    "name": "Seattle Seahawks",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6976": {
+    "name": "San Francisco 49ers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6977": {
+    "name": "Tampa Bay Buccaneers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6978": {
+    "name": "Tennessee Titans",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "6979": {
+    "name": "Washington Football Team",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
   },
   "6980": {
     "name": "Nexus",
@@ -32991,12 +33767,44 @@
     "quality": 3,
     "slot": 1
   },
+  "6983": {
+    "name": "Ford Mustang Mach-E RLE",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13
+  },
+  "6984": {
+    "name": "Canister: Infinite",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 2
+  },
   "6987": {
     "name": "Nexus: Sally",
     "blueprint": false,
     "paintable": false,
     "currency": false,
     "quality": 8,
+    "slot": 1
+  },
+  "6990": {
+    "name": "Octane: Arizona Cardinals",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "6991": {
+    "name": "Octane: Atlanta Falcons",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
     "slot": 1
   },
   "6992": {
@@ -33079,6 +33887,238 @@
     "quality": 3,
     "slot": 1
   },
+  "7016": {
+    "name": "Octane: Baltimore Ravens",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7017": {
+    "name": "Octane: Buffalo Bills",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7018": {
+    "name": "Octane: Carolina Panthers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7019": {
+    "name": "Octane: Chicago Bears",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7020": {
+    "name": "Octane: Cincinnati Bengals",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7021": {
+    "name": "Octane: Cleveland Browns",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7022": {
+    "name": "Octane: Dallas Cowboys",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7023": {
+    "name": "Octane: Denver Broncos",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7024": {
+    "name": "Octane: Detroit Lions",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7025": {
+    "name": "Octane: Houston Texans",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7026": {
+    "name": "Octane: Indianapolis Colts",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7027": {
+    "name": "Octane: Jacksonville Jaguars",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7028": {
+    "name": "Octane: Kansas City Chiefs",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7029": {
+    "name": "Octane: Los Angeles Chargers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7030": {
+    "name": "Octane: Los Angeles Rams",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7031": {
+    "name": "Octane: Las Vegas Raiders",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7032": {
+    "name": "Octane: Miami Dolphins",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7033": {
+    "name": "Octane: Minnesota Vikings",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7034": {
+    "name": "Octane: New England Patriots",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7035": {
+    "name": "Octane: New Orleans Saints",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7036": {
+    "name": "Octane: New York Giants",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7037": {
+    "name": "Octane: New York Jets",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7038": {
+    "name": "Octane: Philadelphia Eagles",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7039": {
+    "name": "Octane: Pittsburgh Steelers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7040": {
+    "name": "Octane: San Francisco 49ers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7041": {
+    "name": "Octane: Seattle Seahawks",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7042": {
+    "name": "Octane: Tampa Bay Buccaneers",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7043": {
+    "name": "Octane: Tennessee Titans",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7044": {
+    "name": "Octane: Washington Football Team",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
   "7047": {
     "name": "Glonex: Holographic",
     "blueprint": false,
@@ -33119,6 +34159,14 @@
     "quality": 8,
     "slot": 5
   },
+  "7053": {
+    "name": "Ford Mustang Mach-E RLE: 98",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
   "7054": {
     "name": "Nexus: Huntress",
     "blueprint": false,
@@ -33133,6 +34181,22 @@
     "paintable": false,
     "currency": false,
     "quality": 0,
+    "slot": 1
+  },
+  "7056": {
+    "name": "Ford Mustang Shelby GT350R RLE: Ford Performance",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
+  "7057": {
+    "name": "Dominus: Bodacious",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
     "slot": 1
   },
   "7058": {
@@ -33199,6 +34263,14 @@
     "quality": 3,
     "slot": 4
   },
+  "7073": {
+    "name": "Fennec: Oozy",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 1
+  },
   "7074": {
     "name": "Psynaut",
     "blueprint": false,
@@ -33223,12 +34295,28 @@
     "quality": 2,
     "slot": 24
   },
+  "7078": {
+    "name": "Chakram: Holographic",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 2
+  },
   "7079": {
     "name": "Octane: Ombre",
     "blueprint": false,
     "paintable": true,
     "currency": false,
     "quality": 3,
+    "slot": 1
+  },
+  "7081": {
+    "name": "Dingo: Dragon Lord",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
     "slot": 1
   },
   "7082": {
@@ -33246,6 +34334,54 @@
     "currency": false,
     "quality": 0,
     "slot": 1
+  },
+  "7084": {
+    "name": "Mach-E",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "7086": {
+    "name": "98",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "7087": {
+    "name": "Jak'd: Obverse",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 5,
+    "slot": 2
+  },
+  "7088": {
+    "name": "NFL Logo",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16
+  },
+  "7089": {
+    "name": "E.V.",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 3
+  },
+  "7124": {
+    "name": "Ford Mustang Shelby GT350R RLE",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13
   },
   "7221": {
     "name": "Golden Gift '21",
