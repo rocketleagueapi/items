@@ -2,4 +2,4 @@ src/
 tsconfig.json
 .*
 dist/bakkesmod/
-parse.*
+dist/parse.*

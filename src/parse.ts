@@ -1,14 +1,14 @@
+import { writeFileSync } from 'fs';
+import path from 'path';
 import CertificationDump from './bakkesmod/CertificationDump.json';
 import PaintDump from './bakkesmod/PaintDump.json';
 import ProductDump from './bakkesmod/ProductDump.json';
 import SeriesDump from './bakkesmod/SeriesDump.json';
 import SlotDump from './bakkesmod/SlotDump.json';
 import SpecialEditionDump from './bakkesmod/SpecialEditionDump.json';
-import { writeFileSync } from 'fs';
-import path from 'path';
 
 function write(name: string, data: any) {
-    writeFileSync(path.join(__dirname, './parsed/', name + '.json'), JSON.stringify(data, null, 2));
+    writeFileSync(path.join(__dirname, './parsed/', `${name}.json`), JSON.stringify(data, null, 2));
 }
 
 const certs = CertificationDump.reduce((acc, c) => {
@@ -31,7 +31,7 @@ const products = ProductDump.reduce((acc, p) => {
         currency: p['Product Currency'],
         quality: p['Product Quality Id'],
         slot: p['Slot Index']
-    }
+    };
     return acc;
 }, {} as Record<number, any>);
 write('products', products);
