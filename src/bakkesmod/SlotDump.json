@@ -1,1 +1,170 @@
-../../../../../AppData/Roaming/bakkesmod/bakkesmod/data/DeveloperTools/SlotDump.json
+[
+	{
+		"Slot Index": 0,
+		"Slot Label": "Body",
+		"Slot Online Label": "Body",
+		"Slot Description": "Completely change your vehicle's style with a new body!"
+	},
+	{
+		"Slot Index": 1,
+		"Slot Label": "Decal",
+		"Slot Online Label": "Decal",
+		"Slot Description": "Tiger Stripes? Polka Dots? All's fair with vehicle skins!"
+	},
+	{
+		"Slot Index": 2,
+		"Slot Label": "Wheels",
+		"Slot Online Label": "Wheels",
+		"Slot Description": "Polish your look with some sweet new treads."
+	},
+	{
+		"Slot Index": 3,
+		"Slot Label": "Rocket Boost",
+		"Slot Online Label": "Rocket Boost",
+		"Slot Description": "Write in the sky with your own custom rocket boost!"
+	},
+	{
+		"Slot Index": 4,
+		"Slot Label": "Antenna",
+		"Slot Online Label": "Antenna",
+		"Slot Description": "A wobbly piece of flair really compliments the entire outfit."
+	},
+	{
+		"Slot Index": 5,
+		"Slot Label": "Topper",
+		"Slot Online Label": "Topper",
+		"Slot Description": "A must-have for any true Battle-Car!"
+	},
+	{
+		"Slot Index": 6,
+		"Slot Label": "Bumper",
+		"Slot Online Label": "Bumper",
+		"Slot Description": "The last thing they see before you demolish them."
+	},
+	{
+		"Slot Index": 7,
+		"Slot Label": "Paint Finish",
+		"Slot Online Label": "Paint Finish",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 8,
+		"Slot Label": "None",
+		"Slot Online Label": "Bot",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 9,
+		"Slot Label": "None",
+		"Slot Online Label": "Logo",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 10,
+		"Slot Label": "UnderGlow",
+		"Slot Online Label": "Underglow",
+		"Slot Description": "Light up your life."
+	},
+	{
+		"Slot Index": 11,
+		"Slot Label": "Crate",
+		"Slot Online Label": "Crates",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 12,
+		"Slot Label": "Paint",
+		"Slot Online Label": "Custom Finish",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 13,
+		"Slot Label": "Engine Audio",
+		"Slot Online Label": "Engine Audio",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 14,
+		"Slot Label": "Trail",
+		"Slot Online Label": "Trail",
+		"Slot Description": "REPLACE ME."
+	},
+	{
+		"Slot Index": 15,
+		"Slot Label": "Goal Explosion",
+		"Slot Online Label": "Goal Explosion",
+		"Slot Description": "REPLACE ME."
+	},
+	{
+		"Slot Index": 16,
+		"Slot Label": "Player Banner",
+		"Slot Online Label": "Player Banner",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 17,
+		"Slot Label": "None",
+		"Slot Online Label": "Garage Complex Row",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 18,
+		"Slot Label": "Player Anthem",
+		"Slot Online Label": "Goal Stinger",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 19,
+		"Slot Label": "Player Avatar",
+		"Slot Online Label": "Player Avatar",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 20,
+		"Slot Label": "Avatar Border",
+		"Slot Online Label": "Avatar Border",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 21,
+		"Slot Label": "Player Title",
+		"Slot Online Label": "Player Title",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 22,
+		"Slot Label": "None",
+		"Slot Online Label": "ESportsTeam",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 23,
+		"Slot Label": "Archived Item",
+		"Slot Online Label": "Archived Items",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 24,
+		"Slot Label": "Blueprint",
+		"Slot Online Label": "Blueprints",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 25,
+		"Slot Label": "None",
+		"Slot Online Label": "Shop Item",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 26,
+		"Slot Label": "Currency",
+		"Slot Online Label": "Currency",
+		"Slot Description": "None"
+	},
+	{
+		"Slot Index": 11,
+		"Slot Label": "Reward Item",
+		"Slot Online Label": "Gift Pack",
+		"Slot Description": "None"
+	}
+]

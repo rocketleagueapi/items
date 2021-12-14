@@ -1,1 +1,110 @@
-../../../../../AppData/Roaming/bakkesmod/bakkesmod/data/DeveloperTools/PaintDump.json
+[
+	{
+		"Paint Database Id": 1,
+		"Paint Database Name": "Red_00",
+		"Paint Database Label": "Crimson",
+		"Paint Database Colors": "#990000|#FF0B0B|#720000|#7E0000|#590000|#0BE80B|#F20909|#C93408|#FF0202|#980000|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 2,
+		"Paint Database Name": "Green_01",
+		"Paint Database Label": "Lime",
+		"Paint Database Colors": "#7FFF00|#A1FF43|#448800|#B26500|#336600|#930B66|#629B0D|#0BE70B|#0D4B00|#16FF00|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 3,
+		"Paint Database Name": "Black_00",
+		"Paint Database Label": "Black",
+		"Paint Database Colors": "#0C0C0C|#FFFFFF|#191919|#000000|#000000|#000000|#1E1E1E|#050505|#000000|#000000|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 4,
+		"Paint Database Name": "Blue_00",
+		"Paint Database Label": "Sky Blue",
+		"Paint Database Colors": "#057FCC|#4798CB|#023D62|#0AFF98|#054C99|#C93408|#0967A3|#021DE7|#0163A2|#057FCB|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 5,
+		"Paint Database Name": "Blue_01",
+		"Paint Database Label": "Cobalt",
+		"Paint Database Colors": "#1433FF|#5168FF|#0018BF|#2866FE|#0C26B2|#82220D|#0923E5|#300DC7|#0207F1|#0424FF|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 6,
+		"Paint Database Name": "Brown_00",
+		"Paint Database Label": "Burnt Sienna",
+		"Paint Database Colors": "#4C1100|#BB2B00|#270900|#324700|#4C1100|#0923E5|#82220D|#F10909|#320900|#3B1003|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 7,
+		"Paint Database Name": "Green_00",
+		"Paint Database Label": "Forest Green",
+		"Paint Database Colors": "#007F00|#217F21|#004E00|#00FF00|#005900|#F20909|#0BE80B|#0264A2|#017F01|#007F00|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 8,
+		"Paint Database Name": "Purple_00",
+		"Paint Database Label": "Purple",
+		"Paint Database Colors": "#3F007F|#830BFF|#290054|#BF007E|#330066|#917902|#5906AD|#930B65|#2E02F1|#3E007F|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 9,
+		"Paint Database Name": "Pink_00",
+		"Paint Database Label": "Pink",
+		"Paint Database Colors": "#CC3399|#FF57C7|#BF1988|#324CE5|#B2267F|#629B0D|#930B66|#F10909|#F1054B|#E71AA3|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 10,
+		"Paint Database Name": "Orange_00",
+		"Paint Database Label": "Orange",
+		"Paint Database Colors": "#FF4C00|#FF6626|#982D00|#7E7200|#FF4C00|#0967A3|#C93408|#907902|#CB0701|#FF1B00|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 11,
+		"Paint Database Name": "Grey_00",
+		"Paint Database Label": "Grey",
+		"Paint Database Colors": "#3F3F3F|#8B8B8B|#191919|#FFFFFF|#333333|#0C0C0C|#4C4C4C|#1E1E1E|#4C4C4C|#151515|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 12,
+		"Paint Database Name": "White_00",
+		"Paint Database Label": "Titanium White",
+		"Paint Database Colors": "#CCCCCC|#FFFFFF|#888888|#3E3E3E|#999999|#1E1E1E|#ADADAD|#999999|#4C4C4C|#CBCBCB|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 13,
+		"Paint Database Name": "Yellow_00",
+		"Paint Database Label": "Saffron",
+		"Paint Database Colors": "#BFBF00|#BDBD39|#878700|#3E3E00|#666600|#5906AD|#917902|#619A0D|#3E3E00|#BDBD00|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 14,
+		"Paint Database Name": "GoldMetal_00",
+		"Paint Database Label": "Gold",
+		"Paint Database Colors": "#CD8D2D|#BDBD39|#878700|#3E3E00|#000000|#000000|#000000|#000000|#000000|#000000|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 15,
+		"Paint Database Name": "RoseGoldMetal_00",
+		"Paint Database Label": "Rose Gold",
+		"Paint Database Colors": "#FFA9A1|#FFFFFF|#000000|#FFA9A1|#000000|#000000|#000000|#000000|#000000|#000000|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 16,
+		"Paint Database Name": "WhiteGoldMetal_00",
+		"Paint Database Label": "White Gold",
+		"Paint Database Colors": "#BC8F67|#DFAA7A|#000000|#806146|#000000|#000000|#000000|#000000|#000000|#000000|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 17,
+		"Paint Database Name": "BlackMetal_00",
+		"Paint Database Label": "Onyx",
+		"Paint Database Colors": "#0C0C0C|#000000|#000000|#0C0C0C|#000000|#000000|#000000|#000000|#000000|#000000|#000000|#000000"
+	},
+	{
+		"Paint Database Id": 18,
+		"Paint Database Name": "PlatinumMetal_00",
+		"Paint Database Label": "Platinum",
+		"Paint Database Colors": "#C9C7C3|#FFFFFF|#000000|#C9C7C3|#000000|#000000|#000000|#000000|#000000|#000000|#000000|#000000"
+	}
+]

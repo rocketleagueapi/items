@@ -1,1 +1,92 @@
-../../../../../AppData/Roaming/bakkesmod/bakkesmod/data/DeveloperTools/CertificationDump.json
+[
+	{
+		"Certified Database Id": 1,
+		"Certified Database Name": "AerialGoals",
+		"Certified Database Label": "Aviator",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many aerial goals you score."
+	},
+	{
+		"Certified Database Id": 2,
+		"Certified Database Name": "Assists",
+		"Certified Database Label": "Playmaker",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many assists you make."
+	},
+	{
+		"Certified Database Id": 3,
+		"Certified Database Name": "BackwardsGoals",
+		"Certified Database Label": "Show-off",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many backwards goals you score."
+	},
+	{
+		"Certified Database Id": 4,
+		"Certified Database Name": "BicycleGoals",
+		"Certified Database Label": "Acrobat",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many bicycle goals you score."
+	},
+	{
+		"Certified Database Id": 5,
+		"Certified Database Name": "Centers",
+		"Certified Database Label": "Tactician",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many times you center the ball on offense."
+	},
+	{
+		"Certified Database Id": 6,
+		"Certified Database Name": "Clears",
+		"Certified Database Label": "Sweeper",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many times you clear the ball on defense."
+	},
+	{
+		"Certified Database Id": 7,
+		"Certified Database Name": "EpicSaves",
+		"Certified Database Label": "Guardian",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many epic saves you make."
+	},
+	{
+		"Certified Database Id": 8,
+		"Certified Database Name": "Goals",
+		"Certified Database Label": "Scorer",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many goals you score."
+	},
+	{
+		"Certified Database Id": 9,
+		"Certified Database Name": "Juggles",
+		"Certified Database Label": "Juggler",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many juggles you make."
+	},
+	{
+		"Certified Database Id": 10,
+		"Certified Database Name": "LongGoals",
+		"Certified Database Label": "Sniper",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many long goals you score."
+	},
+	{
+		"Certified Database Id": 11,
+		"Certified Database Name": "MVPs",
+		"Certified Database Label": "Paragon",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many MVP awards you receive."
+	},
+	{
+		"Certified Database Id": 12,
+		"Certified Database Name": "Saves",
+		"Certified Database Label": "Goalkeeper",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many saves you make."
+	},
+	{
+		"Certified Database Id": 13,
+		"Certified Database Name": "ShotsOnGoal",
+		"Certified Database Label": "Striker",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many times you make a shot on goal."
+	},
+	{
+		"Certified Database Id": 14,
+		"Certified Database Name": "TurtleGoals",
+		"Certified Database Label": "Turtle",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many upside down goals you score."
+	},
+	{
+		"Certified Database Id": 15,
+		"Certified Database Name": "Wins",
+		"Certified Database Label": "Victor",
+		"Certified Database Description": "When equipped in an online match, this item keeps track of how many matches you win."
+	}
+]
