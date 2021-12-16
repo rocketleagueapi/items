@@ -6,6 +6,9 @@ import ProductDump from './bakkesmod/ProductDump.json';
 import SeriesDump from './bakkesmod/SeriesDump.json';
 import SlotDump from './bakkesmod/SlotDump.json';
 import SpecialEditionDump from './bakkesmod/SpecialEditionDump.json';
+import MapDump from './bakkesmod/MapDump.json';
+import PlaylistDump from './bakkesmod/PlaylistDump.json';
+import TitleDump from './bakkesmod/TitleDump.json';
 
 function write(name: string, data: any) {
     writeFileSync(path.join(__dirname, './parsed/', `${name}.json`), JSON.stringify(data, null, 2));
@@ -54,3 +57,32 @@ const specials = SpecialEditionDump.reduce((acc, s) => {
     return acc;
 }, {} as Record<number, string>);
 write('specials', specials);
+
+const maps = MapDump.reduce((acc, m) => {
+    acc[m['Map File Name']] = {
+        name: m['Map Base Name'],
+        variant: m['Map Variant Name']
+    };
+    return acc;
+}, {} as Record<string, any>);
+write('maps', maps);
+
+const playlists = PlaylistDump.reduce((acc, p) => {
+    acc[p['Playlist Id']] = {
+        name: p['Playlist Title'],
+        description: p['Playlist Description'],
+        ranked: p['Playlist Ranked'],
+        players: p['Playlist Player Count'] / 2
+    };
+    return acc;
+}, {} as Record<number, any>);
+write('playlists', playlists);
+
+const titles = TitleDump.reduce((acc, t) => {
+    acc[t['Title Database Id']] = {
+        name: t['Title Database Text'],
+        color: t['Title Database Color_']
+    };
+    return acc;
+}, {} as Record<string, any>);
+write('titles', titles);

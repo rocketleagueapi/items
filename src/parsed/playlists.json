@@ -1,0 +1,194 @@
+{
+  "1": {
+    "name": "Duel",
+    "description": "One-on-one",
+    "ranked": false,
+    "players": 1
+  },
+  "2": {
+    "name": "Doubles",
+    "description": "Play with a partner",
+    "ranked": false,
+    "players": 2
+  },
+  "3": {
+    "name": "Standard",
+    "description": "Classic team play",
+    "ranked": false,
+    "players": 3
+  },
+  "4": {
+    "name": "Chaos",
+    "description": "Complete mayhem",
+    "ranked": false,
+    "players": 4
+  },
+  "10": {
+    "name": "Duel",
+    "description": "Ranked one-on-one",
+    "ranked": true,
+    "players": 1
+  },
+  "11": {
+    "name": "Doubles",
+    "description": "Ranked play with a partner",
+    "ranked": true,
+    "players": 2
+  },
+  "13": {
+    "name": "Standard",
+    "description": "Ranked play with a team",
+    "ranked": true,
+    "players": 3
+  },
+  "15": {
+    "name": "Snow Day",
+    "description": "Play with a hockey puck",
+    "ranked": false,
+    "players": 3
+  },
+  "16": {
+    "name": "Rocket Labs",
+    "description": "Rocket Labs features experimental Arenas and Mutators. This weekend, play Soccar on the new Loophole Arena!",
+    "ranked": false,
+    "players": 3
+  },
+  "17": {
+    "name": "Hoops",
+    "description": "Play with a basketball",
+    "ranked": false,
+    "players": 2
+  },
+  "18": {
+    "name": "Rumble",
+    "description": "Play with power-ups",
+    "ranked": false,
+    "players": 3
+  },
+  "23": {
+    "name": "Dropshot",
+    "description": "Break the floor and score",
+    "ranked": false,
+    "players": 3
+  },
+  "27": {
+    "name": "Hoops",
+    "description": "Play with a basketball",
+    "ranked": true,
+    "players": 2
+  },
+  "28": {
+    "name": "Rumble",
+    "description": "Play with power-ups",
+    "ranked": true,
+    "players": 3
+  },
+  "29": {
+    "name": "Dropshot",
+    "description": "Break the floor and score",
+    "ranked": true,
+    "players": 3
+  },
+  "30": {
+    "name": "Snow Day",
+    "description": "Play with a hockey puck",
+    "ranked": true,
+    "players": 3
+  },
+  "31": {
+    "name": "Ghost Hunt",
+    "description": "Use your car's Proton Pack to ensnare the ball and carry it to the opposing team's Containment Zone. A point is scored if the ball remains in the Containment Zone for two seconds. Score more than the opposing team before time runs out.",
+    "ranked": false,
+    "players": 3
+  },
+  "32": {
+    "name": "Beach Ball",
+    "description": "The ball is lighter and curves just like a beach ball in this 2v2 mode. Enjoy the sun of Salty Shores and have fun!",
+    "ranked": false,
+    "players": 2
+  },
+  "33": {
+    "name": "Spike Rush",
+    "description": "All players have Spikes which automatically engage after kickoff, allowing them to stick the ball to their car by driving into it. The ball carrier cannot use or collect boost, is easily demolished by opposing players, and can manually disengage their car's spikes to release the ball. Score by getting the ball into your opponent's goal by any means.",
+    "ranked": false,
+    "players": 3
+  },
+  "34": {
+    "name": "Tournament Match",
+    "description": "None",
+    "ranked": true,
+    "players": 4
+  },
+  "35": {
+    "name": "Rocket Labs",
+    "description": "Rocket Labs features experimental Arenas and Mutators. This weekend, play Soccar on the new Loophole Arena!",
+    "ranked": false,
+    "players": 3
+  },
+  "37": {
+    "name": "Dropshot Rumble",
+    "description": "Dropshot and Rumble have collided! Get ready to break your opponents' floor, but now with the power-ups of Rumble!",
+    "ranked": false,
+    "players": 3
+  },
+  "38": {
+    "name": "Heatseeker",
+    "description": "Touching the ball automatically sends it in the direction of the opposing team's goal in this speedy game of 3v3.  It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins!",
+    "ranked": false,
+    "players": 3
+  },
+  "41": {
+    "name": "Boomer Ball",
+    "description": "Feel the boom in this twist on classic 3v3 Soccar! Ball speed and bounciness are increased. Boost is more powerful and unlimited. Touch the ball and watch it ricochet around the arena!",
+    "ranked": false,
+    "players": 3
+  },
+  "43": {
+    "name": "Heatseeker Doubles",
+    "description": "Heatseeker is now 2v2! Touching the ball automatically sends it in the direction of the opposing team's goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins! ",
+    "ranked": false,
+    "players": 2
+  },
+  "44": {
+    "name": "Winter Breakaway",
+    "description": "Drop the puck and face off on snowy Throwback Stadium! Just like Snow Day, the ball has been replaced with a hockey puck in this 3v3 limited time mode.",
+    "ranked": false,
+    "players": 3
+  },
+  "46": {
+    "name": "Gridiron",
+    "description": "Huddle up and learn the rules of Gridiron:- The standard Rocket League ball has been replaced with an American football in this 4v4 mode.- Touching the ball attaches it to the roof of your car. Handoff to a teammate or pass it downfield by dodging. Double jumping drops the ball.- Goals scored while the ball is attached are worth 7 points. Goals that are passed in or loose balls that score are worth 3 points. All own-goals are also worth 3 points.- Stay in bounds! You'll fumble the ball if you cross the line marked on the Arena wall. Now hit the Gridiron and have fun!",
+    "ranked": false,
+    "players": 4
+  },
+  "47": {
+    "name": "Super Cube",
+    "description": "Square up for 3v3 Super Cube! The ball has been replaced with a Cube with increased maximum speed and bounciness. Think fast!",
+    "ranked": false,
+    "players": 3
+  },
+  "48": {
+    "name": "Tactical Rumble",
+    "description": "Rumble has evolved! Instead of getting one random power-up, players will receive three to choose from. When one is used, three new power-ups will appear following a cooldown. Some power-ups have a longer cooldown than others, so choose wisely!",
+    "ranked": false,
+    "players": 3
+  },
+  "49": {
+    "name": "Spring Loaded",
+    "description": "Spring into this 3v3 Rumble variant where power-ups have been replaced by the Haymaker and Boot. Boot your opponents and punch your ticket to victory!",
+    "ranked": false,
+    "players": 3
+  },
+  "50": {
+    "name": "Speed Demon",
+    "description": "Put the pedal to the metal in this 3v3, lightning-quick variant of Boomer Ball. Boost is unlimited and double the power. The ball is larger and moves at super fast speed, but with less bounciness. Demolitions occur on contact, but a 1-second respawn timer gets you right back into the action.",
+    "ranked": false,
+    "players": 3
+  },
+  "52": {
+    "name": "Gotham City Rumble",
+    "description": "Gotham City's Super-Villains have taken over Rumble! All power-ups in Gotham City Rumble are themed after Batman and his Rogues Gallery. Hit Beckwith Park (Gotham Night) in this epic showdown between good and evil!",
+    "ranked": false,
+    "players": 3
+  }
+}

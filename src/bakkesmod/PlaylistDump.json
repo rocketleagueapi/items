@@ -1,0 +1,226 @@
+[
+	{
+		"Playlist Id": 3,
+		"Playlist Title": "Standard",
+		"Playlist Description": "Classic team play",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 2,
+		"Playlist Title": "Doubles",
+		"Playlist Description": "Play with a partner",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 4
+	},
+	{
+		"Playlist Id": 1,
+		"Playlist Title": "Duel",
+		"Playlist Description": "One-on-one",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 2
+	},
+	{
+		"Playlist Id": 4,
+		"Playlist Title": "Chaos",
+		"Playlist Description": "Complete mayhem",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 13,
+		"Playlist Title": "Standard",
+		"Playlist Description": "Ranked play with a team",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 11,
+		"Playlist Title": "Doubles",
+		"Playlist Description": "Ranked play with a partner",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 4
+	},
+	{
+		"Playlist Id": 10,
+		"Playlist Title": "Duel",
+		"Playlist Description": "Ranked one-on-one",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 2
+	},
+	{
+		"Playlist Id": 23,
+		"Playlist Title": "Dropshot",
+		"Playlist Description": "Break the floor and score",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 18,
+		"Playlist Title": "Rumble",
+		"Playlist Description": "Play with power-ups",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 15,
+		"Playlist Title": "Snow Day",
+		"Playlist Description": "Play with a hockey puck",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 17,
+		"Playlist Title": "Hoops",
+		"Playlist Description": "Play with a basketball",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 4
+	},
+	{
+		"Playlist Id": 16,
+		"Playlist Title": "Rocket Labs",
+		"Playlist Description": "Rocket Labs features experimental Arenas and Mutators. This weekend, play Soccar on the new Loophole Arena!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 34,
+		"Playlist Title": "Tournament Match",
+		"Playlist Description": "None",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 28,
+		"Playlist Title": "Rumble",
+		"Playlist Description": "Play with power-ups",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 29,
+		"Playlist Title": "Dropshot",
+		"Playlist Description": "Break the floor and score",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 27,
+		"Playlist Title": "Hoops",
+		"Playlist Description": "Play with a basketball",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 4
+	},
+	{
+		"Playlist Id": 30,
+		"Playlist Title": "Snow Day",
+		"Playlist Description": "Play with a hockey puck",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 31,
+		"Playlist Title": "Ghost Hunt",
+		"Playlist Description": "Use your car's Proton Pack to ensnare the ball and carry it to the opposing team's Containment Zone. A point is scored if the ball remains in the Containment Zone for two seconds. Score more than the opposing team before time runs out.",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 32,
+		"Playlist Title": "Beach Ball",
+		"Playlist Description": "The ball is lighter and curves just like a beach ball in this 2v2 mode. Enjoy the sun of Salty Shores and have fun!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 4
+	},
+	{
+		"Playlist Id": 33,
+		"Playlist Title": "Spike Rush",
+		"Playlist Description": "All players have Spikes which automatically engage after kickoff, allowing them to stick the ball to their car by driving into it. The ball carrier cannot use or collect boost, is easily demolished by opposing players, and can manually disengage their car's spikes to release the ball. Score by getting the ball into your opponent's goal by any means.",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 38,
+		"Playlist Title": "Heatseeker",
+		"Playlist Description": "Touching the ball automatically sends it in the direction of the opposing team's goal in this speedy game of 3v3.  It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 43,
+		"Playlist Title": "Heatseeker Doubles",
+		"Playlist Description": "Heatseeker is now 2v2! Touching the ball automatically sends it in the direction of the opposing team's goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins! ",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 4
+	},
+	{
+		"Playlist Id": 37,
+		"Playlist Title": "Dropshot Rumble",
+		"Playlist Description": "Dropshot and Rumble have collided! Get ready to break your opponents' floor, but now with the power-ups of Rumble!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 41,
+		"Playlist Title": "Boomer Ball",
+		"Playlist Description": "Feel the boom in this twist on classic 3v3 Soccar! Ball speed and bounciness are increased. Boost is more powerful and unlimited. Touch the ball and watch it ricochet around the arena!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 35,
+		"Playlist Title": "Rocket Labs",
+		"Playlist Description": "Rocket Labs features experimental Arenas and Mutators. This weekend, play Soccar on the new Loophole Arena!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 44,
+		"Playlist Title": "Winter Breakaway",
+		"Playlist Description": "Drop the puck and face off on snowy Throwback Stadium! Just like Snow Day, the ball has been replaced with a hockey puck in this 3v3 limited time mode.",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 46,
+		"Playlist Title": "Gridiron",
+		"Playlist Description": "Huddle up and learn the rules of Gridiron:- The standard Rocket League ball has been replaced with an American football in this 4v4 mode.- Touching the ball attaches it to the roof of your car. Handoff to a teammate or pass it downfield by dodging. Double jumping drops the ball.- Goals scored while the ball is attached are worth 7 points. Goals that are passed in or loose balls that score are worth 3 points. All own-goals are also worth 3 points.- Stay in bounds! You'll fumble the ball if you cross the line marked on the Arena wall. Now hit the Gridiron and have fun!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 47,
+		"Playlist Title": "Super Cube",
+		"Playlist Description": "Square up for 3v3 Super Cube! The ball has been replaced with a Cube with increased maximum speed and bounciness. Think fast!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 48,
+		"Playlist Title": "Tactical Rumble",
+		"Playlist Description": "Rumble has evolved! Instead of getting one random power-up, players will receive three to choose from. When one is used, three new power-ups will appear following a cooldown. Some power-ups have a longer cooldown than others, so choose wisely!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 49,
+		"Playlist Title": "Spring Loaded",
+		"Playlist Description": "Spring into this 3v3 Rumble variant where power-ups have been replaced by the Haymaker and Boot. Boot your opponents and punch your ticket to victory!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 50,
+		"Playlist Title": "Speed Demon",
+		"Playlist Description": "Put the pedal to the metal in this 3v3, lightning-quick variant of Boomer Ball. Boost is unlimited and double the power. The ball is larger and moves at super fast speed, but with less bounciness. Demolitions occur on contact, but a 1-second respawn timer gets you right back into the action.",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 52,
+		"Playlist Title": "Gotham City Rumble",
+		"Playlist Description": "Gotham City's Super-Villains have taken over Rumble! All power-ups in Gotham City Rumble are themed after Batman and his Rogues Gallery. Hit Beckwith Park (Gotham Night) in this epic showdown between good and evil!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	}
+]

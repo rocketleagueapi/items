@@ -1,0 +1,2172 @@
+[
+	{
+		"Title Database Id": "None",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "CRL_Analyst",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "CRL_Season_1_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Season_1_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Developer",
+		"Title Database Text": "Developer",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "DreamHack_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Eleague_Cup_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "ESLMonthlyChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "ESLMonthlyElite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "FirstRocketeer",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "MLGSeason1Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "MLGSeason1Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Moderator",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "PaxChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RLCS_01_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_01_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_01_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_01_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_02_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_02_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_02_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_02_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_03_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_03_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_03_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_03_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_04_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_04_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_04_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_04_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_05_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_05_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_05_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_05_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_Analyst",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "RLRS_01_Challenger",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLRS_02_Challenger",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "Season2GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Season3GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Season4GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Season5GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Season6GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Season7GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Season8GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "The_Pigeon_Man",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "Wet_Art_Man",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "Throwdown_ANZ_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "UORL_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "X_Games_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "XP_Veteran",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_Expert",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_Master",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_Legend",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_Rocketeer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_EliteChallenger",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_AllStar",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_Superstar",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_SupremeRival",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_TranscendentMaster",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_SupersonicLegend",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_UltimateBaller",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_RocketeerElite",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "XP_RocketDemigod",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_CrossbarHero",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_SaltMiner",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_TheFabulous",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_TradeMinister",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_TheCalculator",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_CaptainClutch",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_BallChaser",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_QuickChatChampion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_Sherpa",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_AbsoluteMadman",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_TacticalWhiffer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP1_Skylord",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_DemolitionDemon",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RLCS_06_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_06_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_06_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_06_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "Renegade_Cup_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Renegade_Cup_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Renegade_Cup_Monthly_Winner",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RLRS_03_Challenger",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "Rival_Series_Analyst",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "CRL_Season_2_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Season_2_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_02_Contender",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Rockets_Engaged",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "SE_PeppermintPowerhouse",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_WallCrawler",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_BoostHog",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_Leadfoot",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_ReliableRotator",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_BackseatDriver",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_MotorManiac",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_SpeedDemon",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_BlastJockey",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_TheCollector",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_ProfessorOfPhysics",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_SpinningCarWizard",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP2_TheInsane",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S9_Grand_Champion_Rumble",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S9_Grand_Champion_Dropshot",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S9_Grand_Champion_SnowDay",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S9_Grand_Champion_Hoops",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Season9GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RP3_Floater",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_Goaltender",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_WildCard",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_Wheeler",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_TheAccelerator",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_TheFearless",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_Reckless",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_SundayDriver",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_Ballistic",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_Steamroller",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP3_Showboat",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "FR_4DChessmaster",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "FR_TiltDetector",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Season10GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S10_Grand_Champion_Rumble",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S10_Grand_Champion_Dropshot",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S10_Grand_Champion_SnowDay",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S10_Grand_Champion_Hoops",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "SE_CouchPotato",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "CRL_03_SpringChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_03_SpringElite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_03_SpringContender",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_03_FallChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_03_FallElite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_03_FallContender",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RLRS_04_Challenger",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_07_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_07_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_07_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_07_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "Season11GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S11_Grand_Champion_Rumble",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S11_Grand_Champion_Dropshot",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S11_Grand_Champion_SnowDay",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S11_Grand_Champion_Hoops",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RP4_QuickStudy",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_TheMagnificent",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_DriftKing",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_RankAmateur",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_SonicChaser",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_FlipLord",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_Trailblazer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_DeftDefender",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP4_SureStriker",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "BTS_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Rocket_Husband",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "Rocket_Wife",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "FR_BackboardBaller",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "FR_MidfieldMagician",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_DEMOgorgon",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_SilentKnight",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_RatRace",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_Animator",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_SpeedChaser",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_ShotNinja",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_SoccerSenpai",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_DriftQueen",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_TheFantastic",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_Juggler",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_ChipChamp",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_OGPlayer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP5_Committed",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_DiscJockey",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Season12GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S12_Grand_Champion_Rumble",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S12_Grand_Champion_Dropshot",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S12_Grand_Champion_SnowDay",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S12_Grand_Champion_Hoops",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Helping_Hand",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RLRS_05_Challenger",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_08_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_08_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_08_Grand_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_08_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "Season13GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S13_Grand_Champion_Rumble",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S13_Grand_Champion_Dropshot",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S13_Grand_Champion_SnowDay",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S13_Grand_Champion_Hoops",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Est",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Est",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Est",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Est",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Est",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Est",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Bronze",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Bronze",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Silver",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Silver",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Gold",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Gold",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Platinum",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Platinum",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Diamond",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Diamond",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Champion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_Champion",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_01_GrandChampion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_01_GrandChampion",
+		"Title Database Text": "AutoTour_CompletedGC",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_01_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_01_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "RP6_Technician",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_Thriller",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_TroubleShooter",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_TheMercurial",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_VirtualRealist",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_Soloist",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_NetWorker",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_StreetSamurai",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_Duelist",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_Fliptastic",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP6_Maestro",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "FR_Airhead",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "2Time_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "3Time_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "4Time_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "5Time_World_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RP7_FifthWheel",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_Gearshifter",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_Throwback",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_Cross_Platformer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_SupersonicAcrobat",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_Renegade",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_FreeSpirit",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_RocketRookie",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_Carpooler",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP8_ProspectElite",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP7_Passtronaut",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RLRS_06_Challenger",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_09_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_09_NA_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_09_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_09_EU_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "SE_Long_Time_Fan",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Season14GrandChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S14_Grand_Champion_Rumble",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S14_Grand_Champion_Dropshot",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S14_Grand_Champion_SnowDay",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "S14_Grand_Champion_Hoops",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "KickOff_AsiaElite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "KickOff_AsiaGrandFinalist",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "KickOff_AsiaChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "KickOff_MiddleEastElite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "KickOff_MiddleEastGrandFinalist",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "KickOff_MiddleEastChampion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "FR_Hardstuck",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "GrandSeries_09_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "GrandSeries_09_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RP8_Diva",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP8_The_Conductor",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP8_Beatseeker",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP8_The_Entertainer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP8_Headliner",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP8_Rockin_Roller",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_SleighQueen",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S15_Grand_Champion_Rumble",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S15_Grand_Champion_DropShot",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S15_Grand_Champion_SnowDay",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S15_Grand_Champion_Hoops",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season15GrandChampion",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Bronze",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Bronze",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Silver",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Silver",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Gold",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Gold",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Platinum",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Platinum",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Diamond",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Diamond",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Champion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_02_Champion",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_02_GrandChampion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_02_GrandChampion",
+		"Title Database Text": "AutoTour_CompletedGC",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S15_SuperSonic_Legend",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S15_SSL_Rumble",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S15_SSL_DropShot",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S15_SSL_SnowDay",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S15_SSL_Hoops",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "AutoTour_02_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_02_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "RLCS_X_Major_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_X_Major_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_X_Major_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_X_Regional_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_X_Regional_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "SE_LuckyDevil",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_GridironGuru",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Hairpin_Hero",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Victory_Lapper",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Slipstreamer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Downforcer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Crew_Chief",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Apex_Predator",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Tire_Changer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Granny_Shifter",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP9_Powertrainer",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_ExtraOrdinary",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "CRL_Spring_2020_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_2020_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_2020_Contender",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_Showdown_Champ",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_Showdown_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Summer_Series_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Summer_Series_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2020_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2020_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2020_Contender",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "SE_Gridiron_Games_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "SE_FordFreestyler",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "SE_FordFreestyleFinalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "SE_FordFreestyleChampion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "S16_Grand_Champion_Rumble",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S16_Grand_Champion_DropShot",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S16_Grand_Champion_SnowDay",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S16_Grand_Champion_Hoops",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season16GrandChampion",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Bronze",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Bronze",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Silver",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Silver",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Gold",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Gold",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Platinum",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Platinum",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Diamond",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Diamond",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Champion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_03_Champion",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_03_GrandChampion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_03_GrandChampion",
+		"Title Database Text": "AutoTour_CompletedGC",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S16_SuperSonic_Legend",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S16_SSL_Rumble",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S16_SSL_DropShot",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S16_SSL_SnowDay",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S16_SSL_Hoops",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "AutoTour_03_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_03_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "RLOC_Season_9_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "White_Hat_Legend",
+		"Title Database Text": "Helper",
+		"Title Database Color_": "#00FFAA"
+	},
+	{
+		"Title Database Id": "FF_TunaNoCrust",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Monstercat_OG",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S17_Grand_Champion_Rumble",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S17_Grand_Champion_DropShot",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S17_Grand_Champion_SnowDay",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S17_Grand_Champion_Hoops",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season17GrandChampion",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S17_SuperSonic_Legend",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S17_SSL_Rumble",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S17_SSL_DropShot",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S17_SSL_SnowDay",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S17_SSL_Hoops",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "RLCS_X_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_X_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_X_Contender",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_X_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "CRL_Spring_21_Champion",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_21_Elite",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_21_Contender",
+		"Title Database Text": "Champion",
+		"Title Database Color_": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RP10_Boost_Bandit",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_The_Sheriff",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_Outrider",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_Yellowbelly",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_Sawbones",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_Wanted",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_Lunkhead",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_Car_Cowboy",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP10_Ace_In_The_Hole",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Bronze",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Bronze",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Silver",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Silver",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Gold",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Gold",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Platinum",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Platinum",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Diamond",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Diamond",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Champion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_Champion",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_04_GrandChampion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_04_GrandChampion",
+		"Title Database Text": "AutoTour_CompletedGC",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_04_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_04_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "SE_DarkKnight",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Agent007",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "FR_Onliner",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP11_Zero_G",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP11_Rocket_Scientist",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP11_Lightspeed_Lunatic",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP11_Rover",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP11_Star_Shooter",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP11_Axial_Tilted",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP11_Spaced_Out",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_AbominableThrowman",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Bronze",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Bronze",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Silver",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Silver",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Gold",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Gold",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Platinum",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Platinum",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Diamond",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Diamond",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Champion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_Champion",
+		"Title Database Text": "AutoTour_Completed",
+		"Title Database Color_": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_05_GrandChampion",
+		"Title Database Text": "None",
+		"Title Database Color_": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_05_GrandChampion",
+		"Title Database Text": "AutoTour_CompletedGC",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_05_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_05_SuperSonicLegend",
+		"Title Database Text": "AutoTour_CompletedSuperSonicLegend",
+		"Title Database Color_": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "S18_Grand_Champion_Rumble",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S18_Grand_Champion_DropShot",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S18_Grand_Champion_SnowDay",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S18_Grand_Champion_Hoops",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season18GrandChampion",
+		"Title Database Text": "SZN_1_Red",
+		"Title Database Color_": "#FF2800"
+	},
+	{
+		"Title Database Id": "S18_SSL_Rumble",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S18_SSL_DropShot",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S18_SSL_SnowDay",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S18_SSL_Hoops",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S18_SuperSonic_Legend",
+		"Title Database Text": "SZN_1_White",
+		"Title Database Color_": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "BMW_Freestyle_Champion",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "BMW_Freestyle_Finalist",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "BMW_Freestyle_Elite",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "BMW_Freestyler",
+		"Title Database Text": "RLCS_Champion",
+		"Title Database Color_": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "PsyonixHackathonWinner",
+		"Title Database Text": "Developer",
+		"Title Database Color_": "#00FFAA"
+	}
+]

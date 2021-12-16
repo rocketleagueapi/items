@@ -1,0 +1,1558 @@
+{
+  "None": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "CRL_Analyst": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "CRL_Season_1_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Season_1_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Developer": {
+    "name": "Developer",
+    "color": "#00FFAA"
+  },
+  "DreamHack_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Eleague_Cup_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "ESLMonthlyChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "ESLMonthlyElite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "FirstRocketeer": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "MLGSeason1Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "MLGSeason1Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Moderator": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "PaxChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "RLCS_01_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_01_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_01_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_01_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_02_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_02_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_02_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_02_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_03_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_03_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_03_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_03_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_04_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_04_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_04_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_04_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_05_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_05_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_05_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_05_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_Analyst": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "RLRS_01_Challenger": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLRS_02_Challenger": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "Season2GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Season3GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Season4GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Season5GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Season6GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Season7GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Season8GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "The_Pigeon_Man": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "Wet_Art_Man": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "Throwdown_ANZ_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "UORL_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "X_Games_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "XP_Veteran": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_Expert": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_Master": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_Legend": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_Rocketeer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_EliteChallenger": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_AllStar": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_Superstar": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_SupremeRival": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_TranscendentMaster": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_SupersonicLegend": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_UltimateBaller": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_RocketeerElite": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "XP_RocketDemigod": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_CrossbarHero": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_SaltMiner": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_TheFabulous": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_TradeMinister": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_TheCalculator": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_CaptainClutch": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_BallChaser": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_QuickChatChampion": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_Sherpa": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_AbsoluteMadman": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_TacticalWhiffer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP1_Skylord": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_DemolitionDemon": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RLCS_06_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_06_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_06_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_06_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "Renegade_Cup_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Renegade_Cup_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Renegade_Cup_Monthly_Winner": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "RLRS_03_Challenger": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "Rival_Series_Analyst": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "CRL_Season_2_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Season_2_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_02_Contender": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Rockets_Engaged": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "SE_PeppermintPowerhouse": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_WallCrawler": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_BoostHog": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_Leadfoot": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_ReliableRotator": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_BackseatDriver": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_MotorManiac": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_SpeedDemon": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_BlastJockey": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_TheCollector": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_ProfessorOfPhysics": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_SpinningCarWizard": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP2_TheInsane": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "S9_Grand_Champion_Rumble": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S9_Grand_Champion_Dropshot": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S9_Grand_Champion_SnowDay": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S9_Grand_Champion_Hoops": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Season9GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "RP3_Floater": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_Goaltender": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_WildCard": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_Wheeler": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_TheAccelerator": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_TheFearless": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_Reckless": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_SundayDriver": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_Ballistic": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_Steamroller": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP3_Showboat": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "FR_4DChessmaster": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "FR_TiltDetector": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "Season10GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S10_Grand_Champion_Rumble": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S10_Grand_Champion_Dropshot": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S10_Grand_Champion_SnowDay": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S10_Grand_Champion_Hoops": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "SE_CouchPotato": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "CRL_03_SpringChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_03_SpringElite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_03_SpringContender": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_03_FallChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_03_FallElite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_03_FallContender": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "RLRS_04_Challenger": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_07_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_07_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_07_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_07_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "Season11GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S11_Grand_Champion_Rumble": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S11_Grand_Champion_Dropshot": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S11_Grand_Champion_SnowDay": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S11_Grand_Champion_Hoops": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "RP4_QuickStudy": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_TheMagnificent": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_DriftKing": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_RankAmateur": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_SonicChaser": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_FlipLord": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_Trailblazer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_DeftDefender": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP4_SureStriker": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "BTS_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Rocket_Husband": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "Rocket_Wife": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "FR_BackboardBaller": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "FR_MidfieldMagician": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_DEMOgorgon": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_SilentKnight": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_RatRace": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_Animator": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_SpeedChaser": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_ShotNinja": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_SoccerSenpai": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_DriftQueen": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_TheFantastic": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_Juggler": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_ChipChamp": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_OGPlayer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP5_Committed": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_DiscJockey": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "Season12GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S12_Grand_Champion_Rumble": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S12_Grand_Champion_Dropshot": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S12_Grand_Champion_SnowDay": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S12_Grand_Champion_Hoops": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Helping_Hand": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RLRS_05_Challenger": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_08_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_08_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_08_Grand_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_08_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "Season13GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S13_Grand_Champion_Rumble": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S13_Grand_Champion_Dropshot": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S13_Grand_Champion_SnowDay": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S13_Grand_Champion_Hoops": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Est": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "AutoTour_01_Bronze": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_01_Silver": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_01_Gold": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_01_Platinum": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_01_Diamond": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_01_Champion": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_01_GrandChampion": {
+    "name": "AutoTour_CompletedGC",
+    "color": "#FF2800"
+  },
+  "AutoTour_01_SuperSonicLegend": {
+    "name": "AutoTour_CompletedSuperSonicLegend",
+    "color": "#FF8DDD"
+  },
+  "RP6_Technician": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_Thriller": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_TroubleShooter": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_TheMercurial": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_VirtualRealist": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_Soloist": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_NetWorker": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_StreetSamurai": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_Duelist": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_Fliptastic": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP6_Maestro": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "FR_Airhead": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "2Time_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "3Time_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "4Time_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "5Time_World_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RP7_FifthWheel": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_Gearshifter": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_Throwback": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_Cross_Platformer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_SupersonicAcrobat": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_Renegade": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_FreeSpirit": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_RocketRookie": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_Carpooler": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP8_ProspectElite": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP7_Passtronaut": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RLRS_06_Challenger": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_09_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_09_NA_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_09_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_09_EU_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "SE_Long_Time_Fan": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "Season14GrandChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S14_Grand_Champion_Rumble": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S14_Grand_Champion_Dropshot": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S14_Grand_Champion_SnowDay": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "S14_Grand_Champion_Hoops": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "KickOff_AsiaElite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "KickOff_AsiaGrandFinalist": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "KickOff_AsiaChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "KickOff_MiddleEastElite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "KickOff_MiddleEastGrandFinalist": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "KickOff_MiddleEastChampion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "FR_Hardstuck": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "GrandSeries_09_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "GrandSeries_09_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RP8_Diva": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP8_The_Conductor": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP8_Beatseeker": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP8_The_Entertainer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP8_Headliner": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP8_Rockin_Roller": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_SleighQueen": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "S15_Grand_Champion_Rumble": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S15_Grand_Champion_DropShot": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S15_Grand_Champion_SnowDay": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S15_Grand_Champion_Hoops": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "Season15GrandChampion": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "AutoTour_02_Bronze": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_02_Silver": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_02_Gold": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_02_Platinum": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_02_Diamond": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_02_Champion": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_02_GrandChampion": {
+    "name": "AutoTour_CompletedGC",
+    "color": "#FF2800"
+  },
+  "S15_SuperSonic_Legend": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S15_SSL_Rumble": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S15_SSL_DropShot": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S15_SSL_SnowDay": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S15_SSL_Hoops": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "AutoTour_02_SuperSonicLegend": {
+    "name": "AutoTour_CompletedSuperSonicLegend",
+    "color": "#FF8DDD"
+  },
+  "RLCS_X_Major_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_X_Major_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_X_Major_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_X_Regional_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_X_Regional_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "SE_LuckyDevil": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_GridironGuru": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Hairpin_Hero": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Victory_Lapper": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Slipstreamer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Downforcer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Crew_Chief": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Apex_Predator": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Tire_Changer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Granny_Shifter": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP9_Powertrainer": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_ExtraOrdinary": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "CRL_Spring_2020_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_2020_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_2020_Contender": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_Showdown_Champ": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_Showdown_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Summer_Series_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "Summer_Series_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Fall_2020_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Fall_2020_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Fall_2020_Contender": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "SE_Gridiron_Games_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "SE_FordFreestyler": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "SE_FordFreestyleFinalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "SE_FordFreestyleChampion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "S16_Grand_Champion_Rumble": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S16_Grand_Champion_DropShot": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S16_Grand_Champion_SnowDay": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S16_Grand_Champion_Hoops": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "Season16GrandChampion": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "AutoTour_03_Bronze": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_03_Silver": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_03_Gold": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_03_Platinum": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_03_Diamond": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_03_Champion": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_03_GrandChampion": {
+    "name": "AutoTour_CompletedGC",
+    "color": "#FF2800"
+  },
+  "S16_SuperSonic_Legend": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S16_SSL_Rumble": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S16_SSL_DropShot": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S16_SSL_SnowDay": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S16_SSL_Hoops": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "AutoTour_03_SuperSonicLegend": {
+    "name": "AutoTour_CompletedSuperSonicLegend",
+    "color": "#FF8DDD"
+  },
+  "RLOC_Season_9_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "White_Hat_Legend": {
+    "name": "Helper",
+    "color": "#00FFAA"
+  },
+  "FF_TunaNoCrust": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "Monstercat_OG": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "S17_Grand_Champion_Rumble": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S17_Grand_Champion_DropShot": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S17_Grand_Champion_SnowDay": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S17_Grand_Champion_Hoops": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "Season17GrandChampion": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S17_SuperSonic_Legend": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S17_SSL_Rumble": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S17_SSL_DropShot": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S17_SSL_SnowDay": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S17_SSL_Hoops": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "RLCS_X_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_X_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_X_Contender": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_X_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "CRL_Spring_21_Champion": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_21_Elite": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_21_Contender": {
+    "name": "Champion",
+    "color": "#FFEB5C"
+  },
+  "RP10_Boost_Bandit": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_The_Sheriff": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_Outrider": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_Yellowbelly": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_Sawbones": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_Wanted": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_Lunkhead": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_Car_Cowboy": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP10_Ace_In_The_Hole": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "AutoTour_04_Bronze": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_04_Silver": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_04_Gold": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_04_Platinum": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_04_Diamond": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_04_Champion": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_04_GrandChampion": {
+    "name": "AutoTour_CompletedGC",
+    "color": "#FF2800"
+  },
+  "AutoTour_04_SuperSonicLegend": {
+    "name": "AutoTour_CompletedSuperSonicLegend",
+    "color": "#FF8DDD"
+  },
+  "SE_DarkKnight": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_Agent007": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "FR_Onliner": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP11_Zero_G": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP11_Rocket_Scientist": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP11_Lightspeed_Lunatic": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP11_Rover": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP11_Star_Shooter": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP11_Axial_Tilted": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "RP11_Spaced_Out": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "SE_AbominableThrowman": {
+    "name": "None",
+    "color": "#FFFFFF"
+  },
+  "AutoTour_05_Bronze": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_05_Silver": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_05_Gold": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_05_Platinum": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_05_Diamond": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_05_Champion": {
+    "name": "AutoTour_Completed",
+    "color": "#9BFF00"
+  },
+  "AutoTour_05_GrandChampion": {
+    "name": "AutoTour_CompletedGC",
+    "color": "#FF2800"
+  },
+  "AutoTour_05_SuperSonicLegend": {
+    "name": "AutoTour_CompletedSuperSonicLegend",
+    "color": "#FF8DDD"
+  },
+  "S18_Grand_Champion_Rumble": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S18_Grand_Champion_DropShot": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S18_Grand_Champion_SnowDay": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S18_Grand_Champion_Hoops": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "Season18GrandChampion": {
+    "name": "SZN_1_Red",
+    "color": "#FF2800"
+  },
+  "S18_SSL_Rumble": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S18_SSL_DropShot": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S18_SSL_SnowDay": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S18_SSL_Hoops": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "S18_SuperSonic_Legend": {
+    "name": "SZN_1_White",
+    "color": "#E8E8E8"
+  },
+  "BMW_Freestyle_Champion": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "BMW_Freestyle_Finalist": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "BMW_Freestyle_Elite": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "BMW_Freestyler": {
+    "name": "RLCS_Champion",
+    "color": "#AEF7FF"
+  },
+  "PsyonixHackathonWinner": {
+    "name": "Developer",
+    "color": "#00FFAA"
+  }
+}
