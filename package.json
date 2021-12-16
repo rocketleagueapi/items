@@ -3,6 +3,7 @@
   "version": "1.4.0",
   "description": " A collection of JSON files including all items, paints, certifications, slots, special editions and series.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "access": "restricted"
