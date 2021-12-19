@@ -8,15 +8,15 @@
     "color": "#FFFFFF"
   },
   "CRL_Analyst": {
-    "name": "Helper",
+    "name": "CRL Analyst",
     "color": "#00FFAA"
   },
   "CRL_Season_1_Champion": {
-    "name": "Champion",
+    "name": "CRL Season 1 Champion",
     "color": "#FFEB5C"
   },
   "CRL_Season_1_Elite": {
-    "name": "Champion",
+    "name": "CRL Season 1 Elite",
     "color": "#FFEB5C"
   },
   "Developer": {
@@ -24,1535 +24,1535 @@
     "color": "#00FFAA"
   },
   "DreamHack_Champion": {
-    "name": "Champion",
+    "name": "DreamHack Champion",
     "color": "#FFEB5C"
   },
   "Eleague_Cup_Champion": {
-    "name": "Champion",
+    "name": "ELEAGUE Cup Champion",
     "color": "#FFEB5C"
   },
   "ESLMonthlyChampion": {
-    "name": "Champion",
+    "name": "ESL Monthly Champion",
     "color": "#FFEB5C"
   },
   "ESLMonthlyElite": {
-    "name": "Champion",
+    "name": "ESL Monthly Elite",
     "color": "#FFEB5C"
   },
   "FirstRocketeer": {
-    "name": "Champion",
+    "name": "First Rocketeer",
     "color": "#FFEB5C"
   },
   "MLGSeason1Champion": {
-    "name": "Champion",
+    "name": "MLG Season 1 Champion",
     "color": "#FFEB5C"
   },
   "MLGSeason1Elite": {
-    "name": "Champion",
+    "name": "MLG Season 1 Elite",
     "color": "#FFEB5C"
   },
   "Moderator": {
-    "name": "Helper",
+    "name": "Moderator",
     "color": "#00FFAA"
   },
   "PaxChampion": {
-    "name": "Champion",
+    "name": "PAX Champion",
     "color": "#FFEB5C"
   },
   "RLCS_01_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 1 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_01_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 1 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_01_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 1 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_01_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 1 World Champion",
     "color": "#AEF7FF"
   },
   "RLCS_02_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 2 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_02_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 2 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_02_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 2 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_02_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 2 World Champion",
     "color": "#AEF7FF"
   },
   "RLCS_03_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 3 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_03_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 3 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_03_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 3 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_03_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 3 World Champion",
     "color": "#AEF7FF"
   },
   "RLCS_04_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 4 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_04_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 4 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_04_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 4 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_04_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 4 World Champion",
     "color": "#AEF7FF"
   },
   "RLCS_05_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 5 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_05_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 5 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_05_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 5 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_05_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 5 World Champion",
     "color": "#AEF7FF"
   },
   "RLCS_Analyst": {
-    "name": "Helper",
+    "name": "RLCS Analyst",
     "color": "#00FFAA"
   },
   "RLRS_01_Challenger": {
-    "name": "RLCS_Champion",
+    "name": "Rival Series Season 1 Challenger",
     "color": "#AEF7FF"
   },
   "RLRS_02_Challenger": {
-    "name": "RLCS_Champion",
+    "name": "Rival Series Season 2 Challenger",
     "color": "#AEF7FF"
   },
   "Season2GrandChampion": {
-    "name": "Champion",
+    "name": "Season 2 Grand Champion",
     "color": "#FFEB5C"
   },
   "Season3GrandChampion": {
-    "name": "Champion",
+    "name": "Season 3 Grand Champion",
     "color": "#FFEB5C"
   },
   "Season4GrandChampion": {
-    "name": "Champion",
+    "name": "Season 4 Grand Champion",
     "color": "#FFEB5C"
   },
   "Season5GrandChampion": {
-    "name": "Champion",
+    "name": "Season 5 Grand Champion",
     "color": "#FFEB5C"
   },
   "Season6GrandChampion": {
-    "name": "Champion",
+    "name": "Season 6 Grand Champion",
     "color": "#FFEB5C"
   },
   "Season7GrandChampion": {
-    "name": "Champion",
+    "name": "Season 7 Grand Champion",
     "color": "#FFEB5C"
   },
   "Season8GrandChampion": {
-    "name": "Champion",
+    "name": "Season 8 Grand Champion",
     "color": "#FFEB5C"
   },
   "The_Pigeon_Man": {
-    "name": "Helper",
+    "name": "The Pigeon Man",
     "color": "#00FFAA"
   },
   "Wet_Art_Man": {
-    "name": "Helper",
+    "name": "Wet Art Man",
     "color": "#00FFAA"
   },
   "Throwdown_ANZ_Champion": {
-    "name": "Champion",
+    "name": "Throwdown ANZ Champion",
     "color": "#FFEB5C"
   },
   "UORL_Champion": {
-    "name": "Champion",
+    "name": "Universal Open Champion",
     "color": "#FFEB5C"
   },
   "X_Games_Champion": {
-    "name": "Champion",
+    "name": "X GAMES Champion",
     "color": "#FFEB5C"
   },
   "XP_Veteran": {
-    "name": "None",
+    "name": "Veteran",
     "color": "#FFFFFF"
   },
   "XP_Expert": {
-    "name": "None",
+    "name": "Expert",
     "color": "#FFFFFF"
   },
   "XP_Master": {
-    "name": "None",
+    "name": "Master",
     "color": "#FFFFFF"
   },
   "XP_Legend": {
-    "name": "None",
+    "name": "Legend",
     "color": "#FFFFFF"
   },
   "XP_Rocketeer": {
-    "name": "None",
+    "name": "Rocketeer",
     "color": "#FFFFFF"
   },
   "XP_EliteChallenger": {
-    "name": "None",
+    "name": "Elite Challenger",
     "color": "#FFFFFF"
   },
   "XP_AllStar": {
-    "name": "None",
+    "name": "All-Star",
     "color": "#FFFFFF"
   },
   "XP_Superstar": {
-    "name": "None",
+    "name": "Superstar",
     "color": "#FFFFFF"
   },
   "XP_SupremeRival": {
-    "name": "None",
+    "name": "Supreme Rival",
     "color": "#FFFFFF"
   },
   "XP_TranscendentMaster": {
-    "name": "None",
+    "name": "Transcendent Master",
     "color": "#FFFFFF"
   },
   "XP_SupersonicLegend": {
-    "name": "None",
+    "name": "Legendary Nemesis",
     "color": "#FFFFFF"
   },
   "XP_UltimateBaller": {
-    "name": "None",
+    "name": "Ultimate Baller",
     "color": "#FFFFFF"
   },
   "XP_RocketeerElite": {
-    "name": "None",
+    "name": "Rocketeer Elite",
     "color": "#FFFFFF"
   },
   "XP_RocketDemigod": {
-    "name": "None",
+    "name": "Rocket Demigod",
     "color": "#FFFFFF"
   },
   "RP1_CrossbarHero": {
-    "name": "None",
+    "name": "Crossbar Hero",
     "color": "#FFFFFF"
   },
   "RP1_SaltMiner": {
-    "name": "None",
+    "name": "Salt Miner",
     "color": "#FFFFFF"
   },
   "RP1_TheFabulous": {
-    "name": "None",
+    "name": "The Fabulous",
     "color": "#FFFFFF"
   },
   "RP1_TradeMinister": {
-    "name": "None",
+    "name": "Trade Minister",
     "color": "#FFFFFF"
   },
   "RP1_TheCalculator": {
-    "name": "None",
+    "name": "The Calculator",
     "color": "#FFFFFF"
   },
   "RP1_CaptainClutch": {
-    "name": "None",
+    "name": "Captain Clutch",
     "color": "#FFFFFF"
   },
   "RP1_BallChaser": {
-    "name": "None",
+    "name": "Ball Chaser",
     "color": "#FFFFFF"
   },
   "RP1_QuickChatChampion": {
-    "name": "None",
+    "name": "Quick Chat Champion",
     "color": "#FFFFFF"
   },
   "RP1_Sherpa": {
-    "name": "None",
+    "name": "Sherpa",
     "color": "#FFFFFF"
   },
   "RP1_AbsoluteMadman": {
-    "name": "None",
+    "name": "Absolute Madman",
     "color": "#FFFFFF"
   },
   "RP1_TacticalWhiffer": {
-    "name": "None",
+    "name": "Tactical Whiffer",
     "color": "#FFFFFF"
   },
   "RP1_Skylord": {
-    "name": "None",
+    "name": "Skylord",
     "color": "#FFFFFF"
   },
   "SE_DemolitionDemon": {
-    "name": "None",
+    "name": "Demolition Demon",
     "color": "#FFFFFF"
   },
   "RLCS_06_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 6 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_06_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 6 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_06_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 6 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_06_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 6 World Champion",
     "color": "#AEF7FF"
   },
   "Renegade_Cup_Champion": {
-    "name": "Champion",
+    "name": "Renegade Cup Champion",
     "color": "#FFEB5C"
   },
   "Renegade_Cup_Elite": {
-    "name": "Champion",
+    "name": "Renegade Cup Elite",
     "color": "#FFEB5C"
   },
   "Renegade_Cup_Monthly_Winner": {
-    "name": "Champion",
+    "name": "Renegade Cup Monthly Winner",
     "color": "#FFEB5C"
   },
   "RLRS_03_Challenger": {
-    "name": "RLCS_Champion",
+    "name": "Rival Series Season 3 Challenger",
     "color": "#AEF7FF"
   },
   "Rival_Series_Analyst": {
-    "name": "Helper",
+    "name": "Rival Series Analyst",
     "color": "#00FFAA"
   },
   "CRL_Season_2_Champion": {
-    "name": "Champion",
+    "name": "CRL Season 2 Champion",
     "color": "#FFEB5C"
   },
   "CRL_Season_2_Elite": {
-    "name": "Champion",
+    "name": "CRL Season 2 Elite",
     "color": "#FFEB5C"
   },
   "CRL_02_Contender": {
-    "name": "Champion",
+    "name": "CRL Season 2 Contender",
     "color": "#FFEB5C"
   },
   "Rockets_Engaged": {
-    "name": "Helper",
+    "name": "Rockets Engaged",
     "color": "#00FFAA"
   },
   "SE_PeppermintPowerhouse": {
-    "name": "None",
+    "name": "Peppermint Powerhouse",
     "color": "#FFFFFF"
   },
   "RP2_WallCrawler": {
-    "name": "None",
+    "name": "Wall-Crawler",
     "color": "#FFFFFF"
   },
   "RP2_BoostHog": {
-    "name": "None",
+    "name": "Boost Hog",
     "color": "#FFFFFF"
   },
   "RP2_Leadfoot": {
-    "name": "None",
+    "name": "Leadfoot",
     "color": "#FFFFFF"
   },
   "RP2_ReliableRotator": {
-    "name": "None",
+    "name": "Reliable Rotator",
     "color": "#FFFFFF"
   },
   "RP2_BackseatDriver": {
-    "name": "None",
+    "name": "Backseat Driver",
     "color": "#FFFFFF"
   },
   "RP2_MotorManiac": {
-    "name": "None",
+    "name": "Motor Maniac",
     "color": "#FFFFFF"
   },
   "RP2_SpeedDemon": {
-    "name": "None",
+    "name": "Speed Demon",
     "color": "#FFFFFF"
   },
   "RP2_BlastJockey": {
-    "name": "None",
+    "name": "Blast Jockey",
     "color": "#FFFFFF"
   },
   "RP2_TheCollector": {
-    "name": "None",
+    "name": "The Collector",
     "color": "#FFFFFF"
   },
   "RP2_ProfessorOfPhysics": {
-    "name": "None",
+    "name": "Professor of Physics",
     "color": "#FFFFFF"
   },
   "RP2_SpinningCarWizard": {
-    "name": "None",
+    "name": "Spinning Car Wizard",
     "color": "#FFFFFF"
   },
   "RP2_TheInsane": {
-    "name": "None",
+    "name": "The Insane",
     "color": "#FFFFFF"
   },
   "S9_Grand_Champion_Rumble": {
-    "name": "Champion",
+    "name": "Season 9 RNG Champ",
     "color": "#FFEB5C"
   },
   "S9_Grand_Champion_Dropshot": {
-    "name": "Champion",
+    "name": "Season 9 Floor Destroyer",
     "color": "#FFEB5C"
   },
   "S9_Grand_Champion_SnowDay": {
-    "name": "Champion",
+    "name": "Season 9 Blizzard Wizard",
     "color": "#FFEB5C"
   },
   "S9_Grand_Champion_Hoops": {
-    "name": "Champion",
+    "name": "Season 9 Dunk Master",
     "color": "#FFEB5C"
   },
   "Season9GrandChampion": {
-    "name": "Champion",
+    "name": "Season 9 Grand Champion",
     "color": "#FFEB5C"
   },
   "RP3_Floater": {
-    "name": "None",
+    "name": "Floater",
     "color": "#FFFFFF"
   },
   "RP3_Goaltender": {
-    "name": "None",
+    "name": "Goaltender",
     "color": "#FFFFFF"
   },
   "RP3_WildCard": {
-    "name": "None",
+    "name": "Wild Card",
     "color": "#FFFFFF"
   },
   "RP3_Wheeler": {
-    "name": "None",
+    "name": "Wheeler",
     "color": "#FFFFFF"
   },
   "RP3_TheAccelerator": {
-    "name": "None",
+    "name": "The Accelerator",
     "color": "#FFFFFF"
   },
   "RP3_TheFearless": {
-    "name": "None",
+    "name": "The Fearless",
     "color": "#FFFFFF"
   },
   "RP3_Reckless": {
-    "name": "None",
+    "name": "Reckless",
     "color": "#FFFFFF"
   },
   "RP3_SundayDriver": {
-    "name": "None",
+    "name": "Sunday Driver",
     "color": "#FFFFFF"
   },
   "RP3_Ballistic": {
-    "name": "None",
+    "name": "Ballistic",
     "color": "#FFFFFF"
   },
   "RP3_Steamroller": {
-    "name": "None",
+    "name": "Steamroller",
     "color": "#FFFFFF"
   },
   "RP3_Showboat": {
-    "name": "None",
+    "name": "Showboat",
     "color": "#FFFFFF"
   },
   "FR_4DChessmaster": {
-    "name": "None",
+    "name": "4D Chess Master",
     "color": "#FFFFFF"
   },
   "FR_TiltDetector": {
-    "name": "None",
+    "name": "Tilt Detector",
     "color": "#FFFFFF"
   },
   "Season10GrandChampion": {
-    "name": "Champion",
+    "name": "Season 10 Grand Champion",
     "color": "#FFEB5C"
   },
   "S10_Grand_Champion_Rumble": {
-    "name": "Champion",
+    "name": "Season 10 RNG Champ",
     "color": "#FFEB5C"
   },
   "S10_Grand_Champion_Dropshot": {
-    "name": "Champion",
+    "name": "Season 10 Floor Destroyer",
     "color": "#FFEB5C"
   },
   "S10_Grand_Champion_SnowDay": {
-    "name": "Champion",
+    "name": "Season 10 Blizzard Wizard",
     "color": "#FFEB5C"
   },
   "S10_Grand_Champion_Hoops": {
-    "name": "Champion",
+    "name": "Season 10 Dunk Master",
     "color": "#FFEB5C"
   },
   "SE_CouchPotato": {
-    "name": "None",
+    "name": "Couch Potato",
     "color": "#FFFFFF"
   },
   "CRL_03_SpringChampion": {
-    "name": "Champion",
+    "name": "CRL Spring Champion",
     "color": "#FFEB5C"
   },
   "CRL_03_SpringElite": {
-    "name": "Champion",
+    "name": "CRL Spring Elite",
     "color": "#FFEB5C"
   },
   "CRL_03_SpringContender": {
-    "name": "Champion",
+    "name": "CRL Spring Contender",
     "color": "#FFEB5C"
   },
   "CRL_03_FallChampion": {
-    "name": "Champion",
+    "name": "CRL Fall Champion",
     "color": "#FFEB5C"
   },
   "CRL_03_FallElite": {
-    "name": "Champion",
+    "name": "CRL Fall Elite",
     "color": "#FFEB5C"
   },
   "CRL_03_FallContender": {
-    "name": "Champion",
+    "name": "CRL Fall Contender",
     "color": "#FFEB5C"
   },
   "RLRS_04_Challenger": {
-    "name": "RLCS_Champion",
+    "name": "Rival Series Season 4 Challenger",
     "color": "#AEF7FF"
   },
   "RLCS_07_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 7 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_07_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 7 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_07_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 7 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_07_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 7 World Champion",
     "color": "#AEF7FF"
   },
   "Season11GrandChampion": {
-    "name": "Champion",
+    "name": "Season 11 Grand Champion",
     "color": "#FFEB5C"
   },
   "S11_Grand_Champion_Rumble": {
-    "name": "Champion",
+    "name": "Season 11 RNG Champ",
     "color": "#FFEB5C"
   },
   "S11_Grand_Champion_Dropshot": {
-    "name": "Champion",
+    "name": "Season 11 Floor Destroyer",
     "color": "#FFEB5C"
   },
   "S11_Grand_Champion_SnowDay": {
-    "name": "Champion",
+    "name": "Season 11 Blizzard Wizard",
     "color": "#FFEB5C"
   },
   "S11_Grand_Champion_Hoops": {
-    "name": "Champion",
+    "name": "Season 11 Dunk Master",
     "color": "#FFEB5C"
   },
   "RP4_QuickStudy": {
-    "name": "None",
+    "name": "Quick Study",
     "color": "#FFFFFF"
   },
   "RP4_TheMagnificent": {
-    "name": "None",
+    "name": "The Magnificent",
     "color": "#FFFFFF"
   },
   "RP4_DriftKing": {
-    "name": "None",
+    "name": "Drift King",
     "color": "#FFFFFF"
   },
   "RP4_RankAmateur": {
-    "name": "None",
+    "name": "Rank Amateur",
     "color": "#FFFFFF"
   },
   "RP4_SonicChaser": {
-    "name": "None",
+    "name": "Sonic Chaser",
     "color": "#FFFFFF"
   },
   "RP4_FlipLord": {
-    "name": "None",
+    "name": "Flip Lord",
     "color": "#FFFFFF"
   },
   "RP4_Trailblazer": {
-    "name": "None",
+    "name": "Trailblazer",
     "color": "#FFFFFF"
   },
   "RP4_DeftDefender": {
-    "name": "None",
+    "name": "Deft Defender",
     "color": "#FFFFFF"
   },
   "RP4_SureStriker": {
-    "name": "None",
+    "name": "Sure Striker",
     "color": "#FFFFFF"
   },
   "BTS_Champion": {
-    "name": "Champion",
+    "name": "Rocket League Summit Champion",
     "color": "#FFEB5C"
   },
   "Rocket_Husband": {
-    "name": "Helper",
+    "name": "Rocket Husband",
     "color": "#00FFAA"
   },
   "Rocket_Wife": {
-    "name": "Helper",
+    "name": "Rocket Wife",
     "color": "#00FFAA"
   },
   "FR_BackboardBaller": {
-    "name": "None",
+    "name": "Backboard Baller",
     "color": "#FFFFFF"
   },
   "FR_MidfieldMagician": {
-    "name": "None",
+    "name": "Midfield Magician",
     "color": "#FFFFFF"
   },
   "SE_DEMOgorgon": {
-    "name": "None",
+    "name": "DEMOgorgon",
     "color": "#FFFFFF"
   },
   "SE_SilentKnight": {
-    "name": "None",
+    "name": "Silent Knight",
     "color": "#FFFFFF"
   },
   "SE_RatRace": {
-    "name": "None",
+    "name": "Rat Racer",
     "color": "#FFFFFF"
   },
   "RP5_Animator": {
-    "name": "None",
+    "name": "Animator",
     "color": "#FFFFFF"
   },
   "RP5_SpeedChaser": {
-    "name": "None",
+    "name": "Speed Chaser",
     "color": "#FFFFFF"
   },
   "RP5_ShotNinja": {
-    "name": "None",
+    "name": "Shot Ninja",
     "color": "#FFFFFF"
   },
   "RP5_SoccerSenpai": {
-    "name": "None",
+    "name": "Soccer Senpai",
     "color": "#FFFFFF"
   },
   "RP5_DriftQueen": {
-    "name": "None",
+    "name": "Drift Queen",
     "color": "#FFFFFF"
   },
   "RP5_TheFantastic": {
-    "name": "None",
+    "name": "The Fantastic",
     "color": "#FFFFFF"
   },
   "RP5_Juggler": {
-    "name": "None",
+    "name": "Juggler",
     "color": "#FFFFFF"
   },
   "RP5_ChipChamp": {
-    "name": "None",
+    "name": "Chip Champ",
     "color": "#FFFFFF"
   },
   "RP5_OGPlayer": {
-    "name": "None",
+    "name": "OG Player",
     "color": "#FFFFFF"
   },
   "RP5_Committed": {
-    "name": "None",
+    "name": "Committed",
     "color": "#FFFFFF"
   },
   "SE_DiscJockey": {
-    "name": "None",
+    "name": "Disc Jockey",
     "color": "#FFFFFF"
   },
   "Season12GrandChampion": {
-    "name": "Champion",
+    "name": "Season 12 Grand Champion",
     "color": "#FFEB5C"
   },
   "S12_Grand_Champion_Rumble": {
-    "name": "Champion",
+    "name": "Season 12 RNG Champ",
     "color": "#FFEB5C"
   },
   "S12_Grand_Champion_Dropshot": {
-    "name": "Champion",
+    "name": "Season 12 Floor Destroyer",
     "color": "#FFEB5C"
   },
   "S12_Grand_Champion_SnowDay": {
-    "name": "Champion",
+    "name": "Season 12 Blizzard Wizard",
     "color": "#FFEB5C"
   },
   "S12_Grand_Champion_Hoops": {
-    "name": "Champion",
+    "name": "Season 12 Dunk Master",
     "color": "#FFEB5C"
   },
   "Helping_Hand": {
-    "name": "None",
+    "name": "Helping Hand",
     "color": "#FFFFFF"
   },
   "RLRS_05_Challenger": {
-    "name": "RLCS_Champion",
+    "name": "Rival Series Season 5 Challenger",
     "color": "#AEF7FF"
   },
   "RLCS_08_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 8 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_08_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 8 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_08_Grand_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 8 Grand Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_08_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 8 World Champion",
     "color": "#AEF7FF"
   },
   "Season13GrandChampion": {
-    "name": "Champion",
+    "name": "Season 13 Grand Champion",
     "color": "#FFEB5C"
   },
   "S13_Grand_Champion_Rumble": {
-    "name": "Champion",
+    "name": "Season 13 RNG Champ",
     "color": "#FFEB5C"
   },
   "S13_Grand_Champion_Dropshot": {
-    "name": "Champion",
+    "name": "Season 13 Floor Destroyer",
     "color": "#FFEB5C"
   },
   "S13_Grand_Champion_SnowDay": {
-    "name": "Champion",
+    "name": "Season 13 Blizzard Wizard",
     "color": "#FFEB5C"
   },
   "S13_Grand_Champion_Hoops": {
-    "name": "Champion",
+    "name": "Season 13 Dunk Master",
     "color": "#FFEB5C"
   },
   "Est": {
-    "name": "None",
+    "name": "EST. 2020",
     "color": "#FFFFFF"
   },
   "AutoTour_01_Bronze": {
-    "name": "AutoTour_Completed",
+    "name": "S1 {Bronze} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_01_Silver": {
-    "name": "AutoTour_Completed",
+    "name": "S1 {Silver} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_01_Gold": {
-    "name": "AutoTour_Completed",
+    "name": "S1 {Gold} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_01_Platinum": {
-    "name": "AutoTour_Completed",
+    "name": "S1 {Platinum} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_01_Diamond": {
-    "name": "AutoTour_Completed",
+    "name": "S1 {Diamond} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_01_Champion": {
-    "name": "AutoTour_Completed",
+    "name": "S1 {Champion} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_01_GrandChampion": {
-    "name": "AutoTour_CompletedGC",
+    "name": "S1 {GrandChampion} Tournament Winner",
     "color": "#FF2800"
   },
   "AutoTour_01_SuperSonicLegend": {
-    "name": "AutoTour_CompletedSuperSonicLegend",
+    "name": "S1 {Legend} Tournament Winner",
     "color": "#FF8DDD"
   },
   "RP6_Technician": {
-    "name": "None",
+    "name": "Technician",
     "color": "#FFFFFF"
   },
   "RP6_Thriller": {
-    "name": "None",
+    "name": "Thriller",
     "color": "#FFFFFF"
   },
   "RP6_TroubleShooter": {
-    "name": "None",
+    "name": "Trouble Shooter",
     "color": "#FFFFFF"
   },
   "RP6_TheMercurial": {
-    "name": "None",
+    "name": "The Mercurial",
     "color": "#FFFFFF"
   },
   "RP6_VirtualRealist": {
-    "name": "None",
+    "name": "Virtual Realist",
     "color": "#FFFFFF"
   },
   "RP6_Soloist": {
-    "name": "None",
+    "name": "Soloist",
     "color": "#FFFFFF"
   },
   "RP6_NetWorker": {
-    "name": "None",
+    "name": "Net Worker",
     "color": "#FFFFFF"
   },
   "RP6_StreetSamurai": {
-    "name": "None",
+    "name": "Dirtsider",
     "color": "#FFFFFF"
   },
   "RP6_Duelist": {
-    "name": "None",
+    "name": "Duelist",
     "color": "#FFFFFF"
   },
   "RP6_Fliptastic": {
-    "name": "None",
+    "name": "Fliptastic",
     "color": "#FFFFFF"
   },
   "RP6_Maestro": {
-    "name": "None",
+    "name": "Maestro",
     "color": "#FFFFFF"
   },
   "FR_Airhead": {
-    "name": "None",
+    "name": "Airhead",
     "color": "#FFFFFF"
   },
   "2Time_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "2-Time World Champion",
     "color": "#AEF7FF"
   },
   "3Time_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "3-Time World Champion",
     "color": "#AEF7FF"
   },
   "4Time_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "4-Time World Champion",
     "color": "#AEF7FF"
   },
   "5Time_World_Champion": {
-    "name": "RLCS_Champion",
+    "name": "5-Time World Champion",
     "color": "#AEF7FF"
   },
   "RP7_FifthWheel": {
-    "name": "None",
+    "name": "Fifth Wheel",
     "color": "#FFFFFF"
   },
   "RP7_Gearshifter": {
-    "name": "None",
+    "name": "Gearshifter",
     "color": "#FFFFFF"
   },
   "RP7_Throwback": {
-    "name": "None",
+    "name": "Throwback",
     "color": "#FFFFFF"
   },
   "RP7_Cross_Platformer": {
-    "name": "None",
+    "name": "Cross-Platformer",
     "color": "#FFFFFF"
   },
   "RP7_SupersonicAcrobat": {
-    "name": "None",
+    "name": "Supersonic Acrobat",
     "color": "#FFFFFF"
   },
   "RP7_Renegade": {
-    "name": "None",
+    "name": "Renegade",
     "color": "#FFFFFF"
   },
   "RP7_FreeSpirit": {
-    "name": "None",
+    "name": "Free Spirit",
     "color": "#FFFFFF"
   },
   "RP7_RocketRookie": {
-    "name": "None",
+    "name": "Rocket Rookie",
     "color": "#FFFFFF"
   },
   "RP7_Carpooler": {
-    "name": "None",
+    "name": "Carpooler",
     "color": "#FFFFFF"
   },
   "RP8_ProspectElite": {
-    "name": "None",
+    "name": "Prospect Elite",
     "color": "#FFFFFF"
   },
   "RP7_Passtronaut": {
-    "name": "None",
+    "name": "Passtronaut",
     "color": "#FFFFFF"
   },
   "RLRS_06_Challenger": {
-    "name": "RLCS_Champion",
+    "name": "Rival Series Season 6 Challenger",
     "color": "#AEF7FF"
   },
   "RLCS_09_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 9 Contender",
     "color": "#AEF7FF"
   },
   "RLCS_09_NA_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 9 NA Champion",
     "color": "#AEF7FF"
   },
   "RLCS_09_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 9 Elite",
     "color": "#AEF7FF"
   },
   "RLCS_09_EU_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS Season 9 EU Champion",
     "color": "#AEF7FF"
   },
   "SE_Long_Time_Fan": {
-    "name": "None",
+    "name": "Longtime Fan",
     "color": "#FFFFFF"
   },
   "Season14GrandChampion": {
-    "name": "Champion",
+    "name": "Season 14 Grand Champion",
     "color": "#FFEB5C"
   },
   "S14_Grand_Champion_Rumble": {
-    "name": "Champion",
+    "name": "Season 14 RNG Champ",
     "color": "#FFEB5C"
   },
   "S14_Grand_Champion_Dropshot": {
-    "name": "Champion",
+    "name": "Season 14 Floor Destroyer",
     "color": "#FFEB5C"
   },
   "S14_Grand_Champion_SnowDay": {
-    "name": "Champion",
+    "name": "Season 14 Blizzard Wizard",
     "color": "#FFEB5C"
   },
   "S14_Grand_Champion_Hoops": {
-    "name": "Champion",
+    "name": "Season 14 Dunk Master",
     "color": "#FFEB5C"
   },
   "KickOff_AsiaElite": {
-    "name": "Champion",
+    "name": "The Kickoff - Asia Elite",
     "color": "#FFEB5C"
   },
   "KickOff_AsiaGrandFinalist": {
-    "name": "Champion",
+    "name": "The Kickoff - Asia Grand Finalist",
     "color": "#FFEB5C"
   },
   "KickOff_AsiaChampion": {
-    "name": "Champion",
+    "name": "The Kickoff - Asia Champion",
     "color": "#FFEB5C"
   },
   "KickOff_MiddleEastElite": {
-    "name": "Champion",
+    "name": "The KickOff - Middle East Elite",
     "color": "#FFEB5C"
   },
   "KickOff_MiddleEastGrandFinalist": {
-    "name": "Champion",
+    "name": "The KickOff - Middle East Grand Finalist",
     "color": "#FFEB5C"
   },
   "KickOff_MiddleEastChampion": {
-    "name": "Champion",
+    "name": "The KickOff - Middle East Champion",
     "color": "#FFEB5C"
   },
   "FR_Hardstuck": {
-    "name": "None",
+    "name": "Hardstuck",
     "color": "#FFFFFF"
   },
   "GrandSeries_09_Champion": {
-    "name": "RLCS_Champion",
+    "name": "Grand Series Season 9 Champion",
     "color": "#AEF7FF"
   },
   "GrandSeries_09_Elite": {
-    "name": "RLCS_Champion",
+    "name": "Grand Series Season 9 Elite",
     "color": "#AEF7FF"
   },
   "RP8_Diva": {
-    "name": "None",
+    "name": "Diva",
     "color": "#FFFFFF"
   },
   "RP8_The_Conductor": {
-    "name": "None",
+    "name": "The Conductor",
     "color": "#FFFFFF"
   },
   "RP8_Beatseeker": {
-    "name": "None",
+    "name": "Beatseeker",
     "color": "#FFFFFF"
   },
   "RP8_The_Entertainer": {
-    "name": "None",
+    "name": "The Entertainer",
     "color": "#FFFFFF"
   },
   "RP8_Headliner": {
-    "name": "None",
+    "name": "Headliner",
     "color": "#FFFFFF"
   },
   "RP8_Rockin_Roller": {
-    "name": "None",
+    "name": "Rockin' Roller",
     "color": "#FFFFFF"
   },
   "SE_SleighQueen": {
-    "name": "None",
+    "name": "Sleigh Queen",
     "color": "#FFFFFF"
   },
   "S15_Grand_Champion_Rumble": {
-    "name": "SZN_1_Red",
+    "name": "S1 RNG Champ",
     "color": "#FF2800"
   },
   "S15_Grand_Champion_DropShot": {
-    "name": "SZN_1_Red",
+    "name": "S1 Floor Destroyer",
     "color": "#FF2800"
   },
   "S15_Grand_Champion_SnowDay": {
-    "name": "SZN_1_Red",
+    "name": "S1 Blizzard Wizard",
     "color": "#FF2800"
   },
   "S15_Grand_Champion_Hoops": {
-    "name": "SZN_1_Red",
+    "name": "S1 Dunk Master",
     "color": "#FF2800"
   },
   "Season15GrandChampion": {
-    "name": "SZN_1_Red",
+    "name": "S1 Grand Champion",
     "color": "#FF2800"
   },
   "AutoTour_02_Bronze": {
-    "name": "AutoTour_Completed",
+    "name": "S2 {Bronze} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_02_Silver": {
-    "name": "AutoTour_Completed",
+    "name": "S2 {Silver} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_02_Gold": {
-    "name": "AutoTour_Completed",
+    "name": "S2 {Gold} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_02_Platinum": {
-    "name": "AutoTour_Completed",
+    "name": "S2 {Platinum} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_02_Diamond": {
-    "name": "AutoTour_Completed",
+    "name": "S2 {Diamond} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_02_Champion": {
-    "name": "AutoTour_Completed",
+    "name": "S2 {Champion} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_02_GrandChampion": {
-    "name": "AutoTour_CompletedGC",
+    "name": "S2 {GrandChampion} Tournament Winner",
     "color": "#FF2800"
   },
   "S15_SuperSonic_Legend": {
-    "name": "SZN_1_White",
+    "name": "S1 Supersonic Legend",
     "color": "#E8E8E8"
   },
   "S15_SSL_Rumble": {
-    "name": "SZN_1_White",
+    "name": "S1 RNGenius",
     "color": "#E8E8E8"
   },
   "S15_SSL_DropShot": {
-    "name": "SZN_1_White",
+    "name": "S1 Tile Annihilator",
     "color": "#E8E8E8"
   },
   "S15_SSL_SnowDay": {
-    "name": "SZN_1_White",
+    "name": "S1 Ice Titan",
     "color": "#E8E8E8"
   },
   "S15_SSL_Hoops": {
-    "name": "SZN_1_White",
+    "name": "S1 Legendary Baller",
     "color": "#E8E8E8"
   },
   "AutoTour_02_SuperSonicLegend": {
-    "name": "AutoTour_CompletedSuperSonicLegend",
+    "name": "S2 {Legend} Tournament Winner",
     "color": "#FF8DDD"
   },
   "RLCS_X_Major_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Major Champion",
     "color": "#AEF7FF"
   },
   "RLCS_X_Major_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Major Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_X_Major_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Major Elite",
     "color": "#AEF7FF"
   },
   "RLCS_X_Regional_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Regional Champion",
     "color": "#AEF7FF"
   },
   "RLCS_X_Regional_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Regional Finalist",
     "color": "#AEF7FF"
   },
   "SE_LuckyDevil": {
-    "name": "None",
+    "name": "Lucky Devil",
     "color": "#FFFFFF"
   },
   "SE_GridironGuru": {
-    "name": "None",
+    "name": "Gridiron Guru",
     "color": "#FFFFFF"
   },
   "RP9_Hairpin_Hero": {
-    "name": "None",
+    "name": "Hairpin Hero",
     "color": "#FFFFFF"
   },
   "RP9_Victory_Lapper": {
-    "name": "None",
+    "name": "Victory Lapper",
     "color": "#FFFFFF"
   },
   "RP9_Slipstreamer": {
-    "name": "None",
+    "name": "Slipstreamer",
     "color": "#FFFFFF"
   },
   "RP9_Downforcer": {
-    "name": "None",
+    "name": "Downforcer",
     "color": "#FFFFFF"
   },
   "RP9_Crew_Chief": {
-    "name": "None",
+    "name": "Crew Chief",
     "color": "#FFFFFF"
   },
   "RP9_Apex_Predator": {
-    "name": "None",
+    "name": "Apex Predator",
     "color": "#FFFFFF"
   },
   "RP9_Tire_Changer": {
-    "name": "None",
+    "name": "Tire Changer",
     "color": "#FFFFFF"
   },
   "RP9_Granny_Shifter": {
-    "name": "None",
+    "name": "Granny Shifter",
     "color": "#FFFFFF"
   },
   "RP9_Powertrainer": {
-    "name": "None",
+    "name": "Powertrainer",
     "color": "#FFFFFF"
   },
   "SE_ExtraOrdinary": {
-    "name": "None",
+    "name": "Extra Ordinary",
     "color": "#FFFFFF"
   },
   "CRL_Spring_2020_Champion": {
-    "name": "Champion",
+    "name": "CRL Spring 2020 Champion",
     "color": "#FFEB5C"
   },
   "CRL_Spring_2020_Elite": {
-    "name": "Champion",
+    "name": "CRL Spring 2020 Elite",
     "color": "#FFEB5C"
   },
   "CRL_Spring_2020_Contender": {
-    "name": "Champion",
+    "name": "CRL Spring 2020 Contender",
     "color": "#FFEB5C"
   },
   "CRL_Spring_Showdown_Champ": {
-    "name": "Champion",
+    "name": "Spring Showdown Champ",
     "color": "#FFEB5C"
   },
   "CRL_Spring_Showdown_Elite": {
-    "name": "Champion",
+    "name": "Spring Showdown Elite",
     "color": "#FFEB5C"
   },
   "Summer_Series_Champion": {
-    "name": "Champion",
+    "name": "Summer Series Champion",
     "color": "#FFEB5C"
   },
   "Summer_Series_Elite": {
-    "name": "Champion",
+    "name": "Summer Series Elite",
     "color": "#FFEB5C"
   },
   "CRL_Fall_2020_Champion": {
-    "name": "Champion",
+    "name": "CRL Fall 2020 Champion",
     "color": "#FFEB5C"
   },
   "CRL_Fall_2020_Elite": {
-    "name": "Champion",
+    "name": "CRL Fall 2020 Elite",
     "color": "#FFEB5C"
   },
   "CRL_Fall_2020_Contender": {
-    "name": "Champion",
+    "name": "CRL Fall 2020 Contender",
     "color": "#FFEB5C"
   },
   "SE_Gridiron_Games_Champion": {
-    "name": "RLCS_Champion",
+    "name": "Gridiron Games Champion",
     "color": "#AEF7FF"
   },
   "SE_FordFreestyler": {
-    "name": "RLCS_Champion",
+    "name": "Ford Freestyler",
     "color": "#AEF7FF"
   },
   "SE_FordFreestyleFinalist": {
-    "name": "RLCS_Champion",
+    "name": "Ford Freestyle Finalist",
     "color": "#AEF7FF"
   },
   "SE_FordFreestyleChampion": {
-    "name": "RLCS_Champion",
+    "name": "Ford Freestyle Champion",
     "color": "#AEF7FF"
   },
   "S16_Grand_Champion_Rumble": {
-    "name": "SZN_1_Red",
+    "name": "S2 RNG Champ",
     "color": "#FF2800"
   },
   "S16_Grand_Champion_DropShot": {
-    "name": "SZN_1_Red",
+    "name": "S2 Floor Destroyer",
     "color": "#FF2800"
   },
   "S16_Grand_Champion_SnowDay": {
-    "name": "SZN_1_Red",
+    "name": "S2 Blizzard Wizard",
     "color": "#FF2800"
   },
   "S16_Grand_Champion_Hoops": {
-    "name": "SZN_1_Red",
+    "name": "S2 Dunk Master",
     "color": "#FF2800"
   },
   "Season16GrandChampion": {
-    "name": "SZN_1_Red",
+    "name": "S2 Grand Champion",
     "color": "#FF2800"
   },
   "AutoTour_03_Bronze": {
-    "name": "AutoTour_Completed",
+    "name": "S3 {Bronze} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_03_Silver": {
-    "name": "AutoTour_Completed",
+    "name": "S3 {Silver} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_03_Gold": {
-    "name": "AutoTour_Completed",
+    "name": "S3 {Gold} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_03_Platinum": {
-    "name": "AutoTour_Completed",
+    "name": "S3 {Platinum} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_03_Diamond": {
-    "name": "AutoTour_Completed",
+    "name": "S3 {Diamond} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_03_Champion": {
-    "name": "AutoTour_Completed",
+    "name": "S3 {Champion} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_03_GrandChampion": {
-    "name": "AutoTour_CompletedGC",
+    "name": "S3 {GrandChampion} Tournament Winner",
     "color": "#FF2800"
   },
   "S16_SuperSonic_Legend": {
-    "name": "SZN_1_White",
+    "name": "S2 Supersonic Legend",
     "color": "#E8E8E8"
   },
   "S16_SSL_Rumble": {
-    "name": "SZN_1_White",
+    "name": "S2 RNGenius",
     "color": "#E8E8E8"
   },
   "S16_SSL_DropShot": {
-    "name": "SZN_1_White",
+    "name": "S2 Tile Annihilator",
     "color": "#E8E8E8"
   },
   "S16_SSL_SnowDay": {
-    "name": "SZN_1_White",
+    "name": "S2 Ice Titan",
     "color": "#E8E8E8"
   },
   "S16_SSL_Hoops": {
-    "name": "SZN_1_White",
+    "name": "S2 Legendary Baller",
     "color": "#E8E8E8"
   },
   "AutoTour_03_SuperSonicLegend": {
-    "name": "AutoTour_CompletedSuperSonicLegend",
+    "name": "S3 {Legend} Tournament Winner",
     "color": "#FF8DDD"
   },
   "RLOC_Season_9_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLOC Season 9 Elite",
     "color": "#AEF7FF"
   },
   "White_Hat_Legend": {
-    "name": "Helper",
+    "name": "White Hat Legend",
     "color": "#00FFAA"
   },
   "FF_TunaNoCrust": {
-    "name": "None",
+    "name": "Tuna, No Crust",
     "color": "#FFFFFF"
   },
   "Monstercat_OG": {
-    "name": "None",
+    "name": "Monstercat OG",
     "color": "#FFFFFF"
   },
   "S17_Grand_Champion_Rumble": {
-    "name": "SZN_1_Red",
+    "name": "S3 RNG Champ",
     "color": "#FF2800"
   },
   "S17_Grand_Champion_DropShot": {
-    "name": "SZN_1_Red",
+    "name": "S3 Floor Destroyer",
     "color": "#FF2800"
   },
   "S17_Grand_Champion_SnowDay": {
-    "name": "SZN_1_Red",
+    "name": "S3 Blizzard Wizard",
     "color": "#FF2800"
   },
   "S17_Grand_Champion_Hoops": {
-    "name": "SZN_1_Red",
+    "name": "S3 Dunk Master",
     "color": "#FF2800"
   },
   "Season17GrandChampion": {
-    "name": "SZN_1_Red",
+    "name": "S3 Grand Champion",
     "color": "#FF2800"
   },
   "S17_SuperSonic_Legend": {
-    "name": "SZN_1_White",
+    "name": "S3 Supersonic Legend",
     "color": "#E8E8E8"
   },
   "S17_SSL_Rumble": {
-    "name": "SZN_1_White",
+    "name": "S3 RNGenius",
     "color": "#E8E8E8"
   },
   "S17_SSL_DropShot": {
-    "name": "SZN_1_White",
+    "name": "S3 Tile Annihilator",
     "color": "#E8E8E8"
   },
   "S17_SSL_SnowDay": {
-    "name": "SZN_1_White",
+    "name": "S3 Ice Titan",
     "color": "#E8E8E8"
   },
   "S17_SSL_Hoops": {
-    "name": "SZN_1_White",
+    "name": "S3 Legendary Baller",
     "color": "#E8E8E8"
   },
   "RLCS_X_Champion": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Champion",
     "color": "#AEF7FF"
   },
   "RLCS_X_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_X_Contender": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Contender",
     "color": "#AEF7FF"
   },
   "RLCS_X_Elite": {
-    "name": "RLCS_Champion",
+    "name": "RLCS X Elite",
     "color": "#AEF7FF"
   },
   "CRL_Spring_21_Champion": {
-    "name": "Champion",
+    "name": "CRL Spring 2021 Champion",
     "color": "#FFEB5C"
   },
   "CRL_Spring_21_Elite": {
-    "name": "Champion",
+    "name": "CRL Spring 2021 Elite",
     "color": "#FFEB5C"
   },
   "CRL_Spring_21_Contender": {
-    "name": "Champion",
+    "name": "CRL Spring 2021 Contender",
     "color": "#FFEB5C"
   },
   "RP10_Boost_Bandit": {
-    "name": "None",
+    "name": "Boost Bandit",
     "color": "#FFFFFF"
   },
   "RP10_The_Sheriff": {
-    "name": "None",
+    "name": "The Sheriff",
     "color": "#FFFFFF"
   },
   "RP10_Outrider": {
-    "name": "None",
+    "name": "Outrider",
     "color": "#FFFFFF"
   },
   "RP10_Yellowbelly": {
-    "name": "None",
+    "name": "Yellowbelly",
     "color": "#FFFFFF"
   },
   "RP10_Sawbones": {
-    "name": "None",
+    "name": "Sawbones",
     "color": "#FFFFFF"
   },
   "RP10_Wanted": {
-    "name": "None",
+    "name": "Wanted",
     "color": "#FFFFFF"
   },
   "RP10_Lunkhead": {
-    "name": "None",
+    "name": "Lunkhead",
     "color": "#FFFFFF"
   },
   "RP10_Car_Cowboy": {
-    "name": "None",
+    "name": "Car Cowboy",
     "color": "#FFFFFF"
   },
   "RP10_Ace_In_The_Hole": {
-    "name": "None",
+    "name": "Ace In The Hole",
     "color": "#FFFFFF"
   },
   "AutoTour_04_Bronze": {
-    "name": "AutoTour_Completed",
+    "name": "S4 {Bronze} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_04_Silver": {
-    "name": "AutoTour_Completed",
+    "name": "S4 {Silver} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_04_Gold": {
-    "name": "AutoTour_Completed",
+    "name": "S4 {Gold} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_04_Platinum": {
-    "name": "AutoTour_Completed",
+    "name": "S4 {Platinum} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_04_Diamond": {
-    "name": "AutoTour_Completed",
+    "name": "S4 {Diamond} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_04_Champion": {
-    "name": "AutoTour_Completed",
+    "name": "S4 {Champion} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_04_GrandChampion": {
-    "name": "AutoTour_CompletedGC",
+    "name": "S4 {GrandChampion} Tournament Winner",
     "color": "#FF2800"
   },
   "AutoTour_04_SuperSonicLegend": {
-    "name": "AutoTour_CompletedSuperSonicLegend",
+    "name": "S4 {Legend} Tournament Winner",
     "color": "#FF8DDD"
   },
   "SE_DarkKnight": {
-    "name": "None",
+    "name": "Dark Knight",
     "color": "#FFFFFF"
   },
   "SE_Agent007": {
-    "name": "None",
+    "name": "00 Agent",
     "color": "#FFFFFF"
   },
   "FR_Onliner": {
-    "name": "None",
+    "name": "Onliner",
     "color": "#FFFFFF"
   },
   "RP11_Zero_G": {
-    "name": "None",
+    "name": "Zero-G",
     "color": "#FFFFFF"
   },
   "RP11_Rocket_Scientist": {
-    "name": "None",
+    "name": "Rocket Scientist",
     "color": "#FFFFFF"
   },
   "RP11_Lightspeed_Lunatic": {
-    "name": "None",
+    "name": "Lightspeed Lunatic",
     "color": "#FFFFFF"
   },
   "RP11_Rover": {
-    "name": "None",
+    "name": "Rover",
     "color": "#FFFFFF"
   },
   "RP11_Star_Shooter": {
-    "name": "None",
+    "name": "Star Shooter",
     "color": "#FFFFFF"
   },
   "RP11_Axial_Tilted": {
-    "name": "None",
+    "name": "Axial Tilted",
     "color": "#FFFFFF"
   },
   "RP11_Spaced_Out": {
-    "name": "None",
+    "name": "Spaced Out",
     "color": "#FFFFFF"
   },
   "SE_AbominableThrowman": {
-    "name": "None",
+    "name": "Abominable Throwman",
     "color": "#FFFFFF"
   },
   "AutoTour_05_Bronze": {
-    "name": "AutoTour_Completed",
+    "name": "S5 {Bronze} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_05_Silver": {
-    "name": "AutoTour_Completed",
+    "name": "S5 {Silver} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_05_Gold": {
-    "name": "AutoTour_Completed",
+    "name": "S5 {Gold} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_05_Platinum": {
-    "name": "AutoTour_Completed",
+    "name": "S5 {Platinum} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_05_Diamond": {
-    "name": "AutoTour_Completed",
+    "name": "S5 {Diamond} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_05_Champion": {
-    "name": "AutoTour_Completed",
+    "name": "S5 {Champion} Tournament Winner",
     "color": "#9BFF00"
   },
   "AutoTour_05_GrandChampion": {
-    "name": "AutoTour_CompletedGC",
+    "name": "S5 {GrandChampion} Tournament Winner",
     "color": "#FF2800"
   },
   "AutoTour_05_SuperSonicLegend": {
-    "name": "AutoTour_CompletedSuperSonicLegend",
+    "name": "S5 {Legend} Tournament Winner",
     "color": "#FF8DDD"
   },
   "S18_Grand_Champion_Rumble": {
-    "name": "SZN_1_Red",
+    "name": "S4 RNG Champ",
     "color": "#FF2800"
   },
   "S18_Grand_Champion_DropShot": {
-    "name": "SZN_1_Red",
+    "name": "S4 Floor Destroyer",
     "color": "#FF2800"
   },
   "S18_Grand_Champion_SnowDay": {
-    "name": "SZN_1_Red",
+    "name": "S4 Blizzard Wizard",
     "color": "#FF2800"
   },
   "S18_Grand_Champion_Hoops": {
-    "name": "SZN_1_Red",
+    "name": "S4 Dunk Master",
     "color": "#FF2800"
   },
   "Season18GrandChampion": {
-    "name": "SZN_1_Red",
+    "name": "S4 Grand Champion",
     "color": "#FF2800"
   },
   "S18_SSL_Rumble": {
-    "name": "SZN_1_White",
+    "name": "S4 RNGenius",
     "color": "#E8E8E8"
   },
   "S18_SSL_DropShot": {
-    "name": "SZN_1_White",
+    "name": "S4 Tile Annihilator",
     "color": "#E8E8E8"
   },
   "S18_SSL_SnowDay": {
-    "name": "SZN_1_White",
+    "name": "S4 Ice Titan",
     "color": "#E8E8E8"
   },
   "S18_SSL_Hoops": {
-    "name": "SZN_1_White",
+    "name": "S4 Legendary Baller",
     "color": "#E8E8E8"
   },
   "S18_SuperSonic_Legend": {
-    "name": "SZN_1_White",
+    "name": "S4 Supersonic Legend",
     "color": "#E8E8E8"
   },
   "BMW_Freestyle_Champion": {
-    "name": "RLCS_Champion",
+    "name": "BMW Freestyle Champion",
     "color": "#AEF7FF"
   },
   "BMW_Freestyle_Finalist": {
-    "name": "RLCS_Champion",
+    "name": "BMW Freestyle Finalist",
     "color": "#AEF7FF"
   },
   "BMW_Freestyle_Elite": {
-    "name": "RLCS_Champion",
+    "name": "BMW Freestyle Elite",
     "color": "#AEF7FF"
   },
   "BMW_Freestyler": {
-    "name": "RLCS_Champion",
+    "name": "BMW Freestyler",
     "color": "#AEF7FF"
   },
   "PsyonixHackathonWinner": {
-    "name": "Developer",
+    "name": "Psyonix Hackathon Winner",
     "color": "#00FFAA"
   }
 }

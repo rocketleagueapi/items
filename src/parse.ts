@@ -81,7 +81,7 @@ write('playlists', playlists);
 const titles = TitleDump.reduce((acc, t) => {
     acc[t['Title Database Id']] = {
         name: t['Title Database Text'],
-        color: t['Title Database Color_']
+        color: t['Title Database Color']
     };
     return acc;
 }, {} as Record<string, any>);

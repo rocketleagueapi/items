@@ -67,6 +67,10 @@
     "name": "Beckwith Park",
     "variant": "Stormy"
   },
+  "Park_Snowy_P": {
+    "name": "Beckwith Park",
+    "variant": "Snowy"
+  },
   "UtopiaStadium_P": {
     "name": "Utopia Coliseum",
     "variant": "None"

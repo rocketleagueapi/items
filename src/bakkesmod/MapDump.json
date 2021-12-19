@@ -102,6 +102,12 @@
 		"Map Variant Name": "Stormy"
 	},
 	{
+		"Map Base Name": "Beckwith Park",
+		"Map File Name": "Park_Snowy_P",
+		"Map Weather Variant Id": 7,
+		"Map Variant Name": "Snowy"
+	},
+	{
 		"Map Base Name": "Utopia Coliseum",
 		"Map File Name": "UtopiaStadium_P",
 		"Map Weather Variant Id": 2,

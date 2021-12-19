@@ -134,5 +134,69 @@
 	{
 		"Database Series Id": 1761,
 		"Database Series Label": "Accolade IV"
+	},
+	{
+		"Database Series Id": 2281,
+		"Database Series Label": "Accolade V"
+	},
+	{
+		"Database Series Id": 20,
+		"Database Series Label": "Haunted Hallows"
+	},
+	{
+		"Database Series Id": 27,
+		"Database Series Label": "Spring Fever"
+	},
+	{
+		"Database Series Id": 300,
+		"Database Series Label": "Golden Lantern '19"
+	},
+	{
+		"Database Series Id": 902,
+		"Database Series Label": "Golden Egg '20"
+	},
+	{
+		"Database Series Id": 935,
+		"Database Series Label": "Kismet"
+	},
+	{
+		"Database Series Id": 1032,
+		"Database Series Label": "Season 1"
+	},
+	{
+		"Database Series Id": 1033,
+		"Database Series Label": "Golden Pumpkin '20"
+	},
+	{
+		"Database Series Id": 1154,
+		"Database Series Label": "Golden Gift '20"
+	},
+	{
+		"Database Series Id": 1181,
+		"Database Series Label": "Golden Lantern '21"
+	},
+	{
+		"Database Series Id": 1180,
+		"Database Series Label": "Season 2"
+	},
+	{
+		"Database Series Id": 1204,
+		"Database Series Label": "Accolade III"
+	},
+	{
+		"Database Series Id": 1649,
+		"Database Series Label": "Auriga"
+	},
+	{
+		"Database Series Id": 1651,
+		"Database Series Label": "Select Favorites"
+	},
+	{
+		"Database Series Id": 2208,
+		"Database Series Label": "Dorado"
+	},
+	{
+		"Database Series Id": 2331,
+		"Database Series Label": "Golden Gift '21"
 	}
 ]

@@ -17415,6 +17415,14 @@
     "quality": 8,
     "slot": 4
   },
+  "3605": {
+    "name": "Octane: Naughty List",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1
+  },
   "3607": {
     "name": "Octane: Jacktide",
     "blueprint": false,
@@ -18873,6 +18881,14 @@
   },
   "3893": {
     "name": "Phat Hat",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 5
+  },
+  "3894": {
+    "name": "Drummer Hat",
     "blueprint": false,
     "paintable": true,
     "currency": false,
@@ -22303,6 +22319,14 @@
     "quality": 8,
     "slot": 3
   },
+  "4499": {
+    "name": "Ring-a-ling",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2
+  },
   "4500": {
     "name": "Complexity",
     "blueprint": false,
@@ -24286,6 +24310,14 @@
     "currency": false,
     "quality": 8,
     "slot": 13
+  },
+  "4931": {
+    "name": "Flannel",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 7
   },
   "4932": {
     "name": "Z-RO",
@@ -27863,6 +27895,14 @@
     "quality": 0,
     "slot": 4
   },
+  "5641": {
+    "name": "Iced Out",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20
+  },
   "5643": {
     "name": "R3MX",
     "blueprint": false,
@@ -31343,6 +31383,14 @@
     "quality": 5,
     "slot": 0
   },
+  "6245": {
+    "name": "Twista: Inverted",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2
+  },
   "6248": {
     "name": "Twista: Infinite",
     "blueprint": false,
@@ -33359,8 +33407,24 @@
     "quality": 8,
     "slot": 16
   },
+  "6925": {
+    "name": "Cold Shoulders",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16
+  },
   "6926": {
     "name": "Rockets Jr.",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16
+  },
+  "6927": {
+    "name": "Ski-Free",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -34295,6 +34359,14 @@
     "quality": 2,
     "slot": 24
   },
+  "7077": {
+    "name": "Breakout: Reindeer Game",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1
+  },
   "7078": {
     "name": "Chakram: Holographic",
     "blueprint": false,
@@ -34309,6 +34381,14 @@
     "paintable": true,
     "currency": false,
     "quality": 3,
+    "slot": 1
+  },
+  "7080": {
+    "name": "Dominus: Nutcracker",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
     "slot": 1
   },
   "7081": {

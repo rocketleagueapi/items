@@ -24189,6 +24189,17 @@
 		"Product Thumbnail Asset": "Antenna_PaperDragon_T"
 	},
 	{
+		"Product Id": 3605,
+		"Product Long Label": "Octane: Naughty List",
+		"Product Short Sort Label": "Naughty List",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Product Quality Id": 8,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_octane_Grincher_T"
+	},
+	{
 		"Product Id": 3607,
 		"Product Long Label": "Octane: Jacktide",
 		"Product Short Sort Label": "Jacktide",
@@ -26200,6 +26211,17 @@
 		"Product Quality Id": 8,
 		"Slot Index": 5,
 		"Product Thumbnail Asset": "hat_BucketHat_T"
+	},
+	{
+		"Product Id": 3894,
+		"Product Long Label": "Drummer Hat",
+		"Product Short Sort Label": "Drummer Hat",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Product Quality Id": 8,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "hat_Kepi_T"
 	},
 	{
 		"Product Id": 3897,
@@ -30921,6 +30943,17 @@
 		"Product Thumbnail Asset": "boost_glaucous_T"
 	},
 	{
+		"Product Id": 4499,
+		"Product Long Label": "Ring-a-ling",
+		"Product Short Sort Label": "Ring-a-ling",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "Wheel_HolidayB_T"
+	},
+	{
 		"Product Id": 4500,
 		"Product Long Label": "Complexity",
 		"Product Short Sort Label": "Complexity",
@@ -33647,6 +33680,17 @@
 		"Product Quality Id": 8,
 		"Slot Index": 13,
 		"Product Thumbnail Asset": "EngineAudio_RP6_03_T"
+	},
+	{
+		"Product Id": 4931,
+		"Product Long Label": "Flannel",
+		"Product Short Sort Label": "Flannel",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 7,
+		"Product Thumbnail Asset": "PaintFinish_Flannel_T"
 	},
 	{
 		"Product Id": 4932,
@@ -38566,6 +38610,17 @@
 		"Product Thumbnail Asset": "flag_lethamyr_T"
 	},
 	{
+		"Product Id": 5641,
+		"Product Long Label": "Iced Out",
+		"Product Short Sort Label": "Iced Out",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 20,
+		"Product Thumbnail Asset": "AvatarBorder_Frosty_T"
+	},
+	{
 		"Product Id": 5643,
 		"Product Long Label": "R3MX",
 		"Product Short Sort Label": "R3MX",
@@ -43351,6 +43406,17 @@
 		"Product Thumbnail Asset": "Body_Sixty_T"
 	},
 	{
+		"Product Id": 6245,
+		"Product Long Label": "Twista: Inverted",
+		"Product Short Sort Label": "Twista: Inverted",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Product Quality Id": 8,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "Wheel_Twist_Inverted_T"
+	},
+	{
 		"Product Id": 6248,
 		"Product Long Label": "Twista: Infinite",
 		"Product Short Sort Label": "Twista: Infinite",
@@ -46123,6 +46189,17 @@
 		"Product Thumbnail Asset": "PlayerBanner_AstroMoto_T"
 	},
 	{
+		"Product Id": 6925,
+		"Product Long Label": "Cold Shoulders",
+		"Product Short Sort Label": "Cold Shoulders",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_IceCold_T"
+	},
+	{
 		"Product Id": 6926,
 		"Product Long Label": "Rockets Jr.",
 		"Product Short Sort Label": "Rockets Jr.",
@@ -46132,6 +46209,17 @@
 		"Product Quality Id": 8,
 		"Slot Index": 16,
 		"Product Thumbnail Asset": "PlayerBanner_Rocketeer_T"
+	},
+	{
+		"Product Id": 6927,
+		"Product Long Label": "Ski-Free",
+		"Product Short Sort Label": "Ski-Free",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_SnowFall_T"
 	},
 	{
 		"Product Id": 6928,
@@ -47410,6 +47498,17 @@
 		"Product Thumbnail Asset": "BP_Series8_T"
 	},
 	{
+		"Product Id": 7077,
+		"Product Long Label": "Breakout: Reindeer Game",
+		"Product Short Sort Label": "Reindeer Game",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "Skin_Force_Rudolfo_T"
+	},
+	{
 		"Product Id": 7078,
 		"Product Long Label": "Chakram: Holographic",
 		"Product Short Sort Label": "Chakram: Holographic",
@@ -47430,6 +47529,17 @@
 		"Product Quality Id": 3,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "Skin_Octane_frosted_T"
+	},
+	{
+		"Product Id": 7080,
+		"Product Long Label": "Dominus: Nutcracker",
+		"Product Short Sort Label": "Nutcracker",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "Skin_Musclecar_Nutcrack_T"
 	},
 	{
 		"Product Id": 7081,
