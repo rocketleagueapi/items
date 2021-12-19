@@ -24,4 +24,4 @@ jobs:
       - run: npm publish
       - run: npm config set registry https://registry.npmjs.org
       - run: npm set //registry.npmjs.org/:_authToken ${{ secrets.NPM_TOKEN }}
-      - run: npm publish
+      - run: npm publish --access public
