@@ -12,10 +12,7 @@ A collection of JSON files including all items, paints, certifications, slots, s
 ### 🏠 [Homepage](https://github.com/rocketleagueapi/items)
 
 ## Install
-Create the file `.npmrc` with the following contents in order to point your package manager to the correct package repository.
-```
-@rocketleagueapi:registry=https://npm.pkg.github.com
-```
+
 Install this package using your package manager of choice.
 ```sh
  npm i @rocketleagueapi/items
