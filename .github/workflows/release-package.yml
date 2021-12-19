@@ -6,8 +6,9 @@ on:
       - 'v*'
 
 jobs:
-  publish-gpr:
+  publish:
     runs-on: ubuntu-latest
+    environment: deployment
     permissions:
       packages: write
       contents: read
