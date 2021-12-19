@@ -16,9 +16,11 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 17
-          registry-url: https://npm.pkg.github.com/
       - run: npm install
       - run: npm run build
+      - run: npm config set registry https://npm.pkg.github.com
+      - run: npm set //npm.pkg.github.com/:_authToken ${{secrets.GITHUB_TOKEN}}
       - run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - run: npm config set registry https://registry.npmjs.org
+      - run: npm set //registry.npmjs.org/:_authToken ${{ secrets.NPM_TOKEN }}
+      - run: npm publish
