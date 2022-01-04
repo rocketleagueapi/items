@@ -140,6 +140,10 @@
 		"Database Series Label": "Accolade V"
 	},
 	{
+		"Database Series Id": 2331,
+		"Database Series Label": "Golden Gift '21"
+	},
+	{
 		"Database Series Id": 20,
 		"Database Series Label": "Haunted Hallows"
 	},
@@ -194,9 +198,5 @@
 	{
 		"Database Series Id": 2208,
 		"Database Series Label": "Dorado"
-	},
-	{
-		"Database Series Id": 2331,
-		"Database Series Label": "Golden Gift '21"
 	}
 ]

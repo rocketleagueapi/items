@@ -34,7 +34,9 @@ const products = ProductDump.reduce((acc, p) => {
         paintable: p['Product Paintable'],
         currency: p['Product Currency'],
         quality: p['Product Quality Id'],
-        slot: p['Slot Index']
+        slot: p['Slot Index'],
+        tradable: !p['Product Trade Restrictions'].find(r => r === 'P2P'),
+        tradeIn: !p['Product Trade Restrictions'].find(r => r === 'TradeIn')
     };
     return acc;
 }, {} as Record<number, any>);
