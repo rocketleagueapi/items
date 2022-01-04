@@ -24,7 +24,7 @@ or
 
 ## Example Usage
 ```js
-const { products } = '@rocketleagueapi/items';
+const { products } = require('@rocketleagueapi/items');
 
 // Where 32 is the product ID
 const alphaBoost = products[32];
