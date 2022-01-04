@@ -22,6 +22,15 @@ or
  yarn add @rocketleagueapi/items
 ```
 
+## Example Usage
+```js
+const { products } = '@rocketleagueapi/items';
+
+// Where 32 is the product ID
+const alphaBoost = products[32];
+console.log(alphaBoost.paintable) // false
+```
+
 ## Updating
 The information can updated using [ItsBranK's Developer Tools Plugin](https://github.com/ItsBranK/DeveloperTools) with [Bakkesmod](https://bakkesmod.com/) to generate the raw JSON data.  Use the following console commands:
 
