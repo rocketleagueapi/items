@@ -9,6 +9,7 @@ import SpecialEditionDump from './bakkesmod/SpecialEditionDump.json';
 import MapDump from './bakkesmod/MapDump.json';
 import PlaylistDump from './bakkesmod/PlaylistDump.json';
 import TitleDump from './bakkesmod/TitleDump.json';
+import specialMap from './specialMap';
 
 function write(name: string, data: any) {
     writeFileSync(path.join(__dirname, './parsed/', `${name}.json`), JSON.stringify(data, null, 2));
@@ -28,15 +29,18 @@ const paints = PaintDump.filter(p => p['Paint Database Id'] <= 13).reduce((acc, 
 write('paints', paints);
 
 const products = ProductDump.reduce((acc, p) => {
-    acc[p['Product Id']] = {
-        name: p['Product Long Label'],
+    const untradable = p['Product Quality Id'] === 9 || (p['Product Quality Id'] === 0 && !p['Product Paintable']);
+    const id = p['Product Id'];
+
+    acc[id] = {
+        name: `${p['Product Long Label']}${specialMap[id] ? `: ${specialMap[id]}` : ''}`,
         blueprint: p['Product Blueprint'],
         paintable: p['Product Paintable'],
         currency: p['Product Currency'],
         quality: p['Product Quality Id'],
         slot: p['Slot Index'],
-        tradable: !p['Product Trade Restrictions'].find(r => r === 'P2P'),
-        tradeIn: !p['Product Trade Restrictions'].find(r => r === 'TradeIn')
+        tradable: untradable ? false : !p['Product Trade Restrictions'].find(r => r === 'P2P'),
+        tradeIn: untradable ? false : !p['Product Trade Restrictions'].find(r => r === 'TradeIn')
     };
     return acc;
 }, {} as Record<number, any>);
