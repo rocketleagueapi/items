@@ -8562,7 +8562,7 @@
   "1317": {
     "name": "Esper",
     "blueprint": false,
-    "paintable": false,
+    "paintable": true,
     "currency": false,
     "quality": 3,
     "slot": 0,
@@ -23420,7 +23420,7 @@
     "tradeIn": false
   },
   "3851": {
-    "name": "Perriot",
+    "name": "Pierrot",
     "blueprint": false,
     "paintable": true,
     "currency": false,
@@ -24400,7 +24400,7 @@
     "tradeIn": false
   },
   "3992": {
-    "name": "Dominus: NRG Esports",
+    "name": "Dominus: NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -24420,7 +24420,7 @@
     "tradeIn": false
   },
   "3994": {
-    "name": "Octane: NRG Esports",
+    "name": "Octane: NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -25100,7 +25100,7 @@
     "tradeIn": false
   },
   "4088": {
-    "name": "NRG Esports",
+    "name": "NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -25220,7 +25220,7 @@
     "tradeIn": true
   },
   "4105": {
-    "name": "NRG Esports",
+    "name": "NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -30120,7 +30120,7 @@
     "tradeIn": false
   },
   "4875": {
-    "name": "NRG Esports",
+    "name": "NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -30150,7 +30150,7 @@
     "tradeIn": false
   },
   "4878": {
-    "name": "Dominus: NRG Esports",
+    "name": "Dominus: NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -30170,7 +30170,7 @@
     "tradeIn": false
   },
   "4881": {
-    "name": "Octane: NRG Esports",
+    "name": "Octane: NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -30270,7 +30270,7 @@
     "tradeIn": false
   },
   "4898": {
-    "name": "NRG Esports",
+    "name": "NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -35120,7 +35120,7 @@
     "tradeIn": false
   },
   "5681": {
-    "name": "Fennec: NRG Esports",
+    "name": "Fennec: NRG",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -37410,7 +37410,7 @@
     "tradeIn": true
   },
   "5995": {
-    "name": "Show you How It's Done",
+    "name": "Show You How It's Done",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -39239,6 +39239,16 @@
     "tradable": true,
     "tradeIn": false
   },
+  "6247": {
+    "name": "McLaren 765LT",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
   "6248": {
     "name": "Twista: Infinite",
     "blueprint": false,
@@ -39780,7 +39790,7 @@
     "tradeIn": false
   },
   "6490": {
-    "name": "Dominus: Rebellion",
+    "name": "Dominus: Rebellion (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -39802,7 +39812,7 @@
   "6554": {
     "name": "Nimbus: Anthrophobe",
     "blueprint": false,
-    "paintable": false,
+    "paintable": true,
     "currency": false,
     "quality": 4,
     "slot": 1,
@@ -39810,7 +39820,7 @@
     "tradeIn": false
   },
   "6562": {
-    "name": "Octane: Rebellion",
+    "name": "Octane: Rebellion (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -39830,7 +39840,7 @@
     "tradeIn": true
   },
   "6576": {
-    "name": "Fennec: Rebellion",
+    "name": "Fennec: Rebellion (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -39890,7 +39900,7 @@
     "tradeIn": false
   },
   "6688": {
-    "name": "Dominus: Team Queso",
+    "name": "Dominus: Team Queso (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -39930,7 +39940,7 @@
     "tradeIn": false
   },
   "6697": {
-    "name": "Fennec: Team Queso",
+    "name": "Fennec: Team Queso (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -39940,7 +39950,7 @@
     "tradeIn": false
   },
   "6698": {
-    "name": "Octane: Team Queso",
+    "name": "Octane: Team Queso (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -39990,7 +40000,7 @@
     "tradeIn": false
   },
   "6708": {
-    "name": "Dominus: Dignitas",
+    "name": "Dominus: Dignitas (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40000,7 +40010,7 @@
     "tradeIn": false
   },
   "6709": {
-    "name": "Fennec: Dignitas",
+    "name": "Fennec: Dignitas (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40010,7 +40020,7 @@
     "tradeIn": false
   },
   "6710": {
-    "name": "Octane: Dignitas",
+    "name": "Octane: Dignitas (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40020,7 +40030,7 @@
     "tradeIn": false
   },
   "6713": {
-    "name": "Fennec: Semper Esports",
+    "name": "Fennec: SMPR Esports (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40030,7 +40040,7 @@
     "tradeIn": false
   },
   "6714": {
-    "name": "Dominus: Semper Esports",
+    "name": "Dominus: SMPR Esports (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40040,7 +40050,7 @@
     "tradeIn": false
   },
   "6715": {
-    "name": "Octane: Semper Esports",
+    "name": "Octane: SMPR Esports (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40050,7 +40060,7 @@
     "tradeIn": false
   },
   "6732": {
-    "name": "Fennec: Solary",
+    "name": "Fennec: Solary (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40060,7 +40070,7 @@
     "tradeIn": false
   },
   "6733": {
-    "name": "Dominus: Solary",
+    "name": "Dominus: Solary (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40070,7 +40080,7 @@
     "tradeIn": false
   },
   "6734": {
-    "name": "Octane: Solary",
+    "name": "Octane: Solary (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40080,7 +40090,7 @@
     "tradeIn": false
   },
   "6735": {
-    "name": "Octane: Team Vitality",
+    "name": "Octane: Team Vitality (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40100,7 +40110,7 @@
     "tradeIn": false
   },
   "6737": {
-    "name": "Fennec: Team Vitality",
+    "name": "Fennec: Team Vitality (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40110,7 +40120,7 @@
     "tradeIn": false
   },
   "6738": {
-    "name": "Dominus: Team Vitality",
+    "name": "Dominus: Team Vitality (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40120,7 +40130,7 @@
     "tradeIn": false
   },
   "6739": {
-    "name": "Fennec: Endpoint",
+    "name": "Fennec: Endpoint (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40130,7 +40140,7 @@
     "tradeIn": false
   },
   "6740": {
-    "name": "Dominus: Endpoint",
+    "name": "Dominus: Endpoint (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40140,7 +40150,7 @@
     "tradeIn": false
   },
   "6741": {
-    "name": "Octane: Endpoint",
+    "name": "Octane: Endpoint (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40170,7 +40180,7 @@
     "tradeIn": false
   },
   "6744": {
-    "name": "Octane: Ground Zero Gaming",
+    "name": "Octane: Ground Zero Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40180,7 +40190,7 @@
     "tradeIn": false
   },
   "6745": {
-    "name": "Octane: True Neutral",
+    "name": "Octane: True Neutral (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40190,7 +40200,7 @@
     "tradeIn": false
   },
   "6746": {
-    "name": "Fennec: Envy",
+    "name": "Fennec: Envy (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40200,7 +40210,7 @@
     "tradeIn": false
   },
   "6747": {
-    "name": "Dominus: Envy",
+    "name": "Dominus: Envy (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40210,7 +40220,7 @@
     "tradeIn": false
   },
   "6748": {
-    "name": "Octane: Envy",
+    "name": "Octane: Envy (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40220,7 +40230,7 @@
     "tradeIn": false
   },
   "6749": {
-    "name": "Fennec: Giants",
+    "name": "Fennec: Giants (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40230,7 +40240,7 @@
     "tradeIn": false
   },
   "6750": {
-    "name": "Dominus: Giants",
+    "name": "Dominus: Giants (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40240,12 +40250,22 @@
     "tradeIn": false
   },
   "6751": {
-    "name": "Octane: Giants",
+    "name": "Octane: Giants (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
     "quality": 3,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6752": {
+    "name": "McLaren 765LT",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
     "tradable": false,
     "tradeIn": false
   },
@@ -40270,7 +40290,7 @@
     "tradeIn": false
   },
   "6755": {
-    "name": "Fennec: Ground Zero Gaming",
+    "name": "Fennec: Ground Zero Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40280,7 +40300,7 @@
     "tradeIn": false
   },
   "6756": {
-    "name": "Fennec: True Neutral",
+    "name": "Fennec: True Neutral (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40290,7 +40310,7 @@
     "tradeIn": false
   },
   "6757": {
-    "name": "Dominus: Ground Zero Gaming",
+    "name": "Dominus: Ground Zero Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40300,7 +40320,7 @@
     "tradeIn": false
   },
   "6758": {
-    "name": "Dominus: True Neutral",
+    "name": "Dominus: True Neutral (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40310,7 +40330,7 @@
     "tradeIn": false
   },
   "6759": {
-    "name": "Fennec: Guild",
+    "name": "Fennec: Guild (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40320,7 +40340,7 @@
     "tradeIn": false
   },
   "6760": {
-    "name": "Dominus: Guild",
+    "name": "Dominus: Guild (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40330,7 +40350,7 @@
     "tradeIn": false
   },
   "6761": {
-    "name": "Octane: Guild",
+    "name": "Octane: Guild (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40350,7 +40370,7 @@
     "tradeIn": false
   },
   "6763": {
-    "name": "Fennec: SK Gaming",
+    "name": "Fennec: SK Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40360,7 +40380,7 @@
     "tradeIn": false
   },
   "6764": {
-    "name": "Dominus: SK Gaming",
+    "name": "Dominus: SK Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40370,7 +40390,7 @@
     "tradeIn": false
   },
   "6765": {
-    "name": "Octane: SK Gaming",
+    "name": "Octane: SK Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40380,7 +40400,7 @@
     "tradeIn": false
   },
   "6766": {
-    "name": "Fennec: FaZe Clan",
+    "name": "Fennec: FaZe Clan (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40390,7 +40410,7 @@
     "tradeIn": false
   },
   "6767": {
-    "name": "Dominus: FaZe Clan",
+    "name": "Dominus: FaZe Clan (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40400,7 +40420,7 @@
     "tradeIn": false
   },
   "6768": {
-    "name": "Octane: FaZe Clan",
+    "name": "Octane: FaZe Clan (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40410,7 +40430,7 @@
     "tradeIn": false
   },
   "6769": {
-    "name": "Fennec: Team BDS",
+    "name": "Fennec: Team BDS (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40420,7 +40440,7 @@
     "tradeIn": false
   },
   "6770": {
-    "name": "Dominus: NRG Esports",
+    "name": "Dominus: NRG (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40430,7 +40450,7 @@
     "tradeIn": false
   },
   "6771": {
-    "name": "Dominus: Team BDS",
+    "name": "Dominus: Team BDS (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40440,7 +40460,7 @@
     "tradeIn": false
   },
   "6772": {
-    "name": "Octane: Team BDS",
+    "name": "Octane: Team BDS (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40450,7 +40470,7 @@
     "tradeIn": false
   },
   "6773": {
-    "name": "Fennec: Rogue",
+    "name": "Fennec: Rogue (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40460,7 +40480,7 @@
     "tradeIn": false
   },
   "6774": {
-    "name": "Dominus: Rogue",
+    "name": "Dominus: Rogue (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40470,7 +40490,7 @@
     "tradeIn": false
   },
   "6775": {
-    "name": "Octane: Rogue",
+    "name": "Octane: Rogue (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40480,7 +40500,7 @@
     "tradeIn": false
   },
   "6776": {
-    "name": "Fennec: NRG Esports",
+    "name": "Fennec: NRG (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40490,7 +40510,7 @@
     "tradeIn": false
   },
   "6777": {
-    "name": "Fennec: Renegades",
+    "name": "Fennec: Renegades (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40500,7 +40520,7 @@
     "tradeIn": false
   },
   "6778": {
-    "name": "Dominus: Renegades",
+    "name": "Dominus: Renegades (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40510,7 +40530,7 @@
     "tradeIn": false
   },
   "6779": {
-    "name": "Octane: Renegades",
+    "name": "Octane: Renegades (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40520,7 +40540,7 @@
     "tradeIn": false
   },
   "6780": {
-    "name": "Octane: NRG Esports",
+    "name": "Octane: NRG (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40540,7 +40560,7 @@
     "tradeIn": false
   },
   "6782": {
-    "name": "Fennec: Version1",
+    "name": "Fennec: Version1 (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40550,7 +40570,7 @@
     "tradeIn": false
   },
   "6783": {
-    "name": "Dominus: Version1",
+    "name": "Dominus: Version1 (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40560,7 +40580,7 @@
     "tradeIn": false
   },
   "6784": {
-    "name": "Octane: Version1",
+    "name": "Octane: Version1 (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40570,7 +40590,7 @@
     "tradeIn": false
   },
   "6785": {
-    "name": "Octane: Spacestation Gaming",
+    "name": "Octane: Spacestation Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40580,7 +40600,7 @@
     "tradeIn": false
   },
   "6786": {
-    "name": "Dominus: Spacestation Gaming",
+    "name": "Dominus: Spacestation Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40590,7 +40610,7 @@
     "tradeIn": false
   },
   "6787": {
-    "name": "Fennec: Spacestation Gaming",
+    "name": "Fennec: Spacestation Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40600,7 +40620,7 @@
     "tradeIn": false
   },
   "6788": {
-    "name": "Fennec: Susquehanna Soniqs",
+    "name": "Fennec: Susquehanna Soniqs (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40610,7 +40630,7 @@
     "tradeIn": false
   },
   "6789": {
-    "name": "Dominus: Susquehanna Soniqs",
+    "name": "Dominus: Susquehanna Soniqs (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40620,7 +40640,7 @@
     "tradeIn": false
   },
   "6790": {
-    "name": "Octane: Susquehanna Soniqs",
+    "name": "Octane: Susquehanna Soniqs (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40640,7 +40660,7 @@
     "tradeIn": false
   },
   "6792": {
-    "name": "Fennec: G2 Esports",
+    "name": "Fennec: G2 Esports (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40650,7 +40670,7 @@
     "tradeIn": false
   },
   "6793": {
-    "name": "Dominus: G2 Esports",
+    "name": "Dominus: G2 Esports (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40660,7 +40680,7 @@
     "tradeIn": false
   },
   "6794": {
-    "name": "Octane: G2 Esports",
+    "name": "Octane: G2 Esports (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40720,7 +40740,7 @@
     "tradeIn": false
   },
   "6802": {
-    "name": "Fennec: Team Liquid",
+    "name": "Fennec: Team Liquid (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40730,7 +40750,7 @@
     "tradeIn": false
   },
   "6803": {
-    "name": "Dominus: Team Liquid",
+    "name": "Dominus: Team Liquid (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40740,7 +40760,7 @@
     "tradeIn": false
   },
   "6804": {
-    "name": "Octane: Team Liquid",
+    "name": "Octane: Team Liquid (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40759,8 +40779,18 @@
     "tradable": false,
     "tradeIn": false
   },
+  "6806": {
+    "name": "Dominus: RLCS 2021-22",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
   "6807": {
-    "name": "Fennec: Torrent",
+    "name": "Fennec: Torrent (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40770,7 +40800,7 @@
     "tradeIn": false
   },
   "6808": {
-    "name": "Dominus: Torrent",
+    "name": "Dominus: Torrent (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40780,7 +40810,7 @@
     "tradeIn": false
   },
   "6809": {
-    "name": "Octane: Torrent",
+    "name": "Octane: Torrent (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40800,7 +40830,7 @@
     "tradeIn": false
   },
   "6811": {
-    "name": "Fennec: XSET",
+    "name": "Fennec: XSET (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40810,7 +40840,7 @@
     "tradeIn": false
   },
   "6812": {
-    "name": "Dominus: XSET",
+    "name": "Dominus: XSET (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40820,7 +40850,7 @@
     "tradeIn": false
   },
   "6813": {
-    "name": "Octane: XSET",
+    "name": "Octane: XSET (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40830,7 +40860,7 @@
     "tradeIn": false
   },
   "6814": {
-    "name": "Fennec: Ghost Gaming",
+    "name": "Fennec: Ghost Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40840,7 +40870,7 @@
     "tradeIn": false
   },
   "6815": {
-    "name": "Dominus: Ghost Gaming",
+    "name": "Dominus: Ghost Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40850,7 +40880,7 @@
     "tradeIn": false
   },
   "6816": {
-    "name": "Octane: Ghost Gaming",
+    "name": "Octane: Ghost Gaming (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40870,7 +40900,7 @@
     "tradeIn": true
   },
   "6818": {
-    "name": "Fennec: eUnited",
+    "name": "Fennec: eUnited (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40880,7 +40910,7 @@
     "tradeIn": false
   },
   "6819": {
-    "name": "Dominus: eUnited",
+    "name": "Dominus: eUnited (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40890,7 +40920,7 @@
     "tradeIn": false
   },
   "6820": {
-    "name": "Octane: eUnited",
+    "name": "Octane: eUnited (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40910,7 +40940,7 @@
     "tradeIn": false
   },
   "6822": {
-    "name": "Fennec: PWR",
+    "name": "Fennec: PWR (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40920,7 +40950,7 @@
     "tradeIn": false
   },
   "6823": {
-    "name": "Dominus: PWR",
+    "name": "Dominus: PWR (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40930,7 +40960,7 @@
     "tradeIn": false
   },
   "6824": {
-    "name": "Octane: PWR",
+    "name": "Octane: PWR (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40940,7 +40970,7 @@
     "tradeIn": false
   },
   "6825": {
-    "name": "Fennec: Karmine Corp",
+    "name": "Fennec: Karmine Corp (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40950,7 +40980,7 @@
     "tradeIn": false
   },
   "6826": {
-    "name": "Dominus: Karmine Corp",
+    "name": "Dominus: Karmine Corp (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -40960,7 +40990,7 @@
     "tradeIn": false
   },
   "6827": {
-    "name": "Octane: Karmine Corp",
+    "name": "Octane: Karmine Corp (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41050,7 +41080,7 @@
     "tradeIn": false
   },
   "6840": {
-    "name": "Fennec: Pittsburgh Knights",
+    "name": "Fennec: Pittsburgh Knights (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41060,7 +41090,7 @@
     "tradeIn": false
   },
   "6841": {
-    "name": "Dominus: Pittsburgh Knights",
+    "name": "Dominus: Pittsburgh Knights (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41070,7 +41100,7 @@
     "tradeIn": false
   },
   "6842": {
-    "name": "Octane: Pittsburgh Knights",
+    "name": "Octane: Pittsburgh Knights (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41160,7 +41190,7 @@
     "tradeIn": true
   },
   "6853": {
-    "name": "Semper Esports",
+    "name": "SMPR Esports",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41360,7 +41390,7 @@
     "tradeIn": true
   },
   "6874": {
-    "name": "Fennec: Evil Geniuses",
+    "name": "Fennec: Evil Geniuses (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41370,7 +41400,7 @@
     "tradeIn": false
   },
   "6875": {
-    "name": "Dominus: Evil Geniuses",
+    "name": "Dominus: Evil Geniuses (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41380,7 +41410,7 @@
     "tradeIn": false
   },
   "6876": {
-    "name": "Octane: Evil Geniuses",
+    "name": "Octane: Evil Geniuses (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41540,7 +41570,7 @@
     "tradeIn": false
   },
   "6894": {
-    "name": "Fennec: Team Singularity",
+    "name": "Fennec: Team Singularity (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41550,7 +41580,7 @@
     "tradeIn": false
   },
   "6895": {
-    "name": "Dominus: Team Singularity",
+    "name": "Dominus: Team Singularity (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41560,7 +41590,7 @@
     "tradeIn": false
   },
   "6896": {
-    "name": "Octane: Team Singularity",
+    "name": "Octane: Team Singularity (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41570,7 +41600,7 @@
     "tradeIn": false
   },
   "6897": {
-    "name": "Fennec: Furia",
+    "name": "Fennec: Furia (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41580,7 +41610,7 @@
     "tradeIn": false
   },
   "6898": {
-    "name": "Dominus: Furia",
+    "name": "Dominus: Furia (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41590,7 +41620,7 @@
     "tradeIn": false
   },
   "6899": {
-    "name": "Octane: Furia",
+    "name": "Octane: Furia (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41630,7 +41660,7 @@
     "tradeIn": false
   },
   "6910": {
-    "name": "Fennec: Rix.GG",
+    "name": "Fennec: Rix.GG (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41640,7 +41670,7 @@
     "tradeIn": false
   },
   "6911": {
-    "name": "Dominus: Rix.GG",
+    "name": "Dominus: Rix.GG (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -41650,7 +41680,7 @@
     "tradeIn": false
   },
   "6912": {
-    "name": "Octane: Rix.GG",
+    "name": "Octane: Rix.GG (Home)",
     "blueprint": false,
     "paintable": false,
     "currency": false,
@@ -42319,6 +42349,16 @@
     "tradable": false,
     "tradeIn": false
   },
+  "6989": {
+    "name": "McLaren 765LT: McLaren 765 (Silver)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "6990": {
     "name": "Octane: Arizona Cardinals",
     "blueprint": false,
@@ -42436,6 +42476,16 @@
     "currency": false,
     "quality": 3,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7015": {
+    "name": "McLaren 765LT (Black)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
     "tradable": false,
     "tradeIn": false
   },
@@ -42879,6 +42929,16 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7069": {
+    "name": "2021 NFL Fan Pass",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7070": {
     "name": "2021 NFL Fan Pass",
     "blueprint": false,
@@ -43029,6 +43089,16 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7085": {
+    "name": "McLaren 765LT",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7086": {
     "name": "98",
     "blueprint": false,
@@ -43079,6 +43149,146 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7172": {
+    "name": "Golden Moon",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "7176": {
+    "name": "McLaren 765LT",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7185": {
+    "name": "Rival: Radiant",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "7197": {
+    "name": "Aether",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7199": {
+    "name": "ARMNHMR",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7201": {
+    "name": "Eminence",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7202": {
+    "name": "Floa",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7203": {
+    "name": "Hausman",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7204": {
+    "name": "Hiski",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7206": {
+    "name": "Kobana",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7207": {
+    "name": "Lovlee",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7209": {
+    "name": "Weston & Teston",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7216": {
+    "name": "Player of Games",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7217": {
+    "name": "Neon Nights Ft. Grimes 2022",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7221": {
     "name": "Golden Gift '21",
     "blueprint": false,
@@ -43087,6 +43297,1266 @@
     "quality": 2,
     "slot": 11,
     "tradable": true,
+    "tradeIn": false
+  },
+  "7227": {
+    "name": "Fennec: Evil Geniuses (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7228": {
+    "name": "Fennec: PWR (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7229": {
+    "name": "Fennec: Team Queso (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7230": {
+    "name": "Fennec: Rix.GG (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7231": {
+    "name": "Fennec: Rebellion (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7232": {
+    "name": "Fennec: Team Singularity (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7233": {
+    "name": "Fennec: Solary (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7234": {
+    "name": "Fennec: Team BDS (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7235": {
+    "name": "Fennec: Team Liquid (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7236": {
+    "name": "Fennec: Team Vitality (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7237": {
+    "name": "Fennec: XSET (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7238": {
+    "name": "Dominus: Evil Geniuses (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7239": {
+    "name": "Dominus: PWR (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7240": {
+    "name": "Dominus: Team Queso (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7241": {
+    "name": "Dominus: Rix.GG (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7242": {
+    "name": "Dominus: Rebellion (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7243": {
+    "name": "Dominus: Team Singularity (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7244": {
+    "name": "Dominus: Solary (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7245": {
+    "name": "Dominus: Team BDS (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7246": {
+    "name": "Dominus: Team Liquid (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7247": {
+    "name": "Dominus: Team Vitality (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7248": {
+    "name": "Dominus: XSET (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7249": {
+    "name": "Octane: Evil Geniuses (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7250": {
+    "name": "Octane: PWR (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7251": {
+    "name": "Octane: Team Queso (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7252": {
+    "name": "Octane: Rix.GG (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7253": {
+    "name": "Octane: Rebellion (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7254": {
+    "name": "Octane: Team Singularity (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7255": {
+    "name": "Octane: Solary (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7256": {
+    "name": "Octane: Team BDS (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7257": {
+    "name": "Octane: Team Liquid (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7258": {
+    "name": "Octane: Team Vitality (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7259": {
+    "name": "Octane: XSET (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7261": {
+    "name": "Fennec: Dignitas (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7262": {
+    "name": "Fennec: Endpoint (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7263": {
+    "name": "Fennec: Envy (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7264": {
+    "name": "Fennec: eUnited (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7265": {
+    "name": "Fennec: FaZe Clan (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7266": {
+    "name": "Fennec: G2 Esports (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7267": {
+    "name": "Fennec: Ghost Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7268": {
+    "name": "Fennec: Giants (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7269": {
+    "name": "Fennec: Guild (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7270": {
+    "name": "Fennec: Karmine Corp (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7271": {
+    "name": "Fennec: SMPR Esports (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7272": {
+    "name": "Fennec: SK Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7273": {
+    "name": "Dominus: Dignitas (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7274": {
+    "name": "Dominus: Endpoint (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7275": {
+    "name": "Dominus: Envy (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7276": {
+    "name": "Dominus: eUnited (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7277": {
+    "name": "Dominus: FaZe Clan (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7278": {
+    "name": "Dominus: G2 Esports (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7279": {
+    "name": "Dominus: Ghost Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7280": {
+    "name": "Dominus: Giants (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7281": {
+    "name": "Dominus: Guild (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7282": {
+    "name": "Dominus: Karmine Corp (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7283": {
+    "name": "Dominus: SMPR Esports (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7284": {
+    "name": "Dominus: SK Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7285": {
+    "name": "Octane: Dignitas (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7286": {
+    "name": "Octane: Endpoint (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7287": {
+    "name": "Octane: Envy (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7288": {
+    "name": "Octane: eUnited (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7289": {
+    "name": "Octane: FaZe Clan (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7290": {
+    "name": "Octane: G2 Esports (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7291": {
+    "name": "Octane: Ghost Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7292": {
+    "name": "Octane: Giants (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7293": {
+    "name": "Octane: Guild (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7294": {
+    "name": "Octane: Karmine Corp (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7295": {
+    "name": "Octane: SMPR Esports (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7296": {
+    "name": "Octane: SK Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7299": {
+    "name": "Fennec: Furia (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7300": {
+    "name": "Fennec: Ground Zero Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7301": {
+    "name": "Fennec: NRG (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7302": {
+    "name": "Fennec: Pittsburgh Knights (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7303": {
+    "name": "Fennec: Renegades (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7304": {
+    "name": "Fennec: Rogue (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7305": {
+    "name": "Fennec: Susquehanna Soniqs (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7306": {
+    "name": "Fennec: Spacestation Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7307": {
+    "name": "Fennec: Torrent (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7308": {
+    "name": "Fennec: True Neutral (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7309": {
+    "name": "Fennec: Version1 (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7310": {
+    "name": "Dominus: Furia (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7311": {
+    "name": "Dominus: Ground Zero Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7312": {
+    "name": "Dominus: NRG (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7313": {
+    "name": "Dominus: Pittsburgh Knights (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7314": {
+    "name": "Dominus: Renegades (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7315": {
+    "name": "Dominus: Rogue (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7316": {
+    "name": "Dominus: Susquehanna Soniqs (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7317": {
+    "name": "Dominus: Spacestation Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7318": {
+    "name": "Dominus: Torrent (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7319": {
+    "name": "Dominus: True Neutral (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7320": {
+    "name": "Dominus: Version1 (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7321": {
+    "name": "Octane: Furia (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7322": {
+    "name": "Octane: Ground Zero Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7323": {
+    "name": "Octane: NRG (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7324": {
+    "name": "Octane: Pittsburgh Knights (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7325": {
+    "name": "Octane: Renegades (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7326": {
+    "name": "Octane: Rogue (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7327": {
+    "name": "Octane: Susquehanna Soniqs (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7328": {
+    "name": "Octane: Spacestation Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7329": {
+    "name": "Octane: Torrent (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7330": {
+    "name": "Octane: True Neutral (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7331": {
+    "name": "Octane: Version1 (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7340": {
+    "name": "Tiny Tiger",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7353": {
+    "name": "Gravitator",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7354": {
+    "name": "GRIMES",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7356": {
+    "name": "Octane: GRIMES",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7358": {
+    "name": "Space Queen",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7359": {
+    "name": "GRIMES",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7360": {
+    "name": "Octane: Tyger",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7366": {
+    "name": "Braided",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 14,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7367": {
+    "name": "Uncanny",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7375": {
+    "name": "Fireworks (Multichrome)",
+    "blueprint": false,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7379": {
+    "name": "Fennec: Complexity (Home)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7380": {
+    "name": "Fennec: Complexity (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7381": {
+    "name": "Dominus: Complexity (Home)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7382": {
+    "name": "Dominus: Complexity (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7383": {
+    "name": "Octane: Complexity (Home)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7384": {
+    "name": "Octane: Complexity (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7387": {
+    "name": "Fennec: Misfits Gaming (Home)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7388": {
+    "name": "Fennec: Misfits Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7389": {
+    "name": "Dominus: Misfits Gaming (Home)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7390": {
+    "name": "Dominus: Misfits Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7391": {
+    "name": "Octane: Misfits Gaming (Home)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7392": {
+    "name": "Octane: Misfits Gaming (Away)",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7400": {
+    "name": "Misfits Gaming",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 22,
+    "tradable": true,
+    "tradeIn": true
+  },
+  "7470": {
+    "name": "Shinigami Eyes",
+    "blueprint": false,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 18,
+    "tradable": false,
     "tradeIn": false
   }
 }

@@ -2168,5 +2168,65 @@
 		"Title Database Id": "PsyonixHackathonWinner",
 		"Title Database Text": "Psyonix Hackathon Winner",
 		"Title Database Color": "#00FFAA"
+	},
+	{
+		"Title Database Id": "SE_PlayerOfGames",
+		"Title Database Text": "Player of Games",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Instigator",
+		"Title Database Text": "Instigator",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "DisordLegend",
+		"Title Database Text": "Discord Legend",
+		"Title Database Color": "#00FFAA"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2021_Champion",
+		"Title Database Text": "CRL Fall 2021 Champion",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2021_Elite",
+		"Title Database Text": "CRL Fall 2021 Elite",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2021_Contender",
+		"Title Database Text": "CRL Fall 2021 Contender",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RLCS_21_22_Regional_Champion",
+		"Title Database Text": "RLCS 2021-22 Regional Champion",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_21_22_Regional_Finalist",
+		"Title Database Text": "RLCS 2021-22 Regional Finalist",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_21_22_Major_Champion",
+		"Title Database Text": "RLCS 2021-22 Fall Major Champion",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_21_22_Major_Finalist",
+		"Title Database Text": "RLCS 2021-22 Fall Major Finalist",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_21_22_Major_Elite",
+		"Title Database Text": "RLCS 2021-22 Fall Major Elite",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_21_22_Major_Contender",
+		"Title Database Text": "RLCS 2021-22 Fall Major Contender",
+		"Title Database Color": "#AEF7FF"
 	}
 ]

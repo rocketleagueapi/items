@@ -132,7 +132,7 @@
     "players": 3
   },
   "38": {
-    "name": "Heatseeker",
+    "name": "Heatseeker Ricochet",
     "description": "Touching the ball automatically sends it in the direction of the opposing team's goal in this speedy game of 3v3.  It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins!",
     "ranked": false,
     "players": 3

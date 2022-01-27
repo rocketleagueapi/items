@@ -1554,5 +1554,53 @@
   "PsyonixHackathonWinner": {
     "name": "Psyonix Hackathon Winner",
     "color": "#00FFAA"
+  },
+  "SE_PlayerOfGames": {
+    "name": "Player of Games",
+    "color": "#FFFFFF"
+  },
+  "SE_Instigator": {
+    "name": "Instigator",
+    "color": "#FFFFFF"
+  },
+  "DisordLegend": {
+    "name": "Discord Legend",
+    "color": "#00FFAA"
+  },
+  "CRL_Fall_2021_Champion": {
+    "name": "CRL Fall 2021 Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Fall_2021_Elite": {
+    "name": "CRL Fall 2021 Elite",
+    "color": "#FFEB5C"
+  },
+  "CRL_Fall_2021_Contender": {
+    "name": "CRL Fall 2021 Contender",
+    "color": "#FFEB5C"
+  },
+  "RLCS_21_22_Regional_Champion": {
+    "name": "RLCS 2021-22 Regional Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_21_22_Regional_Finalist": {
+    "name": "RLCS 2021-22 Regional Finalist",
+    "color": "#AEF7FF"
+  },
+  "RLCS_21_22_Major_Champion": {
+    "name": "RLCS 2021-22 Fall Major Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_21_22_Major_Finalist": {
+    "name": "RLCS 2021-22 Fall Major Finalist",
+    "color": "#AEF7FF"
+  },
+  "RLCS_21_22_Major_Elite": {
+    "name": "RLCS 2021-22 Fall Major Elite",
+    "color": "#AEF7FF"
+  },
+  "RLCS_21_22_Major_Contender": {
+    "name": "RLCS 2021-22 Fall Major Contender",
+    "color": "#AEF7FF"
   }
 }
