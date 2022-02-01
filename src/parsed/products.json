@@ -23640,7 +23640,7 @@
     "tradeIn": false
   },
   "3899": {
-    "name": "Asik",
+    "name": "Asik: Infinite",
     "blueprint": false,
     "paintable": true,
     "currency": false,
@@ -26350,7 +26350,7 @@
     "tradeIn": false
   },
   "4287": {
-    "name": "Draco",
+    "name": "Draco: Holographic",
     "blueprint": false,
     "paintable": true,
     "currency": false,
@@ -26980,7 +26980,7 @@
     "tradeIn": true
   },
   "4370": {
-    "name": "Camo",
+    "name": "Camo: Inverted",
     "blueprint": false,
     "paintable": true,
     "currency": false,
