@@ -24,7 +24,8 @@ const specialMap: Record<number, string> = {
     3901: 'Infinite',
     4287: 'Holographic',
     3899: 'Infinite',
-    4370: 'Inverted'
+    4370: 'Inverted',
+    3369: 'Inverted'
 };
 
 export default specialMap;
