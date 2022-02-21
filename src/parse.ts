@@ -28,13 +28,27 @@ const paints = PaintDump.filter(p => p['Paint Database Id'] <= 13).reduce((acc, 
 }, {} as Record<number, string>);
 write('paints', paints);
 
+const specials = SpecialEditionDump.reduce((acc, s) => {
+    acc[s['Special Database Id']] = s['Special Database Label'];
+    return acc;
+}, {} as Record<number, string>);
+write('specials', specials);
+
+const specialsInverse: Record<string, number> = Object.fromEntries(Object.entries(specials).map(a => a.reverse()));
+const specialPattern = new RegExp(`/: (?<special>(${Object.values(specials).join('|')}))$/`);
+
 const products = ProductDump.reduce((acc, p) => {
     const untradable = p['Product Quality Id'] === 9 || (p['Product Quality Id'] === 0 && !p['Product Paintable']);
     const id = p['Product Id'];
+    const name = p['Product Long Label'];
+
+    const match = name.match(specialPattern)?.[0] ?? '';
+    const special = specialMap[id] ?? specialsInverse[match] ?? 0;
 
     acc[id] = {
-        name: `${p['Product Long Label']}${specialMap[id] ? `: ${specialMap[id]}` : ''}`,
+        name,
         blueprint: p['Product Blueprint'],
+        special,
         paintable: p['Product Paintable'],
         currency: p['Product Currency'],
         quality: p['Product Quality Id'],
@@ -57,12 +71,6 @@ const slots = SlotDump.reduce((acc, s) => {
     return acc;
 }, {} as Record<number, string>);
 write('slots', slots);
-
-const specials = SpecialEditionDump.reduce((acc, s) => {
-    acc[s['Special Database Id']] = s['Special Database Label'];
-    return acc;
-}, {} as Record<number, string>);
-write('specials', specials);
 
 const maps = MapDump.reduce((acc, m) => {
     acc[m['Map File Name']] = {
