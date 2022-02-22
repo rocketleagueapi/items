@@ -246,10 +246,10 @@
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
-		"Product Quality Id": 0,
+		"Product Quality Id": 3,
 		"Slot Index": 0,
 		"Product Thumbnail Asset": "Body_Orion_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 25,
@@ -4417,8 +4417,8 @@
 	},
 	{
 		"Product Id": 400,
-		"Product Long Label": "Pińata",
-		"Product Short Sort Label": "Pińata",
+		"Product Long Label": "Piñata",
+		"Product Short Sort Label": "Piñata",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -19957,8 +19957,8 @@
 	},
 	{
 		"Product Id": 2729,
-		"Product Long Label": "Balla-Carrŕ",
-		"Product Short Sort Label": "Balla-Carrŕ",
+		"Product Long Label": "Balla-Carrà",
+		"Product Short Sort Label": "Balla-Carrà",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -20925,7 +20925,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_cathead_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2868,
@@ -20937,7 +20937,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_instinct_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2870,
@@ -20949,7 +20949,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_pegboardnerds_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2871,
@@ -20961,7 +20961,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_stonebank_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2872,
@@ -20973,7 +20973,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_uncaged_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2873,
@@ -21249,7 +21249,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_anna_yvette_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2906,
@@ -21261,7 +21261,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_intercom_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2907,
@@ -21285,7 +21285,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_slippy_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2914,
@@ -21297,7 +21297,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_protostar_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2915,
@@ -21993,7 +21993,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_diontimmer_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2992,
@@ -22017,7 +22017,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_rootkit_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2995,
@@ -22029,7 +22029,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_stephenwalking_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2997,
@@ -22041,7 +22041,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_skyelle_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2998,
@@ -22053,7 +22053,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_sundial_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2999,
@@ -22341,7 +22341,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_inverness_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3030,
@@ -22353,7 +22353,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_soupandreas_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3031,
@@ -22425,7 +22425,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_aiobahn_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3053,
@@ -24765,7 +24765,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_darrenstyles_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3411,
@@ -24777,7 +24777,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_dougal_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3412,
@@ -24789,7 +24789,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_gammer_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3413,
@@ -24801,7 +24801,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_infectedmushroom_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3414,
@@ -24825,7 +24825,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_pixelterror_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3416,
@@ -24837,7 +24837,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_saraskinner_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3417,
@@ -24849,7 +24849,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_tokyomachine_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3418,
@@ -26413,8 +26413,8 @@
 	},
 	{
 		"Product Id": 3608,
-		"Product Long Label": "Octane: Pińata Monster",
-		"Product Short Sort Label": "Pińata Monster",
+		"Product Long Label": "Octane: Piñata Monster",
+		"Product Short Sort Label": "Piñata Monster",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -27237,7 +27237,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_cloudnone_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3707,
@@ -27249,7 +27249,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_grant_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3708,
@@ -27261,7 +27261,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_hyperpotions_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3709,
@@ -27273,7 +27273,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_nokae_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3710,
@@ -27285,7 +27285,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_rogue_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3711,
@@ -27297,7 +27297,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_smle_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3712,
@@ -30849,7 +30849,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_fwlr_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4157,
@@ -30861,7 +30861,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_notaker_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4158,
@@ -32433,7 +32433,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_7minutes_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4349,
@@ -32445,7 +32445,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_desertstar_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4350,
@@ -32457,7 +32457,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_ephixa_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4351,
@@ -32469,7 +32469,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_televisor_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4352,
@@ -32481,7 +32481,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_tuttut_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4353,
@@ -32493,7 +32493,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_varien_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4354,
@@ -32505,7 +32505,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_wrld_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4355,
@@ -33329,7 +33329,7 @@
 		"Product Short Sort Label": "Corseque I",
 		"Product Currency": false,
 		"Product Blueprint": false,
-		"Product Paintable": false,
+		"Product Paintable": true,
 		"Product Quality Id": 8,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "Antenna_Corseque_T",
@@ -33557,7 +33557,7 @@
 		"Product Short Sort Label": "Chikara G1",
 		"Product Currency": false,
 		"Product Blueprint": false,
-		"Product Paintable": false,
+		"Product Paintable": true,
 		"Product Quality Id": 8,
 		"Slot Index": 0,
 		"Product Thumbnail Asset": "Body_Durian_tier2_T",
@@ -35529,7 +35529,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_direct_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4768,
@@ -35541,7 +35541,7 @@
 		"Product Quality Id": 0,
 		"Slot Index": 4,
 		"Product Thumbnail Asset": "flag_mc_kayzo_T",
-		"Product Trade Restrictions": [ "None" ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4769,
@@ -44444,7 +44444,7 @@
 		"Product Paintable": false,
 		"Product Quality Id": 2,
 		"Slot Index": 11,
-		"Product Thumbnail Asset": "crateunlocked_AT1_T",
+		"Product Thumbnail Asset": "CrateUnlocked_AT1_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -47964,6 +47964,30 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 6414,
+		"Product Long Label": "Atlanta Falcons",
+		"Product Short Sort Label": "Atlanta Falcons",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "hat_nfl_atl_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6423,
+		"Product Long Label": "Baltimore Ravens",
+		"Product Short Sort Label": "Baltimore Ravens",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_BAL_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 6467,
 		"Product Long Label": "BMW M240i: United In Rivalry",
 		"Product Short Sort Label": "United In Rivalry",
@@ -48057,6 +48081,18 @@
 		"Product Quality Id": 4,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "skin_retro_tsunami_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6556,
+		"Product Long Label": "Arizona Cardinals",
+		"Product Short Sort Label": "Arizona Cardinals",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_ARZ_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -48156,6 +48192,150 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 6619,
+		"Product Long Label": "Buffalo Bills",
+		"Product Short Sort Label": "Buffalo Bills",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_BUF_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6620,
+		"Product Long Label": "Chicago Bears",
+		"Product Short Sort Label": "Chicago Bears",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_CHI_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6621,
+		"Product Long Label": "Cleveland Browns",
+		"Product Short Sort Label": "Cleveland Browns",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_CLE_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6622,
+		"Product Long Label": "Dallas Cowboys",
+		"Product Short Sort Label": "Dallas Cowboys",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_DAL_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6623,
+		"Product Long Label": "Detroit Lions",
+		"Product Short Sort Label": "Detroit Lions",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_DET_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6624,
+		"Product Long Label": "Green Bay Packers",
+		"Product Short Sort Label": "Green Bay Packers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_GB_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6625,
+		"Product Long Label": "Houston Texans",
+		"Product Short Sort Label": "Houston Texans",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_HOU_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6626,
+		"Product Long Label": "Indianapolis Colts",
+		"Product Short Sort Label": "Indianapolis Colts",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_IND_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6655,
+		"Product Long Label": "Jacksonville Jaguars",
+		"Product Short Sort Label": "Jacksonville Jaguars",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_JAX_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6656,
+		"Product Long Label": "Kansas City Chiefs",
+		"Product Short Sort Label": "Kansas City Chiefs",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_KC_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6657,
+		"Product Long Label": "Los Angeles Chargers",
+		"Product Short Sort Label": "Los Angeles Chargers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_LAC_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6658,
+		"Product Long Label": "Los Angeles Rams",
+		"Product Short Sort Label": "Los Angeles Rams",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_LAR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 6688,
 		"Product Long Label": "Dominus: Team Queso (Home)",
 		"Product Short Sort Label": "Team Queso (Home)",
@@ -48252,6 +48432,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 6703,
+		"Product Long Label": "Las Vegas Raiders",
+		"Product Short Sort Label": "Las Vegas Raiders",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_LAS_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 6704,
 		"Product Long Label": "007's Aston Martin Valhalla: Reel Life",
 		"Product Short Sort Label": "Reel Life",
@@ -48345,6 +48537,186 @@
 		"Product Quality Id": 3,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "skin_octane_SemperEsports_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6716,
+		"Product Long Label": "Carolina Panthers",
+		"Product Short Sort Label": "Carolina Panthers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_CAR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6717,
+		"Product Long Label": "Cincinnati Bengals",
+		"Product Short Sort Label": "Cincinnati Bengals",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_CIN_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6718,
+		"Product Long Label": "Denver Broncos",
+		"Product Short Sort Label": "Denver Broncos",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_DEN_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6719,
+		"Product Long Label": "Miami Dolphins",
+		"Product Short Sort Label": "Miami Dolphins",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_MIA_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6720,
+		"Product Long Label": "Minnesota Vikings",
+		"Product Short Sort Label": "Minnesota Vikings",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_MIN_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6721,
+		"Product Long Label": "New England Patriots",
+		"Product Short Sort Label": "New England Patriots",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_NE_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6722,
+		"Product Long Label": "New Orleans Saints",
+		"Product Short Sort Label": "New Orleans Saints",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_NO_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6723,
+		"Product Long Label": "New York Giants",
+		"Product Short Sort Label": "New York Giants",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_NYG_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6724,
+		"Product Long Label": "New York Jets",
+		"Product Short Sort Label": "New York Jets",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_NYJ_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6725,
+		"Product Long Label": "Philadelphia Eagles",
+		"Product Short Sort Label": "Philadelphia Eagles",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_PHI_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6726,
+		"Product Long Label": "Pittsburgh Steelers",
+		"Product Short Sort Label": "Pittsburgh Steelers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_PIT_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6727,
+		"Product Long Label": "Seattle Seahawks",
+		"Product Short Sort Label": "Seattle Seahawks",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_SEA_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6729,
+		"Product Long Label": "Tampa Bay Buccaneers",
+		"Product Short Sort Label": "Tampa Bay Buccaneers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_TB_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6730,
+		"Product Long Label": "Tennessee Titans",
+		"Product Short Sort Label": "Tennessee Titans",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_TEN_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6731,
+		"Product Long Label": "Washington Football Team",
+		"Product Short Sort Label": "Washington Football Team",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_WAS_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -49521,6 +49893,18 @@
 		"Product Quality Id": 8,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "skin_musclecar_panya_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6834,
+		"Product Long Label": "San Francisco 49ers",
+		"Product Short Sort Label": "San Francisco 49ers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_NFL_SAN_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -52044,6 +52428,390 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 7092,
+		"Product Long Label": "Breakout: Arizona Cardinals",
+		"Product Short Sort Label": "Arizona Cardinals",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBarz_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7093,
+		"Product Long Label": "Breakout: Atlanta Falcons",
+		"Product Short Sort Label": "Atlanta Falcons",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBatl_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7094,
+		"Product Long Label": "Breakout: Baltimore Ravens",
+		"Product Short Sort Label": "Baltimore Ravens",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBbal_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7095,
+		"Product Long Label": "Breakout: Buffalo Bills",
+		"Product Short Sort Label": "Buffalo Bills",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBbuf_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7096,
+		"Product Long Label": "Breakout: Carolina Panthers",
+		"Product Short Sort Label": "Carolina Panthers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBcar_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7097,
+		"Product Long Label": "Breakout: Chicago Bears",
+		"Product Short Sort Label": "Chicago Bears",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBchi_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7098,
+		"Product Long Label": "Breakout: Cincinnati Bengals",
+		"Product Short Sort Label": "Cincinnati Bengals",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBcin_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7099,
+		"Product Long Label": "Breakout: Cleveland Browns",
+		"Product Short Sort Label": "Cleveland Browns",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBcle_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7100,
+		"Product Long Label": "Breakout: Dallas Cowboys",
+		"Product Short Sort Label": "Dallas Cowboys",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBdal_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7101,
+		"Product Long Label": "Breakout: Denver Broncos",
+		"Product Short Sort Label": "Denver Broncos",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBden_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7102,
+		"Product Long Label": "Breakout: Detroit Lions",
+		"Product Short Sort Label": "Detroit Lions",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBdet_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7103,
+		"Product Long Label": "Breakout: Green Bay Packers",
+		"Product Short Sort Label": "Green Bay Packers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBgb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7104,
+		"Product Long Label": "Breakout: Houston Texans",
+		"Product Short Sort Label": "Houston Texans",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBhou_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7105,
+		"Product Long Label": "Breakout: Indianapolis Colts",
+		"Product Short Sort Label": "Indianapolis Colts",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBind_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7106,
+		"Product Long Label": "Breakout: Jacksonville Jaguars",
+		"Product Short Sort Label": "Jacksonville Jaguars",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBjax_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7107,
+		"Product Long Label": "Breakout: Kansas City Chiefs",
+		"Product Short Sort Label": "Kansas City Chiefs",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBkc_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7108,
+		"Product Long Label": "Breakout: Los Angeles Chargers",
+		"Product Short Sort Label": "Los Angeles Chargers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBlac_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7109,
+		"Product Long Label": "Breakout: Los Angeles Rams",
+		"Product Short Sort Label": "Los Angeles Rams",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBlar_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7110,
+		"Product Long Label": "Breakout: Las Vegas Raiders",
+		"Product Short Sort Label": "Las Vegas Raiders",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBlas_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7111,
+		"Product Long Label": "Breakout: Miami Dolphins",
+		"Product Short Sort Label": "Miami Dolphins",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBmia_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7112,
+		"Product Long Label": "Breakout: Minnesota Vikings",
+		"Product Short Sort Label": "Minnesota Vikings",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBmin_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7113,
+		"Product Long Label": "Breakout: New England Patriots",
+		"Product Short Sort Label": "New England Patriots",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBne_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7114,
+		"Product Long Label": "Breakout: New Orleans Saints",
+		"Product Short Sort Label": "New Orleans Saints",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBno_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7115,
+		"Product Long Label": "Breakout: New York Giants",
+		"Product Short Sort Label": "New York Giants",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBnyg_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7116,
+		"Product Long Label": "Breakout: New York Jets",
+		"Product Short Sort Label": "New York Jets",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBnyj_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7117,
+		"Product Long Label": "Breakout: Philadelphia Eagles",
+		"Product Short Sort Label": "Philadelphia Eagles",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBphi_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7118,
+		"Product Long Label": "Breakout: Pittsburgh Steelers",
+		"Product Short Sort Label": "Pittsburgh Steelers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBpit_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7119,
+		"Product Long Label": "Breakout: San Francisco 49ers",
+		"Product Short Sort Label": "San Francisco 49ers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBsan_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7120,
+		"Product Long Label": "Breakout: Seattle Seahawks",
+		"Product Short Sort Label": "Seattle Seahawks",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBsea_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7121,
+		"Product Long Label": "Breakout: Tampa Bay Buccaneers",
+		"Product Short Sort Label": "Tampa Bay Buccaneers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBtb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7122,
+		"Product Long Label": "Breakout: Tennessee Titans",
+		"Product Short Sort Label": "Tennessee Titans",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBten_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7123,
+		"Product Long Label": "Breakout: Washington Football Team",
+		"Product Short Sort Label": "Washington Football Team",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_Force_FBwas_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 7124,
 		"Product Long Label": "Ford Mustang Shelby GT350R RLE",
 		"Product Short Sort Label": "Ford Mustang Shelby GT350R RLE",
@@ -52053,6 +52821,390 @@
 		"Product Quality Id": 0,
 		"Slot Index": 13,
 		"Product Thumbnail Asset": "EngineAudio_MSG_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7126,
+		"Product Long Label": "Fennec: Arizona Cardinals",
+		"Product Short Sort Label": "Arizona Cardinals",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbarz_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7128,
+		"Product Long Label": "Fennec: Atlanta Falcons",
+		"Product Short Sort Label": "Atlanta Falcons",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbatl_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7129,
+		"Product Long Label": "Fennec: Baltimore Ravens",
+		"Product Short Sort Label": "Baltimore Ravens",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbbal_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7130,
+		"Product Long Label": "Fennec: Buffalo Bills",
+		"Product Short Sort Label": "Buffalo Bills",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbbuf_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7131,
+		"Product Long Label": "Fennec: Carolina Panthers",
+		"Product Short Sort Label": "Carolina Panthers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbcar_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7132,
+		"Product Long Label": "Fennec: Chicago Bears",
+		"Product Short Sort Label": "Chicago Bears",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbchi_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7133,
+		"Product Long Label": "Fennec: Cincinnati Bengals",
+		"Product Short Sort Label": "Cincinnati Bengals",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbcin_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7134,
+		"Product Long Label": "Fennec: Cleveland Browns",
+		"Product Short Sort Label": "Cleveland Browns",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbcle_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7135,
+		"Product Long Label": "Fennec: Dallas Cowboys",
+		"Product Short Sort Label": "Dallas Cowboys",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbdal_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7136,
+		"Product Long Label": "Fennec: Denver Broncos",
+		"Product Short Sort Label": "Denver Broncos",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbden_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7137,
+		"Product Long Label": "Fennec: Detroit Lions",
+		"Product Short Sort Label": "Detroit Lions",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbdet_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7138,
+		"Product Long Label": "Fennec: Green Bay Packers",
+		"Product Short Sort Label": "Green Bay Packers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbgb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7139,
+		"Product Long Label": "Fennec: Houston Texans",
+		"Product Short Sort Label": "Houston Texans",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbhou_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7140,
+		"Product Long Label": "Fennec: Indianapolis Colts",
+		"Product Short Sort Label": "Indianapolis Colts",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbind_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7141,
+		"Product Long Label": "Fennec: Jacksonville Jaguars",
+		"Product Short Sort Label": "Jacksonville Jaguars",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbjax_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7142,
+		"Product Long Label": "Fennec: Kansas City Chiefs",
+		"Product Short Sort Label": "Kansas City Chiefs",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbkc_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7143,
+		"Product Long Label": "Fennec: Los Angeles Chargers",
+		"Product Short Sort Label": "Los Angeles Chargers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fblac_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7144,
+		"Product Long Label": "Fennec: Los Angeles Rams",
+		"Product Short Sort Label": "Los Angeles Rams",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fblar_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7145,
+		"Product Long Label": "Fennec: Las Vegas Raiders",
+		"Product Short Sort Label": "Las Vegas Raiders",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fblas_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7146,
+		"Product Long Label": "Fennec: Miami Dolphins",
+		"Product Short Sort Label": "Miami Dolphins",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbmia_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7147,
+		"Product Long Label": "Fennec: Minnesota Vikings",
+		"Product Short Sort Label": "Minnesota Vikings",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbmin_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7148,
+		"Product Long Label": "Fennec: New England Patriots",
+		"Product Short Sort Label": "New England Patriots",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbne_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7149,
+		"Product Long Label": "Fennec: New Orleans Saints",
+		"Product Short Sort Label": "New Orleans Saints",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbno_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7150,
+		"Product Long Label": "Fennec: New York Giants",
+		"Product Short Sort Label": "New York Giants",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbnyg_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7151,
+		"Product Long Label": "Fennec: New York Jets",
+		"Product Short Sort Label": "New York Jets",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbnyj_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7152,
+		"Product Long Label": "Fennec: Philadelphia Eagles",
+		"Product Short Sort Label": "Philadelphia Eagles",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbphi_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7153,
+		"Product Long Label": "Fennec: Pittsburgh Steelers",
+		"Product Short Sort Label": "Pittsburgh Steelers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbpit_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7154,
+		"Product Long Label": "Fennec: San Francisco 49ers",
+		"Product Short Sort Label": "San Francisco 49ers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbsan_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7155,
+		"Product Long Label": "Fennec: Seattle Seahawks",
+		"Product Short Sort Label": "Seattle Seahawks",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbsea_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7156,
+		"Product Long Label": "Fennec: Tampa Bay Buccaneers",
+		"Product Short Sort Label": "Tampa Bay Buccaneers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbtb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7157,
+		"Product Long Label": "Fennec: Tennessee Titans",
+		"Product Short Sort Label": "Tennessee Titans",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbten_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7158,
+		"Product Long Label": "Fennec: Washington Football Team",
+		"Product Short Sort Label": "Washington Football Team",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_grain_fbwas_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -53734,6 +54886,54 @@
 		"Slot Index": 22,
 		"Product Thumbnail Asset": "ESportsTeam_Misfits_T",
 		"Product Trade Restrictions": [ "None" ]
+	},
+	{
+		"Product Id": 7466,
+		"Product Long Label": "Behind The Samples",
+		"Product Short Sort Label": "Behind The Samples",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "MX_Album_BHM2022_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7467,
+		"Product Long Label": "You're Getting A Little Too Smart",
+		"Product Short Sort Label": "You're Getting A Little Too Smart",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "mx_anthems_BHM2022_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7468,
+		"Product Long Label": "Funky Worm",
+		"Product Short Sort Label": "Funky Worm",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "mx_anthems_BHM2022_02_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7469,
+		"Product Long Label": "Amen Brother",
+		"Product Short Sort Label": "Amen Brother",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "mx_anthems_BHM2022_03_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 7470,

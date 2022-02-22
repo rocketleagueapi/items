@@ -225,10 +225,10 @@
     "special": 0,
     "paintable": true,
     "currency": false,
-    "quality": 0,
+    "quality": 3,
     "slot": 0,
-    "tradable": true,
-    "tradeIn": true
+    "tradable": false,
+    "tradeIn": false
   },
   "25": {
     "name": "Road Hog",
@@ -4015,7 +4015,7 @@
     "tradeIn": true
   },
   "400": {
-    "name": "Pińata",
+    "name": "Piñata",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -18051,7 +18051,7 @@
     "tradeIn": true
   },
   "2729": {
-    "name": "Balla-Carrŕ",
+    "name": "Balla-Carrà",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -23969,7 +23969,7 @@
     "tradeIn": false
   },
   "3608": {
-    "name": "Octane: Pińata Monster",
+    "name": "Octane: Piñata Monster",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -30297,7 +30297,7 @@
     "name": "Corseque I",
     "blueprint": false,
     "special": 0,
-    "paintable": false,
+    "paintable": true,
     "currency": false,
     "quality": 8,
     "slot": 4,
@@ -30506,7 +30506,7 @@
     "name": "Chikara G1",
     "blueprint": false,
     "special": 0,
-    "paintable": false,
+    "paintable": true,
     "currency": false,
     "quality": 8,
     "slot": 0,
@@ -34727,7 +34727,7 @@
     "tradeIn": true
   },
   "5176": {
-    "name": "Metal-Carpus: Inverted",
+    "name": "Metal-Carpus",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34738,7 +34738,7 @@
     "tradeIn": true
   },
   "5177": {
-    "name": "Hamster: Holographic",
+    "name": "Hamster",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34749,7 +34749,7 @@
     "tradeIn": false
   },
   "5178": {
-    "name": "HNY: Inverted",
+    "name": "HNY",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34760,7 +34760,7 @@
     "tradeIn": true
   },
   "5179": {
-    "name": "CNTCT-1: Infinite",
+    "name": "CNTCT-1",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34771,7 +34771,7 @@
     "tradeIn": true
   },
   "5180": {
-    "name": "Mandala: Infinite",
+    "name": "Mandala",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34782,7 +34782,7 @@
     "tradeIn": false
   },
   "5182": {
-    "name": "Propeller: Inverted",
+    "name": "Propeller",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34793,7 +34793,7 @@
     "tradeIn": false
   },
   "5183": {
-    "name": "Agasaya: Inverted",
+    "name": "Agasaya",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34804,7 +34804,7 @@
     "tradeIn": true
   },
   "5184": {
-    "name": "Cutter: Inverted",
+    "name": "Cutter",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -34837,7 +34837,7 @@
     "tradeIn": false
   },
   "5191": {
-    "name": "Poptop: Inverted",
+    "name": "Poptop",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -35970,7 +35970,7 @@
     "tradeIn": false
   },
   "5341": {
-    "name": "Flim-Flam: Inverted",
+    "name": "Flim-Flam",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -36003,7 +36003,7 @@
     "tradeIn": false
   },
   "5345": {
-    "name": "Shortquarter: Inverted",
+    "name": "Shortquarter",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -36124,7 +36124,7 @@
     "tradeIn": false
   },
   "5362": {
-    "name": "3-Lobe: Infinite",
+    "name": "3-Lobe",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -36927,7 +36927,7 @@
     "tradeIn": false
   },
   "5450": {
-    "name": "Zoko: Inverted",
+    "name": "Zoko",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -36971,7 +36971,7 @@
     "tradeIn": true
   },
   "5457": {
-    "name": "Polyergic: Inverted",
+    "name": "Polyergic",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -37268,7 +37268,7 @@
     "tradeIn": false
   },
   "5496": {
-    "name": "Esoto 4R: Inverted",
+    "name": "Esoto 4R",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -37796,7 +37796,7 @@
     "tradeIn": false
   },
   "5548": {
-    "name": "Intercross: Inverted",
+    "name": "Intercross",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -38137,7 +38137,7 @@
     "tradeIn": false
   },
   "5608": {
-    "name": "MTRX: Inverted",
+    "name": "MTRX",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38610,7 +38610,7 @@
     "tradeIn": false
   },
   "5675": {
-    "name": "Burner: Inverted",
+    "name": "Burner",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -39127,7 +39127,7 @@
     "tradeIn": false
   },
   "5746": {
-    "name": "Spanner: Inverted",
+    "name": "Spanner",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -39171,7 +39171,7 @@
     "tradeIn": false
   },
   "5751": {
-    "name": "Bravado: Infinite",
+    "name": "Bravado",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -40601,7 +40601,7 @@
     "tradeIn": false
   },
   "5908": {
-    "name": "Grievance: Inverted",
+    "name": "Grievance",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -40744,7 +40744,7 @@
     "tradeIn": false
   },
   "5924": {
-    "name": "Zadeh S3: Inverted",
+    "name": "Zadeh S3",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -41338,7 +41338,7 @@
     "tradeIn": false
   },
   "6019": {
-    "name": "Astro-CSX: Inverted",
+    "name": "Astro-CSX",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -42042,7 +42042,7 @@
     "tradeIn": false
   },
   "6117": {
-    "name": "Poppet: Inverted",
+    "name": "Poppet",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -42691,7 +42691,7 @@
     "tradeIn": false
   },
   "6191": {
-    "name": "Crosspiece: Holographic",
+    "name": "Crosspiece",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -42713,7 +42713,7 @@
     "tradeIn": true
   },
   "6193": {
-    "name": "Tanker: Infinite",
+    "name": "Tanker",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -42790,7 +42790,7 @@
     "tradeIn": false
   },
   "6200": {
-    "name": "Gadabout: Inverted",
+    "name": "Gadabout",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -42801,7 +42801,7 @@
     "tradeIn": false
   },
   "6201": {
-    "name": "Ruinator: Inverted",
+    "name": "Ruinator",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -43153,7 +43153,7 @@
     "tradeIn": false
   },
   "6245": {
-    "name": "Twista: Inverted",
+    "name": "Twista",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -43175,7 +43175,7 @@
     "tradeIn": false
   },
   "6248": {
-    "name": "Twista: Infinite",
+    "name": "Twista",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -43713,6 +43713,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "6414": {
+    "name": "Atlanta Falcons",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6423": {
+    "name": "Baltimore Ravens",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "6467": {
     "name": "BMW M240i: United In Rivalry",
     "blueprint": false,
@@ -43798,6 +43820,17 @@
     "currency": false,
     "quality": 4,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6556": {
+    "name": "Arizona Cardinals",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
     "tradable": false,
     "tradeIn": false
   },
@@ -43889,6 +43922,138 @@
     "tradable": false,
     "tradeIn": false
   },
+  "6619": {
+    "name": "Buffalo Bills",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6620": {
+    "name": "Chicago Bears",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6621": {
+    "name": "Cleveland Browns",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6622": {
+    "name": "Dallas Cowboys",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6623": {
+    "name": "Detroit Lions",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6624": {
+    "name": "Green Bay Packers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6625": {
+    "name": "Houston Texans",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6626": {
+    "name": "Indianapolis Colts",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6655": {
+    "name": "Jacksonville Jaguars",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6656": {
+    "name": "Kansas City Chiefs",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6657": {
+    "name": "Los Angeles Chargers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6658": {
+    "name": "Los Angeles Rams",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "6688": {
     "name": "Dominus: Team Queso (Home)",
     "blueprint": false,
@@ -43977,6 +44142,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "6703": {
+    "name": "Las Vegas Raiders",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "6704": {
     "name": "007's Aston Martin Valhalla: Reel Life",
     "blueprint": false,
@@ -44062,6 +44238,171 @@
     "currency": false,
     "quality": 3,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6716": {
+    "name": "Carolina Panthers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6717": {
+    "name": "Cincinnati Bengals",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6718": {
+    "name": "Denver Broncos",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6719": {
+    "name": "Miami Dolphins",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6720": {
+    "name": "Minnesota Vikings",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6721": {
+    "name": "New England Patriots",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6722": {
+    "name": "New Orleans Saints",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6723": {
+    "name": "New York Giants",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6724": {
+    "name": "New York Jets",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6725": {
+    "name": "Philadelphia Eagles",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6726": {
+    "name": "Pittsburgh Steelers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6727": {
+    "name": "Seattle Seahawks",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6729": {
+    "name": "Tampa Bay Buccaneers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6730": {
+    "name": "Tennessee Titans",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6731": {
+    "name": "Washington Football Team",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
     "tradable": false,
     "tradeIn": false
   },
@@ -45140,6 +45481,17 @@
     "currency": false,
     "quality": 8,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6834": {
+    "name": "San Francisco 49ers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
     "tradable": false,
     "tradeIn": false
   },
@@ -46563,7 +46915,7 @@
     "tradeIn": false
   },
   "6984": {
-    "name": "Canister: Infinite",
+    "name": "Canister",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -47058,7 +47410,7 @@
     "tradeIn": false
   },
   "7047": {
-    "name": "Glonex: Holographic",
+    "name": "Glonex",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -47201,7 +47553,7 @@
     "tradeIn": false
   },
   "7065": {
-    "name": "Prop-L: Inverted",
+    "name": "Prop-L",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -47322,7 +47674,7 @@
     "tradeIn": false
   },
   "7078": {
-    "name": "Chakram: Holographic",
+    "name": "Chakram",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -47453,6 +47805,358 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7092": {
+    "name": "Breakout: Arizona Cardinals",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7093": {
+    "name": "Breakout: Atlanta Falcons",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7094": {
+    "name": "Breakout: Baltimore Ravens",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7095": {
+    "name": "Breakout: Buffalo Bills",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7096": {
+    "name": "Breakout: Carolina Panthers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7097": {
+    "name": "Breakout: Chicago Bears",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7098": {
+    "name": "Breakout: Cincinnati Bengals",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7099": {
+    "name": "Breakout: Cleveland Browns",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7100": {
+    "name": "Breakout: Dallas Cowboys",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7101": {
+    "name": "Breakout: Denver Broncos",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7102": {
+    "name": "Breakout: Detroit Lions",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7103": {
+    "name": "Breakout: Green Bay Packers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7104": {
+    "name": "Breakout: Houston Texans",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7105": {
+    "name": "Breakout: Indianapolis Colts",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7106": {
+    "name": "Breakout: Jacksonville Jaguars",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7107": {
+    "name": "Breakout: Kansas City Chiefs",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7108": {
+    "name": "Breakout: Los Angeles Chargers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7109": {
+    "name": "Breakout: Los Angeles Rams",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7110": {
+    "name": "Breakout: Las Vegas Raiders",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7111": {
+    "name": "Breakout: Miami Dolphins",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7112": {
+    "name": "Breakout: Minnesota Vikings",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7113": {
+    "name": "Breakout: New England Patriots",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7114": {
+    "name": "Breakout: New Orleans Saints",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7115": {
+    "name": "Breakout: New York Giants",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7116": {
+    "name": "Breakout: New York Jets",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7117": {
+    "name": "Breakout: Philadelphia Eagles",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7118": {
+    "name": "Breakout: Pittsburgh Steelers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7119": {
+    "name": "Breakout: San Francisco 49ers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7120": {
+    "name": "Breakout: Seattle Seahawks",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7121": {
+    "name": "Breakout: Tampa Bay Buccaneers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7122": {
+    "name": "Breakout: Tennessee Titans",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7123": {
+    "name": "Breakout: Washington Football Team",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7124": {
     "name": "Ford Mustang Shelby GT350R RLE",
     "blueprint": false,
@@ -47461,6 +48165,358 @@
     "currency": false,
     "quality": 0,
     "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7126": {
+    "name": "Fennec: Arizona Cardinals",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7128": {
+    "name": "Fennec: Atlanta Falcons",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7129": {
+    "name": "Fennec: Baltimore Ravens",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7130": {
+    "name": "Fennec: Buffalo Bills",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7131": {
+    "name": "Fennec: Carolina Panthers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7132": {
+    "name": "Fennec: Chicago Bears",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7133": {
+    "name": "Fennec: Cincinnati Bengals",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7134": {
+    "name": "Fennec: Cleveland Browns",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7135": {
+    "name": "Fennec: Dallas Cowboys",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7136": {
+    "name": "Fennec: Denver Broncos",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7137": {
+    "name": "Fennec: Detroit Lions",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7138": {
+    "name": "Fennec: Green Bay Packers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7139": {
+    "name": "Fennec: Houston Texans",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7140": {
+    "name": "Fennec: Indianapolis Colts",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7141": {
+    "name": "Fennec: Jacksonville Jaguars",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7142": {
+    "name": "Fennec: Kansas City Chiefs",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7143": {
+    "name": "Fennec: Los Angeles Chargers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7144": {
+    "name": "Fennec: Los Angeles Rams",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7145": {
+    "name": "Fennec: Las Vegas Raiders",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7146": {
+    "name": "Fennec: Miami Dolphins",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7147": {
+    "name": "Fennec: Minnesota Vikings",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7148": {
+    "name": "Fennec: New England Patriots",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7149": {
+    "name": "Fennec: New Orleans Saints",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7150": {
+    "name": "Fennec: New York Giants",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7151": {
+    "name": "Fennec: New York Jets",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7152": {
+    "name": "Fennec: Philadelphia Eagles",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7153": {
+    "name": "Fennec: Pittsburgh Steelers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7154": {
+    "name": "Fennec: San Francisco 49ers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7155": {
+    "name": "Fennec: Seattle Seahawks",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7156": {
+    "name": "Fennec: Tampa Bay Buccaneers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7157": {
+    "name": "Fennec: Tennessee Titans",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7158": {
+    "name": "Fennec: Washington Football Team",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
     "tradable": false,
     "tradeIn": false
   },
@@ -49001,6 +50057,50 @@
     "currency": false,
     "quality": 0,
     "slot": 22,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7466": {
+    "name": "Behind The Samples",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7467": {
+    "name": "You're Getting A Little Too Smart",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7468": {
+    "name": "Funky Worm",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7469": {
+    "name": "Amen Brother",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
     "tradable": false,
     "tradeIn": false
   },

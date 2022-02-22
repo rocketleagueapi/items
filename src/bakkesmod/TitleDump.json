@@ -2170,6 +2170,11 @@
 		"Title Database Color": "#00FFAA"
 	},
 	{
+		"Title Database Id": "SE_FieldGeneral",
+		"Title Database Text": "Field General",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
 		"Title Database Id": "SE_PlayerOfGames",
 		"Title Database Text": "Player of Games",
 		"Title Database Color": "#FFFFFF"
@@ -2180,7 +2185,7 @@
 		"Title Database Color": "#FFFFFF"
 	},
 	{
-		"Title Database Id": "DisordLegend",
+		"Title Database Id": "DiscordLegend",
 		"Title Database Text": "Discord Legend",
 		"Title Database Color": "#00FFAA"
 	},

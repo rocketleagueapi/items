@@ -1555,6 +1555,10 @@
     "name": "Psyonix Hackathon Winner",
     "color": "#00FFAA"
   },
+  "SE_FieldGeneral": {
+    "name": "Field General",
+    "color": "#FFFFFF"
+  },
   "SE_PlayerOfGames": {
     "name": "Player of Games",
     "color": "#FFFFFF"
@@ -1563,7 +1567,7 @@
     "name": "Instigator",
     "color": "#FFFFFF"
   },
-  "DisordLegend": {
+  "DiscordLegend": {
     "name": "Discord Legend",
     "color": "#00FFAA"
   },

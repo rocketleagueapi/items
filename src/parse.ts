@@ -35,14 +35,15 @@ const specials = SpecialEditionDump.reduce((acc, s) => {
 write('specials', specials);
 
 const specialsInverse: Record<string, number> = Object.fromEntries(Object.entries(specials).map(a => a.reverse()));
-const specialPattern = new RegExp(`/: (?<special>(${Object.values(specials).join('|')}))$/`);
+const specialPattern = new RegExp(`: (${Object.values(specials).join('|')})$`);
 
 const products = ProductDump.reduce((acc, p) => {
     const untradable = p['Product Quality Id'] === 9 || (p['Product Quality Id'] === 0 && !p['Product Paintable']);
     const id = p['Product Id'];
-    const name = p['Product Long Label'];
+    let name = p['Product Long Label'];
 
     const match = name.match(specialPattern)?.[0] ?? '';
+    if (match) name = name.replace(specialPattern, '');
     const special = specialMap[id] ?? specialsInverse[match] ?? 0;
 
     acc[id] = {
