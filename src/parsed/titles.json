@@ -1606,5 +1606,105 @@
   "RLCS_21_22_Major_Contender": {
     "name": "RLCS 2021-22 Fall Major Contender",
     "color": "#AEF7FF"
+  },
+  "RP12_Super_Sketchy": {
+    "name": "Super Sketchy",
+    "color": "#FFFFFF"
+  },
+  "RP12_Tilted_Perspective": {
+    "name": "Tilted Perspective",
+    "color": "#FFFFFF"
+  },
+  "RP12_Artful_Dodger": {
+    "name": "Artful Dodger",
+    "color": "#FFFFFF"
+  },
+  "RP12_Flat_Washed": {
+    "name": "Flat Washed",
+    "color": "#FFFFFF"
+  },
+  "RP12_Major_Creator": {
+    "name": "Master Crafter",
+    "color": "#FFFFFF"
+  },
+  "RP12_The_Muse": {
+    "name": "The Muse",
+    "color": "#FFFFFF"
+  },
+  "RP12_Human_Highlight": {
+    "name": "Human Highlight",
+    "color": "#FFFFFF"
+  },
+  "S19_SSL_Rumble": {
+    "name": "S5 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S19_SSL_DropShot": {
+    "name": "S5 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S19_SSL_SnowDay": {
+    "name": "S5 Ice Titan",
+    "color": "#E8E8E8"
+  },
+  "S19_SSL_Hoops": {
+    "name": "S5 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "S19_SuperSonic_Legend": {
+    "name": "S5 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S19_Grand_Champion_Rumble": {
+    "name": "S5 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S19_Grand_Champion_DropShot": {
+    "name": "S5 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S19_Grand_Champion_SnowDay": {
+    "name": "S5 Blizzard Wizard",
+    "color": "#FF2800"
+  },
+  "S19_Grand_Champion_Hoops": {
+    "name": "S5 Dunk Master",
+    "color": "#FF2800"
+  },
+  "Season19GrandChampion": {
+    "name": "S5 Grand Champion",
+    "color": "#FF2800"
+  },
+  "AutoTour_06_Bronze": {
+    "name": "S6 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_06_Silver": {
+    "name": "S6 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_06_Gold": {
+    "name": "S6 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_06_Platinum": {
+    "name": "S6 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_06_Diamond": {
+    "name": "S6 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_06_Champion": {
+    "name": "S6 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_06_GrandChampion": {
+    "name": "S6 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_06_SuperSonicLegend": {
+    "name": "S6 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
   }
 }

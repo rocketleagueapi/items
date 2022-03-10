@@ -156,6 +156,10 @@
 		"Database Series Label": "Golden Lantern '19"
 	},
 	{
+		"Database Series Id": 2717,
+		"Database Series Label": "Accolade VI"
+	},
+	{
 		"Database Series Id": 902,
 		"Database Series Label": "Golden Egg '20"
 	},
@@ -202,5 +206,9 @@
 	{
 		"Database Series Id": 2699,
 		"Database Series Label": "Golden Moon"
+	},
+	{
+		"Database Series Id": 2737,
+		"Database Series Label": "Fornax"
 	}
 ]
