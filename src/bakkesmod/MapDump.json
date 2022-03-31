@@ -144,6 +144,12 @@
 		"Map Variant Name": "None"
 	},
 	{
+		"Map Base Name": "Neo Tokyo",
+		"Map File Name": "NeoTokyo_Toon_p",
+		"Map Weather Variant Id": 3,
+		"Map Variant Name": "Comic"
+	},
+	{
 		"Map Base Name": "AquaDome",
 		"Map File Name": "Underwater_P",
 		"Map Weather Variant Id": 2,

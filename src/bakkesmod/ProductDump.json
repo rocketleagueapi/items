@@ -246,7 +246,7 @@
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
-		"Product Quality Id": 3,
+		"Product Quality Id": 0,
 		"Slot Index": 0,
 		"Product Thumbnail Asset": "Body_Orion_T",
 		"Product Trade Restrictions": [ "None" ]
@@ -1933,8 +1933,8 @@
 	},
 	{
 		"Product Id": 165,
-		"Product Long Label": "Côte d'Ivoire",
-		"Product Short Sort Label": "Côte d'Ivoire",
+		"Product Long Label": "CÃ´te d'Ivoire",
+		"Product Short Sort Label": "CÃ´te d'Ivoire",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -2785,8 +2785,8 @@
 	},
 	{
 		"Product Id": 241,
-		"Product Long Label": "Brünnehilde",
-		"Product Short Sort Label": "Brünnehilde",
+		"Product Long Label": "BrÃ¼nnehilde",
+		"Product Short Sort Label": "BrÃ¼nnehilde",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -4417,8 +4417,8 @@
 	},
 	{
 		"Product Id": 400,
-		"Product Long Label": "Piñata",
-		"Product Short Sort Label": "Piñata",
+		"Product Long Label": "PiÃ±ata",
+		"Product Short Sort Label": "PiÃ±ata",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -6313,8 +6313,8 @@
 	},
 	{
 		"Product Id": 566,
-		"Product Long Label": "Réunion",
-		"Product Short Sort Label": "Réunion",
+		"Product Long Label": "RÃ©union",
+		"Product Short Sort Label": "RÃ©union",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -14329,8 +14329,8 @@
 	},
 	{
 		"Product Id": 1856,
-		"Product Long Label": "Jäger 619",
-		"Product Short Sort Label": "Jäger 619",
+		"Product Long Label": "JÃ¤ger 619",
+		"Product Short Sort Label": "JÃ¤ger 619",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -14377,8 +14377,8 @@
 	},
 	{
 		"Product Id": 1869,
-		"Product Long Label": "Jäger 619",
-		"Product Short Sort Label": "Jäger 619",
+		"Product Long Label": "JÃ¤ger 619",
+		"Product Short Sort Label": "JÃ¤ger 619",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -16093,7 +16093,7 @@
 	},
 	{
 		"Product Id": 2081,
-		"Product Long Label": "Jäger 619: Stripes",
+		"Product Long Label": "JÃ¤ger 619: Stripes",
 		"Product Short Sort Label": "Stripes",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -16141,7 +16141,7 @@
 	},
 	{
 		"Product Id": 2097,
-		"Product Long Label": "Jäger 619: The Summit",
+		"Product Long Label": "JÃ¤ger 619: The Summit",
 		"Product Short Sort Label": "The Summit",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -16153,7 +16153,7 @@
 	},
 	{
 		"Product Id": 2157,
-		"Product Long Label": "Jäger 619: Kraken",
+		"Product Long Label": "JÃ¤ger 619: Kraken",
 		"Product Short Sort Label": "Kraken",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -16525,7 +16525,7 @@
 	},
 	{
 		"Product Id": 2277,
-		"Product Long Label": "Jäger 619: Storm Warning",
+		"Product Long Label": "JÃ¤ger 619: Storm Warning",
 		"Product Short Sort Label": "Storm Warning",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -16537,7 +16537,7 @@
 	},
 	{
 		"Product Id": 2278,
-		"Product Long Label": "Jäger 619: Euphoria",
+		"Product Long Label": "JÃ¤ger 619: Euphoria",
 		"Product Short Sort Label": "Euphoria",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -17089,7 +17089,7 @@
 	},
 	{
 		"Product Id": 2378,
-		"Product Long Label": "Jäger 619: Circuit Pro",
+		"Product Long Label": "JÃ¤ger 619: Circuit Pro",
 		"Product Short Sort Label": "Circuit Pro",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -17137,7 +17137,7 @@
 	},
 	{
 		"Product Id": 2391,
-		"Product Long Label": "Jäger 619: Distortion",
+		"Product Long Label": "JÃ¤ger 619: Distortion",
 		"Product Short Sort Label": "Distortion",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -17149,7 +17149,7 @@
 	},
 	{
 		"Product Id": 2392,
-		"Product Long Label": "Jäger 619: Snakeskin",
+		"Product Long Label": "JÃ¤ger 619: Snakeskin",
 		"Product Short Sort Label": "Snakeskin",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -17161,7 +17161,7 @@
 	},
 	{
 		"Product Id": 2393,
-		"Product Long Label": "Jäger 619: Vector",
+		"Product Long Label": "JÃ¤ger 619: Vector",
 		"Product Short Sort Label": "Vector",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -18661,7 +18661,7 @@
 	},
 	{
 		"Product Id": 2548,
-		"Product Long Label": "Jäger 619: Mister Monsoon",
+		"Product Long Label": "JÃ¤ger 619: Mister Monsoon",
 		"Product Short Sort Label": "Mister Monsoon",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -18673,7 +18673,7 @@
 	},
 	{
 		"Product Id": 2549,
-		"Product Long Label": "Jäger 619: Shark Tooth",
+		"Product Long Label": "JÃ¤ger 619: Shark Tooth",
 		"Product Short Sort Label": "Shark Tooth",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -18685,7 +18685,7 @@
 	},
 	{
 		"Product Id": 2550,
-		"Product Long Label": "Jäger 619: Hip-Hop",
+		"Product Long Label": "JÃ¤ger 619: Hip-Hop",
 		"Product Short Sort Label": "Hip-Hop",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -18697,7 +18697,7 @@
 	},
 	{
 		"Product Id": 2551,
-		"Product Long Label": "Jäger 619: StarLighter",
+		"Product Long Label": "JÃ¤ger 619: StarLighter",
 		"Product Short Sort Label": "StarLighter",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -18937,7 +18937,7 @@
 	},
 	{
 		"Product Id": 2581,
-		"Product Long Label": "Jäger 619: XVI",
+		"Product Long Label": "JÃ¤ger 619: XVI",
 		"Product Short Sort Label": "XVI",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -19081,7 +19081,7 @@
 	},
 	{
 		"Product Id": 2599,
-		"Product Long Label": "Jäger 619: Camazotz",
+		"Product Long Label": "JÃ¤ger 619: Camazotz",
 		"Product Short Sort Label": "Camazotz",
 		"Product Currency": false,
 		"Product Blueprint": false,
@@ -20041,8 +20041,8 @@
 	},
 	{
 		"Product Id": 2729,
-		"Product Long Label": "Balla-Carrà",
-		"Product Short Sort Label": "Balla-Carrà",
+		"Product Long Label": "Balla-CarrÃ ",
+		"Product Short Sort Label": "Balla-CarrÃ ",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -21433,8 +21433,8 @@
 	},
 	{
 		"Product Id": 2919,
-		"Product Long Label": "Jurassic Jeep® Wrangler",
-		"Product Short Sort Label": "Jurassic Jeep® Wrangler",
+		"Product Long Label": "Jurassic JeepÂ® Wrangler",
+		"Product Short Sort Label": "Jurassic JeepÂ® Wrangler",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -21505,8 +21505,8 @@
 	},
 	{
 		"Product Id": 2927,
-		"Product Long Label": "Jurassic Jeep® Wrangler",
-		"Product Short Sort Label": "Jurassic Jeep® Wrangler",
+		"Product Long Label": "Jurassic JeepÂ® Wrangler",
+		"Product Short Sort Label": "Jurassic JeepÂ® Wrangler",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -21733,8 +21733,8 @@
 	},
 	{
 		"Product Id": 2955,
-		"Product Long Label": "Jurassic Jeep® Wrangler",
-		"Product Short Sort Label": "Jurassic Jeep® Wrangler",
+		"Product Long Label": "Jurassic JeepÂ® Wrangler",
+		"Product Short Sort Label": "Jurassic JeepÂ® Wrangler",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -26533,8 +26533,8 @@
 	},
 	{
 		"Product Id": 3608,
-		"Product Long Label": "Octane: Piñata Monster",
-		"Product Short Sort Label": "Piñata Monster",
+		"Product Long Label": "Octane: PiÃ±ata Monster",
+		"Product Short Sort Label": "PiÃ±ata Monster",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -40753,8 +40753,8 @@
 	},
 	{
 		"Product Id": 5442,
-		"Product Long Label": "Jäger 619",
-		"Product Short Sort Label": "Jäger 619",
+		"Product Long Label": "JÃ¤ger 619",
+		"Product Short Sort Label": "JÃ¤ger 619",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -42241,8 +42241,8 @@
 	},
 	{
 		"Product Id": 5617,
-		"Product Long Label": "Octane: Pelé",
-		"Product Short Sort Label": "Pelé",
+		"Product Long Label": "Octane: PelÃ©",
+		"Product Short Sort Label": "PelÃ©",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -42289,8 +42289,8 @@
 	},
 	{
 		"Product Id": 5621,
-		"Product Long Label": "Pelé",
-		"Product Short Sort Label": "Pelé",
+		"Product Long Label": "PelÃ©",
+		"Product Short Sort Label": "PelÃ©",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -42301,8 +42301,8 @@
 	},
 	{
 		"Product Id": 5622,
-		"Product Long Label": "Pelé",
-		"Product Short Sort Label": "Pelé",
+		"Product Long Label": "PelÃ©",
+		"Product Short Sort Label": "PelÃ©",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -44329,8 +44329,8 @@
 	},
 	{
 		"Product Id": 5853,
-		"Product Long Label": "Pelé",
-		"Product Short Sort Label": "Pelé",
+		"Product Long Label": "PelÃ©",
+		"Product Short Sort Label": "PelÃ©",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -45349,8 +45349,8 @@
 	},
 	{
 		"Product Id": 5964,
-		"Product Long Label": "Lamborghini Huracán STO",
-		"Product Short Sort Label": "Lamborghini Huracán STO",
+		"Product Long Label": "Lamborghini HuracÃ¡n STO",
+		"Product Short Sort Label": "Lamborghini HuracÃ¡n STO",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -45457,8 +45457,8 @@
 	},
 	{
 		"Product Id": 5980,
-		"Product Long Label": "Lamborghini Huracán STO",
-		"Product Short Sort Label": "Lamborghini Huracán STO",
+		"Product Long Label": "Lamborghini HuracÃ¡n STO",
+		"Product Short Sort Label": "Lamborghini HuracÃ¡n STO",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -45481,8 +45481,8 @@
 	},
 	{
 		"Product Id": 5982,
-		"Product Long Label": "Lamborghini Huracán STO v1",
-		"Product Short Sort Label": "Lamborghini Huracán STO v1",
+		"Product Long Label": "Lamborghini HuracÃ¡n STO v1",
+		"Product Short Sort Label": "Lamborghini HuracÃ¡n STO v1",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -45601,8 +45601,8 @@
 	},
 	{
 		"Product Id": 6003,
-		"Product Long Label": "Lamborghini Huracán STO v2",
-		"Product Short Sort Label": "Lamborghini Huracán STO v2",
+		"Product Long Label": "Lamborghini HuracÃ¡n STO v2",
+		"Product Short Sort Label": "Lamborghini HuracÃ¡n STO v2",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -45613,8 +45613,8 @@
 	},
 	{
 		"Product Id": 6004,
-		"Product Long Label": "Lamborghini Huracán STO: Lamborghini Huracán STO",
-		"Product Short Sort Label": "Lamborghini Huracán STO",
+		"Product Long Label": "Lamborghini HuracÃ¡n STO: Lamborghini HuracÃ¡n STO",
+		"Product Short Sort Label": "Lamborghini HuracÃ¡n STO",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -45625,8 +45625,8 @@
 	},
 	{
 		"Product Id": 6006,
-		"Product Long Label": "Lamborghini Huracán STO",
-		"Product Short Sort Label": "Lamborghini Huracán STO",
+		"Product Long Label": "Lamborghini HuracÃ¡n STO",
+		"Product Short Sort Label": "Lamborghini HuracÃ¡n STO",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -45853,8 +45853,8 @@
 	},
 	{
 		"Product Id": 6027,
-		"Product Long Label": "Lamborghini Huracán STO",
-		"Product Short Sort Label": "Lamborghini Huracán STO",
+		"Product Long Label": "Lamborghini HuracÃ¡n STO",
+		"Product Short Sort Label": "Lamborghini HuracÃ¡n STO",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -45936,6 +45936,18 @@
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
+		"Product Id": 6034,
+		"Product Long Label": "Ninja Star BL",
+		"Product Short Sort Label": "Ninja Star BL",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 7,
+		"Slot Index": 3,
+		"Product Thumbnail Asset": "boost_ninjastar_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 6035,
 		"Product Long Label": "Formula 1 2021: Haas 2021",
 		"Product Short Sort Label": "Haas 2021",
@@ -45945,6 +45957,18 @@
 		"Product Quality Id": 4,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "skin_fracture_haa_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6036,
+		"Product Long Label": "Seeing Stars BL",
+		"Product Short Sort Label": "Seeing Stars BL",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 7,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "hat_stars_psplus_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -45969,6 +45993,18 @@
 		"Product Quality Id": 4,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "skin_fracture_Wil_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6040,
+		"Product Long Label": "Spoof Star BL",
+		"Product Short Sort Label": "Spoof Star BL",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 7,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "wheel_toon_psplus_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -46497,6 +46533,18 @@
 		"Product Quality Id": 0,
 		"Slot Index": 13,
 		"Product Thumbnail Asset": "engineaudio_rattrap_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6108,
+		"Product Long Label": "Octane: Starscape Jr. BL",
+		"Product Short Sort Label": "Starscape Jr. BL",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 7,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_octane_dream_PSPlus_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -47437,8 +47485,8 @@
 	},
 	{
 		"Product Id": 6207,
-		"Product Long Label": "Jurassic Jeep® Wrangler",
-		"Product Short Sort Label": "Jurassic Jeep® Wrangler",
+		"Product Long Label": "Jurassic JeepÂ® Wrangler",
+		"Product Short Sort Label": "Jurassic JeepÂ® Wrangler",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -50304,6 +50352,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 6828,
+		"Product Long Label": "Fennec: RLCS 2021-22",
+		"Product Short Sort Label": "RLCS 2021-22",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Product Quality Id": 8,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "Skin_Grain_Thornbrow_Anim_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 6829,
 		"Product Long Label": "Harley Quinn",
 		"Product Short Sort Label": "Harley Quinn",
@@ -52677,6 +52737,18 @@
 		"Product Quality Id": 0,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "skin_norton_lightning_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7062,
+		"Product Long Label": "Next Gen Goodyear Racing",
+		"Product Short Sort Label": "Next Gen Goodyear Racing",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "wheel_scar_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -55440,6 +55512,30 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 7337,
+		"Product Long Label": "Next Gen NASCAR Chevrolet Camaro",
+		"Product Short Sort Label": "Next Gen NASCAR Chevrolet Camaro",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 0,
+		"Product Thumbnail Asset": "body_scar_b_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7338,
+		"Product Long Label": "Next Gen NASCAR Ford Mustang",
+		"Product Short Sort Label": "Next Gen NASCAR Ford Mustang",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 0,
+		"Product Thumbnail Asset": "body_scar_a_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 7339,
 		"Product Long Label": "Slurpee",
 		"Product Short Sort Label": "Slurpee",
@@ -55461,6 +55557,18 @@
 		"Product Quality Id": 8,
 		"Slot Index": 5,
 		"Product Thumbnail Asset": "hat_tiger_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7341,
+		"Product Long Label": "Next Gen NASCAR Toyota Camry",
+		"Product Short Sort Label": "Next Gen NASCAR Toyota Camry",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 0,
+		"Product Thumbnail Asset": "body_scar_c_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -55693,8 +55801,8 @@
 	},
 	{
 		"Product Id": 7376,
-		"Product Long Label": "Painted Piñata",
-		"Product Short Sort Label": "Painted Piñata",
+		"Product Long Label": "Painted PiÃ±ata",
+		"Product Short Sort Label": "Painted PiÃ±ata",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -55705,8 +55813,8 @@
 	},
 	{
 		"Product Id": 7377,
-		"Product Long Label": "Fútbol",
-		"Product Short Sort Label": "Fútbol",
+		"Product Long Label": "FÃºtbol",
+		"Product Short Sort Label": "FÃºtbol",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": true,
@@ -56580,6 +56688,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 7462,
+		"Product Long Label": "Octane: Fred",
+		"Product Short Sort Label": "Fred",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "Skin_Octane_Elvesb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 7463,
 		"Product Long Label": "Speedy Turtle",
 		"Product Short Sort Label": "Speedy Turtle",
@@ -56688,6 +56808,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 7473,
+		"Product Long Label": "Big Bite",
+		"Product Short Sort Label": "Big Bite",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "Hat_elvesb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 7475,
 		"Product Long Label": "Anvil",
 		"Product Short Sort Label": "Anvil",
@@ -56712,6 +56844,18 @@
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
+		"Product Id": 7479,
+		"Product Long Label": "Rival: Infinite",
+		"Product Short Sort Label": "Rival: Infinite",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Product Quality Id": 8,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "Wheel_Alpine_Infinite_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 7487,
 		"Product Long Label": "Mamba",
 		"Product Short Sort Label": "Mamba",
@@ -56721,6 +56865,90 @@
 		"Product Quality Id": 0,
 		"Slot Index": 13,
 		"Product Thumbnail Asset": "engineaudio_maser_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7496,
+		"Product Long Label": "Lamborghini Countach LPI 800-4",
+		"Product Short Sort Label": "Lamborghini Countach LPI 800-4",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 13,
+		"Product Thumbnail Asset": "EngineAudio_Rage_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7498,
+		"Product Long Label": "Next Gen NASCAR Toyota Camry: Joe Gibbs Racing #19",
+		"Product Short Sort Label": "Joe Gibbs Racing #19",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_c_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7499,
+		"Product Long Label": "Next Gen NASCAR Ford Mustang: Stewart-Haas Racing #4",
+		"Product Short Sort Label": "Stewart-Haas Racing #4",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_a_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7500,
+		"Product Long Label": "Next Gen NASCAR Ford Mustang: Front Row Motorsports #34",
+		"Product Short Sort Label": "Front Row Motorsports #34",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_a_03_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7501,
+		"Product Long Label": "Next Gen NASCAR Ford Mustang",
+		"Product Short Sort Label": "Next Gen NASCAR Ford Mustang",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 13,
+		"Product Thumbnail Asset": "engineaudio_scar_a_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7502,
+		"Product Long Label": "Next Gen NASCAR Chevrolet Camaro",
+		"Product Short Sort Label": "Next Gen NASCAR Chevrolet Camaro",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 13,
+		"Product Thumbnail Asset": "engineaudio_scar_b_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7503,
+		"Product Long Label": "Next Gen NASCAR Toyota Camry",
+		"Product Short Sort Label": "Next Gen NASCAR Toyota Camry",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 13,
+		"Product Thumbnail Asset": "engineaudio_scar_c_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -56734,5 +56962,389 @@
 		"Slot Index": 2,
 		"Product Thumbnail Asset": "Wheel_LatchKey_T",
 		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
+		"Product Id": 7512,
+		"Product Long Label": "Lamborghini Countach LPI 800-4",
+		"Product Short Sort Label": "Lamborghini Countach LPI 800-4",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 5,
+		"Slot Index": 0,
+		"Product Thumbnail Asset": "body_rage_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7513,
+		"Product Long Label": "Next Gen NASCAR Chevrolet Camaro: Hendrick Motorsports #5",
+		"Product Short Sort Label": "Hendrick Motorsports #5",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_b_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7514,
+		"Product Long Label": "Next Gen NASCAR Chevrolet Camaro: JR Motorsports #7",
+		"Product Short Sort Label": "JR Motorsports #7",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_b_02_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7515,
+		"Product Long Label": "Next Gen NASCAR Chevrolet Camaro: Trackhouse Racing #1",
+		"Product Short Sort Label": "Trackhouse Racing #1",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_b_03_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7516,
+		"Product Long Label": "Lamborghini Countach LPI 800-4",
+		"Product Short Sort Label": "Lamborghini Countach LPI 800-4",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "wheel_rage_a_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7517,
+		"Product Long Label": "Lamborghini Countach LPI 800-4: Argento Luna",
+		"Product Short Sort Label": "Argento Luna",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_rage_a_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7518,
+		"Product Long Label": "Next Gen NASCAR Chevrolet Camaro: Richard Childress Racing #8",
+		"Product Short Sort Label": "Richard Childress Racing #8",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_b_04_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7523,
+		"Product Long Label": "Lamborghini Countach 70's",
+		"Product Short Sort Label": "Lamborghini Countach 70's",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 5,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "wheel_rage_b_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7524,
+		"Product Long Label": "Brainfreeze",
+		"Product Short Sort Label": "Brainfreeze",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 8,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "wheel_elvesb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7534,
+		"Product Long Label": "Behind the Scenes",
+		"Product Short Sort Label": "Behind the Scenes",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Album_Anthem_WHM2022_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7535,
+		"Product Long Label": "What's Up?",
+		"Product Short Sort Label": "What's Up?",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_WHM2022_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7536,
+		"Product Long Label": "Get the Party Started",
+		"Product Short Sort Label": "Get the Party Started",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_WHM2022_02_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7537,
+		"Product Long Label": "Open Your Eyes",
+		"Product Short Sort Label": "Open Your Eyes",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_WHM2022_03_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7539,
+		"Product Long Label": "Next Gen NASCAR Ford Mustang: RFK Racing #17",
+		"Product Short Sort Label": "RFK Racing #17",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_a_02_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7540,
+		"Product Long Label": "Next Gen NASCAR Ford Mustang: Team Penske #12",
+		"Product Short Sort Label": "Team Penske #12",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_scar_a_04_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7541,
+		"Product Long Label": "Candyland",
+		"Product Short Sort Label": "Candyland",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 4,
+		"Product Thumbnail Asset": "Flag_MC_Candyland_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7544,
+		"Product Long Label": "GG Magree",
+		"Product Short Sort Label": "GG Magree",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 4,
+		"Product Thumbnail Asset": "Flag_MC_GGMagree_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7546,
+		"Product Long Label": "ROBO-Visor Plus",
+		"Product Short Sort Label": "ROBO-Visor Plus",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 7,
+		"Slot Index": 5,
+		"Product Thumbnail Asset": "hat_futureglasses_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7547,
+		"Product Long Label": "Clodhopper Plus",
+		"Product Short Sort Label": "Clodhopper Plus",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 7,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "wheel_crote_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7551,
+		"Product Long Label": "Shield Glitch Plus",
+		"Product Short Sort Label": "Shield Glitch Plus",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 7,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_triangleflip_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7552,
+		"Product Long Label": "Stewart-Haas Racing #4",
+		"Product Short Sort Label": "Stewart-Haas Racing #4",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_a_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7553,
+		"Product Long Label": "RFK Racing #17",
+		"Product Short Sort Label": "RFK Racing #17",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_a_02_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7554,
+		"Product Long Label": "Front Row Motorsports #34",
+		"Product Short Sort Label": "Front Row Motorsports #34",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_a_03_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7555,
+		"Product Long Label": "Team Penske #12",
+		"Product Short Sort Label": "Team Penske #12",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_a_04_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7556,
+		"Product Long Label": "Hendrick Motorsports #5",
+		"Product Short Sort Label": "Hendrick Motorsports #5",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_b_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7557,
+		"Product Long Label": "JR Motorsports #7",
+		"Product Short Sort Label": "JR Motorsports #7",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_b_02_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7558,
+		"Product Long Label": "Trackhouse Racing #1",
+		"Product Short Sort Label": "Trackhouse Racing #1",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_b_03_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7559,
+		"Product Long Label": "Richard Childress Racing #8",
+		"Product Short Sort Label": "Richard Childress Racing #8",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_b_04_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7560,
+		"Product Long Label": "Joe Gibbs Racing #19",
+		"Product Short Sort Label": "Joe Gibbs Racing #19",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_scar_c_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7561,
+		"Product Long Label": "Virtual Wave Plus",
+		"Product Short Sort Label": "Virtual Wave Plus",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Product Quality Id": 7,
+		"Slot Index": 3,
+		"Product Thumbnail Asset": "boost_techy_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7571,
+		"Product Long Label": "FALL (Clean)",
+		"Product Short Sort Label": "FALL (Clean)",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_Shell_01_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7592,
+		"Product Long Label": "Lamborghini Countach LPI 800-4",
+		"Product Short Sort Label": "Lamborghini Countach LPI 800-4",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_rage_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	}
 ]
