@@ -2398,5 +2398,55 @@
 		"Title Database Id": "AutoTour_06_SuperSonicLegend",
 		"Title Database Text": "S6 {Legend} Tournament Winner",
 		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "SE_KnockoutArtist",
+		"Title Database Text": "Knockout Artist",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RLCS_WinterMajor_Champion",
+		"Title Database Text": "RLCS Winter Major Champion",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_WinterMajor_Finalist",
+		"Title Database Text": "RLCS Winter Major Finalist",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_WinterMajor_Elite",
+		"Title Database Text": "RLCS Winter Major Elite",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_WinterMajor_Contender",
+		"Title Database Text": "RLCS Winter Major Contender",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "CRL_Spring_22_Champion",
+		"Title Database Text": "CRL Spring 2022 Champion",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_22_Elite",
+		"Title Database Text": "CRL Spring 2022 Elite",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_22_Contender",
+		"Title Database Text": "CRL Spring 2022 Contender",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_22_WorldChampion",
+		"Title Database Text": "CRL 2022 World Champion",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "SE_FreePlayerTitle",
+		"Title Database Text": "Free Player Title",
+		"Title Database Color": "#FFFFFF"
 	}
 ]

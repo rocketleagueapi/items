@@ -1706,5 +1706,45 @@
   "AutoTour_06_SuperSonicLegend": {
     "name": "S6 {Legend} Tournament Winner",
     "color": "#FF8DDD"
+  },
+  "SE_KnockoutArtist": {
+    "name": "Knockout Artist",
+    "color": "#FFFFFF"
+  },
+  "RLCS_WinterMajor_Champion": {
+    "name": "RLCS Winter Major Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_WinterMajor_Finalist": {
+    "name": "RLCS Winter Major Finalist",
+    "color": "#AEF7FF"
+  },
+  "RLCS_WinterMajor_Elite": {
+    "name": "RLCS Winter Major Elite",
+    "color": "#AEF7FF"
+  },
+  "RLCS_WinterMajor_Contender": {
+    "name": "RLCS Winter Major Contender",
+    "color": "#AEF7FF"
+  },
+  "CRL_Spring_22_Champion": {
+    "name": "CRL Spring 2022 Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_22_Elite": {
+    "name": "CRL Spring 2022 Elite",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_22_Contender": {
+    "name": "CRL Spring 2022 Contender",
+    "color": "#FFEB5C"
+  },
+  "CRL_Spring_22_WorldChampion": {
+    "name": "CRL 2022 World Champion",
+    "color": "#FFEB5C"
+  },
+  "SE_FreePlayerTitle": {
+    "name": "Free Player Title",
+    "color": "#FFFFFF"
   }
 }

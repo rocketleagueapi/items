@@ -23,6 +23,30 @@
     "ranked": false,
     "players": 4
   },
+  "6": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 5
+  },
+  "7": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 4
+  },
+  "8": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 4
+  },
+  "9": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 4
+  },
   "10": {
     "name": "Duel",
     "description": "Ranked one-on-one",
@@ -65,11 +89,47 @@
     "ranked": false,
     "players": 3
   },
+  "19": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 4
+  },
+  "20": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 4
+  },
+  "21": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 4
+  },
+  "22": {
+    "name": "Tournament Match",
+    "description": "None",
+    "ranked": true,
+    "players": 4
+  },
   "23": {
     "name": "Dropshot",
     "description": "Break the floor and score",
     "ranked": false,
     "players": 3
+  },
+  "24": {
+    "name": "None",
+    "description": "None",
+    "ranked": false,
+    "players": 5
+  },
+  "26": {
+    "name": "External Match",
+    "description": "None",
+    "ranked": true,
+    "players": 4
   },
   "27": {
     "name": "Hoops",
@@ -188,6 +248,18 @@
   "52": {
     "name": "Gotham City Rumble",
     "description": "Gotham City's Super-Villains have taken over Rumble! All power-ups in Gotham City Rumble are themed after Batman and his Rogues Gallery. Hit Beckwith Park (Gotham Night) in this epic showdown between good and evil!",
+    "ranked": false,
+    "players": 3
+  },
+  "54": {
+    "name": "Knockout",
+    "description": "<font color=\"#7bfcff\">In this destructive derby, only the strong survive. 3 lives each, and the last car standing wins!</font>\n\n<b>Attack</b>: Dodge into your opponents to send them flying.\n\n<b>Block</b>: Backward dodge to reflect damage back at attacking players.\n\n<b>Grab</b>: Hold GP_LTrigger while dodging to Grab an opponent. Dodge again to throw.",
+    "ranked": false,
+    "players": 4
+  },
+  "55": {
+    "name": "confidential_thirdwheel_test",
+    "description": "Scout will fill this in later. Try to make 3 wheels sound like a good thing.",
     "ranked": false,
     "players": 3
   }

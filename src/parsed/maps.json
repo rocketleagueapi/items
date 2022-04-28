@@ -95,6 +95,10 @@
     "name": "Neo Tokyo",
     "variant": "None"
   },
+  "NeoTokyo_Toon_p": {
+    "name": "Neo Tokyo",
+    "variant": "Comic"
+  },
   "Underwater_P": {
     "name": "AquaDome",
     "variant": "None"

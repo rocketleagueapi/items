@@ -225,7 +225,7 @@
     "special": 0,
     "paintable": true,
     "currency": false,
-    "quality": 3,
+    "quality": 0,
     "slot": 0,
     "tradable": true,
     "tradeIn": true
@@ -1749,7 +1749,7 @@
     "tradeIn": false
   },
   "165": {
-    "name": "C�te d'Ivoire",
+    "name": "Côte d'Ivoire",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -2530,7 +2530,7 @@
     "tradeIn": true
   },
   "241": {
-    "name": "Br�nnehilde",
+    "name": "Brünnehilde",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -4015,7 +4015,7 @@
     "tradeIn": true
   },
   "400": {
-    "name": "Pi�ata",
+    "name": "Piñata",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -5753,7 +5753,7 @@
     "tradeIn": false
   },
   "566": {
-    "name": "R�union",
+    "name": "Réunion",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -11124,7 +11124,7 @@
     "name": "Breakout Type-S: Distortion",
     "blueprint": false,
     "special": 0,
-    "paintable": false,
+    "paintable": true,
     "currency": false,
     "quality": 4,
     "slot": 1,
@@ -11150,8 +11150,8 @@
     "currency": false,
     "quality": 3,
     "slot": 1,
-    "tradable": true,
-    "tradeIn": true
+    "tradable": false,
+    "tradeIn": false
   },
   "1619": {
     "name": "Octane ZSR: Distortion",
@@ -13002,7 +13002,7 @@
     "tradeIn": false
   },
   "1856": {
-    "name": "J�ger 619",
+    "name": "Jäger 619",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -13046,7 +13046,7 @@
     "tradeIn": false
   },
   "1869": {
-    "name": "J�ger 619",
+    "name": "Jäger 619",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14608,7 +14608,7 @@
     "tradeIn": true
   },
   "2081": {
-    "name": "J�ger 619: Stripes",
+    "name": "Jäger 619: Stripes",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14641,7 +14641,7 @@
     "tradeIn": false
   },
   "2097": {
-    "name": "J�ger 619: The Summit",
+    "name": "Jäger 619: The Summit",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14652,7 +14652,7 @@
     "tradeIn": false
   },
   "2157": {
-    "name": "J�ger 619: Kraken",
+    "name": "Jäger 619: Kraken",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14993,7 +14993,7 @@
     "tradeIn": true
   },
   "2277": {
-    "name": "J�ger 619: Storm Warning",
+    "name": "Jäger 619: Storm Warning",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15004,7 +15004,7 @@
     "tradeIn": false
   },
   "2278": {
-    "name": "J�ger 619: Euphoria",
+    "name": "Jäger 619: Euphoria",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15455,7 +15455,7 @@
     "tradeIn": true
   },
   "2378": {
-    "name": "J�ger 619: Circuit Pro",
+    "name": "Jäger 619: Circuit Pro",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15499,7 +15499,7 @@
     "tradeIn": false
   },
   "2391": {
-    "name": "J�ger 619: Distortion",
+    "name": "Jäger 619: Distortion",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15510,7 +15510,7 @@
     "tradeIn": false
   },
   "2392": {
-    "name": "J�ger 619: Snakeskin",
+    "name": "Jäger 619: Snakeskin",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15521,7 +15521,7 @@
     "tradeIn": true
   },
   "2393": {
-    "name": "J�ger 619: Vector",
+    "name": "Jäger 619: Vector",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16885,7 +16885,7 @@
     "tradeIn": true
   },
   "2548": {
-    "name": "J�ger 619: Mister Monsoon",
+    "name": "Jäger 619: Mister Monsoon",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16896,7 +16896,7 @@
     "tradeIn": true
   },
   "2549": {
-    "name": "J�ger 619: Shark Tooth",
+    "name": "Jäger 619: Shark Tooth",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16907,7 +16907,7 @@
     "tradeIn": true
   },
   "2550": {
-    "name": "J�ger 619: Hip-Hop",
+    "name": "Jäger 619: Hip-Hop",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16918,7 +16918,7 @@
     "tradeIn": true
   },
   "2551": {
-    "name": "J�ger 619: StarLighter",
+    "name": "Jäger 619: StarLighter",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17138,7 +17138,7 @@
     "tradeIn": true
   },
   "2581": {
-    "name": "J�ger 619: XVI",
+    "name": "Jäger 619: XVI",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17270,7 +17270,7 @@
     "tradeIn": true
   },
   "2599": {
-    "name": "J�ger 619: Camazotz",
+    "name": "Jäger 619: Camazotz",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -18128,7 +18128,7 @@
     "tradeIn": true
   },
   "2729": {
-    "name": "Balla-Carr�",
+    "name": "Balla-Carrà",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -19404,7 +19404,7 @@
     "tradeIn": true
   },
   "2919": {
-    "name": "Jurassic Jeep� Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -19470,7 +19470,7 @@
     "tradeIn": false
   },
   "2927": {
-    "name": "Jurassic Jeep� Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -19679,7 +19679,7 @@
     "tradeIn": true
   },
   "2955": {
-    "name": "Jurassic Jeep� Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -20945,6 +20945,17 @@
   },
   "3167": {
     "name": "Ink Wash",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "3170": {
+    "name": "Rosie",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -24079,7 +24090,7 @@
     "tradeIn": false
   },
   "3608": {
-    "name": "Octane: Pi�ata Monster",
+    "name": "Octane: Piñata Monster",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -32614,6 +32625,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "4782": {
+    "name": "Psyclops",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 1,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
   "4783": {
     "name": "HoloData",
     "blueprint": false,
@@ -33834,6 +33856,17 @@
     "slot": 16,
     "tradable": true,
     "tradeIn": true
+  },
+  "4960": {
+    "name": "Golden Gift Basket '22",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": true,
+    "tradeIn": false
   },
   "4961": {
     "name": "Mr. Floeberg",
@@ -37103,7 +37136,7 @@
     "tradeIn": false
   },
   "5442": {
-    "name": "J�ger 619",
+    "name": "Jäger 619",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38467,7 +38500,7 @@
     "tradeIn": false
   },
   "5617": {
-    "name": "Octane: Pel�",
+    "name": "Octane: Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38511,7 +38544,7 @@
     "tradeIn": true
   },
   "5621": {
-    "name": "Pel�",
+    "name": "Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38522,7 +38555,7 @@
     "tradeIn": false
   },
   "5622": {
-    "name": "Pel�",
+    "name": "Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -40381,7 +40414,7 @@
     "tradeIn": true
   },
   "5853": {
-    "name": "Pel�",
+    "name": "Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41316,7 +41349,7 @@
     "tradeIn": false
   },
   "5964": {
-    "name": "Lamborghini Hurac�n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -41415,7 +41448,7 @@
     "tradeIn": false
   },
   "5980": {
-    "name": "Lamborghini Hurac�n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41437,7 +41470,7 @@
     "tradeIn": false
   },
   "5982": {
-    "name": "Lamborghini Hurac�n STO v1",
+    "name": "Lamborghini Huracán STO v1",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41547,7 +41580,7 @@
     "tradeIn": false
   },
   "6003": {
-    "name": "Lamborghini Hurac�n STO v2",
+    "name": "Lamborghini Huracán STO v2",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41558,7 +41591,7 @@
     "tradeIn": false
   },
   "6004": {
-    "name": "Lamborghini Hurac�n STO: Lamborghini Hurac�n STO",
+    "name": "Lamborghini Huracán STO: Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41569,7 +41602,7 @@
     "tradeIn": false
   },
   "6006": {
-    "name": "Lamborghini Hurac�n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41778,7 +41811,7 @@
     "tradeIn": false
   },
   "6027": {
-    "name": "Lamborghini Hurac�n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41854,6 +41887,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "6034": {
+    "name": "Ninja Star BL",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
   "6035": {
     "name": "Formula 1 2021: Haas 2021",
     "blueprint": false,
@@ -41862,6 +41906,17 @@
     "currency": false,
     "quality": 4,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6036": {
+    "name": "Seeing Stars BL",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 5,
     "tradable": false,
     "tradeIn": false
   },
@@ -41884,6 +41939,17 @@
     "currency": false,
     "quality": 4,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6040": {
+    "name": "Spoof Star BL",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 2,
     "tradable": false,
     "tradeIn": false
   },
@@ -42368,6 +42434,17 @@
     "currency": false,
     "quality": 0,
     "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "6108": {
+    "name": "Octane: Starscape Jr. BL",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 1,
     "tradable": false,
     "tradeIn": false
   },
@@ -43230,7 +43307,7 @@
     "tradeIn": false
   },
   "6207": {
-    "name": "Jurassic Jeep� Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -45858,6 +45935,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "6828": {
+    "name": "Fennec: RLCS 2021-22",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
   "6829": {
     "name": "Harley Quinn",
     "blueprint": false,
@@ -47354,6 +47442,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "6988": {
+    "name": "Pirelli",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "6989": {
     "name": "McLaren 765LT: McLaren 765 (Silver)",
     "blueprint": false,
@@ -47937,6 +48036,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7052": {
+    "name": "Formula 1 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7053": {
     "name": "Ford Mustang Mach-E RLE: 98",
     "blueprint": false,
@@ -48033,6 +48143,17 @@
     "currency": false,
     "quality": 0,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7062": {
+    "name": "Next Gen Goodyear Racing",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 2,
     "tradable": false,
     "tradeIn": false
   },
@@ -50566,6 +50687,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7337": {
+    "name": "NASCAR Next Gen Chevrolet Camaro",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7338": {
+    "name": "NASCAR Next Gen Ford Mustang",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7339": {
     "name": "Slurpee",
     "blueprint": false,
@@ -50585,6 +50728,17 @@
     "currency": false,
     "quality": 8,
     "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7341": {
+    "name": "NASCAR Next Gen Toyota Camry",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 0,
     "tradable": false,
     "tradeIn": false
   },
@@ -50798,7 +50952,7 @@
     "tradeIn": false
   },
   "7376": {
-    "name": "Painted Pi�ata",
+    "name": "Painted Piñata",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -50809,7 +50963,7 @@
     "tradeIn": false
   },
   "7377": {
-    "name": "F�tbol",
+    "name": "Fútbol",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -51611,6 +51765,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7462": {
+    "name": "Octane: Fred",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7463": {
     "name": "Speedy Turtle",
     "blueprint": false,
@@ -51634,7 +51799,7 @@
     "tradeIn": false
   },
   "7465": {
-    "name": "Nomad GXT: Blinkpad",
+    "name": "Nomad: Blinkpad",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -51710,6 +51875,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7473": {
+    "name": "Big Bite",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7475": {
     "name": "Anvil",
     "blueprint": false,
@@ -51732,8 +51908,96 @@
     "tradable": true,
     "tradeIn": false
   },
+  "7479": {
+    "name": "Rival",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
   "7487": {
     "name": "Mamba",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7496": {
+    "name": "Lamborghini Countach LPI 800-4",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7498": {
+    "name": "NASCAR Next Gen Toyota Camry: Joe Gibbs Racing #19",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7499": {
+    "name": "NASCAR Next Gen Ford Mustang: Stewart-Haas Racing #4",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7500": {
+    "name": "NASCAR Next Gen Ford Mustang: Front Row Motorsports #34",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7501": {
+    "name": "NASCAR Next Gen Ford Mustang",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7502": {
+    "name": "NASCAR Next Gen Chevrolet Camaro",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7503": {
+    "name": "NASCAR Next Gen Toyota Camry",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -51753,5 +52017,599 @@
     "slot": 2,
     "tradable": false,
     "tradeIn": true
+  },
+  "7512": {
+    "name": "Lamborghini Countach LPI 800-4",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7513": {
+    "name": "NASCAR Next Gen Chevrolet Camaro: Hendrick Motorsports #5",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7514": {
+    "name": "NASCAR Next Gen Chevrolet Camaro: Spire Motorsports #7",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7515": {
+    "name": "NASCAR Next Gen Chevrolet Camaro: Trackhouse Racing #1",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7516": {
+    "name": "Lamborghini Countach LPI 800-4",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7517": {
+    "name": "Lamborghini Countach LPI 800-4: Argento Luna",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7518": {
+    "name": "NASCAR Next Gen Chevrolet Camaro: Richard Childress Racing #8",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7523": {
+    "name": "Lamborghini Countach 70's",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7524": {
+    "name": "Brainfreeze",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7526": {
+    "name": "McLaren 765LT: Miami Grand Prix",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7534": {
+    "name": "Behind the Scenes",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7535": {
+    "name": "What's Up?",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7536": {
+    "name": "Get the Party Started",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7537": {
+    "name": "Open Your Eyes",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7538": {
+    "name": "Miami Grand Prix Helmet",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7539": {
+    "name": "NASCAR Next Gen Ford Mustang: RFK Racing #17",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7540": {
+    "name": "NASCAR Next Gen Ford Mustang: Team Penske #12",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7541": {
+    "name": "Candyland",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7544": {
+    "name": "GG Magree",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7546": {
+    "name": "ROBO-Visor Plus",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7547": {
+    "name": "Clodhopper Plus",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7551": {
+    "name": "Shield Glitch Plus",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7552": {
+    "name": "Stewart-Haas Racing #4",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7553": {
+    "name": "RFK Racing #17",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7554": {
+    "name": "Front Row Motorsports #34",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7555": {
+    "name": "Team Penske #12",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7556": {
+    "name": "Hendrick Motorsports #5",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7557": {
+    "name": "Spire Motorsports #7",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7558": {
+    "name": "Trackhouse Racing #1",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7559": {
+    "name": "Richard Childress Racing #8",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7560": {
+    "name": "Joe Gibbs Racing #19",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7561": {
+    "name": "Virtual Wave Plus",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 7,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7568": {
+    "name": "Miami Grand Prix",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7571": {
+    "name": "FALL (Clean)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7572": {
+    "name": "Miami Grand Prix Flag",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7577": {
+    "name": "Monarch",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7580": {
+    "name": "Sapling",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7582": {
+    "name": "Monarch",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7583": {
+    "name": "Octane: Springtide",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7584": {
+    "name": "Smiling Sapling",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7586": {
+    "name": "Flutterby",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7587": {
+    "name": "Florescence",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7592": {
+    "name": "Lamborghini Countach LPI 800-4",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7596": {
+    "name": "Formula 1 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7601": {
+    "name": "Formula 1 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7617": {
+    "name": "Madness",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7618": {
+    "name": "Madness",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7622": {
+    "name": "Formula 1 2022: Alfa Romeo 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7623": {
+    "name": "Formula 1 2022: Ferrari 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7624": {
+    "name": "Formula 1 2022: McLaren 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7631": {
+    "name": "Formula 1 2022: McLaren Miami 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7643": {
+    "name": "Madness",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7644": {
+    "name": "Formula 1 2022: AlphaTauri 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7646": {
+    "name": "Formula 1 2022: Red Bull 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
   }
 }

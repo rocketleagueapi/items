@@ -1,5 +1,61 @@
 [
 	{
+		"Playlist Id": 24,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 10
+	},
+	{
+		"Playlist Id": 6,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 10
+	},
+	{
+		"Playlist Id": 7,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 8,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 9,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 19,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 20,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 21,
+		"Playlist Title": "None",
+		"Playlist Description": "None",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
 		"Playlist Id": 3,
 		"Playlist Title": "Standard",
 		"Playlist Description": "Classic team play",
@@ -84,8 +140,22 @@
 		"Playlist Player Count": 6
 	},
 	{
+		"Playlist Id": 22,
+		"Playlist Title": "Tournament Match",
+		"Playlist Description": "None",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 8
+	},
+	{
 		"Playlist Id": 34,
 		"Playlist Title": "Tournament Match",
+		"Playlist Description": "None",
+		"Playlist Ranked": true,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 26,
+		"Playlist Title": "External Match",
 		"Playlist Description": "None",
 		"Playlist Ranked": true,
 		"Playlist Player Count": 8
@@ -220,6 +290,20 @@
 		"Playlist Id": 52,
 		"Playlist Title": "Gotham City Rumble",
 		"Playlist Description": "Gotham City's Super-Villains have taken over Rumble! All power-ups in Gotham City Rumble are themed after Batman and his Rogues Gallery. Hit Beckwith Park (Gotham Night) in this epic showdown between good and evil!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 54,
+		"Playlist Title": "Knockout",
+		"Playlist Description": "<font color=\"#7bfcff\">In this destructive derby, only the strong survive. 3 lives each, and the last car standing wins!</font>\n\n<b>Attack</b>: Dodge into your opponents to send them flying.\n\n<b>Block</b>: Backward dodge to reflect damage back at attacking players.\n\n<b>Grab</b>: Hold GP_LTrigger while dodging to Grab an opponent. Dodge again to throw.",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 55,
+		"Playlist Title": "confidential_thirdwheel_test",
+		"Playlist Description": "Scout will fill this in later. Try to make 3 wheels sound like a good thing.",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 6
 	}
