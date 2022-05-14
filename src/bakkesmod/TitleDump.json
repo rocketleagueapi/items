@@ -2270,6 +2270,11 @@
 		"Title Database Color": "#FFFFFF"
 	},
 	{
+		"Title Database Id": "SE_MechanicalMenace",
+		"Title Database Text": "Mechanical Menace",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
 		"Title Database Id": "S19_SSL_Rumble",
 		"Title Database Text": "S5 RNGenius",
 		"Title Database Color": "#E8E8E8"
@@ -2443,6 +2448,11 @@
 		"Title Database Id": "CRL_Spring_22_WorldChampion",
 		"Title Database Text": "CRL 2022 World Champion",
 		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "SE_Full_Throttle",
+		"Title Database Text": "Full Throttle",
+		"Title Database Color": "#FFFFFF"
 	},
 	{
 		"Title Database Id": "SE_FreePlayerTitle",

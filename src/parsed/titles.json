@@ -1635,6 +1635,10 @@
     "name": "Human Highlight",
     "color": "#FFFFFF"
   },
+  "SE_MechanicalMenace": {
+    "name": "Mechanical Menace",
+    "color": "#FFFFFF"
+  },
   "S19_SSL_Rumble": {
     "name": "S5 RNGenius",
     "color": "#E8E8E8"
@@ -1742,6 +1746,10 @@
   "CRL_Spring_22_WorldChampion": {
     "name": "CRL 2022 World Champion",
     "color": "#FFEB5C"
+  },
+  "SE_Full_Throttle": {
+    "name": "Full Throttle",
+    "color": "#FFFFFF"
   },
   "SE_FreePlayerTitle": {
     "name": "Free Player Title",

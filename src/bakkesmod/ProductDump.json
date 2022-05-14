@@ -57408,6 +57408,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 7562,
+		"Product Long Label": "Chikara: Zapped",
+		"Product Short Sort Label": "Zapped",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 2,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "skin_durian_lightning_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 7568,
 		"Product Long Label": "Miami Grand Prix",
 		"Product Short Sort Label": "Miami Grand Prix",
@@ -57621,6 +57633,66 @@
 		"Product Quality Id": 4,
 		"Slot Index": 1,
 		"Product Thumbnail Asset": "skin_cured_07_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7625,
+		"Product Long Label": "Where U Are [Deluxe]",
+		"Product Short Sort Label": "Where U Are [Deluxe]",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Album_Anthem_Throttle_DeluxeEP_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7626,
+		"Product Long Label": "Bloom VIP",
+		"Product Short Sort Label": "Bloom VIP",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_Throttle_BloomVIP_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7627,
+		"Product Long Label": "Cities",
+		"Product Short Sort Label": "Cities",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_Throttle_Cities_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7628,
+		"Product Long Label": "For Me VIP",
+		"Product Short Sort Label": "For Me VIP",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_Throttle_ForMeVIP_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7629,
+		"Product Long Label": "Japan VIP",
+		"Product Short Sort Label": "Japan VIP",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 18,
+		"Product Thumbnail Asset": "Anthem_Throttle_JapanVIP_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{

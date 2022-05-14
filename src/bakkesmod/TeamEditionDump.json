@@ -1,0 +1,232 @@
+[
+	{
+		"Team Database Id": 2,
+		"Team Database Name": "Cloud9",
+		"Team Database Label": "Cloud9"
+	},
+	{
+		"Team Database Id": 3,
+		"Team Database Name": "Dignitas",
+		"Team Database Label": "Dignitas"
+	},
+	{
+		"Team Database Id": 4,
+		"Team Database Name": "EvilGeniuses",
+		"Team Database Label": "Evil Geniuses"
+	},
+	{
+		"Team Database Id": 7,
+		"Team Database Name": "G2",
+		"Team Database Label": "G2 Esports"
+	},
+	{
+		"Team Database Id": 8,
+		"Team Database Name": "GhostGaming",
+		"Team Database Label": "Ghost Gaming"
+	},
+	{
+		"Team Database Id": 9,
+		"Team Database Name": "Mousesports",
+		"Team Database Label": "Mousesports"
+	},
+	{
+		"Team Database Id": 10,
+		"Team Database Name": "NRG",
+		"Team Database Label": "NRG Esports"
+	},
+	{
+		"Team Database Id": 11,
+		"Team Database Name": "PSG",
+		"Team Database Label": "PSG Esports"
+	},
+	{
+		"Team Database Id": 13,
+		"Team Database Name": "RenaultVitality",
+		"Team Database Label": "Team Vitality"
+	},
+	{
+		"Team Database Id": 15,
+		"Team Database Name": "Splyce",
+		"Team Database Label": "Splyce"
+	},
+	{
+		"Team Database Id": 17,
+		"Team Database Name": "Rogue",
+		"Team Database Label": "Rogue"
+	},
+	{
+		"Team Database Id": 18,
+		"Team Database Name": "TSM",
+		"Team Database Label": "TSM"
+	},
+	{
+		"Team Database Id": 19,
+		"Team Database Name": "Complexity",
+		"Team Database Label": "Complexity"
+	},
+	{
+		"Team Database Id": 20,
+		"Team Database Name": "SpacestationGaming",
+		"Team Database Label": "Spacestation Gaming"
+	},
+	{
+		"Team Database Id": 21,
+		"Team Database Name": "FCBarcelona",
+		"Team Database Label": "None"
+	},
+	{
+		"Team Database Id": 22,
+		"Team Database Name": "PittsburghKnights",
+		"Team Database Label": "Pittsburgh Knights"
+	},
+	{
+		"Team Database Id": 23,
+		"Team Database Name": "Reciprocity",
+		"Team Database Label": "Reciprocity"
+	},
+	{
+		"Team Database Id": 24,
+		"Team Database Name": "Veloce",
+		"Team Database Label": "Veloce"
+	},
+	{
+		"Team Database Id": 25,
+		"Team Database Name": "eUnited",
+		"Team Database Label": "eUnited"
+	},
+	{
+		"Team Database Id": 26,
+		"Team Database Name": "NRG_Season8",
+		"Team Database Label": "NRG Esports"
+	},
+	{
+		"Team Database Id": 27,
+		"Team Database Name": "Alpine",
+		"Team Database Label": "Alpine Esports"
+	},
+	{
+		"Team Database Id": 28,
+		"Team Database Name": "EndPoint",
+		"Team Database Label": "EndPoint"
+	},
+	{
+		"Team Database Id": 29,
+		"Team Database Name": "Guild",
+		"Team Database Label": "Guild"
+	},
+	{
+		"Team Database Id": 30,
+		"Team Database Name": "OxyGen",
+		"Team Database Label": "Oxygen Esports"
+	},
+	{
+		"Team Database Id": 31,
+		"Team Database Name": "Solary",
+		"Team Database Label": "Solary"
+	},
+	{
+		"Team Database Id": 32,
+		"Team Database Name": "SusquehannaSoniqs",
+		"Team Database Label": "Susquehanna Soniqs"
+	},
+	{
+		"Team Database Id": 33,
+		"Team Database Name": "TeamBDS",
+		"Team Database Label": "Team BDS"
+	},
+	{
+		"Team Database Id": 34,
+		"Team Database Name": "TeamEnvy",
+		"Team Database Label": "Envy"
+	},
+	{
+		"Team Database Id": 35,
+		"Team Database Name": "TeamLiquid",
+		"Team Database Label": "Team Liquid"
+	},
+	{
+		"Team Database Id": 36,
+		"Team Database Name": "Giants",
+		"Team Database Label": "Giants"
+	},
+	{
+		"Team Database Id": 37,
+		"Team Database Name": "KarmineCorp",
+		"Team Database Label": "Karmine Corp"
+	},
+	{
+		"Team Database Id": 38,
+		"Team Database Name": "RixGG",
+		"Team Database Label": "Rix.GG"
+	},
+	{
+		"Team Database Id": 39,
+		"Team Database Name": "SemperEsports",
+		"Team Database Label": "Semper Esports"
+	},
+	{
+		"Team Database Id": 40,
+		"Team Database Name": "SKGaming",
+		"Team Database Label": "SK Gaming"
+	},
+	{
+		"Team Database Id": 41,
+		"Team Database Name": "TeamQueso",
+		"Team Database Label": "Team Queso"
+	},
+	{
+		"Team Database Id": 42,
+		"Team Database Name": "TeamSingularity",
+		"Team Database Label": "Team Singularity"
+	},
+	{
+		"Team Database Id": 43,
+		"Team Database Name": "FazeClan",
+		"Team Database Label": "Faze Clan"
+	},
+	{
+		"Team Database Id": 44,
+		"Team Database Name": "PWR",
+		"Team Database Label": "PWR"
+	},
+	{
+		"Team Database Id": 45,
+		"Team Database Name": "Rebellion",
+		"Team Database Label": "Rebellion"
+	},
+	{
+		"Team Database Id": 46,
+		"Team Database Name": "Torrent",
+		"Team Database Label": "Torrent"
+	},
+	{
+		"Team Database Id": 47,
+		"Team Database Name": "TrueNeutral",
+		"Team Database Label": "True Neutral"
+	},
+	{
+		"Team Database Id": 48,
+		"Team Database Name": "Version1",
+		"Team Database Label": "Version1"
+	},
+	{
+		"Team Database Id": 49,
+		"Team Database Name": "XSET",
+		"Team Database Label": "XSET"
+	},
+	{
+		"Team Database Id": 50,
+		"Team Database Name": "Furia",
+		"Team Database Label": "Furia"
+	},
+	{
+		"Team Database Id": 51,
+		"Team Database Name": "GroundZeroGaming",
+		"Team Database Label": "Ground Zero Gaming"
+	},
+	{
+		"Team Database Id": 52,
+		"Team Database Name": "Renegades",
+		"Team Database Label": "Renegades"
+	}
+]

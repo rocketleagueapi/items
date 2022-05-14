@@ -52370,6 +52370,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7562": {
+    "name": "Chikara: Zapped",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7568": {
     "name": "Miami Grand Prix",
     "blueprint": false,
@@ -52565,6 +52576,61 @@
     "currency": false,
     "quality": 4,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7625": {
+    "name": "Where U Are [Deluxe]",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7626": {
+    "name": "Bloom VIP",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7627": {
+    "name": "Cities",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7628": {
+    "name": "For Me VIP",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7629": {
+    "name": "Japan VIP",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
     "tradable": false,
     "tradeIn": false
   },

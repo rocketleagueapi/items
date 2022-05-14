@@ -64,12 +64,12 @@
 		"Database Series Label": "Golden Pumpkin '18"
 	},
 	{
-		"Database Series Id": 443,
-		"Database Series Label": "Golden Egg '19"
-	},
-	{
 		"Database Series Id": 10,
 		"Database Series Label": "Turbo"
+	},
+	{
+		"Database Series Id": 443,
+		"Database Series Label": "Golden Egg '19"
 	},
 	{
 		"Database Series Id": 403,
@@ -108,10 +108,6 @@
 		"Database Series Label": "Vindicator"
 	},
 	{
-		"Database Series Id": 542,
-		"Database Series Label": "Golden Gift '19"
-	},
-	{
 		"Database Series Id": 737,
 		"Database Series Label": "Ignition"
 	},
@@ -120,16 +116,8 @@
 		"Database Series Label": "Momentum"
 	},
 	{
-		"Database Series Id": 855,
-		"Database Series Label": "Accolade"
-	},
-	{
 		"Database Series Id": 636,
 		"Database Series Label": "Revival"
-	},
-	{
-		"Database Series Id": 1147,
-		"Database Series Label": "Accolade II"
 	},
 	{
 		"Database Series Id": 1761,
@@ -140,8 +128,12 @@
 		"Database Series Label": "Accolade V"
 	},
 	{
-		"Database Series Id": 2331,
-		"Database Series Label": "Golden Gift '21"
+		"Database Series Id": 542,
+		"Database Series Label": "Golden Gift '19"
+	},
+	{
+		"Database Series Id": 3216,
+		"Database Series Label": "Golden Gift Basket '22"
 	},
 	{
 		"Database Series Id": 2717,
@@ -158,10 +150,6 @@
 	{
 		"Database Series Id": 300,
 		"Database Series Label": "Golden Lantern '19"
-	},
-	{
-		"Database Series Id": 3216,
-		"Database Series Label": "Golden Gift Basket '22"
 	},
 	{
 		"Database Series Id": 902,
@@ -192,6 +180,14 @@
 		"Database Series Label": "Season 2"
 	},
 	{
+		"Database Series Id": 855,
+		"Database Series Label": "Accolade"
+	},
+	{
+		"Database Series Id": 1147,
+		"Database Series Label": "Accolade II"
+	},
+	{
 		"Database Series Id": 1204,
 		"Database Series Label": "Accolade III"
 	},
@@ -214,5 +210,9 @@
 	{
 		"Database Series Id": 2737,
 		"Database Series Label": "Fornax"
+	},
+	{
+		"Database Series Id": 2331,
+		"Database Series Label": "Golden Gift '21"
 	}
 ]
