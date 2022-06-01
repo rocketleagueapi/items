@@ -57552,6 +57552,30 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 7593,
+		"Product Long Label": "Nissan Z Performance",
+		"Product Short Sort Label": "Nissan Z Performance",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 5,
+		"Slot Index": 0,
+		"Product Thumbnail Asset": "body_sassy_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7595,
+		"Product Long Label": "Nissan Z Performance",
+		"Product Short Sort Label": "Nissan Z Performance",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 4,
+		"Slot Index": 2,
+		"Product Thumbnail Asset": "wheel_sassy_a_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 7596,
 		"Product Long Label": "Formula 1 2022",
 		"Product Short Sort Label": "Formula 1 2022",
@@ -57573,6 +57597,42 @@
 		"Product Quality Id": 3,
 		"Slot Index": 16,
 		"Product Thumbnail Asset": "PlayerBanner_fractureB_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7602,
+		"Product Long Label": "Nissan Z Performance",
+		"Product Short Sort Label": "Nissan Z Performance",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 16,
+		"Product Thumbnail Asset": "PlayerBanner_sassy_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7605,
+		"Product Long Label": "Nissan Z Performance: Nissan x FaZe Clan",
+		"Product Short Sort Label": "Nissan x FaZe Clan",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 3,
+		"Slot Index": 1,
+		"Product Thumbnail Asset": "Skin_Sassy_FazeClan_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7607,
+		"Product Long Label": "Nissan Z Performance",
+		"Product Short Sort Label": "Nissan Z Performance",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Product Quality Id": 0,
+		"Slot Index": 13,
+		"Product Thumbnail Asset": "EngineAudio_Sassy_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
