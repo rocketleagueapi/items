@@ -83,6 +83,10 @@
     "name": "Utopia Coliseum",
     "variant": "Snowy"
   },
+  "UtopiaStadium_Lux_P": {
+    "name": "Utopia Coliseum",
+    "variant": "Gilded"
+  },
   "wasteland_s_p": {
     "name": "Wasteland",
     "variant": "None"

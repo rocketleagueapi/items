@@ -1584,27 +1584,27 @@
     "color": "#FFEB5C"
   },
   "RLCS_21_22_Regional_Champion": {
-    "name": "RLCS 2021-22 Regional Champion",
+    "name": "RLCS Regional Champion",
     "color": "#AEF7FF"
   },
   "RLCS_21_22_Regional_Finalist": {
-    "name": "RLCS 2021-22 Regional Finalist",
+    "name": "RLCS Regional Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_21_22_Major_Champion": {
-    "name": "RLCS 2021-22 Fall Major Champion",
+    "name": "RLCS Fall Major Champion",
     "color": "#AEF7FF"
   },
   "RLCS_21_22_Major_Finalist": {
-    "name": "RLCS 2021-22 Fall Major Finalist",
+    "name": "RLCS Fall Major Finalist",
     "color": "#AEF7FF"
   },
   "RLCS_21_22_Major_Elite": {
-    "name": "RLCS 2021-22 Fall Major Elite",
+    "name": "RLCS Fall Major Elite",
     "color": "#AEF7FF"
   },
   "RLCS_21_22_Major_Contender": {
-    "name": "RLCS 2021-22 Fall Major Contender",
+    "name": "RLCS Fall Major Contender",
     "color": "#AEF7FF"
   },
   "RP12_Super_Sketchy": {
@@ -1753,6 +1753,166 @@
   },
   "SE_FreePlayerTitle": {
     "name": "Free Player Title",
+    "color": "#FFFFFF"
+  },
+  "SE_OnlyTheBest": {
+    "name": "Golden Goat",
+    "color": "#FFFFFF"
+  },
+  "RP13_Chic_Geek": {
+    "name": "Chic Geek",
+    "color": "#FFFFFF"
+  },
+  "RP13_Credit_Hoarder": {
+    "name": "Credit Hoarder",
+    "color": "#FFFFFF"
+  },
+  "RP13_Kinda_Big_Deal": {
+    "name": "Kinda Big Deal",
+    "color": "#FFFFFF"
+  },
+  "RP13_Aspiring_Influencer": {
+    "name": "Aspiring Influencer",
+    "color": "#FFFFFF"
+  },
+  "RP13_A_Lister": {
+    "name": "A-Lister",
+    "color": "#FFFFFF"
+  },
+  "RP13_Red_Carpet_Ready": {
+    "name": "Red Carpet Ready",
+    "color": "#FFFFFF"
+  },
+  "RP13_Golden_Goalkeeper": {
+    "name": "Golden Goalkeeper",
+    "color": "#FFFFFF"
+  },
+  "AutoTour_07_Bronze": {
+    "name": "S7 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_07_Silver": {
+    "name": "S7 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_07_Gold": {
+    "name": "S7 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_07_Platinum": {
+    "name": "S7 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_07_Diamond": {
+    "name": "S7 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_07_Champion": {
+    "name": "S7 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_07_GrandChampion": {
+    "name": "S7 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_07_SuperSonicLegend": {
+    "name": "S7 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "S20_SSL_Rumble": {
+    "name": "S6 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S20_SSL_DropShot": {
+    "name": "S6 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S20_SSL_SnowDay": {
+    "name": "S6 Ice Titan",
+    "color": "#E8E8E8"
+  },
+  "S20_SSL_Hoops": {
+    "name": "S6 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "S20_SuperSonic_Legend": {
+    "name": "S6 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S20_Grand_Champion_Rumble": {
+    "name": "S6 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S20_Grand_Champion_DropShot": {
+    "name": "S6 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S20_Grand_Champion_SnowDay": {
+    "name": "S6 Blizzard Wizard",
+    "color": "#FF2800"
+  },
+  "S20_Grand_Champion_Hoops": {
+    "name": "S6 Dunk Master",
+    "color": "#FF2800"
+  },
+  "Season20GrandChampion": {
+    "name": "S6 Grand Champion",
+    "color": "#FF2800"
+  },
+  "CRL_22_Worlds_Finalist": {
+    "name": "CRL 2022 Worlds Finalist",
+    "color": "#FFEB5C"
+  },
+  "CRL_22_Worlds_Elite": {
+    "name": "CRL 2022 Worlds Elite",
+    "color": "#FFEB5C"
+  },
+  "CRL_22_Worlds_Contender": {
+    "name": "CRL 2022 Worlds Contender",
+    "color": "#FFEB5C"
+  },
+  "RLCS_Spring_Major_Champion": {
+    "name": "RLCS Spring Major Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_Spring_Major_Finalist": {
+    "name": "RLCS Spring Major Finalist",
+    "color": "#AEF7FF"
+  },
+  "RLCS_Spring_Major_Elite": {
+    "name": "RLCS Spring Major Elite",
+    "color": "#AEF7FF"
+  },
+  "RLCS_Spring_Major_Contender": {
+    "name": "RLCS Spring Major Contender",
+    "color": "#AEF7FF"
+  },
+  "RLCS_21_22_World_Champion": {
+    "name": "RLCS 2021-22 World Champion",
+    "color": "#AEF7FF"
+  },
+  "RLCS_World_Champion_Finalist": {
+    "name": "RLCS World Championship Finalist",
+    "color": "#AEF7FF"
+  },
+  "RLCS_World_Champion_Elite": {
+    "name": "RLCS World Championship Elite",
+    "color": "#AEF7FF"
+  },
+  "RLCS_World_Champion_Contender": {
+    "name": "RLCS World Championship Contender",
+    "color": "#AEF7FF"
+  },
+  "RLCS_Wildcard_Contender": {
+    "name": "RLCS Wildcard Contender",
+    "color": "#AEF7FF"
+  },
+  "SE_TeamTitan": {
+    "name": "Team Titan",
+    "color": "#FFFFFF"
+  },
+  "SE_TeamPlayer": {
+    "name": "Team Player",
     "color": "#FFFFFF"
   }
 }

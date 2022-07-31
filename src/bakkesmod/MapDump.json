@@ -126,6 +126,12 @@
 		"Map Variant Name": "Snowy"
 	},
 	{
+		"Map Base Name": "Utopia Coliseum",
+		"Map File Name": "UtopiaStadium_Lux_P",
+		"Map Weather Variant Id": 5,
+		"Map Variant Name": "Gilded"
+	},
+	{
 		"Map Base Name": "Wasteland",
 		"Map File Name": "wasteland_s_p",
 		"Map Weather Variant Id": 2,

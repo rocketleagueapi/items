@@ -22,7 +22,7 @@ const certs = CertificationDump.reduce((acc, c) => {
 write('certs', certs);
 
 // Filter out modded paints
-const paints = PaintDump.filter(p => p['Paint Database Id'] <= 13).reduce((acc, p) => {
+const paints = PaintDump.filter(p => p['Paint Database Id'] <= 14).reduce((acc, p) => {
     acc[p['Paint Database Id']] = p['Paint Database Label'];
     return acc;
 }, {} as Record<number, string>);
