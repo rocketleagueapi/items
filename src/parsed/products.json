@@ -1,15 +1,4 @@
 {
-  "0": {
-    "name": "Xbox",
-    "blueprint": false,
-    "special": 0,
-    "paintable": false,
-    "currency": false,
-    "quality": 7,
-    "slot": 16,
-    "tradable": false,
-    "tradeIn": false
-  },
   "1": {
     "name": "8-Ball",
     "blueprint": false,
@@ -164,6 +153,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "18": {
+    "name": "Sweet Tooth",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
   "19": {
     "name": "Tennis Ball",
     "blueprint": false,
@@ -251,6 +251,17 @@
     "slot": 0,
     "tradable": true,
     "tradeIn": true
+  },
+  "27": {
+    "name": "Sweet Tooth",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
   },
   "28": {
     "name": "X-Devil",
@@ -688,6 +699,17 @@
     "paintable": false,
     "currency": false,
     "quality": 9,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "68": {
+    "name": "Sweet Tooth",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
     "slot": 3,
     "tradable": false,
     "tradeIn": false
@@ -1749,7 +1771,7 @@
     "tradeIn": false
   },
   "165": {
-    "name": "CÃ´te d'Ivoire",
+    "name": "Côte d'Ivoire",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -2530,7 +2552,7 @@
     "tradeIn": true
   },
   "241": {
-    "name": "BrÃ¼nnehilde",
+    "name": "Brünnehilde",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -3783,6 +3805,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "378": {
+    "name": "Sweet Tooth",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "379": {
     "name": "Octavian",
     "blueprint": false,
@@ -4015,7 +4048,7 @@
     "tradeIn": true
   },
   "400": {
-    "name": "PiÃ±ata",
+    "name": "Piñata",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -5753,7 +5786,7 @@
     "tradeIn": false
   },
   "566": {
-    "name": "RÃ©union",
+    "name": "Réunion",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -6181,6 +6214,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "618": {
+    "name": "Armadillo",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "623": {
     "name": "Stainless Steel",
     "blueprint": false,
@@ -6189,6 +6233,17 @@
     "currency": false,
     "quality": 0,
     "slot": 7,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "625": {
+    "name": "Armadillo",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 0,
     "tradable": false,
     "tradeIn": false
   },
@@ -6797,6 +6852,72 @@
     "tradable": false,
     "tradeIn": true
   },
+  "714": {
+    "name": "Overcharge",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 1,
+    "slot": 3,
+    "tradable": true,
+    "tradeIn": true
+  },
+  "715": {
+    "name": "Blamite Overthruster",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "716": {
+    "name": "COG",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "718": {
+    "name": "UV Turret",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "719": {
+    "name": "Puma",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "723": {
+    "name": "Hogsticker",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
   "724": {
     "name": "Destructoid",
     "blueprint": false,
@@ -6838,6 +6959,17 @@
     "currency": false,
     "quality": 9,
     "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "729": {
+    "name": "Imulsion",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 3,
     "tradable": false,
     "tradeIn": false
   },
@@ -13057,7 +13189,7 @@
     "tradeIn": false
   },
   "1856": {
-    "name": "JÃ¤ger 619",
+    "name": "Jäger 619",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -13101,7 +13233,7 @@
     "tradeIn": false
   },
   "1869": {
-    "name": "JÃ¤ger 619",
+    "name": "Jäger 619",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14134,6 +14266,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "2020": {
+    "name": "Super Star",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
   "2021": {
     "name": "Breakout Type-S: S'mored",
     "blueprint": false,
@@ -14663,13 +14806,24 @@
     "tradeIn": true
   },
   "2081": {
-    "name": "JÃ¤ger 619: Stripes",
+    "name": "Jäger 619: Stripes",
     "blueprint": false,
     "special": 0,
     "paintable": false,
     "currency": false,
     "quality": 0,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "2083": {
+    "name": "NSR",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
     "tradable": false,
     "tradeIn": false
   },
@@ -14696,7 +14850,7 @@
     "tradeIn": false
   },
   "2097": {
-    "name": "JÃ¤ger 619: The Summit",
+    "name": "Jäger 619: The Summit",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14707,7 +14861,7 @@
     "tradeIn": false
   },
   "2157": {
-    "name": "JÃ¤ger 619: Kraken",
+    "name": "Jäger 619: Kraken",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15048,7 +15202,7 @@
     "tradeIn": true
   },
   "2277": {
-    "name": "JÃ¤ger 619: Storm Warning",
+    "name": "Jäger 619: Storm Warning",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15059,7 +15213,7 @@
     "tradeIn": false
   },
   "2278": {
-    "name": "JÃ¤ger 619: Euphoria",
+    "name": "Jäger 619: Euphoria",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15101,6 +15255,39 @@
     "slot": 5,
     "tradable": true,
     "tradeIn": true
+  },
+  "2298": {
+    "name": "Samus's Gunship",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "2313": {
+    "name": "Mario NSR",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "2317": {
+    "name": "Mario NSR",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
   },
   "2318": {
     "name": "Angel Wings",
@@ -15388,6 +15575,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "2354": {
+    "name": "Wave Beam",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
   "2355": {
     "name": "Reaper",
     "blueprint": false,
@@ -15420,6 +15618,17 @@
     "slot": 14,
     "tradable": true,
     "tradeIn": true
+  },
+  "2358": {
+    "name": "Samus's Gunship",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
   },
   "2359": {
     "name": "Zigzag",
@@ -15521,7 +15730,7 @@
     "tradeIn": true
   },
   "2378": {
-    "name": "JÃ¤ger 619: Circuit Pro",
+    "name": "Jäger 619: Circuit Pro",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15565,7 +15774,7 @@
     "tradeIn": false
   },
   "2391": {
-    "name": "JÃ¤ger 619: Distortion",
+    "name": "Jäger 619: Distortion",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15576,7 +15785,7 @@
     "tradeIn": false
   },
   "2392": {
-    "name": "JÃ¤ger 619: Snakeskin",
+    "name": "Jäger 619: Snakeskin",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15587,7 +15796,7 @@
     "tradeIn": true
   },
   "2393": {
-    "name": "JÃ¤ger 619: Vector",
+    "name": "Jäger 619: Vector",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16267,6 +16476,17 @@
     "slot": 5,
     "tradable": true,
     "tradeIn": true
+  },
+  "2471": {
+    "name": "Samus's Gunship",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
   },
   "2472": {
     "name": "Fast & Furious Nissan Skyline",
@@ -16951,7 +17171,7 @@
     "tradeIn": true
   },
   "2548": {
-    "name": "JÃ¤ger 619: Mister Monsoon",
+    "name": "Jäger 619: Mister Monsoon",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16962,7 +17182,7 @@
     "tradeIn": true
   },
   "2549": {
-    "name": "JÃ¤ger 619: Shark Tooth",
+    "name": "Jäger 619: Shark Tooth",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16973,7 +17193,7 @@
     "tradeIn": true
   },
   "2550": {
-    "name": "JÃ¤ger 619: Hip-Hop",
+    "name": "Jäger 619: Hip-Hop",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16984,7 +17204,7 @@
     "tradeIn": true
   },
   "2551": {
-    "name": "JÃ¤ger 619: StarLighter",
+    "name": "Jäger 619: StarLighter",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17204,7 +17424,7 @@
     "tradeIn": true
   },
   "2581": {
-    "name": "JÃ¤ger 619: XVI",
+    "name": "Jäger 619: XVI",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17336,7 +17556,7 @@
     "tradeIn": true
   },
   "2599": {
-    "name": "JÃ¤ger 619: Camazotz",
+    "name": "Jäger 619: Camazotz",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17819,6 +18039,28 @@
     "tradable": true,
     "tradeIn": true
   },
+  "2676": {
+    "name": "Blast-Off",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": true
+  },
+  "2678": {
+    "name": "Game On",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": true
+  },
   "2679": {
     "name": "Breakout: Astaroth",
     "blueprint": false,
@@ -18194,7 +18436,7 @@
     "tradeIn": true
   },
   "2729": {
-    "name": "Balla-CarrÃ ",
+    "name": "Balla-Carrà",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -19470,7 +19712,7 @@
     "tradeIn": true
   },
   "2919": {
-    "name": "Jurassic JeepÂ® Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -19536,7 +19778,7 @@
     "tradeIn": false
   },
   "2927": {
-    "name": "Jurassic JeepÂ® Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -19745,7 +19987,7 @@
     "tradeIn": true
   },
   "2955": {
-    "name": "Jurassic JeepÂ® Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -24200,7 +24442,7 @@
     "tradeIn": false
   },
   "3608": {
-    "name": "Octane: PiÃ±ata Monster",
+    "name": "Octane: Piñata Monster",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -28246,6 +28488,17 @@
     "slot": 1,
     "tradable": true,
     "tradeIn": true
+  },
+  "4137": {
+    "name": "Xbox",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
   },
   "4143": {
     "name": "Krackle",
@@ -37378,7 +37631,7 @@
     "tradeIn": false
   },
   "5442": {
-    "name": "JÃ¤ger 619",
+    "name": "Jäger 619",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38753,7 +39006,7 @@
     "tradeIn": false
   },
   "5617": {
-    "name": "Octane: PelÃ©",
+    "name": "Octane: Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38797,7 +39050,7 @@
     "tradeIn": true
   },
   "5621": {
-    "name": "PelÃ©",
+    "name": "Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38808,7 +39061,7 @@
     "tradeIn": false
   },
   "5622": {
-    "name": "PelÃ©",
+    "name": "Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -40678,7 +40931,7 @@
     "tradeIn": true
   },
   "5853": {
-    "name": "PelÃ©",
+    "name": "Pelé",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41613,7 +41866,7 @@
     "tradeIn": false
   },
   "5964": {
-    "name": "Lamborghini HuracÃ¡n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -41723,7 +41976,7 @@
     "tradeIn": false
   },
   "5980": {
-    "name": "Lamborghini HuracÃ¡n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41745,7 +41998,7 @@
     "tradeIn": false
   },
   "5982": {
-    "name": "Lamborghini HuracÃ¡n STO v1",
+    "name": "Lamborghini Huracán STO v1",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41855,7 +42108,7 @@
     "tradeIn": false
   },
   "6003": {
-    "name": "Lamborghini HuracÃ¡n STO v2",
+    "name": "Lamborghini Huracán STO v2",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41866,7 +42119,7 @@
     "tradeIn": false
   },
   "6004": {
-    "name": "Lamborghini HuracÃ¡n STO: Lamborghini HuracÃ¡n STO",
+    "name": "Lamborghini Huracán STO: Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41877,7 +42130,7 @@
     "tradeIn": false
   },
   "6006": {
-    "name": "Lamborghini HuracÃ¡n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -42086,7 +42339,7 @@
     "tradeIn": false
   },
   "6027": {
-    "name": "Lamborghini HuracÃ¡n STO",
+    "name": "Lamborghini Huracán STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -43604,7 +43857,7 @@
     "tradeIn": false
   },
   "6207": {
-    "name": "Jurassic JeepÂ® Wrangler",
+    "name": "Jurassic Jeep® Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -51766,7 +52019,7 @@
     "tradeIn": false
   },
   "7376": {
-    "name": "Painted PiÃ±ata",
+    "name": "Painted Piñata",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -51777,7 +52030,7 @@
     "tradeIn": false
   },
   "7377": {
-    "name": "FÃºtbol",
+    "name": "Fútbol",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -54967,7 +55220,7 @@
     "tradeIn": false
   },
   "7787": {
-    "name": "NASCAR Next Gen Ford Mustang: --",
+    "name": "NASCAR Next Gen Ford Mustang: NASCAR Next Gen Ford Mustang",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -54989,7 +55242,7 @@
     "tradeIn": false
   },
   "7797": {
-    "name": "NASCAR Next Gen Toyota Camry: --",
+    "name": "NASCAR Next Gen Toyota Camry: NASCAR Next Gen Toyota Camry TRD",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -54999,8 +55252,19 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7798": {
+    "name": "Ford Bronco Raptor",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7804": {
-    "name": "NASCAR Next Gen Chevrolet Camaro: --",
+    "name": "NASCAR Next Gen Chevrolet Camaro: NASCAR Next Gen Chevrolet Camaro ZL1",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -55043,6 +55307,39 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7815": {
+    "name": "Ford Bronco Raptor RLE",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7816": {
+    "name": "Ford Bronco Raptor RLE: Ford Bronco Raptor",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7817": {
+    "name": "Ford Bronco Raptor RLE",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7818": {
     "name": "Octane: Nike Air Zoom Mercurial - Pink",
     "blueprint": false,
@@ -55055,13 +55352,24 @@
     "tradeIn": false
   },
   "7819": {
-    "name": "Octane: Nike Air Zoom Mercurial - Green",
+    "name": "Octane: Nike Air Zoom Mercurial Green",
     "blueprint": false,
     "special": 0,
     "paintable": false,
     "currency": false,
     "quality": 4,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7820": {
+    "name": "Ford Bronco Raptor RLE",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
     "tradable": false,
     "tradeIn": false
   },
@@ -55122,6 +55430,17 @@
   },
   "7957": {
     "name": "CINEMA (feat. Marlhy)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7960": {
+    "name": "All We Needed",
     "blueprint": false,
     "special": 0,
     "paintable": false,
