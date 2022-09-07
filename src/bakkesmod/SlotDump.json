@@ -45,19 +45,19 @@
 		"Slot Index": 7,
 		"Slot Label": "Paint Finish",
 		"Slot Online Label": "Paint Finish",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 8,
-		"Slot Label": "None",
+		"Slot Label": "",
 		"Slot Online Label": "Bot",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 9,
-		"Slot Label": "None",
+		"Slot Label": "",
 		"Slot Online Label": "Logo",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 10,
@@ -69,19 +69,19 @@
 		"Slot Index": 11,
 		"Slot Label": "Crate",
 		"Slot Online Label": "Crates",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 12,
 		"Slot Label": "Paint",
 		"Slot Online Label": "Custom Finish",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 13,
 		"Slot Label": "Engine Audio",
 		"Slot Online Label": "Engine Audio",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 14,
@@ -99,72 +99,72 @@
 		"Slot Index": 16,
 		"Slot Label": "Player Banner",
 		"Slot Online Label": "Player Banner",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 17,
-		"Slot Label": "None",
+		"Slot Label": "",
 		"Slot Online Label": "Garage Complex Row",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 18,
 		"Slot Label": "Player Anthem",
 		"Slot Online Label": "Goal Stinger",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 19,
 		"Slot Label": "Player Avatar",
 		"Slot Online Label": "Player Avatar",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 20,
 		"Slot Label": "Avatar Border",
 		"Slot Online Label": "Avatar Border",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 21,
 		"Slot Label": "Player Title",
 		"Slot Online Label": "Player Title",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 22,
-		"Slot Label": "None",
+		"Slot Label": "",
 		"Slot Online Label": "ESportsTeam",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 23,
 		"Slot Label": "Archived Item",
 		"Slot Online Label": "Archived Items",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 24,
 		"Slot Label": "Blueprint",
 		"Slot Online Label": "Blueprints",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 25,
-		"Slot Label": "None",
+		"Slot Label": "",
 		"Slot Online Label": "Shop Item",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 26,
 		"Slot Label": "Currency",
 		"Slot Online Label": "Currency",
-		"Slot Description": "None"
+		"Slot Description": ""
 	},
 	{
 		"Slot Index": 11,
 		"Slot Label": "Reward Item",
 		"Slot Online Label": "Gift Pack",
-		"Slot Description": "None"
+		"Slot Description": ""
 	}
 ]

@@ -3,7 +3,7 @@
 		"Map Base Name": "DFH Stadium",
 		"Map File Name": "Stadium_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "DFH Stadium",
@@ -33,7 +33,7 @@
 		"Map Base Name": "Mannfield",
 		"Map File Name": "EuroStadium_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Mannfield",
@@ -57,7 +57,7 @@
 		"Map Base Name": "Champions Field",
 		"Map File Name": "cs_p",
 		"Map Weather Variant Id": 5,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Champions Field",
@@ -69,7 +69,7 @@
 		"Map Base Name": "Urban Central",
 		"Map File Name": "TrainStation_P",
 		"Map Weather Variant Id": 6,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Urban Central",
@@ -87,7 +87,7 @@
 		"Map Base Name": "Beckwith Park",
 		"Map File Name": "Park_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Beckwith Park",
@@ -111,7 +111,7 @@
 		"Map Base Name": "Utopia Coliseum",
 		"Map File Name": "UtopiaStadium_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Utopia Coliseum",
@@ -135,7 +135,7 @@
 		"Map Base Name": "Wasteland",
 		"Map File Name": "wasteland_s_p",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Wasteland",
@@ -147,7 +147,7 @@
 		"Map Base Name": "Neo Tokyo",
 		"Map File Name": "NeoTokyo_Standard_P",
 		"Map Weather Variant Id": 6,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Neo Tokyo",
@@ -159,13 +159,13 @@
 		"Map Base Name": "AquaDome",
 		"Map File Name": "Underwater_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Starbase ARC",
 		"Map File Name": "arc_standard_p",
 		"Map Weather Variant Id": 0,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Starbase ARC",
@@ -177,7 +177,7 @@
 		"Map Base Name": "Salty Shores",
 		"Map File Name": "beach_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Salty Shores",
@@ -189,7 +189,7 @@
 		"Map Base Name": "Farmstead",
 		"Map File Name": "farm_p",
 		"Map Weather Variant Id": 3,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Farmstead",
@@ -201,37 +201,43 @@
 		"Map Base Name": "Forbidden Temple",
 		"Map File Name": "CHN_Stadium_P",
 		"Map Weather Variant Id": 1,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Forbidden Temple (Day)",
 		"Map File Name": "CHN_Stadium_Day_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Neon Fields",
 		"Map File Name": "music_p",
 		"Map Weather Variant Id": 5,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Deadeye Canyon",
 		"Map File Name": "outlaw_p",
 		"Map Weather Variant Id": 0,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
+	},
+	{
+		"Map Base Name": "Sovereign Heights",
+		"Map File Name": "street_p",
+		"Map Weather Variant Id": 3,
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Rivals Arena",
 		"Map File Name": "cs_hw_p",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Badlands",
 		"Map File Name": "Wasteland_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Badlands",
@@ -243,72 +249,72 @@
 		"Map Base Name": "Tokyo Underpass",
 		"Map File Name": "NeoTokyo_P",
 		"Map Weather Variant Id": 6,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "ARCtagon",
 		"Map File Name": "ARC_P",
 		"Map Weather Variant Id": 5,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Throwback Stadium",
 		"Map File Name": "throwbackstadium_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Pillars",
 		"Map File Name": "Labs_CirclePillars_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Cosmic",
 		"Map File Name": "Labs_Cosmic_V4_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Double Goal",
 		"Map File Name": "Labs_DoubleGoal_V2_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Underpass",
 		"Map File Name": "Labs_Underpass_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Utopia Retro",
 		"Map File Name": "Labs_Utopia_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Octagon",
 		"Map File Name": "Labs_Octagon_02_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Basin",
 		"Map File Name": "Labs_Basin_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Corridor",
 		"Map File Name": "Labs_Corridor_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	},
 	{
 		"Map Base Name": "Galleon",
 		"Map File Name": "Labs_Galleon_P",
 		"Map Weather Variant Id": 4,
-		"Map Variant Name": "None"
+		"Map Variant Name": ""
 	}
 ]

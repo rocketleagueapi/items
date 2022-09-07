@@ -1,12 +1,12 @@
 [
 	{
 		"Title Database Id": "None",
-		"Title Database Text": "None",
+		"Title Database Text": "",
 		"Title Database Color": "#FFFFFF"
 	},
 	{
 		"Title Database Id": "XP",
-		"Title Database Text": "None",
+		"Title Database Text": "",
 		"Title Database Color": "#FFFFFF"
 	},
 	{
@@ -2698,5 +2698,55 @@
 		"Title Database Id": "SE_TeamPlayer",
 		"Title Database Text": "Team Player",
 		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S21_SSL_Rumble",
+		"Title Database Text": "S7 RNGenius",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S21_SSL_DropShot",
+		"Title Database Text": "S7 Tile Annihilator",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S21_SSL_SnowDay",
+		"Title Database Text": "S7 Ice Titan",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S21_SSL_Hoops",
+		"Title Database Text": "S7 Legendary Baller",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S21_SuperSonic_Legend",
+		"Title Database Text": "S7 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S21_Grand_Champion_Rumble",
+		"Title Database Text": "S7 RNG Champ",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S21_Grand_Champion_DropShot",
+		"Title Database Text": "S7 Floor Destroyer",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S21_Grand_Champion_SnowDay",
+		"Title Database Text": "S7 Blizzard Wizard",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S21_Grand_Champion_Hoops",
+		"Title Database Text": "S7 Dunk Master",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season21GrandChampion",
+		"Title Database Text": "S7 Grand Champion",
+		"Title Database Color": "#FF2800"
 	}
 ]

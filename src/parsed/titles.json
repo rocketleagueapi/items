@@ -1,10 +1,10 @@
 {
   "None": {
-    "name": "None",
+    "name": "",
     "color": "#FFFFFF"
   },
   "XP": {
-    "name": "None",
+    "name": "",
     "color": "#FFFFFF"
   },
   "CRL_Analyst": {
@@ -1914,5 +1914,45 @@
   "SE_TeamPlayer": {
     "name": "Team Player",
     "color": "#FFFFFF"
+  },
+  "S21_SSL_Rumble": {
+    "name": "S7 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S21_SSL_DropShot": {
+    "name": "S7 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S21_SSL_SnowDay": {
+    "name": "S7 Ice Titan",
+    "color": "#E8E8E8"
+  },
+  "S21_SSL_Hoops": {
+    "name": "S7 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "S21_SuperSonic_Legend": {
+    "name": "S7 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S21_Grand_Champion_Rumble": {
+    "name": "S7 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S21_Grand_Champion_DropShot": {
+    "name": "S7 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S21_Grand_Champion_SnowDay": {
+    "name": "S7 Blizzard Wizard",
+    "color": "#FF2800"
+  },
+  "S21_Grand_Champion_Hoops": {
+    "name": "S7 Dunk Master",
+    "color": "#FF2800"
+  },
+  "Season21GrandChampion": {
+    "name": "S7 Grand Champion",
+    "color": "#FF2800"
   }
 }
