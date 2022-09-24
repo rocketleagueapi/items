@@ -1,5 +1,10 @@
+# Source
 src/
-tsconfig.json
+
+# Configuration files
+tsconfig.*.json
 .*
-dist/bakkesmod/
-dist/parse.*
+
+# Build scripts & resources
+dist/*/bakkesmod/
+dist/*/parse.*

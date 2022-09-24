@@ -2,11 +2,13 @@
   "name": "@rocketleagueapi/items",
   "version": "2.1.2",
   "description": " A collection of JSON files including all items, paints, certifications, slots, special editions and series.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/cjs/index.d.ts",
+  "sideEffects": false,
   "scripts": {
     "lint": "eslint . --ext js,jsx,ts,tsx --fix",
-    "build": "tsc",
+    "build": "tsc -p ./tsconfig.node.json && tsc -p ./tsconfig.browser.json",
     "parse": "ts-node src/parse.ts"
   },
   "repository": {
