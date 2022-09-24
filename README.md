@@ -9,11 +9,16 @@
 </p>
 A collection of JSON files including all items, paints, certifications, slots, special editions, maps, titles, qualities, series and playlists. 
 
+### 🏠 [Homepage](https://github.com/rocketleagueapi/items)
+
+## Features
  - Tree-shakable
  - Side-effects free
  - No dependencies
 
-### 🏠 [Homepage](https://github.com/rocketleagueapi/items)
+For frontend applications, it is worth checking out [Bundle Phobia](https://bundlephobia.com/package/@rocketleagueapi/items) and viewing the `Export Analysis` to see the GZipped cost of importing parts of the module. 
+
+For example, `products` makes up the vast majority (~62kB) of the total package size (~72kB).  As such, importing all other parts would have a near-negligible effect on build sizes.
 
 ## Install
 
