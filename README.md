@@ -9,6 +9,10 @@
 </p>
 A collection of JSON files including all items, paints, certifications, slots, special editions, maps, titles, qualities, series and playlists. 
 
+ - Tree-shakable
+ - Side-effects free
+ - No dependencies
+
 ### 🏠 [Homepage](https://github.com/rocketleagueapi/items)
 
 ## Install

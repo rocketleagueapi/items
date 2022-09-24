@@ -1,7 +1,7 @@
 {
   "name": "@rocketleagueapi/items",
   "version": "3.0.0",
-  "description": " A collection of JSON files including all items, paints, certifications, slots, special editions and series.",
+  "description": " A collection of JSON files including all items, paints, certifications, slots, special editions and series bundled into a tree-shakable, side-effect free, no dependencies package.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/cjs/index.d.ts",
