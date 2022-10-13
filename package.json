@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/rocketleagueapi/items.git"
   },
-  "author": "AngaBlue <contact@anga.blue>",
+  "author": "Rocket League API",
   "license": "LGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/rocketleagueapi/items/issues"
