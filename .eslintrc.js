@@ -1,3 +1,6 @@
 module.exports = {
-    extends: '@angablue'
+    extends: '@angablue',
+    parserOptions: {
+        project: './tsconfig.node.json'
+    }
 };

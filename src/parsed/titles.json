@@ -1954,5 +1954,69 @@
   "Season21GrandChampion": {
     "name": "S7 Grand Champion",
     "color": "#FF2800"
+  },
+  "AutoTour_08_Bronze": {
+    "name": "S8 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_08_Silver": {
+    "name": "S8 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_08_Gold": {
+    "name": "S8 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_08_Platinum": {
+    "name": "S8 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_08_Diamond": {
+    "name": "S8 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_08_Champion": {
+    "name": "S8 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_08_GrandChampion": {
+    "name": "S8 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_08_SuperSonicLegend": {
+    "name": "S8 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "RP14_Block_Partier": {
+    "name": "Block Partier",
+    "color": "#FFFFFF"
+  },
+  "RP14_Big_City_Baller": {
+    "name": "Big City Baller",
+    "color": "#FFFFFF"
+  },
+  "RP14_Street_Genius": {
+    "name": "Street Genius",
+    "color": "#FFFFFF"
+  },
+  "RP14_Sky_Scraper": {
+    "name": "Sky Scraper",
+    "color": "#FFFFFF"
+  },
+  "RP14_Urbanite": {
+    "name": "Urbanite",
+    "color": "#FFFFFF"
+  },
+  "RP14_Finely_Tuned": {
+    "name": "Finely Tuned",
+    "color": "#FFFFFF"
+  },
+  "RP14_Cosmopolitan": {
+    "name": "Cosmopolitan",
+    "color": "#FFFFFF"
+  },
+  "SE_Vocal_Local": {
+    "name": "Vocal Local",
+    "color": "#FFFFFF"
   }
 }

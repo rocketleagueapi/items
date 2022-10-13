@@ -2748,5 +2748,125 @@
 		"Title Database Id": "Season21GrandChampion",
 		"Title Database Text": "S7 Grand Champion",
 		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Bronze",
+		"Title Database Text": "S8 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Bronze",
+		"Title Database Text": "S8 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Silver",
+		"Title Database Text": "S8 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Silver",
+		"Title Database Text": "S8 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Gold",
+		"Title Database Text": "S8 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Gold",
+		"Title Database Text": "S8 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Platinum",
+		"Title Database Text": "S8 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Platinum",
+		"Title Database Text": "S8 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Diamond",
+		"Title Database Text": "S8 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Diamond",
+		"Title Database Text": "S8 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Champion",
+		"Title Database Text": "S8 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_08_Champion",
+		"Title Database Text": "S8 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_08_GrandChampion",
+		"Title Database Text": "S8 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_08_GrandChampion",
+		"Title Database Text": "S8 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_08_SuperSonicLegend",
+		"Title Database Text": "S8 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_08_SuperSonicLegend",
+		"Title Database Text": "S8 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "RP14_Block_Partier",
+		"Title Database Text": "Block Partier",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP14_Big_City_Baller",
+		"Title Database Text": "Big City Baller",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP14_Street_Genius",
+		"Title Database Text": "Street Genius",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP14_Sky_Scraper",
+		"Title Database Text": "Sky Scraper",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP14_Urbanite",
+		"Title Database Text": "Urbanite",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP14_Finely_Tuned",
+		"Title Database Text": "Finely Tuned",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP14_Cosmopolitan",
+		"Title Database Text": "Cosmopolitan",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Vocal_Local",
+		"Title Database Text": "Vocal Local",
+		"Title Database Color": "#FFFFFF"
 	}
 ]
