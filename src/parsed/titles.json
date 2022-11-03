@@ -2018,5 +2018,13 @@
   "SE_Vocal_Local": {
     "name": "Vocal Local",
     "color": "#FFFFFF"
+  },
+  "SE_Sole_Survivor": {
+    "name": "Sole Survivor",
+    "color": "#FFFFFF"
+  },
+  "SE_Jump_Starter": {
+    "name": "Jump-Starter",
+    "color": "#FFFFFF"
   }
 }

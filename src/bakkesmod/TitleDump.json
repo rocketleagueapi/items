@@ -2868,5 +2868,15 @@
 		"Title Database Id": "SE_Vocal_Local",
 		"Title Database Text": "Vocal Local",
 		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Sole_Survivor",
+		"Title Database Text": "Sole Survivor",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Jump_Starter",
+		"Title Database Text": "Jump-Starter",
+		"Title Database Color": "#FFFFFF"
 	}
 ]

@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/rocketleagueapi/items#readme",
   "devDependencies": {
-    "@angablue/eslint-config": "^1.3.4",
-    "@types/node": "^18.8.5",
-    "eslint": "^8.25.0",
+    "@angablue/eslint-config": "^1.4.1",
+    "@types/node": "^18.11.9",
+    "eslint": "^8.26.0",
     "prettier": "^2.7.1",
     "typescript": "^4.8.4"
   }

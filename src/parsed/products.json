@@ -23385,6 +23385,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "3466": {
+    "name": "Snazzy Skull",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "3467": {
     "name": "Snowstorm",
     "blueprint": false,
@@ -33868,6 +33879,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "4893": {
+    "name": "CutCorner",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 20,
+    "tradable": false,
+    "tradeIn": false
+  },
   "4894": {
     "name": "Fallen Angel",
     "blueprint": false,
@@ -40215,6 +40237,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "5761": {
+    "name": "Manganese",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
   "5764": {
     "name": "Golden Lantern '21",
     "blueprint": false,
@@ -42116,6 +42149,17 @@
     "quality": 6,
     "slot": 15,
     "tradable": true,
+    "tradeIn": false
+  },
+  "5977": {
+    "name": "Bedeviled",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
     "tradeIn": false
   },
   "5979": {
@@ -51986,7 +52030,7 @@
     "tradeIn": false
   },
   "7346": {
-    "name": "Aston Martin DBS",
+    "name": "007's Aston Martin DBS",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -53268,6 +53312,17 @@
     "paintable": true,
     "currency": false,
     "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7483": {
+    "name": "Pointed Posts",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
     "slot": 2,
     "tradable": false,
     "tradeIn": false
@@ -56055,6 +56110,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "7860": {
+    "name": "Sweat Vet",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7861": {
     "name": "Windowed",
     "blueprint": false,
@@ -56920,6 +56986,17 @@
     "paintable": false,
     "currency": false,
     "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8020": {
+    "name": "Octane: Sam's Trick",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -57947,6 +58024,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8119": {
+    "name": "Leatherface's Chainsaw",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8135": {
     "name": "Fennec: Version1 (Away)",
     "blueprint": false,
@@ -58109,6 +58197,17 @@
     "currency": false,
     "quality": 3,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8166": {
+    "name": "Jigsaw Blade",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
     "tradable": false,
     "tradeIn": false
   },
@@ -58387,6 +58486,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8267": {
+    "name": "Merc: Leatherface's Mask",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8268": {
     "name": "Fennec: Dignitas (Away)",
     "blueprint": false,
@@ -58453,6 +58563,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8278": {
+    "name": "Billy The Puppet",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 15,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8281": {
     "name": "Moment (Worlds Version)",
     "blueprint": false,
@@ -58461,6 +58582,50 @@
     "currency": false,
     "quality": 3,
     "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8300": {
+    "name": "Octane: NASCAR",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8301": {
+    "name": "Good Guys",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8302": {
+    "name": "Fennec: NASCAR",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8303": {
+    "name": "Dominus: NASCAR",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
     "tradable": false,
     "tradeIn": false
   },
@@ -58530,6 +58695,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8314": {
+    "name": "Sam's Treat",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8318": {
     "name": "Nike Federation Decals",
     "blueprint": false,
@@ -58538,6 +58714,28 @@
     "currency": false,
     "quality": 0,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8320": {
+    "name": "Dominus: Billy The Puppet",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8324": {
+    "name": "Trick or Treat",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
     "tradable": false,
     "tradeIn": false
   },
@@ -58607,6 +58805,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8331": {
+    "name": "Haunted Hallows",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8336": {
     "name": "Federation Banners",
     "blueprint": false,
@@ -58626,6 +58835,17 @@
     "currency": false,
     "quality": 3,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8344": {
+    "name": "Jump",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
     "tradable": false,
     "tradeIn": false
   },
@@ -58816,6 +59036,61 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8387": {
+    "name": "Chucky's Laugh",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8394": {
+    "name": "Leatherface's Chainsaw",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8395": {
+    "name": "Hello Zepp",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8397": {
+    "name": "Octane: Chucky Doll",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8398": {
+    "name": "Halloween",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8400": {
     "name": "Game Time (feat. Dr. Awkward)",
     "blueprint": false,
@@ -58823,6 +59098,17 @@
     "paintable": false,
     "currency": false,
     "quality": 8,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8404": {
+    "name": "You Make Me Feel Like It's Halloween",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
     "slot": 18,
     "tradable": false,
     "tradeIn": false
@@ -58923,6 +59209,39 @@
     "currency": false,
     "quality": 8,
     "slot": 11,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8431": {
+    "name": "Monster Mash",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8432": {
+    "name": "Season Themes",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8433": {
+    "name": "RAVE",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 18,
     "tradable": false,
     "tradeIn": false
   },
