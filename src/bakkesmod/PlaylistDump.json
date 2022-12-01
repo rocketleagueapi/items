@@ -306,5 +306,12 @@
 		"Playlist Description": "Scout will fill this in later. Try to make 3 wheels sound like a good thing.",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 62,
+		"Playlist Title": "Nike FC Showdown",
+		"Playlist Description": "Football meets Soccar in a Nike-Branded Arena! Nike FC Showdown uses a new Nike Ball that curves through the air with modified Mutator Settings. Higher max speed and low bounce mean that this LTM is best played fast and close to the ground.",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 8
 	}
 ]

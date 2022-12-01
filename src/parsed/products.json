@@ -27074,7 +27074,7 @@
     "name": "Big Splash",
     "blueprint": false,
     "special": 0,
-    "paintable": false,
+    "paintable": true,
     "currency": false,
     "quality": 8,
     "slot": 15,
@@ -34616,6 +34616,61 @@
     "tradable": true,
     "tradeIn": false
   },
+  "5002": {
+    "name": "Octane: Denmark",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5003": {
+    "name": "Octane: Finland",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5005": {
+    "name": "Octane: Italy",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5006": {
+    "name": "Octane: Spain",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5007": {
+    "name": "Octane: Sweden",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "5009": {
     "name": "Breakout Type-S",
     "blueprint": false,
@@ -34624,6 +34679,50 @@
     "currency": false,
     "quality": 0,
     "slot": 25,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5011": {
+    "name": "Octane: Austria",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5015": {
+    "name": "Octane: Germany",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5017": {
+    "name": "Octane: Belgium",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5019": {
+    "name": "Octane: Norway",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
     "tradable": false,
     "tradeIn": false
   },
@@ -34648,6 +34747,72 @@
     "slot": 3,
     "tradable": false,
     "tradeIn": true
+  },
+  "5025": {
+    "name": "Octane: Wales",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5026": {
+    "name": "Octane: Czech Republic",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5027": {
+    "name": "Octane: Switzerland",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5028": {
+    "name": "Octane: China",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5029": {
+    "name": "Octane: Japan",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "5030": {
+    "name": "Octane: Mexico",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
   },
   "5033": {
     "name": "Righteous Gale",
@@ -52178,7 +52343,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 0,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -55098,6 +55263,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7696": {
+    "name": "Whiplash",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7697": {
+    "name": "Whiplash",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7698": {
     "name": "Accolade VII",
     "blueprint": false,
@@ -55692,6 +55879,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7792": {
+    "name": "Whiplash",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7793": {
     "name": "Ferrari 296 GTB",
     "blueprint": false,
@@ -55778,6 +55976,17 @@
     "quality": 8,
     "slot": 4,
     "tradable": true,
+    "tradeIn": false
+  },
+  "7808": {
+    "name": "Whiplash",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
     "tradeIn": false
   },
   "7810": {
@@ -58035,6 +58244,149 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8120": {
+    "name": "Octane: Australia (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8121": {
+    "name": "Octane: Brazil (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8122": {
+    "name": "Octane: Canada (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8123": {
+    "name": "Octane: Croatia (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8124": {
+    "name": "Octane: England (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8125": {
+    "name": "Octane: France (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8126": {
+    "name": "Octane: Korea Republic (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8127": {
+    "name": "Octane: Netherlands (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8128": {
+    "name": "Octane: New Zealand (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8129": {
+    "name": "Octane: Nigeria (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8130": {
+    "name": "Octane: Poland (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8131": {
+    "name": "Octane: Portugal (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8132": {
+    "name": "Octane: Qatar",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8135": {
     "name": "Fennec: Version1 (Away)",
     "blueprint": false,
@@ -58442,8 +58794,404 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8193": {
+    "name": "Argentina",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8194": {
+    "name": "Austria",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8195": {
+    "name": "Belgium",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8196": {
+    "name": "Cameroon",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8197": {
+    "name": "China",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8198": {
+    "name": "Costa Rica",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8199": {
+    "name": "Czech Republic",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8200": {
+    "name": "Denmark",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8201": {
+    "name": "Ecuador",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8202": {
+    "name": "Finland",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8203": {
+    "name": "Germany",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8204": {
+    "name": "Ghana",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8205": {
+    "name": "Iran",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8206": {
+    "name": "Italy",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8207": {
+    "name": "Japan",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8208": {
+    "name": "Mexico",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8209": {
+    "name": "Morocco",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8210": {
+    "name": "Norway",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8211": {
+    "name": "Senegal",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8212": {
+    "name": "Serbia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8213": {
+    "name": "Spain",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8214": {
+    "name": "Sweden",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8215": {
+    "name": "Switzerland",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8216": {
+    "name": "Tunisia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8217": {
+    "name": "Uruguay",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8218": {
+    "name": "Wales",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8221": {
+    "name": "Octane: Argentina",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8222": {
+    "name": "Octane: Cameroon",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8223": {
+    "name": "Octane: Costa Rica",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8224": {
     "name": "Octane: Ecuador",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8225": {
+    "name": "Octane: Ghana",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8226": {
+    "name": "Octane: Iran",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8227": {
+    "name": "Octane: Morocco",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8228": {
+    "name": "Octane: Senegal",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8229": {
+    "name": "Octane: Serbia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8230": {
+    "name": "Octane: Tunisia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8231": {
+    "name": "Octane: Uruguay",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -58574,6 +59322,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8279": {
+    "name": "Nike Swoosh",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 15,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8281": {
     "name": "Moment (Worlds Version)",
     "blueprint": false,
@@ -58582,6 +59341,182 @@
     "currency": false,
     "quality": 3,
     "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8282": {
+    "name": "Australia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8283": {
+    "name": "Brazil",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8284": {
+    "name": "Canada",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8285": {
+    "name": "Nike Air Zoom Mercurial - CR7",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8286": {
+    "name": "Croatia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8287": {
+    "name": "England",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8288": {
+    "name": "France",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8290": {
+    "name": "Netherlands",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8291": {
+    "name": "New Zealand",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8292": {
+    "name": "Nigeria",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8293": {
+    "name": "Poland",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8294": {
+    "name": "Portugal",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8295": {
+    "name": "Qatar",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8296": {
+    "name": "Saudi Arabia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8297": {
+    "name": "South Korea",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8298": {
+    "name": "USA",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
     "tradable": false,
     "tradeIn": false
   },
@@ -58695,6 +59630,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8313": {
+    "name": "Octane: Ukraine",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8314": {
     "name": "Sam's Treat",
     "blueprint": false,
@@ -58706,13 +59652,24 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8317": {
+    "name": "Ukraine",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8318": {
     "name": "Nike Federation Decals",
     "blueprint": false,
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 0,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -58816,6 +59773,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8333": {
+    "name": "Octane: Nike Air Zoom Mercurial - CR7",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8334": {
+    "name": "Octane: Nike FC 2022 - Multicolor",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8336": {
     "name": "Federation Banners",
     "blueprint": false,
@@ -58838,6 +59817,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8339": {
+    "name": "Champ Anthems",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8340": {
+    "name": "Kernkraft 400 (Sport Chant Stadium Anthem Mix)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8344": {
     "name": "Jump",
     "blueprint": false,
@@ -58849,6 +59850,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8346": {
+    "name": "Fennec: Nike Phantom GT - Copper",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8347": {
+    "name": "Dominus: Nike Tiempo - Copper",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8352": {
     "name": "Octane: Team Secret (Home)",
     "blueprint": false,
@@ -58856,6 +59879,17 @@
     "paintable": false,
     "currency": false,
     "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8353": {
+    "name": "Octane: Saudi Arabia",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -59036,6 +60070,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8385": {
+    "name": "Octane: Turkey (Nike)",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8387": {
     "name": "Chucky's Laugh",
     "blueprint": false,
@@ -59044,6 +60089,28 @@
     "currency": false,
     "quality": 4,
     "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8388": {
+    "name": "Turkey",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8391": {
+    "name": "Nike FC 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 15,
     "tradable": false,
     "tradeIn": false
   },
@@ -59091,6 +60158,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8399": {
+    "name": "Act A Fool",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8400": {
     "name": "Game Time (feat. Dr. Awkward)",
     "blueprint": false,
@@ -59113,8 +60191,74 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8406": {
+    "name": "boler mani",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8407": {
+    "name": "Dustycloud",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8408": {
+    "name": "Kage",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8409": {
+    "name": "Sol Rising",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8410": {
+    "name": "Tisoki",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8412": {
+    "name": "Saint Punk",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8413": {
-    "name": "Africa",
+    "name": "Africa Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59125,7 +60269,7 @@
     "tradeIn": false
   },
   "8414": {
-    "name": "Asia & Oceania",
+    "name": "Asia & Oceania Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59136,7 +60280,7 @@
     "tradeIn": false
   },
   "8415": {
-    "name": "Eastern Europe",
+    "name": "Eastern Europe Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59147,7 +60291,7 @@
     "tradeIn": false
   },
   "8416": {
-    "name": "Middle East",
+    "name": "Middle East Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59158,7 +60302,7 @@
     "tradeIn": false
   },
   "8417": {
-    "name": "North America",
+    "name": "North America Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59169,7 +60313,7 @@
     "tradeIn": false
   },
   "8418": {
-    "name": "Northern Europe",
+    "name": "Northern Europe Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59180,7 +60324,7 @@
     "tradeIn": false
   },
   "8419": {
-    "name": "South America",
+    "name": "South America Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59191,7 +60335,7 @@
     "tradeIn": false
   },
   "8420": {
-    "name": "Southern Europe",
+    "name": "Southern Europe Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59202,13 +60346,68 @@
     "tradeIn": false
   },
   "8421": {
-    "name": "Western Europe",
+    "name": "Western Europe Decal Pack",
     "blueprint": false,
     "special": 0,
     "paintable": false,
     "currency": false,
     "quality": 8,
     "slot": 11,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8422": {
+    "name": "Asdek",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8426": {
+    "name": "Whiplash: Flames",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8427": {
+    "name": "Whiplash: Lightning",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8428": {
+    "name": "Whiplash: Stripes",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8430": {
+    "name": "Whiplash: Wings",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
     "tradable": false,
     "tradeIn": false
   },
@@ -59242,6 +60441,39 @@
     "currency": false,
     "quality": 3,
     "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8434": {
+    "name": "Inked",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8435": {
+    "name": "Octane: Landon Donovan",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8441": {
+    "name": "Octane: Nike Air Zoom Mercurial - Copper",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
     "tradable": false,
     "tradeIn": false
   },
@@ -59321,5 +60553,247 @@
     "slot": 22,
     "tradable": false,
     "tradeIn": false
+  },
+  "8457": {
+    "name": "Accolade IX",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8458": {
+    "name": "Golden Gift '22",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "8460": {
+    "name": "Octane: Nike Mercurial - R9",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8461": {
+    "name": "Octane: USA",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8462": {
+    "name": "Nike FC 2022 - Multicolor",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8471": {
+    "name": "Blender YNP",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8472": {
+    "name": "Chafed Cherry YNP",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8475": {
+    "name": "Nike Swoosh",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 15,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8476": {
+    "name": "Nike FC 2022",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 15,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8487": {
+    "name": "Breakout: Dot Matrix YNP",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8492": {
+    "name": "Sun Ray YNP",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8506": {
+    "name": "S8 - Bronze",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8507": {
+    "name": "S8 - Champion",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8508": {
+    "name": "S8 - Diamond",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8509": {
+    "name": "S8 - Gold",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8510": {
+    "name": "S8 - Grand Champion",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8511": {
+    "name": "S8 - Platinum",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8512": {
+    "name": "S8 - Silver",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8513": {
+    "name": "S8 - Supersonic Legend",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8530": {
+    "name": "Style-phile",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8532": {
+    "name": "Nike Mercurial - R9",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8535": {
+    "name": "Righteous Fail",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": true
   }
 }

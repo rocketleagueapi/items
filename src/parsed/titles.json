@@ -2023,8 +2023,56 @@
     "name": "Sole Survivor",
     "color": "#FFFFFF"
   },
+  "SE_Footy_Fanatic": {
+    "name": "Footy Fanatic",
+    "color": "#FFFFFF"
+  },
   "SE_Jump_Starter": {
     "name": "Jump-Starter",
+    "color": "#FFFFFF"
+  },
+  "S22_SSL_Rumble": {
+    "name": "S8 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S22_SSL_DropShot": {
+    "name": "S8 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S22_SSL_SnowDay": {
+    "name": "S8 Ice Titan",
+    "color": "#E8E8E8"
+  },
+  "S22_SSL_Hoops": {
+    "name": "S8 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "S22_SuperSonic_Legend": {
+    "name": "S8 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S22_Grand_Champion_Rumble": {
+    "name": "S8 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S22_Grand_Champion_DropShot": {
+    "name": "S8 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S22_Grand_Champion_SnowDay": {
+    "name": "S8 Blizzard Wizard",
+    "color": "#FF2800"
+  },
+  "S22_Grand_Champion_Hoops": {
+    "name": "S8 Dunk Master",
+    "color": "#FF2800"
+  },
+  "Season22GrandChampion": {
+    "name": "S8 Grand Champion",
+    "color": "#FF2800"
+  },
+  "SE_Nike_FC_Cup_MVP": {
+    "name": "Nike FC Cup MVP",
     "color": "#FFFFFF"
   }
 }

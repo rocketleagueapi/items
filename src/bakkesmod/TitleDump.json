@@ -2875,8 +2875,68 @@
 		"Title Database Color": "#FFFFFF"
 	},
 	{
+		"Title Database Id": "SE_Footy_Fanatic",
+		"Title Database Text": "Footy Fanatic",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
 		"Title Database Id": "SE_Jump_Starter",
 		"Title Database Text": "Jump-Starter",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S22_SSL_Rumble",
+		"Title Database Text": "S8 RNGenius",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S22_SSL_DropShot",
+		"Title Database Text": "S8 Tile Annihilator",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S22_SSL_SnowDay",
+		"Title Database Text": "S8 Ice Titan",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S22_SSL_Hoops",
+		"Title Database Text": "S8 Legendary Baller",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S22_SuperSonic_Legend",
+		"Title Database Text": "S8 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S22_Grand_Champion_Rumble",
+		"Title Database Text": "S8 RNG Champ",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S22_Grand_Champion_DropShot",
+		"Title Database Text": "S8 Floor Destroyer",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S22_Grand_Champion_SnowDay",
+		"Title Database Text": "S8 Blizzard Wizard",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S22_Grand_Champion_Hoops",
+		"Title Database Text": "S8 Dunk Master",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season22GrandChampion",
+		"Title Database Text": "S8 Grand Champion",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "SE_Nike_FC_Cup_MVP",
+		"Title Database Text": "Nike FC Cup MVP",
 		"Title Database Color": "#FFFFFF"
 	}
 ]
