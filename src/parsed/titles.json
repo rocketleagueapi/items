@@ -2031,6 +2031,66 @@
     "name": "Jump-Starter",
     "color": "#FFFFFF"
   },
+  "AutoTour_09_Bronze": {
+    "name": "S9 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_09_Silver": {
+    "name": "S9 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_09_Gold": {
+    "name": "S9 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_09_Platinum": {
+    "name": "S9 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_09_Diamond": {
+    "name": "S9 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_09_Champion": {
+    "name": "S9 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_09_GrandChampion": {
+    "name": "S9 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_09_SuperSonicLegend": {
+    "name": "S9 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "RP15_Whiff_Wizard": {
+    "name": "Whiff Wizard",
+    "color": "#FFFFFF"
+  },
+  "RP15_Dungeon_Master": {
+    "name": "Dungeon Master",
+    "color": "#FFFFFF"
+  },
+  "RP15_Dragon_Rider": {
+    "name": "Dragon Rider",
+    "color": "#FFFFFF"
+  },
+  "RP15_5050_Magician": {
+    "name": "50/50 Magician",
+    "color": "#FFFFFF"
+  },
+  "RP15_Fire_Flier": {
+    "name": "Fire Flier",
+    "color": "#FFFFFF"
+  },
+  "RP15_Crit_Hitter": {
+    "name": "Crit Hitter",
+    "color": "#FFFFFF"
+  },
+  "RP15_Frostbitten": {
+    "name": "Frostbitten",
+    "color": "#FFFFFF"
+  },
   "S22_SSL_Rumble": {
     "name": "S8 RNGenius",
     "color": "#E8E8E8"
@@ -2071,8 +2131,16 @@
     "name": "S8 Grand Champion",
     "color": "#FF2800"
   },
+  "SE_Frost_Boss": {
+    "name": "Frost Boss",
+    "color": "#FFFFFF"
+  },
   "SE_Nike_FC_Cup_MVP": {
     "name": "Nike FC Cup MVP",
+    "color": "#FFFFFF"
+  },
+  "SE_Style_Icon": {
+    "name": "Style Icon",
     "color": "#FFFFFF"
   }
 }

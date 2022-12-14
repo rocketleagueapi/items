@@ -2885,6 +2885,121 @@
 		"Title Database Color": "#FFFFFF"
 	},
 	{
+		"Title Database Id": "AutoTour_09_Bronze",
+		"Title Database Text": "S9 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Bronze",
+		"Title Database Text": "S9 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Silver",
+		"Title Database Text": "S9 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Silver",
+		"Title Database Text": "S9 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Gold",
+		"Title Database Text": "S9 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Gold",
+		"Title Database Text": "S9 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Platinum",
+		"Title Database Text": "S9 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Platinum",
+		"Title Database Text": "S9 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Diamond",
+		"Title Database Text": "S9 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Diamond",
+		"Title Database Text": "S9 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Champion",
+		"Title Database Text": "S9 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_09_Champion",
+		"Title Database Text": "S9 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_09_GrandChampion",
+		"Title Database Text": "S9 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_09_GrandChampion",
+		"Title Database Text": "S9 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_09_SuperSonicLegend",
+		"Title Database Text": "S9 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_09_SuperSonicLegend",
+		"Title Database Text": "S9 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "RP15_Whiff_Wizard",
+		"Title Database Text": "Whiff Wizard",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP15_Dungeon_Master",
+		"Title Database Text": "Dungeon Master",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP15_Dragon_Rider",
+		"Title Database Text": "Dragon Rider",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP15_5050_Magician",
+		"Title Database Text": "50/50 Magician",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP15_Fire_Flier",
+		"Title Database Text": "Fire Flier",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP15_Crit_Hitter",
+		"Title Database Text": "Crit Hitter",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP15_Frostbitten",
+		"Title Database Text": "Frostbitten",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
 		"Title Database Id": "S22_SSL_Rumble",
 		"Title Database Text": "S8 RNGenius",
 		"Title Database Color": "#E8E8E8"
@@ -2935,8 +3050,18 @@
 		"Title Database Color": "#FF2800"
 	},
 	{
+		"Title Database Id": "SE_Frost_Boss",
+		"Title Database Text": "Frost Boss",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
 		"Title Database Id": "SE_Nike_FC_Cup_MVP",
 		"Title Database Text": "Nike FC Cup MVP",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Style_Icon",
+		"Title Database Text": "Style Icon",
 		"Title Database Color": "#FFFFFF"
 	}
 ]
