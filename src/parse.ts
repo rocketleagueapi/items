@@ -61,6 +61,23 @@ const products = ProductDump.reduce((acc, p) => {
 }, {} as Record<number, any>);
 write('products', products);
 
+const entries = Object.entries(products);
+const specialBases = entries.reduce((acc, [strId, item]) => {
+    if (item.special) {
+        const id = Number(strId);
+
+        const base = entries.find(([bId, b]) => Number(bId) < Number(id) && item.slot === b.slot && item.name === b.name);
+        if (base) {
+            const bId = Number(base[0]);
+            acc[id] = bId;
+            acc[bId] = id;
+        }
+    }
+
+    return acc;
+}, {} as Record<number, number>);
+write('specialBases', specialBases);
+
 const series = SeriesDump.reduce((acc, s) => {
     acc[s['Database Series Id']] = s['Database Series Label'];
     return acc;
