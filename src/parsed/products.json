@@ -22640,7 +22640,7 @@
   "3369": {
     "name": "Gripstride HX",
     "blueprint": false,
-    "special": 3,
+    "special": 0,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -28481,7 +28481,7 @@
   "4128": {
     "name": "Usurper",
     "blueprint": false,
-    "special": 0,
+    "special": 1,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -29779,7 +29779,7 @@
   "4314": {
     "name": "Automaton",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -30164,7 +30164,7 @@
   "4358": {
     "name": "Apparatus",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -30813,7 +30813,7 @@
   "4426": {
     "name": "Blade Wave",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -31924,7 +31924,7 @@
   "4599": {
     "name": "Hikari P5",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -32045,7 +32045,7 @@
   "4627": {
     "name": "Saptarishi",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -32639,7 +32639,7 @@
   "4712": {
     "name": "Cristiano",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 3,
@@ -33057,7 +33057,7 @@
   "4777": {
     "name": "Cristiano",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 3,
@@ -39162,7 +39162,7 @@
   "5584": {
     "name": "Glitch",
     "blueprint": false,
-    "special": 1,
+    "special": 0,
     "paintable": true,
     "currency": false,
     "quality": 3,
