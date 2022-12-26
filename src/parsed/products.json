@@ -55101,7 +55101,7 @@
   "7642": {
     "name": "A-Lister",
     "blueprint": false,
-    "special": 3,
+    "special": 0,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -55365,7 +55365,7 @@
   "7677": {
     "name": "A-Lister",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
