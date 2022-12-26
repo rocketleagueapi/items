@@ -35609,7 +35609,7 @@
   "5170": {
     "name": "Polyergic",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -35653,7 +35653,7 @@
   "5176": {
     "name": "Metal-Carpus",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -35664,7 +35664,7 @@
   "5177": {
     "name": "Hamster",
     "blueprint": false,
-    "special": 0,
+    "special": 1,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -35675,7 +35675,7 @@
   "5178": {
     "name": "HNY",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -35686,7 +35686,7 @@
   "5179": {
     "name": "CNTCT-1",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -35697,7 +35697,7 @@
   "5180": {
     "name": "Mandala",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -35708,7 +35708,7 @@
   "5182": {
     "name": "Propeller",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -35719,7 +35719,7 @@
   "5183": {
     "name": "Agasaya",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -35730,7 +35730,7 @@
   "5184": {
     "name": "Cutter",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -35774,7 +35774,7 @@
   "5191": {
     "name": "Poptop",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -36984,7 +36984,7 @@
   "5341": {
     "name": "Flim-Flam",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -37017,7 +37017,7 @@
   "5345": {
     "name": "Shortquarter",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -37160,7 +37160,7 @@
   "5362": {
     "name": "3-Lobe",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -38051,7 +38051,7 @@
   "5450": {
     "name": "Zoko",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -38414,7 +38414,7 @@
   "5496": {
     "name": "Esoto 4R",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -38953,7 +38953,7 @@
   "5548": {
     "name": "Intercross",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -39305,7 +39305,7 @@
   "5608": {
     "name": "MTRX",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": false,
     "currency": false,
     "quality": 8,
@@ -39811,7 +39811,7 @@
   "5675": {
     "name": "Burner",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -40350,7 +40350,7 @@
   "5746": {
     "name": "Spanner",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -40405,7 +40405,7 @@
   "5751": {
     "name": "Bravado",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -41890,7 +41890,7 @@
   "5908": {
     "name": "Grievance",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -42033,7 +42033,7 @@
   "5924": {
     "name": "Zadeh S3",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -42704,7 +42704,7 @@
   "6019": {
     "name": "Astro-CSX",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -43474,7 +43474,7 @@
   "6117": {
     "name": "Poppet",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -44134,7 +44134,7 @@
   "6191": {
     "name": "Crosspiece",
     "blueprint": false,
-    "special": 0,
+    "special": 1,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -44156,7 +44156,7 @@
   "6193": {
     "name": "Tanker",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -44233,7 +44233,7 @@
   "6200": {
     "name": "Gadabout",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -44244,7 +44244,7 @@
   "6201": {
     "name": "Ruinator",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -44618,7 +44618,7 @@
   "6245": {
     "name": "Twista",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -44640,7 +44640,7 @@
   "6248": {
     "name": "Twista",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -44717,7 +44717,7 @@
   "6256": {
     "name": "Boost Boot",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -48908,7 +48908,7 @@
   "6984": {
     "name": "Canister",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -49502,7 +49502,7 @@
   "7047": {
     "name": "Glonex",
     "blueprint": false,
-    "special": 0,
+    "special": 1,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -49678,7 +49678,7 @@
   "7065": {
     "name": "Prop-L",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -49799,7 +49799,7 @@
   "7078": {
     "name": "Chakram",
     "blueprint": false,
-    "special": 0,
+    "special": 1,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -50998,7 +50998,7 @@
   "7218": {
     "name": "Mothership Pro",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 3,
@@ -52472,7 +52472,7 @@
   "7357": {
     "name": "Reaper",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -53319,7 +53319,7 @@
   "7448": {
     "name": "Pulpo",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -53484,7 +53484,7 @@
   "7464": {
     "name": "E-Zeke",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -53627,7 +53627,7 @@
   "7479": {
     "name": "Rival",
     "blueprint": false,
-    "special": 0,
+    "special": 2,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -55101,7 +55101,7 @@
   "7642": {
     "name": "A-Lister",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -56267,7 +56267,7 @@
   "7812": {
     "name": "Bladeon",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 5,
@@ -57488,7 +57488,7 @@
   "7986": {
     "name": "Maz",
     "blueprint": false,
-    "special": 0,
+    "special": 1,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -57521,7 +57521,7 @@
   "7994": {
     "name": "Franko Fone",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -61338,7 +61338,7 @@
   "8483": {
     "name": "Hotty Dotty",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 4,
@@ -61723,7 +61723,7 @@
   "8522": {
     "name": "Veski",
     "blueprint": false,
-    "special": 0,
+    "special": 3,
     "paintable": true,
     "currency": false,
     "quality": 8,

@@ -9,7 +9,8 @@
   "scripts": {
     "lint": "eslint . --ext js,jsx,ts,tsx --fix",
     "build": "tsc -p ./tsconfig.node.json && tsc -p ./tsconfig.browser.json",
-    "parse": "ts-node --project tsconfig.node.json src/parse.ts"
+    "parse": "ts-node --project tsconfig.node.json src/parse.ts",
+    "sameName": "ts-node --project tsconfig.node.json src/sameName.ts"
   },
   "repository": {
     "type": "git",
