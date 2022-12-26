@@ -72,7 +72,7 @@ const specialMap: Record<number, number> = {
     7448: 2, // Pulpo
     7464: 3, // E-Zeke
     7479: 2, // Rival
-    7642: 3, // A-Lister
+    7677: 3, // A-Lister
     7812: 3, // Bladeon
     7986: 1, // Maz
     7994: 3, // Franko Fone
