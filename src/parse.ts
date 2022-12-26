@@ -66,8 +66,8 @@ const specialBases = entries.reduce((acc, [id, item]) => {
     if (item.special) {
         const base = entries.find(([bId, b]) => bId !== id && item.slot === b.slot && item.name === b.name);
         if (base) {
-            acc[`${id}-0`] = Number(base[0]);
-            acc[`${base[0]}-${item.special}`] = Number(id);
+            acc[`${id}-${item.special}`] = Number(base[0]);
+            acc[`${base[0]}-0`] = Number(id);
         }
     }
 
