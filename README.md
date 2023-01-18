@@ -40,6 +40,17 @@ const alphaBoost = products[32];
 console.log(alphaBoost.paintable) // false
 ```
 
+## Updating the Dump
+Using [ItsBrank's CodeRed](https://coderedmodding.github.io/), we can dump the necessary information to update this module.  The information in this module is derived from the game and is extacted using CodeRed.  The commands needed to dump the `src/raw` JSON files can be found in `scripts/dump_databases.crsq`.
+
+Run these commands and copy the resultant output from your CodeRed Dump folder to `src/raw`.
+
+Afterwards, run the parse script:
+
+```sh
+npm run parse
+```
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
