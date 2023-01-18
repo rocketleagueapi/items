@@ -1,31 +1,55 @@
 {
-  "Stadium_P": {
-    "name": "DFH Stadium",
-    "variant": ""
+  "ARC_Darc_P": {
+    "name": "Starbase ARC",
+    "variant": "Aftermath"
   },
-  "stadium_day_p": {
-    "name": "DFH Stadium",
+  "ARC_P": {
+    "name": "ARCtagon",
+    "variant": "None"
+  },
+  "arc_standard_p": {
+    "name": "Starbase ARC",
+    "variant": "None"
+  },
+  "bb_p": {
+    "name": "Champions Field (NFL)",
+    "variant": "None"
+  },
+  "beach_night_p": {
+    "name": "Salty Shores",
+    "variant": "Night"
+  },
+  "beach_P": {
+    "name": "Salty Shores",
+    "variant": "None"
+  },
+  "CHN_Stadium_Day_P": {
+    "name": "Forbidden Temple (Day)",
+    "variant": "None"
+  },
+  "CHN_Stadium_P": {
+    "name": "Forbidden Temple",
+    "variant": "None"
+  },
+  "cs_day_p": {
+    "name": "Champions Field",
     "variant": "Day"
   },
-  "Stadium_Foggy_P": {
-    "name": "DFH Stadium",
-    "variant": "Stormy"
+  "cs_hw_p": {
+    "name": "Rivals Arena",
+    "variant": "None"
   },
-  "Stadium_Race_Day_p": {
-    "name": "DFH Stadium",
-    "variant": "Circuit"
-  },
-  "Stadium_Winter_P": {
-    "name": "DFH Stadium",
-    "variant": "Snowy"
-  },
-  "EuroStadium_P": {
-    "name": "Mannfield",
-    "variant": ""
+  "cs_p": {
+    "name": "Champions Field",
+    "variant": "None"
   },
   "EuroStadium_Night_P": {
     "name": "Mannfield",
     "variant": "Night"
+  },
+  "EuroStadium_P": {
+    "name": "Mannfield",
+    "variant": "None"
   },
   "EuroStadium_Rainy_P": {
     "name": "Mannfield",
@@ -35,33 +59,145 @@
     "name": "Mannfield",
     "variant": "Snowy"
   },
-  "cs_p": {
-    "name": "Champions Field",
-    "variant": ""
+  "Farm_HW_P": {
+    "name": "Farmstead",
+    "variant": "Spooky"
   },
-  "cs_day_p": {
-    "name": "Champions Field",
-    "variant": "Day"
-  },
-  "TrainStation_P": {
-    "name": "Urban Central",
-    "variant": ""
-  },
-  "TrainStation_Dawn_P": {
-    "name": "Urban Central",
-    "variant": "Dawn"
-  },
-  "TrainStation_Night_P": {
-    "name": "Urban Central",
+  "Farm_Night_P": {
+    "name": "Farmstead",
     "variant": "Night"
   },
-  "Park_P": {
+  "farm_p": {
+    "name": "Farmstead",
+    "variant": "None"
+  },
+  "FNI_Stadium_P": {
+    "name": "Forbidden Temple",
+    "variant": "Fire & Ice"
+  },
+  "Haunted_TrainStation_P": {
+    "name": "Urban Central (Haunted)",
+    "variant": "None"
+  },
+  "HoopsStadium_P": {
+    "name": "Dunk House",
+    "variant": "None"
+  },
+  "hoopsStreet_p": {
+    "name": "The Block",
+    "variant": "None"
+  },
+  "KO_Calavera_P": {
+    "name": "Calavera",
+    "variant": "None"
+  },
+  "KO_Carbon_P": {
+    "name": "Carbon",
+    "variant": "None"
+  },
+  "KO_Quadron_P": {
+    "name": "Quadron",
+    "variant": "None"
+  },
+  "Labs_Basin_P": {
+    "name": "Basin",
+    "variant": "None"
+  },
+  "Labs_CirclePillars_P": {
+    "name": "Pillars",
+    "variant": "None"
+  },
+  "Labs_Corridor_P": {
+    "name": "Corridor",
+    "variant": "None"
+  },
+  "Labs_Cosmic_P": {
+    "name": "Cosmic",
+    "variant": "None"
+  },
+  "Labs_Cosmic_V4_P": {
+    "name": "Cosmic",
+    "variant": "None"
+  },
+  "Labs_DoubleGoal_P": {
+    "name": "Double Goal",
+    "variant": "None"
+  },
+  "Labs_DoubleGoal_V2_P": {
+    "name": "Double Goal",
+    "variant": "None"
+  },
+  "Labs_Galleon_Mast_P": {
+    "name": "Galleon Retro",
+    "variant": "None"
+  },
+  "Labs_Galleon_P": {
+    "name": "Galleon",
+    "variant": "None"
+  },
+  "Labs_Holyfield_P": {
+    "name": "Loophole",
+    "variant": "None"
+  },
+  "Labs_Octagon_02_P": {
+    "name": "Octagon",
+    "variant": "None"
+  },
+  "Labs_Octagon_P": {
+    "name": "Octagon",
+    "variant": "None"
+  },
+  "Labs_PillarGlass_P": {
+    "name": "Hourglass",
+    "variant": "None"
+  },
+  "Labs_PillarHeat_P": {
+    "name": "Barricade",
+    "variant": "None"
+  },
+  "Labs_PillarWings_P": {
+    "name": "Colossus",
+    "variant": "None"
+  },
+  "Labs_Underpass_P": {
+    "name": "Underpass",
+    "variant": "None"
+  },
+  "Labs_Utopia_P": {
+    "name": "Utopia Retro",
+    "variant": "None"
+  },
+  "music_p": {
+    "name": "Neon Fields",
+    "variant": "None"
+  },
+  "NeoTokyo_P": {
+    "name": "Tokyo Underpass",
+    "variant": "None"
+  },
+  "NeoTokyo_Standard_P": {
+    "name": "Neo Tokyo",
+    "variant": "None"
+  },
+  "NeoTokyo_Toon_p": {
+    "name": "Neo Tokyo",
+    "variant": "Comic"
+  },
+  "outlaw_p": {
+    "name": "Deadeye Canyon",
+    "variant": "None"
+  },
+  "park_bman_p": {
     "name": "Beckwith Park",
-    "variant": ""
+    "variant": "None"
   },
   "Park_Night_P": {
     "name": "Beckwith Park",
     "variant": "Midnight"
+  },
+  "Park_P": {
+    "name": "Beckwith Park",
+    "variant": "None"
   },
   "Park_Rainy_P": {
     "name": "Beckwith Park",
@@ -71,144 +207,92 @@
     "name": "Beckwith Park",
     "variant": "Snowy"
   },
-  "UtopiaStadium_P": {
-    "name": "Utopia Coliseum",
-    "variant": ""
+  "ShatterShot_P": {
+    "name": "Core 707",
+    "variant": "None"
+  },
+  "stadium_day_p": {
+    "name": "DFH Stadium",
+    "variant": "Day"
+  },
+  "Stadium_Foggy_P": {
+    "name": "DFH Stadium",
+    "variant": "Stormy"
+  },
+  "Stadium_P": {
+    "name": "DFH Stadium",
+    "variant": "None"
+  },
+  "Stadium_Race_Day_p": {
+    "name": "DFH Stadium",
+    "variant": "Circuit"
+  },
+  "Stadium_Winter_P": {
+    "name": "DFH Stadium",
+    "variant": "Snowy"
+  },
+  "street_p": {
+    "name": "Sovereign Heights",
+    "variant": "None"
+  },
+  "swoosh_p": {
+    "name": "Champions Field",
+    "variant": "Nike FC"
+  },
+  "throwbackhockey_p": {
+    "name": "Throwback Stadium (Snowy)",
+    "variant": "None"
+  },
+  "throwbackstadium_P": {
+    "name": "Throwback Stadium",
+    "variant": "None"
+  },
+  "TrainStation_Dawn_P": {
+    "name": "Urban Central",
+    "variant": "Dawn"
+  },
+  "TrainStation_Night_P": {
+    "name": "Urban Central",
+    "variant": "Night"
+  },
+  "TrainStation_P": {
+    "name": "Urban Central",
+    "variant": "None"
+  },
+  "Underwater_P": {
+    "name": "AquaDome",
+    "variant": "None"
   },
   "UtopiaStadium_Dusk_P": {
     "name": "Utopia Coliseum",
     "variant": "Dusk"
   },
-  "UtopiaStadium_Snow_P": {
-    "name": "Utopia Coliseum",
-    "variant": "Snowy"
-  },
   "UtopiaStadium_Lux_P": {
     "name": "Utopia Coliseum",
     "variant": "Gilded"
   },
-  "wasteland_s_p": {
-    "name": "Wasteland",
-    "variant": ""
+  "UtopiaStadium_P": {
+    "name": "Utopia Coliseum",
+    "variant": "None"
   },
-  "wasteland_Night_S_P": {
-    "name": "Wasteland",
-    "variant": "Night"
-  },
-  "NeoTokyo_Standard_P": {
-    "name": "Neo Tokyo",
-    "variant": ""
-  },
-  "NeoTokyo_Toon_p": {
-    "name": "Neo Tokyo",
-    "variant": "Comic"
-  },
-  "Underwater_P": {
-    "name": "AquaDome",
-    "variant": ""
-  },
-  "arc_standard_p": {
-    "name": "Starbase ARC",
-    "variant": ""
-  },
-  "ARC_Darc_P": {
-    "name": "Starbase ARC",
-    "variant": "Aftermath"
-  },
-  "beach_P": {
-    "name": "Salty Shores",
-    "variant": ""
-  },
-  "beach_night_p": {
-    "name": "Salty Shores",
-    "variant": "Night"
-  },
-  "farm_p": {
-    "name": "Farmstead",
-    "variant": ""
-  },
-  "Farm_Night_P": {
-    "name": "Farmstead",
-    "variant": "Night"
-  },
-  "CHN_Stadium_P": {
-    "name": "Forbidden Temple",
-    "variant": ""
-  },
-  "CHN_Stadium_Day_P": {
-    "name": "Forbidden Temple (Day)",
-    "variant": ""
-  },
-  "music_p": {
-    "name": "Neon Fields",
-    "variant": ""
-  },
-  "outlaw_p": {
-    "name": "Deadeye Canyon",
-    "variant": ""
-  },
-  "street_p": {
-    "name": "Sovereign Heights",
-    "variant": ""
-  },
-  "cs_hw_p": {
-    "name": "Rivals Arena",
-    "variant": ""
-  },
-  "Wasteland_P": {
-    "name": "Badlands",
-    "variant": ""
+  "UtopiaStadium_Snow_P": {
+    "name": "Utopia Coliseum",
+    "variant": "Snowy"
   },
   "Wasteland_Night_P": {
     "name": "Badlands",
     "variant": "Night"
   },
-  "NeoTokyo_P": {
-    "name": "Tokyo Underpass",
-    "variant": ""
+  "wasteland_Night_S_P": {
+    "name": "Wasteland",
+    "variant": "Night"
   },
-  "ARC_P": {
-    "name": "ARCtagon",
-    "variant": ""
+  "Wasteland_P": {
+    "name": "Badlands",
+    "variant": "None"
   },
-  "throwbackstadium_P": {
-    "name": "Throwback Stadium",
-    "variant": ""
-  },
-  "Labs_CirclePillars_P": {
-    "name": "Pillars",
-    "variant": ""
-  },
-  "Labs_Cosmic_V4_P": {
-    "name": "Cosmic",
-    "variant": ""
-  },
-  "Labs_DoubleGoal_V2_P": {
-    "name": "Double Goal",
-    "variant": ""
-  },
-  "Labs_Underpass_P": {
-    "name": "Underpass",
-    "variant": ""
-  },
-  "Labs_Utopia_P": {
-    "name": "Utopia Retro",
-    "variant": ""
-  },
-  "Labs_Octagon_02_P": {
-    "name": "Octagon",
-    "variant": ""
-  },
-  "Labs_Basin_P": {
-    "name": "Basin",
-    "variant": ""
-  },
-  "Labs_Corridor_P": {
-    "name": "Corridor",
-    "variant": ""
-  },
-  "Labs_Galleon_P": {
-    "name": "Galleon",
-    "variant": ""
+  "wasteland_s_p": {
+    "name": "Wasteland",
+    "variant": "None"
   }
 }

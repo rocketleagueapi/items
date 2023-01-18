@@ -61269,6 +61269,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8468": {
+    "name": "Fennec: Nike Phantom GX - Pink",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8471": {
     "name": "Blender YNP",
     "blueprint": false,
@@ -61742,6 +61753,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8524": {
+    "name": "Bugatti Centodieci",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8525": {
     "name": "Lofi Girl Headphones",
     "blueprint": false,
@@ -61819,6 +61841,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8533": {
+    "name": "Bugatti Centodieci",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8535": {
     "name": "Righteous Fail",
     "blueprint": false,
@@ -61850,6 +61883,39 @@
     "quality": 8,
     "slot": 15,
     "tradable": true,
+    "tradeIn": false
+  },
+  "8554": {
+    "name": "Bugatti Centodieci",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8555": {
+    "name": "Bugatti Centodieci: Noire",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8558": {
+    "name": "Bugatti Centodieci",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
     "tradeIn": false
   },
   "8559": {

@@ -148,6 +148,18 @@
 		"Database Series Label": "Accolade VII"
 	},
 	{
+		"Database Series Id": 3766,
+		"Database Series Label": "Accolade VIII"
+	},
+	{
+		"Database Series Id": 4145,
+		"Database Series Label": "Golden Pumpkin '22"
+	},
+	{
+		"Database Series Id": 4292,
+		"Database Series Label": "Golden Gift '22"
+	},
+	{
 		"Database Series Id": 20,
 		"Database Series Label": "Haunted Hallows"
 	},
@@ -158,6 +170,10 @@
 	{
 		"Database Series Id": 300,
 		"Database Series Label": "Golden Lantern '19"
+	},
+	{
+		"Database Series Id": 4206,
+		"Database Series Label": "Accolade IX"
 	},
 	{
 		"Database Series Id": 902,

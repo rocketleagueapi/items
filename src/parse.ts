@@ -1,15 +1,16 @@
 import { writeFileSync } from 'fs';
 import path from 'path';
-import CertificationDump from './bakkesmod/CertificationDump.json';
-import PaintDump from './bakkesmod/PaintDump.json';
-import ProductDump from './bakkesmod/ProductDump.json';
-import SeriesDump from './bakkesmod/SeriesDump.json';
-import SlotDump from './bakkesmod/SlotDump.json';
-import SpecialEditionDump from './bakkesmod/SpecialEditionDump.json';
-import MapDump from './bakkesmod/MapDump.json';
-import PlaylistDump from './bakkesmod/PlaylistDump.json';
-import TitleDump from './bakkesmod/TitleDump.json';
+import CertificationDump from './raw/CertificationDump.json';
+import PaintDump from './raw/PaintDump.json';
+import ProductDump from './raw/ProductDump.json';
+import SeriesDump from './raw/SeriesDump.json';
+import SlotDump from './raw/SlotDump.json';
+import SpecialEditionDump from './raw/SpecialEditionDump.json';
+import MapDump from './raw/MapDump.json';
+import PlaylistDump from './raw/PlaylistDump.json';
+import TitleDump from './raw/TitleDump.json';
 import specialMap from './specialMap';
+import { Product } from './@types/exports';
 
 function write(name: string, data: any) {
     writeFileSync(path.join(__dirname, './parsed/', `${name}.json`), JSON.stringify(data, null, 2));
@@ -37,7 +38,7 @@ write('specials', specials);
 const specialsInverse: Record<string, number> = Object.fromEntries(Object.entries(specials).map(a => a.reverse()));
 const specialPattern = new RegExp(`: (${Object.values(specials).join('|')})$`);
 
-const products = ProductDump.reduce((acc, p) => {
+const products: Record<number, Product> = ProductDump.reduce((acc, p) => {
     const untradable = p['Product Quality Id'] === 9 || (p['Product Quality Id'] === 0 && !p['Product Paintable']);
     const id = p['Product Id'];
     let name = p['Product Long Label'];
@@ -54,11 +55,11 @@ const products = ProductDump.reduce((acc, p) => {
         currency: p['Product Currency'],
         quality: p['Product Quality Id'],
         slot: p['Slot Index'],
-        tradable: untradable ? false : !p['Product Trade Restrictions'].find(r => r === 'P2P'),
-        tradeIn: untradable ? false : !p['Product Trade Restrictions'].find(r => r === 'TradeIn')
+        tradable: untradable ? false : !p['Product Trade Restrictions'].find((r: string) => r === 'P2P'),
+        tradeIn: untradable ? false : !p['Product Trade Restrictions'].find((r: string) => r === 'TradeIn')
     };
     return acc;
-}, {} as Record<number, any>);
+}, {} as Record<number, Product>);
 write('products', products);
 
 const entries = Object.entries(products);

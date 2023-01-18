@@ -1,0 +1,110 @@
+[
+	{
+		"Paint Database Id": 1,
+		"Paint Database Name": "Red_00",
+		"Paint Database Label": "Crimson",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 2,
+		"Paint Database Name": "Green_01",
+		"Paint Database Label": "Lime",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 3,
+		"Paint Database Name": "Black_00",
+		"Paint Database Label": "Black",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 4,
+		"Paint Database Name": "Blue_00",
+		"Paint Database Label": "Sky Blue",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 5,
+		"Paint Database Name": "Blue_01",
+		"Paint Database Label": "Cobalt",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 6,
+		"Paint Database Name": "Brown_00",
+		"Paint Database Label": "Burnt Sienna",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 7,
+		"Paint Database Name": "Green_00",
+		"Paint Database Label": "Forest Green",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 8,
+		"Paint Database Name": "Purple_00",
+		"Paint Database Label": "Purple",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 9,
+		"Paint Database Name": "Pink_00",
+		"Paint Database Label": "Pink",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 10,
+		"Paint Database Name": "Orange_00",
+		"Paint Database Label": "Orange",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 11,
+		"Paint Database Name": "Grey_00",
+		"Paint Database Label": "Grey",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 12,
+		"Paint Database Name": "White_00",
+		"Paint Database Label": "Titanium White",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 13,
+		"Paint Database Name": "Yellow_00",
+		"Paint Database Label": "Saffron",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 14,
+		"Paint Database Name": "GoldMetal_00",
+		"Paint Database Label": "Gold",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 15,
+		"Paint Database Name": "RoseGoldMetal_00",
+		"Paint Database Label": "Rose Gold",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 16,
+		"Paint Database Name": "WhiteGoldMetal_00",
+		"Paint Database Label": "White Gold",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 17,
+		"Paint Database Name": "BlackMetal_00",
+		"Paint Database Label": "Onyx",
+		"Paint Database Colors": [  ]
+	},
+	{
+		"Paint Database Id": 18,
+		"Paint Database Name": "PlatinumMetal_00",
+		"Paint Database Label": "Platinum",
+		"Paint Database Colors": [  ]
+	}
+]

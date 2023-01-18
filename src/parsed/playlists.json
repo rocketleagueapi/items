@@ -24,26 +24,26 @@
     "players": 4
   },
   "6": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 5
   },
   "7": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 4
   },
   "8": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 4
   },
   "9": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 4
   },
@@ -90,26 +90,26 @@
     "players": 3
   },
   "19": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 4
   },
   "20": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 4
   },
   "21": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 4
   },
   "22": {
     "name": "Tournament Match",
-    "description": "",
+    "description": "None",
     "ranked": true,
     "players": 4
   },
@@ -120,14 +120,14 @@
     "players": 3
   },
   "24": {
-    "name": "",
-    "description": "",
+    "name": "None",
+    "description": "None",
     "ranked": false,
     "players": 5
   },
   "26": {
     "name": "External Match",
-    "description": "",
+    "description": "None",
     "ranked": true,
     "players": 4
   },
@@ -175,7 +175,7 @@
   },
   "34": {
     "name": "Tournament Match",
-    "description": "",
+    "description": "None",
     "ranked": true,
     "players": 4
   },

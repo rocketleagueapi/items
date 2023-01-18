@@ -1,12 +1,12 @@
 [
 	{
 		"Title Database Id": "None",
-		"Title Database Text": "",
+		"Title Database Text": "None",
 		"Title Database Color": "#FFFFFF"
 	},
 	{
 		"Title Database Id": "XP",
-		"Title Database Text": "",
+		"Title Database Text": "None",
 		"Title Database Color": "#FFFFFF"
 	},
 	{
@@ -3062,6 +3062,6 @@
 	{
 		"Title Database Id": "SE_Style_Icon",
 		"Title Database Text": "Style Icon",
-		"Title Database Color": "#FFFFFF"
+		"Title Database Color": "#00FFAA"
 	}
 ]

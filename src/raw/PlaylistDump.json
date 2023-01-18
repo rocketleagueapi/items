@@ -1,57 +1,57 @@
 [
 	{
 		"Playlist Id": 24,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 10
 	},
 	{
 		"Playlist Id": 6,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 10
 	},
 	{
 		"Playlist Id": 7,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 8
 	},
 	{
 		"Playlist Id": 8,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 8
 	},
 	{
 		"Playlist Id": 9,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 8
 	},
 	{
 		"Playlist Id": 19,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 8
 	},
 	{
 		"Playlist Id": 20,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 8
 	},
 	{
 		"Playlist Id": 21,
-		"Playlist Title": "",
-		"Playlist Description": "",
+		"Playlist Title": "None",
+		"Playlist Description": "None",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 8
 	},
@@ -142,21 +142,21 @@
 	{
 		"Playlist Id": 22,
 		"Playlist Title": "Tournament Match",
-		"Playlist Description": "",
+		"Playlist Description": "None",
 		"Playlist Ranked": true,
 		"Playlist Player Count": 8
 	},
 	{
 		"Playlist Id": 34,
 		"Playlist Title": "Tournament Match",
-		"Playlist Description": "",
+		"Playlist Description": "None",
 		"Playlist Ranked": true,
 		"Playlist Player Count": 8
 	},
 	{
 		"Playlist Id": 26,
 		"Playlist Title": "External Match",
-		"Playlist Description": "",
+		"Playlist Description": "None",
 		"Playlist Ranked": true,
 		"Playlist Player Count": 8
 	},

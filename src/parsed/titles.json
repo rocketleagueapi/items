@@ -1,10 +1,10 @@
 {
   "None": {
-    "name": "",
+    "name": "None",
     "color": "#FFFFFF"
   },
   "XP": {
-    "name": "",
+    "name": "None",
     "color": "#FFFFFF"
   },
   "CRL_Analyst": {
@@ -2141,6 +2141,6 @@
   },
   "SE_Style_Icon": {
     "name": "Style Icon",
-    "color": "#FFFFFF"
+    "color": "#00FFAA"
   }
 }
