@@ -75,7 +75,9 @@ const specialMap: Record<number, number> = {
     7677: 3, // A-Lister
     7812: 3, // Bladeon
     7986: 1, // Maz
+    7961: 5, // Octane: Wrapstar
     7994: 3, // Franko Fone
+    7995: 5, // Honda Civic Type R: Wrapstar
     8483: 3, // Hotty Dotty
     8522: 3 // Veski
 };

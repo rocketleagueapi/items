@@ -57356,7 +57356,7 @@
   "7961": {
     "name": "Octane: Wrapstar",
     "blueprint": false,
-    "special": 0,
+    "special": 5,
     "paintable": true,
     "currency": false,
     "quality": 8,
@@ -57532,7 +57532,7 @@
   "7995": {
     "name": "Honda Civic Type R: Wrapstar",
     "blueprint": false,
-    "special": 0,
+    "special": 5,
     "paintable": true,
     "currency": false,
     "quality": 8,
