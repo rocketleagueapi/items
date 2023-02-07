@@ -24,8 +24,8 @@
     "variant": "None"
   },
   "CHN_Stadium_Day_P": {
-    "name": "Forbidden Temple (Day)",
-    "variant": "None"
+    "name": "Forbidden Temple",
+    "variant": "Day"
   },
   "CHN_Stadium_P": {
     "name": "Forbidden Temple",

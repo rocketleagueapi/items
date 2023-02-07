@@ -36,10 +36,10 @@
 		"Map Variant Name": "None"
 	},
 	{
-		"Map Base Name": "Forbidden Temple (Day)",
+		"Map Base Name": "Forbidden Temple",
 		"Map File Name": "CHN_Stadium_Day_P",
 		"Map Weather Variant Id": 2,
-		"Map Variant Name": "None"
+		"Map Variant Name": "Day"
 	},
 	{
 		"Map Base Name": "Forbidden Temple",

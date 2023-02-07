@@ -3063,5 +3063,75 @@
 		"Title Database Id": "SE_Style_Icon",
 		"Title Database Text": "Style Icon",
 		"Title Database Color": "#00FFAA"
+	},
+	{
+		"Title Database Id": "SE_TheInspector",
+		"Title Database Text": "The Inspector",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "CRL_Fall_22_Contender",
+		"Title Database Text": "CRL Fall 2022 Contender",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_22_Elite",
+		"Title Database Text": "CRL Fall 2022 Elite",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_22_Champion",
+		"Title Database Text": "CRL Fall 2022 Champion",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_23_Contender",
+		"Title Database Text": "CRL Spring 2023 Contender",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_23_Elite",
+		"Title Database Text": "CRL Spring 2023 Elite",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Spring_23_Champion",
+		"Title Database Text": "CRL Spring 2023 Champion",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_23_WorldChampion",
+		"Title Database Text": "CRL 2023 World Champion",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_23_Worlds_Finalist",
+		"Title Database Text": "CRL 2023 Worlds Finalist",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_23_Worlds_Elite",
+		"Title Database Text": "CRL 2023 Worlds Elite",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_23_Worlds_Contender",
+		"Title Database Text": "CRL 2023 Worlds Contender",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "RLCS_22_23_World_Champion",
+		"Title Database Text": "RLCS 2022-23 World Champion",
+		"Title Database Color": "#AEF7FF"
+	},
+	{
+		"Title Database Id": "RLCS_Referee",
+		"Title Database Text": "RLCS Referee",
+		"Title Database Color": "#00FFAA"
+	},
+	{
+		"Title Database Id": "RLSS_PocketLeagueMaster",
+		"Title Database Text": "Pocket League Master",
+		"Title Database Color": "#FFFFFF"
 	}
 ]
