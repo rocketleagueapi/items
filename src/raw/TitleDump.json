@@ -2405,6 +2405,11 @@
 		"Title Database Color": "#FF8DDD"
 	},
 	{
+		"Title Database Id": "PostPartier",
+		"Title Database Text": "Postpartier",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
 		"Title Database Id": "SE_KnockoutArtist",
 		"Title Database Text": "Knockout Artist",
 		"Title Database Color": "#FFFFFF"
@@ -3132,6 +3137,171 @@
 	{
 		"Title Database Id": "RLSS_PocketLeagueMaster",
 		"Title Database Text": "Pocket League Master",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Bronze",
+		"Title Database Text": "S10 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Bronze",
+		"Title Database Text": "S10 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Silver",
+		"Title Database Text": "S10 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Silver",
+		"Title Database Text": "S10 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Gold",
+		"Title Database Text": "S10 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Gold",
+		"Title Database Text": "S10 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Platinum",
+		"Title Database Text": "S10 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Platinum",
+		"Title Database Text": "S10 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Diamond",
+		"Title Database Text": "S10 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Diamond",
+		"Title Database Text": "S10 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Champion",
+		"Title Database Text": "S10 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_Champion",
+		"Title Database Text": "S10 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_10_GrandChampion",
+		"Title Database Text": "S10 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_10_GrandChampion",
+		"Title Database Text": "S10 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_10_SuperSonicLegend",
+		"Title Database Text": "S10 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_10_SuperSonicLegend",
+		"Title Database Text": "S10 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "S23_SSL_Rumble",
+		"Title Database Text": "S9 RNGenius",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S23_SSL_DropShot",
+		"Title Database Text": "S9 Tile Annihilator",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S23_SSL_SnowDay",
+		"Title Database Text": "S9 Ice Titan",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S23_SSL_Hoops",
+		"Title Database Text": "S9 Legendary Baller",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S23_SuperSonic_Legend",
+		"Title Database Text": "S9 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S23_Grand_Champion_Rumble",
+		"Title Database Text": "S9 RNG Champ",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S23_Grand_Champion_DropShot",
+		"Title Database Text": "S9 Floor Destroyer",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S23_Grand_Champion_SnowDay",
+		"Title Database Text": "S9 Blizzard Wizard",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S23_Grand_Champion_Hoops",
+		"Title Database Text": "S9 Dunk Master",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season23GrandChampion",
+		"Title Database Text": "S9 Grand Champion",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "RP16_Dusty_Dunker",
+		"Title Database Text": "Dusty Dunker",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP16_Comeback_Kid",
+		"Title Database Text": "Comeback Kid",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP16_Blossoming_Bud",
+		"Title Database Text": "Blossoming Bud",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP16_Recovery_Whiz",
+		"Title Database Text": "Recovery Whiz",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP16_Fully_Flourished",
+		"Title Database Text": "Fully Flourished",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP16_Revivalist",
+		"Title Database Text": "Revivalist",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP16_Twilight_Trainer",
+		"Title Database Text": "Twilight Trainer",
 		"Title Database Color": "#FFFFFF"
 	}
 ]

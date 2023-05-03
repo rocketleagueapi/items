@@ -183,6 +183,10 @@
     "name": "Neo Tokyo",
     "variant": "Comic"
   },
+  "Outlaw_Oasis_P": {
+    "name": "Deadeye Canyon",
+    "variant": "Oasis"
+  },
   "outlaw_p": {
     "name": "Deadeye Canyon",
     "variant": "None"

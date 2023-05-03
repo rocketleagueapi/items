@@ -277,6 +277,12 @@
 	},
 	{
 		"Map Base Name": "Deadeye Canyon",
+		"Map File Name": "Outlaw_Oasis_P",
+		"Map Weather Variant Id": 1,
+		"Map Variant Name": "Oasis"
+	},
+	{
+		"Map Base Name": "Deadeye Canyon",
 		"Map File Name": "outlaw_p",
 		"Map Weather Variant Id": 0,
 		"Map Variant Name": "None"

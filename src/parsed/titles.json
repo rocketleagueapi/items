@@ -1711,6 +1711,10 @@
     "name": "S6 {Legend} Tournament Winner",
     "color": "#FF8DDD"
   },
+  "PostPartier": {
+    "name": "Postpartier",
+    "color": "#FFFFFF"
+  },
   "SE_KnockoutArtist": {
     "name": "Knockout Artist",
     "color": "#FFFFFF"
@@ -2197,6 +2201,106 @@
   },
   "RLSS_PocketLeagueMaster": {
     "name": "Pocket League Master",
+    "color": "#FFFFFF"
+  },
+  "AutoTour_10_Bronze": {
+    "name": "S10 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_10_Silver": {
+    "name": "S10 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_10_Gold": {
+    "name": "S10 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_10_Platinum": {
+    "name": "S10 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_10_Diamond": {
+    "name": "S10 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_10_Champion": {
+    "name": "S10 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_10_GrandChampion": {
+    "name": "S10 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_10_SuperSonicLegend": {
+    "name": "S10 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "S23_SSL_Rumble": {
+    "name": "S9 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S23_SSL_DropShot": {
+    "name": "S9 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S23_SSL_SnowDay": {
+    "name": "S9 Ice Titan",
+    "color": "#E8E8E8"
+  },
+  "S23_SSL_Hoops": {
+    "name": "S9 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "S23_SuperSonic_Legend": {
+    "name": "S9 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S23_Grand_Champion_Rumble": {
+    "name": "S9 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S23_Grand_Champion_DropShot": {
+    "name": "S9 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S23_Grand_Champion_SnowDay": {
+    "name": "S9 Blizzard Wizard",
+    "color": "#FF2800"
+  },
+  "S23_Grand_Champion_Hoops": {
+    "name": "S9 Dunk Master",
+    "color": "#FF2800"
+  },
+  "Season23GrandChampion": {
+    "name": "S9 Grand Champion",
+    "color": "#FF2800"
+  },
+  "RP16_Dusty_Dunker": {
+    "name": "Dusty Dunker",
+    "color": "#FFFFFF"
+  },
+  "RP16_Comeback_Kid": {
+    "name": "Comeback Kid",
+    "color": "#FFFFFF"
+  },
+  "RP16_Blossoming_Bud": {
+    "name": "Blossoming Bud",
+    "color": "#FFFFFF"
+  },
+  "RP16_Recovery_Whiz": {
+    "name": "Recovery Whiz",
+    "color": "#FFFFFF"
+  },
+  "RP16_Fully_Flourished": {
+    "name": "Fully Flourished",
+    "color": "#FFFFFF"
+  },
+  "RP16_Revivalist": {
+    "name": "Revivalist",
+    "color": "#FFFFFF"
+  },
+  "RP16_Twilight_Trainer": {
+    "name": "Twilight Trainer",
     "color": "#FFFFFF"
   }
 }
