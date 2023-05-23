@@ -3303,5 +3303,20 @@
 		"Title Database Id": "RP16_Twilight_Trainer",
 		"Title Database Text": "Twilight Trainer",
 		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_RustBucket",
+		"Title Database Text": "Rust Bucket",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Droid",
+		"Title Database Text": "Droid",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Sleeper_Build",
+		"Title Database Text": "Sleeper Build",
+		"Title Database Color": "#FFFFFF"
 	}
 ]
