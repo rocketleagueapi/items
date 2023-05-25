@@ -2302,5 +2302,17 @@
   "RP16_Twilight_Trainer": {
     "name": "Twilight Trainer",
     "color": "#FFFFFF"
+  },
+  "SE_RustBucket": {
+    "name": "Rust Bucket",
+    "color": "#FFFFFF"
+  },
+  "SE_Droid": {
+    "name": "Droid",
+    "color": "#FFFFFF"
+  },
+  "SE_Sleeper_Build": {
+    "name": "Sleeper Build",
+    "color": "#FFFFFF"
   }
 }
