@@ -3317,6 +3317,161 @@
 	{
 		"Title Database Id": "SE_Sleeper_Build",
 		"Title Database Text": "Sleeper Build",
+		"Title Database Color": "#00FFAA"
+	},
+	{
+		"Title Database Id": "RP17_Party_Planner",
+		"Title Database Text": "Party Planner",
 		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP17_Hot_Hoonigan",
+		"Title Database Text": "Hot Hoonigan",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP17_Choku_Dori_Chief",
+		"Title Database Text": "Choku-Dori Chief",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "RP17_E_Brake_Expert",
+		"Title Database Text": "E-Brake Expert",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Bronze",
+		"Title Database Text": "S11 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Bronze",
+		"Title Database Text": "S11 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Silver",
+		"Title Database Text": "S11 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Silver",
+		"Title Database Text": "S11 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Gold",
+		"Title Database Text": "S11 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Gold",
+		"Title Database Text": "S11 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Platinum",
+		"Title Database Text": "S11 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Platinum",
+		"Title Database Text": "S11 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Diamond",
+		"Title Database Text": "S11 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Diamond",
+		"Title Database Text": "S11 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Champion",
+		"Title Database Text": "S11 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_Champion",
+		"Title Database Text": "S11 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_11_GrandChampion",
+		"Title Database Text": "S11 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_11_GrandChampion",
+		"Title Database Text": "S11 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_11_SuperSonicLegend",
+		"Title Database Text": "S11 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_11_SuperSonicLegend",
+		"Title Database Text": "S11 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "RAINBOW_ICON",
+		"Title Database Text": "RAINBOW ICON",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S10_Grand_Champion",
+		"Title Database Text": "S10 Grand Champion",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S10_BLIZZARD_WIZARD",
+		"Title Database Text": "S10 BLIZZARD WIZARD",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S10_RNG_CHAMP",
+		"Title Database Text": "S10 RNG CHAMP",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S10_FLOOR_DESTROYER",
+		"Title Database Text": "S10 FLOOR DESTROYER",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S10_DUNK_MASTER",
+		"Title Database Text": "S10 DUNK MASTER",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S10_Supersonic_Legend",
+		"Title Database Text": "S10 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S10_ICE_TITAN",
+		"Title Database Text": "S10 ICE TITAN",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S10_RNGENIUS",
+		"Title Database Text": "S10 RNGENIUS",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S10_TILE_ANNIHILATOR",
+		"Title Database Text": "S10 TILE ANNIHILATOR",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S10_LEGENDARY_BALLER",
+		"Title Database Text": "S10 LEGENDARY BALLER",
+		"Title Database Color": "#E8E8E8"
 	}
 ]

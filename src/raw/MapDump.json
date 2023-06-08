@@ -108,6 +108,12 @@
 		"Map Variant Name": "None"
 	},
 	{
+		"Map Base Name": "Estadio Vida",
+		"Map File Name": "FF_Dusk_P",
+		"Map Weather Variant Id": 3,
+		"Map Variant Name": "None"
+	},
+	{
 		"Map Base Name": "Forbidden Temple",
 		"Map File Name": "FNI_Stadium_P",
 		"Map Weather Variant Id": 3,

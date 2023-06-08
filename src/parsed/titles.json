@@ -2313,6 +2313,98 @@
   },
   "SE_Sleeper_Build": {
     "name": "Sleeper Build",
+    "color": "#00FFAA"
+  },
+  "RP17_Party_Planner": {
+    "name": "Party Planner",
     "color": "#FFFFFF"
+  },
+  "RP17_Hot_Hoonigan": {
+    "name": "Hot Hoonigan",
+    "color": "#FFFFFF"
+  },
+  "RP17_Choku_Dori_Chief": {
+    "name": "Choku-Dori Chief",
+    "color": "#FFFFFF"
+  },
+  "RP17_E_Brake_Expert": {
+    "name": "E-Brake Expert",
+    "color": "#FFFFFF"
+  },
+  "AutoTour_11_Bronze": {
+    "name": "S11 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_11_Silver": {
+    "name": "S11 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_11_Gold": {
+    "name": "S11 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_11_Platinum": {
+    "name": "S11 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_11_Diamond": {
+    "name": "S11 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_11_Champion": {
+    "name": "S11 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_11_GrandChampion": {
+    "name": "S11 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_11_SuperSonicLegend": {
+    "name": "S11 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "RAINBOW_ICON": {
+    "name": "RAINBOW ICON",
+    "color": "#FFFFFF"
+  },
+  "S10_Grand_Champion": {
+    "name": "S10 Grand Champion",
+    "color": "#FF2800"
+  },
+  "S10_BLIZZARD_WIZARD": {
+    "name": "S10 BLIZZARD WIZARD",
+    "color": "#FF2800"
+  },
+  "S10_RNG_CHAMP": {
+    "name": "S10 RNG CHAMP",
+    "color": "#FF2800"
+  },
+  "S10_FLOOR_DESTROYER": {
+    "name": "S10 FLOOR DESTROYER",
+    "color": "#FF2800"
+  },
+  "S10_DUNK_MASTER": {
+    "name": "S10 DUNK MASTER",
+    "color": "#FF2800"
+  },
+  "S10_Supersonic_Legend": {
+    "name": "S10 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S10_ICE_TITAN": {
+    "name": "S10 ICE TITAN",
+    "color": "#E8E8E8"
+  },
+  "S10_RNGENIUS": {
+    "name": "S10 RNGENIUS",
+    "color": "#E8E8E8"
+  },
+  "S10_TILE_ANNIHILATOR": {
+    "name": "S10 TILE ANNIHILATOR",
+    "color": "#E8E8E8"
+  },
+  "S10_LEGENDARY_BALLER": {
+    "name": "S10 LEGENDARY BALLER",
+    "color": "#E8E8E8"
   }
 }

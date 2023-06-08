@@ -217,7 +217,7 @@
   },
   "46": {
     "name": "Gridiron",
-    "description": "Huddle up and learn the rules of Gridiron:\n- The standard Rocket League ball has been replaced with an American football in this 4v4 mode.\n- Touching the ball attaches it to the roof of your car. Handoff to a teammate or pass it downfield by dodging. Double jumping drops the ball.\n- Goals scored while the ball is attached are worth 7 points. Goals that are passed in or loose balls that score are worth 3 points. All own-goals are also worth 3 points.- Stay in bounds! You'll fumble the ball if you cross the line marked on the Arena wall.\n Now hit the Gridiron and have fun!",
+    "description": "Huddle up and learn the rules of Gridiron:\n- The standard Rocket League ball has been replaced with an American football in this 4v4 mode.\n- Touching the ball attaches it to the roof of your car. Handoff to a teammate or pass it downfield by dodging. Double jumping drops the ball.\n- Goals scored while the ball is attached are worth 7 points. Goals that are passed in or loose balls that score are worth 3 points. All own-goals are also worth 3 points.\n- Stay in bounds! You'll fumble the ball if you cross the line marked on the Arena wall.\n Now hit the Gridiron and have fun!",
     "ranked": false,
     "players": 4
   },
@@ -253,7 +253,7 @@
   },
   "54": {
     "name": "Knockout",
-    "description": "<font color=",
+    "description": "<font color=\"#7bfcff\">In this destructive derby, only the strong survive. 3 lives each, and the last car standing wins!</font>\n\n<b>Attack</b>: Dodge into your opponents to send them flying.\n\n<b>Block</b>: Backward dodge to reflect damage back at attacking players.\n\n<b>Grab</b>: Hold GP_LTrigger while dodging to Grab an opponent. Dodge again to throw.",
     "ranked": false,
     "players": 4
   },
