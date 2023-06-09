@@ -8313,7 +8313,7 @@
 		"Slot Index": 5,
 		"Product Quality Id": 1,
 		"Product Thumbnail Asset": "Hat_Party_T",
-		"Product Trade Restrictions": [  ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 813,
@@ -11073,7 +11073,7 @@
 		"Slot Index": 2,
 		"Product Quality Id": 3,
 		"Product Thumbnail Asset": "WHEEL_CarCar_T",
-		"Product Trade Restrictions": [  ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 1426,
@@ -16829,7 +16829,7 @@
 		"Product Short Sort Label": "Popcorn",
 		"Product Currency": false,
 		"Product Blueprint": false,
-		"Product Paintable": false,
+		"Product Paintable": true,
 		"Slot Index": 15,
 		"Product Quality Id": 6,
 		"Product Thumbnail Asset": "Explosion_PopCorn_T",
@@ -19008,6 +19008,18 @@
 		"Product Trade Restrictions": [  ]
 	},
 	{
+		"Product Id": 2576,
+		"Product Long Label": "Venom: King XII",
+		"Product Short Sort Label": "King XII",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_venom_Twelve_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 2577,
 		"Product Long Label": "Lucky Cat",
 		"Product Short Sort Label": "Lucky Cat",
@@ -19210,6 +19222,18 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "skin_marauder_StreetCat_T",
 		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 2603,
+		"Product Long Label": "Takumi: URBN",
+		"Product Short Sort Label": "URBN",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_import_Ingot_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2605,
@@ -20724,6 +20748,18 @@
 		"Product Trade Restrictions": [  ]
 	},
 	{
+		"Product Id": 2787,
+		"Product Long Label": "Palm Tree",
+		"Product Short Sort Label": "Palm Tree",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 1,
+		"Product Thumbnail Asset": "Hat_CoconutTree_T",
+		"Product Trade Restrictions": [  ]
+	},
+	{
 		"Product Id": 2789,
 		"Product Long Label": "Cherry Blossom",
 		"Product Short Sort Label": "Cherry Blossom",
@@ -21565,8 +21601,8 @@
 	},
 	{
 		"Product Id": 2920,
-		"Product Long Label": "Jurassic Park ",
-		"Product Short Sort Label": "Jurassic Park ",
+		"Product Long Label": "Jurassic Park",
+		"Product Short Sort Label": "Jurassic Park",
 		"Product Currency": false,
 		"Product Blueprint": false,
 		"Product Paintable": false,
@@ -21993,7 +22029,7 @@
 		"Slot Index": 2,
 		"Product Quality Id": 5,
 		"Product Thumbnail Asset": "Wheel_Hurl_T",
-		"Product Trade Restrictions": [  ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 2972,
@@ -22581,7 +22617,7 @@
 		"Slot Index": 0,
 		"Product Quality Id": 4,
 		"Product Thumbnail Asset": "Body_Squash_T",
-		"Product Trade Restrictions": [  ]
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 3036,
@@ -25413,6 +25449,18 @@
 		"Slot Index": 1,
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "skin_backfire_hologram_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 3450,
+		"Product Long Label": "Paladin: Geared Up",
+		"Product Short Sort Label": "Geared Up",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_Orion_CogIgnition_T",
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
@@ -36576,6 +36624,18 @@
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
+		"Product Id": 4831,
+		"Product Long Label": "Loco-Commotion",
+		"Product Short Sort Label": "Loco-Commotion",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_Rave_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 4832,
 		"Product Long Label": "DigiGlobe",
 		"Product Short Sort Label": "DigiGlobe",
@@ -37090,6 +37150,18 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "wheel_Clover_T",
 		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 4891,
+		"Product Long Label": "Rio",
+		"Product Short Sort Label": "Rio",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 20,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "AvatarBorder_Aztec_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 4892,
@@ -42960,6 +43032,18 @@
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
+		"Product Id": 5597,
+		"Product Long Label": "Dominus: Aggressor",
+		"Product Short Sort Label": "Aggressor",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 1,
+		"Product Thumbnail Asset": "skin_musclecar_stripedynamic_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
 		"Product Id": 5598,
 		"Product Long Label": "Octane: Ovaleezy",
 		"Product Short Sort Label": "Ovaleezy",
@@ -43918,6 +44002,18 @@
 		"Product Quality Id": 5,
 		"Product Thumbnail Asset": "Body_DROF_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 5714,
+		"Product Long Label": "Glowup",
+		"Product Short Sort Label": "Glowup",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "wheel_Tingee_T",
+		"Product Trade Restrictions": [ "P2P" ]
 	},
 	{
 		"Product Id": 5715,
@@ -45752,7 +45848,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 2,
-		"Product Thumbnail Asset": "crateunlocked_AT1_T",
+		"Product Thumbnail Asset": "CrateUnlocked_AT1_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -46174,6 +46270,18 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "skin_octane_LDJ_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 5938,
+		"Product Long Label": "Slish-Slosh",
+		"Product Short Sort Label": "Slish-Slosh",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_CheezNBubs_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
 		"Product Id": 5939,
@@ -47398,6 +47506,18 @@
 		"Product Quality Id": 0,
 		"Product Thumbnail Asset": "EngineAudio_Ramen_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6072,
+		"Product Long Label": "Subterfuge",
+		"Product Short Sort Label": "Subterfuge",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "skin_NemuriKaiju_T",
+		"Product Trade Restrictions": [ "P2P" ]
 	},
 	{
 		"Product Id": 6078,
@@ -49020,6 +49140,18 @@
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
+		"Product Id": 6257,
+		"Product Long Label": "Unicorn Juice",
+		"Product Short Sort Label": "Unicorn Juice",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 5,
+		"Product Thumbnail Asset": "Boost_UnicornJuice_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
 		"Product Id": 6258,
 		"Product Long Label": "Fennec: Tumbling Blocks",
 		"Product Short Sort Label": "Tumbling Blocks",
@@ -50217,6 +50349,18 @@
 		"Slot Index": 18,
 		"Product Quality Id": 3,
 		"Product Thumbnail Asset": "Anthem_Stonebank_KeepUpThePace_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 6610,
+		"Product Long Label": "Cyclone: Martian Wind",
+		"Product Short Sort Label": "Martian Wind",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Skin_squash_Omens_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -55916,7 +56060,7 @@
 		"Product Paintable": true,
 		"Slot Index": 1,
 		"Product Quality Id": 2,
-		"Product Thumbnail Asset": "skin_ramen_comix_T",
+		"Product Thumbnail Asset": "Skin_ramen_Comix_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -60084,6 +60228,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 7604,
+		"Product Long Label": "Anti-Chamber",
+		"Product Short Sort Label": "Anti-Chamber",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_Babymaker_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 7605,
 		"Product Long Label": "Nissan Z Performance: Nissan x FaZe Clan",
 		"Product Short Sort Label": "Nissan x FaZe Clan",
@@ -60945,6 +61101,18 @@
 		"Slot Index": 18,
 		"Product Quality Id": 2,
 		"Product Thumbnail Asset": "Anthem_PhillBoucher_Cage_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
+		"Product Id": 7715,
+		"Product Long Label": "Catharsis",
+		"Product Short Sort Label": "Catharsis",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "Anthem_PhillBoucher_Catharsis_T",
 		"Product Trade Restrictions": [ "P2P" ]
 	},
 	{
@@ -62700,6 +62868,18 @@
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
+		"Product Id": 7930,
+		"Product Long Label": "Pink Flamingo",
+		"Product Short Sort Label": "Pink Flamingo",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Antenna_Flamingo_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 7931,
 		"Product Long Label": "Majesty",
 		"Product Short Sort Label": "Majesty",
@@ -63058,6 +63238,18 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "skin_hic_quads_color_tierall_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 7982,
+		"Product Long Label": "Pyrotechnix",
+		"Product Short Sort Label": "Pyrotechnix",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "boost_Patriot_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
 		"Product Id": 7984,
@@ -65256,6 +65448,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8220,
+		"Product Long Label": "Whiteside",
+		"Product Short Sort Label": "Whiteside",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 1,
+		"Product Thumbnail Asset": "Wheel_Ray_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
 		"Product Id": 8221,
 		"Product Long Label": "Octane: Argentina",
 		"Product Short Sort Label": "Argentina",
@@ -66564,6 +66768,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8354,
+		"Product Long Label": "Chemergy",
+		"Product Short Sort Label": "Chemergy",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Boost_PlasmaEnergy_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
 		"Product Id": 8357,
 		"Product Long Label": "Frosty Skull",
 		"Product Short Sort Label": "Frosty Skull",
@@ -66984,6 +67200,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8403,
+		"Product Long Label": "Aerated",
+		"Product Short Sort Label": "Aerated",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Boost_GreenAir_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 8404,
 		"Product Long Label": "You Make Me Feel Like It's Halloween",
 		"Product Short Sort Label": "You Make Me Feel Like It's Halloween",
@@ -67100,7 +67328,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCA_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCA_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67112,7 +67340,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCAO_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCAO_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67124,7 +67352,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCEE_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCEE_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67136,7 +67364,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCME_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCME_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67148,7 +67376,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCNA_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCNA_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67160,7 +67388,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCNE_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCNE_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67172,7 +67400,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCSA_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCSA_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67184,7 +67412,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCSE_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCSE_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67196,7 +67424,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 8,
-		"Product Thumbnail Asset": "crateunlocked_WCWE_T",
+		"Product Thumbnail Asset": "CrateUnlocked_WCWE_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -67332,6 +67560,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8436,
+		"Product Long Label": "Aerated",
+		"Product Short Sort Label": "Aerated",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_GreenAir_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 8437,
 		"Product Long Label": "Scorched Scimitar",
 		"Product Short Sort Label": "Scorched Scimitar",
@@ -67365,6 +67605,18 @@
 		"Slot Index": 5,
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "Hat_Burntkey_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 8440,
+		"Product Long Label": "Jacana",
+		"Product Short Sort Label": "Jacana",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_Birdskull_T",
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
@@ -67762,6 +68014,18 @@
 		"Product Quality Id": 7,
 		"Product Thumbnail Asset": "skin_force_edgedots_psplus_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 8488,
+		"Product Long Label": "Laser-Light",
+		"Product Short Sort Label": "Laser-Light",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Boost_LineColors_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
 		"Product Id": 8489,
@@ -68556,6 +68820,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8564,
+		"Product Long Label": "Laser-Light",
+		"Product Short Sort Label": "Laser-Light",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_LineColors_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 8565,
 		"Product Long Label": "Emperor II: Frozen",
 		"Product Short Sort Label": "Emperor II: Frozen",
@@ -68734,6 +69010,18 @@
 		"Product Quality Id": 5,
 		"Product Thumbnail Asset": "Explosion_Esports_TeamFalcons_v2_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 8589,
+		"Product Long Label": "Yarn Ball",
+		"Product Short Sort Label": "Yarn Ball",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 5,
+		"Product Quality Id": 1,
+		"Product Thumbnail Asset": "Hat_YarnBall_T",
+		"Product Trade Restrictions": [ "P2P" ]
 	},
 	{
 		"Product Id": 8590,
@@ -69048,6 +69336,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8632,
+		"Product Long Label": "Minky",
+		"Product Short Sort Label": "Minky",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 3,
+		"Product Thumbnail Asset": "wheel_syd_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
 		"Product Id": 8635,
 		"Product Long Label": "Gen.G",
 		"Product Short Sort Label": "Gen.G",
@@ -69106,6 +69406,18 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "wheel_bloom_T",
 		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 8641,
+		"Product Long Label": "Hazardous",
+		"Product Short Sort Label": "Hazardous",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "wheel_cappy_T",
+		"Product Trade Restrictions": [ "P2P" ]
 	},
 	{
 		"Product Id": 8642,
@@ -70032,6 +70344,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8748,
+		"Product Long Label": "Chemergy",
+		"Product Short Sort Label": "Chemergy",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 14,
+		"Product Quality Id": 3,
+		"Product Thumbnail Asset": "SS_PlasmaEnergy_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
 		"Product Id": 8753,
 		"Product Long Label": "Moentage: Inverted",
 		"Product Short Sort Label": "Moentage: Inverted",
@@ -70126,6 +70450,18 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "skin_vanquish_Oasis_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 8773,
+		"Product Long Label": "Flaming Fork",
+		"Product Short Sort Label": "Flaming Fork",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 4,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "antenna_flamingdevilfork_T",
+		"Product Trade Restrictions": [ "P2P" ]
 	},
 	{
 		"Product Id": 8776,
@@ -70500,6 +70836,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8837,
+		"Product Long Label": "Chemergy",
+		"Product Short Sort Label": "Chemergy",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 15,
+		"Product Quality Id": 6,
+		"Product Thumbnail Asset": "Explosion_PlasmaEnergy_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 8841,
 		"Product Long Label": "Greenery",
 		"Product Short Sort Label": "Greenery",
@@ -70848,6 +71196,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8876,
+		"Product Long Label": "Fennec: Huntress Formal",
+		"Product Short Sort Label": "Huntress Formal",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "skin_grain_huntux_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 8877,
 		"Product Long Label": "Fennec: Nitty-Gritty Huntress",
 		"Product Short Sort Label": "Nitty-Gritty Huntress",
@@ -71001,6 +71361,42 @@
 		"Slot Index": 2,
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "wheel_dub_t2_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 8892,
+		"Product Long Label": "Skyrocket",
+		"Product Short Sort Label": "Skyrocket",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 4,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Antenna_FirecrackerRocket_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 8895,
+		"Product Long Label": "Fishing Rod",
+		"Product Short Sort Label": "Fishing Rod",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Antenna_FishingRod_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 8903,
+		"Product Long Label": "Refreshing Coconut",
+		"Product Short Sort Label": "Refreshing Coconut",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Hat_CoconutDrink_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -71158,6 +71554,18 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "PlayerBanner_dub_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 8927,
+		"Product Long Label": "Hot 'Za",
+		"Product Short Sort Label": "Hot 'Za",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 5,
+		"Product Quality Id": 3,
+		"Product Thumbnail Asset": "Hat_Pizza_Box_T",
+		"Product Trade Restrictions": [ "P2P" ]
 	},
 	{
 		"Product Id": 8935,
@@ -71472,6 +71880,42 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 8977,
+		"Product Long Label": "Stockshock",
+		"Product Short Sort Label": "Stockshock",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_RL34_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 8978,
+		"Product Long Label": "Estrella",
+		"Product Short Sort Label": "Estrella",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_RL35_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 8981,
+		"Product Long Label": "Manipulator",
+		"Product Short Sort Label": "Manipulator",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 3,
+		"Product Thumbnail Asset": "Wheel_RL39_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
 		"Product Id": 8988,
 		"Product Long Label": "ORACLE",
 		"Product Short Sort Label": "ORACLE",
@@ -71504,7 +71948,7 @@
 		"Product Paintable": false,
 		"Slot Index": 11,
 		"Product Quality Id": 2,
-		"Product Thumbnail Asset": "crateunlocked_spring23_T",
+		"Product Thumbnail Asset": "CrateUnlocked_Spring23_T",
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
@@ -71556,6 +72000,66 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9012,
+		"Product Long Label": "Autobahn",
+		"Product Short Sort Label": "Autobahn",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 6,
+		"Product Thumbnail Asset": "Skin_Kars_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9016,
+		"Product Long Label": "Laser-Light",
+		"Product Short Sort Label": "Laser-Light",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 15,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Explosion_LineColors_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9025,
+		"Product Long Label": "Rektangle",
+		"Product Short Sort Label": "Rektangle",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 7,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PaintFinish_WavyTileB_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9026,
+		"Product Long Label": "Houndstooth",
+		"Product Short Sort Label": "Houndstooth",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 7,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PaintFinish_Houndstooth_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9027,
+		"Product Long Label": "Smokeshow",
+		"Product Short Sort Label": "Smokeshow",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 15,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Explosion_ColorSmoke_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 9030,
 		"Product Long Label": "Tight Corner",
 		"Product Short Sort Label": "Tight Corner",
@@ -71592,6 +72096,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9043,
+		"Product Long Label": "Fiesta",
+		"Product Short Sort Label": "Fiesta",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 7,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PaintFinish_Fiesta_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 9045,
 		"Product Long Label": "Showoff",
 		"Product Short Sort Label": "Showoff",
@@ -71601,6 +72117,30 @@
 		"Slot Index": 13,
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "engineaudio_carshow_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9046,
+		"Product Long Label": "Angel Wings: Multichrome",
+		"Product Short Sort Label": "Angel Wings: Multichrome",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_angelwings_multichrome_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9051,
+		"Product Long Label": "Rise Rollers",
+		"Product Short Sort Label": "Rise Rollers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "wheel_pmwing_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -71676,6 +72216,42 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9064,
+		"Product Long Label": "GB Flamerate",
+		"Product Short Sort Label": "GB Flamerate",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "boost_mangaflames_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9066,
+		"Product Long Label": "Gauged",
+		"Product Short Sort Label": "Gauged",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 20,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "AvatarBorder_GaugeCluster_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9067,
+		"Product Long Label": "Mosaic",
+		"Product Short Sort Label": "Mosaic",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 20,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "AvatarBorder_Mural_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 9073,
 		"Product Long Label": "Fast & Furious Dodge Charger SRT Hellcat",
 		"Product Short Sort Label": "Fast & Furious Dodge Charger SRT Hellcat",
@@ -71685,6 +72261,30 @@
 		"Slot Index": 13,
 		"Product Quality Id": 0,
 		"Product Thumbnail Asset": "EngineAudio_Claw_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9075,
+		"Product Long Label": "GB Tremor",
+		"Product Short Sort Label": "GB Tremor",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "Wheel_Mild_PSplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9076,
+		"Product Long Label": "Octane: GB Gale-Fire",
+		"Product Short Sort Label": "GB Gale-Fire",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "skin_octane_GaleFire_PSplus_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -71700,6 +72300,126 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9084,
+		"Product Long Label": "Nissan Silvia",
+		"Product Short Sort Label": "Nissan Silvia",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 0,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Body_Seasalt_T1_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9085,
+		"Product Long Label": "Nissan Silvia RLE",
+		"Product Short Sort Label": "Nissan Silvia RLE",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 0,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Body_Seasalt_T2_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9091,
+		"Product Long Label": "S10 - Bronze",
+		"Product Short Sort Label": "S10 - Bronze",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_01_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9092,
+		"Product Long Label": "S10 - Silver",
+		"Product Short Sort Label": "S10 - Silver",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_02_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9093,
+		"Product Long Label": "S10 - Gold",
+		"Product Short Sort Label": "S10 - Gold",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_03_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9094,
+		"Product Long Label": "S10 - Platinum",
+		"Product Short Sort Label": "S10 - Platinum",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_04_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9095,
+		"Product Long Label": "S10 - Diamond",
+		"Product Short Sort Label": "S10 - Diamond",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_05_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9096,
+		"Product Long Label": "S10 - Champion",
+		"Product Short Sort Label": "S10 - Champion",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_06_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9097,
+		"Product Long Label": "S10 - Grand Champion",
+		"Product Short Sort Label": "S10 - Grand Champion",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_07_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9098,
+		"Product Long Label": "S10 - Supersonic Legend",
+		"Product Short Sort Label": "S10 - Supersonic Legend",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_Pix_08_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 9099,
 		"Product Long Label": "Fast & Furious Dodge Charger SRT Hellcat: Stripes",
 		"Product Short Sort Label": "Stripes",
@@ -71709,6 +72429,18 @@
 		"Slot Index": 1,
 		"Product Quality Id": 0,
 		"Product Thumbnail Asset": "skin_claw_stripes_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9100,
+		"Product Long Label": "Accolade XI",
+		"Product Short Sort Label": "Accolade XI",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 11,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "crateunlocked_AT11_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -71736,6 +72468,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9103,
+		"Product Long Label": "Maelstrom",
+		"Product Short Sort Label": "Maelstrom",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_cso_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 9105,
 		"Product Long Label": "Spacerocker: Radiant",
 		"Product Short Sort Label": "Spacerocker: Radiant",
@@ -71748,6 +72492,54 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9108,
+		"Product Long Label": "Gauged",
+		"Product Short Sort Label": "Gauged",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_GaugeCluster_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9111,
+		"Product Long Label": "Fiesta",
+		"Product Short Sort Label": "Fiesta",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_Fiesta_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9112,
+		"Product Long Label": "GB Little Sloth",
+		"Product Short Sort Label": "GB Little Sloth",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "Hat_BabySloth_PSplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9114,
+		"Product Long Label": "Egg Beast",
+		"Product Short Sort Label": "Egg Beast",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_Crazies_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
 		"Product Id": 9116,
 		"Product Long Label": "Gasolina (Safari Riot Remix) ft. Myke Towers",
 		"Product Short Sort Label": "Gasolina (Safari Riot Remix) ft. Myke Towers",
@@ -71757,6 +72549,786 @@
 		"Slot Index": 18,
 		"Product Quality Id": 4,
 		"Product Thumbnail Asset": "Anthem_FandF_04_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9118,
+		"Product Long Label": "Maracas",
+		"Product Short Sort Label": "Maracas",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Hat_Maracas_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9120,
+		"Product Long Label": "Ebb 'n Flow",
+		"Product Short Sort Label": "Ebb 'n Flow",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_Carnivale_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9122,
+		"Product Long Label": "Vuvuzela",
+		"Product Short Sort Label": "Vuvuzela",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 13,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "EngineAudio_Vuvuzela_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9123,
+		"Product Long Label": "Storm Watch: Noire",
+		"Product Short Sort Label": "Storm Watch: Noire",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 6,
+		"Product Thumbnail Asset": "Skin_EyeOfTheStorm_Ann23_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9124,
+		"Product Long Label": "Rise Beyond",
+		"Product Short Sort Label": "Rise Beyond",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_RainbowWings_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9125,
+		"Product Long Label": "S10 - Silver",
+		"Product Short Sort Label": "S10 - Silver",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_pixel_02_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9126,
+		"Product Long Label": "S10 - Gold",
+		"Product Short Sort Label": "S10 - Gold",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_pixel_03_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9127,
+		"Product Long Label": "S10 - Platinum",
+		"Product Short Sort Label": "S10 - Platinum",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_pixel_04_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9128,
+		"Product Long Label": "S10 - Diamond",
+		"Product Short Sort Label": "S10 - Diamond",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_pixel_05_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9129,
+		"Product Long Label": "S10 - Champion",
+		"Product Short Sort Label": "S10 - Champion",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_pixel_06_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9130,
+		"Product Long Label": "S10 - Bronze",
+		"Product Short Sort Label": "S10 - Bronze",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Hat_PixelSR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9131,
+		"Product Long Label": "Glitterati",
+		"Product Short Sort Label": "Glitterati",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_Glitter_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9134,
+		"Product Long Label": "Startrack: Noire",
+		"Product Short Sort Label": "Startrack: Noire",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 3,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Boost_StarBeam_BW_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9135,
+		"Product Long Label": "Grand Chomp",
+		"Product Short Sort Label": "Grand Chomp",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 16,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "PlayerBanner_SnakeBall_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
+		"Product Id": 9137,
+		"Product Long Label": "Viled",
+		"Product Short Sort Label": "Viled",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_vile_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9138,
+		"Product Long Label": "Demonio",
+		"Product Short Sort Label": "Demonio",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_TFC_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9139,
+		"Product Long Label": "Dominus: Lo Freq",
+		"Product Short Sort Label": "Lo Freq",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 3,
+		"Product Thumbnail Asset": "Skin_MuscleCar_Audio_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9143,
+		"Product Long Label": "Party Time: Noire",
+		"Product Short Sort Label": "Party Time: Noire",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 15,
+		"Product Quality Id": 6,
+		"Product Thumbnail Asset": "Explosion_ConfettiBW_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9146,
+		"Product Long Label": "Cyclone: Hyperspace",
+		"Product Short Sort Label": "Hyperspace",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "skin_squash_twankle_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9147,
+		"Product Long Label": "Fennec: Lo Freq",
+		"Product Short Sort Label": "Lo Freq",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 3,
+		"Product Thumbnail Asset": "Skin_Grain_Audio_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9152,
+		"Product Long Label": "Piñata",
+		"Product Short Sort Label": "Piñata",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_Pinata_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9153,
+		"Product Long Label": "Manipulator: Radiant",
+		"Product Short Sort Label": "Manipulator: Radiant",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 5,
+		"Product Thumbnail Asset": "wheel_rl39_radiant_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
+		"Product Id": 9155,
+		"Product Long Label": "Holochrome",
+		"Product Short Sort Label": "Holochrome",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_holochrome_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9156,
+		"Product Long Label": "Wingnut",
+		"Product Short Sort Label": "Wingnut",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_subb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9158,
+		"Product Long Label": "LTN",
+		"Product Short Sort Label": "LTN",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_LTN_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9159,
+		"Product Long Label": "Breakout: Furry Fanatic",
+		"Product Short Sort Label": "Furry Fanatic",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_Force_Furball_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9161,
+		"Product Long Label": "Ghostbeat",
+		"Product Short Sort Label": "Ghostbeat",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_ghostbeat_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9164,
+		"Product Long Label": "Smoke Bomb",
+		"Product Short Sort Label": "Smoke Bomb",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "antenna_SmokeBomb_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9167,
+		"Product Long Label": "Nissan Silvia",
+		"Product Short Sort Label": "Nissan Silvia",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_Seasalt_T1_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9168,
+		"Product Long Label": "Nissan Silvia RLE",
+		"Product Short Sort Label": "Nissan Silvia RLE",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_Seasalt_T2_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9176,
+		"Product Long Label": "Cyclone: Migraine",
+		"Product Short Sort Label": "Migraine",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Skin_squash_Dreamscape_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9179,
+		"Product Long Label": "Battle-Cars Anniversary Cake: Noire",
+		"Product Short Sort Label": "Battle-Cars Anniversary Cake: Noire",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "Hat_Anniversary_Cake_BW_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9180,
+		"Product Long Label": "Cupcake Anniversary: Noire",
+		"Product Short Sort Label": "Cupcake Anniversary: Noire",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "Antenna_Cupcake_anni_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9183,
+		"Product Long Label": "Carnival Mask",
+		"Product Short Sort Label": "Carnival Mask",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Hat_PartyMask_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9184,
+		"Product Long Label": "Sugar Free",
+		"Product Short Sort Label": "Sugar Free",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Anthem_AL3JANDRO_SugarFree_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9186,
+		"Product Long Label": "Jodie Knight",
+		"Product Short Sort Label": "Jodie Knight",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_JodieKnight_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9187,
+		"Product Long Label": "Finding Mero",
+		"Product Short Sort Label": "Finding Mero",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "Flag_MC_FindingMero_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9190,
+		"Product Long Label": "Smoke Run",
+		"Product Short Sort Label": "Smoke Run",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Boost_SmokeRun_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9197,
+		"Product Long Label": "Dust Kicker",
+		"Product Short Sort Label": "Dust Kicker",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_Smoke_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9206,
+		"Product Long Label": "Nissan Silvia: Flames",
+		"Product Short Sort Label": "Flames",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "skin_seasalt_flames_tierall_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9208,
+		"Product Long Label": "Nissan Silvia: Lightning",
+		"Product Short Sort Label": "Lightning",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "skin_seasalt_lightning_tierall_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9209,
+		"Product Long Label": "Nissan Silvia: Stripes",
+		"Product Short Sort Label": "Stripes",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "skin_seasalt_stripes_tierall_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9210,
+		"Product Long Label": "Laberinto",
+		"Product Short Sort Label": "Laberinto",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "wheel_fullgraphix_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9212,
+		"Product Long Label": "Carnival Feathers",
+		"Product Short Sort Label": "Carnival Feathers",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 4,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Antenna_PartyFeathers_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9214,
+		"Product Long Label": "S10 - Grand Champion",
+		"Product Short Sort Label": "S10 - Grand Champion",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_pixel_07_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9215,
+		"Product Long Label": "S10 - Supersonic Legend",
+		"Product Short Sort Label": "S10 - Supersonic Legend",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_pixel_08_SR_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9216,
+		"Product Long Label": "Smoketrail",
+		"Product Short Sort Label": "Smoketrail",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 14,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "SS_SmokeRun_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9217,
+		"Product Long Label": "Ring-Thing",
+		"Product Short Sort Label": "Ring-Thing",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 7,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PaintFinish_Rings_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9218,
+		"Product Long Label": "Nissan Silvia RLE",
+		"Product Short Sort Label": "Nissan Silvia RLE",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 13,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "EngineAudio_SeaSalt_T2_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9222,
+		"Product Long Label": "SFX",
+		"Product Short Sort Label": "SFX",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "Album_Anthem_SFX_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9224,
+		"Product Long Label": "Nissan Silvia: Wings",
+		"Product Short Sort Label": "Wings",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "skin_seasalt_wings_tierall_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9225,
+		"Product Long Label": "Nissan Silvia: Ombre",
+		"Product Short Sort Label": "Ombre",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "skin_seasalt_frosted_tierall_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9228,
+		"Product Long Label": "Demonio: Inverted",
+		"Product Short Sort Label": "Demonio: Inverted",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "wheel_tfc_inverted_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9237,
+		"Product Long Label": "Nissan Silvia",
+		"Product Short Sort Label": "Nissan Silvia",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 13,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "EngineAudio_SeaSalt_T1_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9245,
+		"Product Long Label": "Smoke Mask",
+		"Product Short Sort Label": "Smoke Mask",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Hat_SmokeMaskk_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9248,
+		"Product Long Label": "Nissan Silvia: LB - Super Silhouette",
+		"Product Short Sort Label": "LB - Super Silhouette",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_seasalt_liberty_tierall_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9249,
+		"Product Long Label": "Nissan Silvia: Nismo",
+		"Product Short Sort Label": "Nismo",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_seasalt_simon_tierall_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9251,
+		"Product Long Label": "Crickets",
+		"Product Short Sort Label": "Crickets",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Anthem_SFX_Crickets_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9252,
+		"Product Long Label": "Dominus: Inframundo",
+		"Product Short Sort Label": "Inframundo",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_Musclecar_Inframundo_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9256,
+		"Product Long Label": "Estrella: Prismatic",
+		"Product Short Sort Label": "Estrella: Prismatic",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "wheel_rl35_coloredlines_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9258,
+		"Product Long Label": "Nissan Silvia",
+		"Product Short Sort Label": "Nissan Silvia",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_seasalt_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9263,
+		"Product Long Label": "Octane: Demonio",
+		"Product Short Sort Label": "Demonio",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_Octane_tuttifruiti_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9264,
+		"Product Long Label": "Soft Spring",
+		"Product Short Sort Label": "Soft Spring",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 5,
+		"Product Quality Id": 1,
+		"Product Thumbnail Asset": "Hat_Coil_T",
+		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
+		"Product Id": 9270,
+		"Product Long Label": "Não Sei Parar",
+		"Product Short Sort Label": "Não Sei Parar",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Anthem_Bhaskar_Afterclapp_NaoSeiParar_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9271,
+		"Product Long Label": "LET EM PRAY",
+		"Product Short Sort Label": "LET EM PRAY",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Anthem_SpringMajor2023_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	}
 ]

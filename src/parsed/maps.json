@@ -71,6 +71,10 @@
     "name": "Farmstead",
     "variant": "None"
   },
+  "FF_Dusk_P": {
+    "name": "Estadio Vida",
+    "variant": "None"
+  },
   "FNI_Stadium_P": {
     "name": "Forbidden Temple",
     "variant": "Fire & Ice"
