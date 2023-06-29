@@ -3473,5 +3473,15 @@
 		"Title Database Id": "S10_LEGENDARY_BALLER",
 		"Title Database Text": "S10 LEGENDARY BALLER",
 		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "AUTOBOT",
+		"Title Database Text": "AUTOBOT",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "ROBOT_IN_DISGUISE",
+		"Title Database Text": "ROBOT IN DISGUISE",
+		"Title Database Color": "#FFFFFF"
 	}
 ]

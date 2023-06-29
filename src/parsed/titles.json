@@ -2406,5 +2406,13 @@
   "S10_LEGENDARY_BALLER": {
     "name": "S10 LEGENDARY BALLER",
     "color": "#E8E8E8"
+  },
+  "AUTOBOT": {
+    "name": "AUTOBOT",
+    "color": "#FFFFFF"
+  },
+  "ROBOT_IN_DISGUISE": {
+    "name": "ROBOT IN DISGUISE",
+    "color": "#FFFFFF"
   }
 }
