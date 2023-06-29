@@ -7619,8 +7619,8 @@
     "currency": false,
     "quality": 1,
     "slot": 5,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "813": {
     "name": "Euro Truck Simulator Rig",
@@ -10149,8 +10149,8 @@
     "currency": false,
     "quality": 3,
     "slot": 2,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "1426": {
     "name": "Road Hog XL: Horus",
@@ -20192,8 +20192,8 @@
     "currency": false,
     "quality": 5,
     "slot": 2,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "2972": {
     "name": "Dynamo",
@@ -20731,8 +20731,8 @@
     "currency": false,
     "quality": 4,
     "slot": 0,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "3036": {
     "name": "Title",
@@ -66450,6 +66450,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9107": {
+    "name": "Golden Egg '23",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": true,
+    "tradeIn": false
+  },
   "9108": {
     "name": "Gauged",
     "blueprint": false,
@@ -66458,6 +66469,17 @@
     "currency": false,
     "quality": 8,
     "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9110": {
+    "name": "Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
     "tradable": false,
     "tradeIn": false
   },
@@ -66692,6 +66714,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9140": {
+    "name": "Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 6,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9141": {
+    "name": "Waned Flame",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9143": {
     "name": "Party Time: Noire",
     "blueprint": false,
@@ -66722,6 +66766,17 @@
     "currency": false,
     "quality": 3,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9151": {
+    "name": "Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
     "tradable": false,
     "tradeIn": false
   },
@@ -66799,6 +66854,28 @@
     "currency": false,
     "quality": 0,
     "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9162": {
+    "name": "Waned Flame",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 14,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9163": {
+    "name": "Optimus Prime",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 15,
     "tradable": false,
     "tradeIn": false
   },
@@ -66909,6 +66986,17 @@
     "currency": false,
     "quality": 0,
     "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9188": {
+    "name": "8th Birthday Crown",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
     "tradable": false,
     "tradeIn": false
   },
@@ -67055,6 +67143,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9223": {
+    "name": "Hemi Birthday",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9224": {
     "name": "Nissan Silvia: Wings",
     "blueprint": false,
@@ -67072,7 +67171,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 0,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -67088,6 +67187,28 @@
     "tradable": true,
     "tradeIn": false
   },
+  "9232": {
+    "name": "Transformers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9233": {
+    "name": "Transformers Theme",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9237": {
     "name": "Nissan Silvia",
     "blueprint": false,
@@ -67096,6 +67217,17 @@
     "currency": false,
     "quality": 0,
     "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9239": {
+    "name": "8th Birthday",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
     "tradable": false,
     "tradeIn": false
   },
@@ -67129,6 +67261,17 @@
     "currency": false,
     "quality": 8,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9250": {
+    "name": "Blueprint Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
     "tradable": false,
     "tradeIn": false
   },
