@@ -3483,5 +3483,10 @@
 		"Title Database Id": "ROBOT_IN_DISGUISE",
 		"Title Database Text": "ROBOT IN DISGUISE",
 		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Tireless_Tryhard",
+		"Title Database Text": "Tireless Tryhard",
+		"Title Database Color": "#FFFFFF"
 	}
 ]

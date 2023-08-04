@@ -20844,6 +20844,18 @@
 		"Product Trade Restrictions": [  ]
 	},
 	{
+		"Product Id": 2809,
+		"Product Long Label": "Siiick Reads",
+		"Product Short Sort Label": "Siiick Reads",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Hat_SickReads_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 2813,
 		"Product Long Label": "Kayak",
 		"Product Short Sort Label": "Kayak",
@@ -68829,7 +68841,7 @@
 		"Slot Index": 14,
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "SS_LineColors_T",
-		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
 		"Product Id": 8565,
@@ -71276,7 +71288,7 @@
 		"Product Paintable": true,
 		"Slot Index": 2,
 		"Product Quality Id": 3,
-		"Product Thumbnail Asset": "wheel_soccerball_anodized_T",
+		"Product Thumbnail Asset": "Wheel_SoccerBall_Anodized_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -72024,6 +72036,18 @@
 		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
+		"Product Id": 9020,
+		"Product Long Label": "RLCS Crystalline",
+		"Product Short Sort Label": "RLCS Crystalline",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 5,
+		"Product Thumbnail Asset": "skin_Orville_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 9025,
 		"Product Long Label": "Rektangle",
 		"Product Short Sort Label": "Rektangle",
@@ -72516,6 +72540,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9109,
+		"Product Long Label": "RLCS Crystalline",
+		"Product Short Sort Label": "RLCS Crystalline",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 3,
+		"Product Quality Id": 5,
+		"Product Thumbnail Asset": "boost_irid_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 9110,
 		"Product Long Label": "Bumblebee",
 		"Product Short Sort Label": "Bumblebee",
@@ -72573,6 +72609,18 @@
 		"Slot Index": 18,
 		"Product Quality Id": 4,
 		"Product Thumbnail Asset": "Anthem_FandF_04_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9117,
+		"Product Long Label": "HOPE",
+		"Product Short Sort Label": "HOPE",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Anthem_WinterMajor2023_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
@@ -72753,7 +72801,7 @@
 		"Slot Index": 1,
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "skin_vile_T",
-		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
 		"Product Id": 9138,
@@ -72874,6 +72922,18 @@
 		"Product Quality Id": 5,
 		"Product Thumbnail Asset": "wheel_rl39_radiant_T",
 		"Product Trade Restrictions": [ "P2P" ]
+	},
+	{
+		"Product Id": 9154,
+		"Product Long Label": "RLCS Crystalline",
+		"Product Short Sort Label": "RLCS Crystalline",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 5,
+		"Product Thumbnail Asset": "wheel_soccerball_orville_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
 		"Product Id": 9155,
@@ -73008,6 +73068,18 @@
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	},
 	{
+		"Product Id": 9177,
+		"Product Long Label": "Octane: Shmeedian",
+		"Product Short Sort Label": "Shmeedian",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_Octane_ClassyLady_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
 		"Product Id": 9179,
 		"Product Long Label": "Battle-Cars Anniversary Cake: Noire",
 		"Product Short Sort Label": "Battle-Cars Anniversary Cake: Noire",
@@ -73114,6 +73186,42 @@
 		"Product Quality Id": 8,
 		"Product Thumbnail Asset": "PlayerBanner_Smoke_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9202,
+		"Product Long Label": "Octane: RLCS 22-23 Spring Major",
+		"Product Short Sort Label": "RLCS 22-23 Spring Major",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "skin_octane_tfr_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9203,
+		"Product Long Label": "Fennec: RLCS 22-23 Spring Major",
+		"Product Short Sort Label": "RLCS 22-23 Spring Major",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_Grain_TFR_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9204,
+		"Product Long Label": "Dominus: RLCS 22-23 Spring Major",
+		"Product Short Sort Label": "RLCS 22-23 Spring Major",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Skin_MuscleCar_TFR_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
 	},
 	{
 		"Product Id": 9206,
@@ -73485,6 +73593,246 @@
 		"Slot Index": 18,
 		"Product Quality Id": 4,
 		"Product Thumbnail Asset": "Anthem_SpringMajor2023_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9272,
+		"Product Long Label": "Revenant Pro",
+		"Product Short Sort Label": "Revenant Pro",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "wheel_compression_wc_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9329,
+		"Product Long Label": "Golden Trophy '23",
+		"Product Short Sort Label": "Golden Trophy '23",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 11,
+		"Product Quality Id": 2,
+		"Product Thumbnail Asset": "crateunlocked_ChampionsRoad23_T",
+		"Product Trade Restrictions": [ "TradeIn" ]
+	},
+	{
+		"Product Id": 9333,
+		"Product Long Label": "Pro-Tek",
+		"Product Short Sort Label": "Pro-Tek",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "Wheel_PinkLemonade_B_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9335,
+		"Product Long Label": "Afterclapp",
+		"Product Short Sort Label": "Afterclapp",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_Afterclapp_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9336,
+		"Product Long Label": "Boslen",
+		"Product Short Sort Label": "Boslen",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_Boslen_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9337,
+		"Product Long Label": "Carola",
+		"Product Short Sort Label": "Carola",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_Carola_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9338,
+		"Product Long Label": "Circadian",
+		"Product Short Sort Label": "Circadian",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_Circadian_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9340,
+		"Product Long Label": "CHYL",
+		"Product Short Sort Label": "CHYL",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_Chyl_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9341,
+		"Product Long Label": "LUX",
+		"Product Short Sort Label": "LUX",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 4,
+		"Product Quality Id": 0,
+		"Product Thumbnail Asset": "flag_mc_Lux_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9359,
+		"Product Long Label": "10-Senz",
+		"Product Short Sort Label": "10-Senz",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "wheel_stello_b_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9361,
+		"Product Long Label": "Rocket League World Championship Trophy",
+		"Product Short Sort Label": "Rocket League World Championship Trophy",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_Uno_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9368,
+		"Product Long Label": "Let's Goooooo!",
+		"Product Short Sort Label": "Let's Goooooo!",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_LetsGo_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9369,
+		"Product Long Label": "Power-Shot SKB",
+		"Product Short Sort Label": "Power-Shot SKB",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": true,
+		"Slot Index": 3,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "Boost_Powershot_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9383,
+		"Product Long Label": "RLCS Crystalline",
+		"Product Short Sort Label": "RLCS Crystalline",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 20,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "AvatarBorder_RLCS23_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9384,
+		"Product Long Label": "RLCS Crystalline",
+		"Product Short Sort Label": "RLCS Crystalline",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 16,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "PlayerBanner_RLCS23_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9392,
+		"Product Long Label": "Unicorn SKB",
+		"Product Short Sort Label": "Unicorn SKB",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "Hat_Unihorn_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9393,
+		"Product Long Label": "Merc: Narwhal SKB",
+		"Product Short Sort Label": "Narwhal SKB",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 1,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "Skin_Vanquish_Narwhal_PSPlus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9394,
+		"Product Long Label": "Asik SKB",
+		"Product Short Sort Label": "Asik SKB",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 2,
+		"Product Quality Id": 7,
+		"Product Thumbnail Asset": "wheel_Perl_psplus_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9399,
+		"Product Long Label": "EZ Sweep",
+		"Product Short Sort Label": "EZ Sweep",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 5,
+		"Product Quality Id": 8,
+		"Product Thumbnail Asset": "hat_broom_T",
+		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
+	},
+	{
+		"Product Id": 9400,
+		"Product Long Label": "PANDEMONIUM",
+		"Product Short Sort Label": "PANDEMONIUM",
+		"Product Currency": false,
+		"Product Blueprint": false,
+		"Product Paintable": false,
+		"Slot Index": 18,
+		"Product Quality Id": 4,
+		"Product Thumbnail Asset": "Anthem_WorldChampionship2023_T",
 		"Product Trade Restrictions": [ "TradeIn", "P2P" ]
 	}
 ]

@@ -2414,5 +2414,9 @@
   "ROBOT_IN_DISGUISE": {
     "name": "ROBOT IN DISGUISE",
     "color": "#FFFFFF"
+  },
+  "SE_Tireless_Tryhard": {
+    "name": "Tireless Tryhard",
+    "color": "#FFFFFF"
   }
 }

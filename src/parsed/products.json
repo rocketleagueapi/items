@@ -19106,6 +19106,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "2809": {
+    "name": "Siiick Reads",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "2813": {
     "name": "Kayak",
     "blueprint": false,
@@ -63092,7 +63103,7 @@
     "currency": false,
     "quality": 8,
     "slot": 14,
-    "tradable": false,
+    "tradable": true,
     "tradeIn": false
   },
   "8565": {
@@ -66021,6 +66032,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "9020": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9025": {
     "name": "Rektangle",
     "blueprint": false,
@@ -66472,6 +66494,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9109": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9110": {
     "name": "Bumblebee",
     "blueprint": false,
@@ -66518,6 +66551,17 @@
   },
   "9116": {
     "name": "Gasolina (Safari Riot Remix) ft. Myke Towers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9117": {
+    "name": "HOPE",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -66689,7 +66733,7 @@
     "currency": false,
     "quality": 8,
     "slot": 1,
-    "tradable": false,
+    "tradable": true,
     "tradeIn": false
   },
   "9138": {
@@ -66801,6 +66845,17 @@
     "slot": 2,
     "tradable": false,
     "tradeIn": true
+  },
+  "9154": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
   },
   "9155": {
     "name": "Holochrome",
@@ -66923,6 +66978,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9177": {
+    "name": "Octane: Shmeedian",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9179": {
     "name": "Battle-Cars Anniversary Cake: Noire",
     "blueprint": false,
@@ -67020,6 +67086,39 @@
     "quality": 8,
     "slot": 16,
     "tradable": false,
+    "tradeIn": false
+  },
+  "9202": {
+    "name": "Octane: RLCS 22-23 Spring Major",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9203": {
+    "name": "Fennec: RLCS 22-23 Spring Major",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9204": {
+    "name": "Dominus: RLCS 22-23 Spring Major",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
     "tradeIn": false
   },
   "9206": {
@@ -67354,6 +67453,226 @@
   },
   "9271": {
     "name": "LET EM PRAY",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9272": {
+    "name": "Revenant Pro",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9329": {
+    "name": "Golden Trophy '23",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9333": {
+    "name": "Pro-Tek",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9335": {
+    "name": "Afterclapp",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9336": {
+    "name": "Boslen",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9337": {
+    "name": "Carola",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9338": {
+    "name": "Circadian",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9340": {
+    "name": "CHYL",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9341": {
+    "name": "LUX",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9359": {
+    "name": "10-Senz",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9361": {
+    "name": "Rocket League World Championship Trophy",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9368": {
+    "name": "Let's Goooooo!",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9369": {
+    "name": "Power-Shot SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 7,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9383": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9384": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9392": {
+    "name": "Unicorn SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9393": {
+    "name": "Merc: Narwhal SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9394": {
+    "name": "Asik SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9399": {
+    "name": "EZ Sweep",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9400": {
+    "name": "PANDEMONIUM",
     "blueprint": false,
     "special": 0,
     "paintable": false,
