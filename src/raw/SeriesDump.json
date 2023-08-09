@@ -160,6 +160,10 @@
 		"Database Series Label": "Golden Gift '22"
 	},
 	{
+		"Database Series Id": 4575,
+		"Database Series Label": "Golden Moon '23"
+	},
+	{
 		"Database Series Id": 20,
 		"Database Series Label": "Haunted Hallows"
 	},
@@ -172,8 +176,8 @@
 		"Database Series Label": "Golden Lantern '19"
 	},
 	{
-		"Database Series Id": 4206,
-		"Database Series Label": "Accolade IX"
+		"Database Series Id": 4971,
+		"Database Series Label": "Accolade XI"
 	},
 	{
 		"Database Series Id": 902,
@@ -229,7 +233,7 @@
 	},
 	{
 		"Database Series Id": 2699,
-		"Database Series Label": "Golden Moon"
+		"Database Series Label": "Golden Moon '22"
 	},
 	{
 		"Database Series Id": 2737,
@@ -242,5 +246,25 @@
 	{
 		"Database Series Id": 3249,
 		"Database Series Label": "Select Favorites 2"
+	},
+	{
+		"Database Series Id": 4206,
+		"Database Series Label": "Accolade IX"
+	},
+	{
+		"Database Series Id": 4595,
+		"Database Series Label": "Accolade X"
+	},
+	{
+		"Database Series Id": 4941,
+		"Database Series Label": "Golden Toolkit"
+	},
+	{
+		"Database Series Id": 4950,
+		"Database Series Label": "Golden Egg '23"
+	},
+	{
+		"Database Series Id": 5419,
+		"Database Series Label": "Golden Trophy '23"
 	}
 ]
