@@ -2406,5 +2406,113 @@
   "S10_LEGENDARY_BALLER": {
     "name": "S10 LEGENDARY BALLER",
     "color": "#E8E8E8"
+  },
+  "AUTOBOT": {
+    "name": "AUTOBOT",
+    "color": "#FFFFFF"
+  },
+  "ROBOT_IN_DISGUISE": {
+    "name": "ROBOT IN DISGUISE",
+    "color": "#FFFFFF"
+  },
+  "SE_Tireless_Tryhard": {
+    "name": "Tireless Tryhard",
+    "color": "#FFFFFF"
+  },
+  "AutoTour_12_Bronze": {
+    "name": "S12 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_12_Silver": {
+    "name": "S12 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_12_Gold": {
+    "name": "S12 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_12_Platinum": {
+    "name": "S12 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_12_Diamond": {
+    "name": "S12 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_12_Champion": {
+    "name": "S12 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_12_GrandChampion": {
+    "name": "S12 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_12_SuperSonicLegend": {
+    "name": "S12 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "S25_SSL_Rumble": {
+    "name": "S11 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S25_SSL_DropShot": {
+    "name": "S11 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S25_SSL_SnowDay": {
+    "name": "S11 Ice Titan",
+    "color": "#E8E8E8"
+  },
+  "S25_SSL_Hoops": {
+    "name": "S11 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "S25_SuperSonic_Legend": {
+    "name": "S11 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S25_Grand_Champion_Rumble": {
+    "name": "S11 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S25_Grand_Champion_DropShot": {
+    "name": "S11 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S25_Grand_Champion_SnowDay": {
+    "name": "S11 Blizzard Wizard",
+    "color": "#FF2800"
+  },
+  "S25_Grand_Champion_Hoops": {
+    "name": "S11 Dunk Master",
+    "color": "#FF2800"
+  },
+  "Season25GrandChampion": {
+    "name": "S11 Grand Champion",
+    "color": "#FF2800"
+  },
+  "Bundesliga_Baller": {
+    "name": "Bundesliga Baller",
+    "color": "#FFFFFF"
+  },
+  "Data_Driven": {
+    "name": "Data Driven",
+    "color": "#FFFFFF"
+  },
+  "Hacktivist": {
+    "name": "Hacktivist",
+    "color": "#FFFFFF"
+  },
+  "Highly_Technical": {
+    "name": "Highly Technical",
+    "color": "#FFFFFF"
+  },
+  "Fully_Encrypted": {
+    "name": "Fully Encrypted",
+    "color": "#FFFFFF"
+  },
+  "Obsolete_Version": {
+    "name": "Obsolete Version",
+    "color": "#FFFFFF"
   }
 }

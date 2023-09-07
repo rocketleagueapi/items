@@ -3473,5 +3473,180 @@
 		"Title Database Id": "S10_LEGENDARY_BALLER",
 		"Title Database Text": "S10 LEGENDARY BALLER",
 		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "AUTOBOT",
+		"Title Database Text": "AUTOBOT",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "ROBOT_IN_DISGUISE",
+		"Title Database Text": "ROBOT IN DISGUISE",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Tireless_Tryhard",
+		"Title Database Text": "Tireless Tryhard",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Bronze",
+		"Title Database Text": "S12 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Bronze",
+		"Title Database Text": "S12 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Silver",
+		"Title Database Text": "S12 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Silver",
+		"Title Database Text": "S12 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Gold",
+		"Title Database Text": "S12 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Gold",
+		"Title Database Text": "S12 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Platinum",
+		"Title Database Text": "S12 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Platinum",
+		"Title Database Text": "S12 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Diamond",
+		"Title Database Text": "S12 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Diamond",
+		"Title Database Text": "S12 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Champion",
+		"Title Database Text": "S12 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_Champion",
+		"Title Database Text": "S12 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_12_GrandChampion",
+		"Title Database Text": "S12 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_12_GrandChampion",
+		"Title Database Text": "S12 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_12_SuperSonicLegend",
+		"Title Database Text": "S12 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_12_SuperSonicLegend",
+		"Title Database Text": "S12 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "S25_SSL_Rumble",
+		"Title Database Text": "S11 RNGenius",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S25_SSL_DropShot",
+		"Title Database Text": "S11 Tile Annihilator",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S25_SSL_SnowDay",
+		"Title Database Text": "S11 Ice Titan",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S25_SSL_Hoops",
+		"Title Database Text": "S11 Legendary Baller",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S25_SuperSonic_Legend",
+		"Title Database Text": "S11 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S25_Grand_Champion_Rumble",
+		"Title Database Text": "S11 RNG Champ",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S25_Grand_Champion_DropShot",
+		"Title Database Text": "S11 Floor Destroyer",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S25_Grand_Champion_SnowDay",
+		"Title Database Text": "S11 Blizzard Wizard",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S25_Grand_Champion_Hoops",
+		"Title Database Text": "S11 Dunk Master",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season25GrandChampion",
+		"Title Database Text": "S11 Grand Champion",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "Bundesliga_Baller",
+		"Title Database Text": "Bundesliga Baller",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Data_Driven",
+		"Title Database Text": "Data Driven",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Hacktivist",
+		"Title Database Text": "Hacktivist",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Highly_Technical",
+		"Title Database Text": "Highly Technical",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Fully_Encrypted",
+		"Title Database Text": "Fully Encrypted",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Obsolete_Version",
+		"Title Database Text": "Obsolete Version",
+		"Title Database Color": "#FFFFFF"
 	}
 ]

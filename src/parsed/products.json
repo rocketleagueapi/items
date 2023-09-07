@@ -1771,7 +1771,7 @@
     "tradeIn": false
   },
   "165": {
-    "name": "Côte d'Ivoire",
+    "name": "C te d'Ivoire",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -2552,7 +2552,7 @@
     "tradeIn": true
   },
   "241": {
-    "name": "Brünnehilde",
+    "name": "Br nnehilde",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -4048,7 +4048,7 @@
     "tradeIn": true
   },
   "400": {
-    "name": "Piñata",
+    "name": "Pi ata",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -5786,7 +5786,7 @@
     "tradeIn": false
   },
   "566": {
-    "name": "Réunion",
+    "name": "R union",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -7619,8 +7619,8 @@
     "currency": false,
     "quality": 1,
     "slot": 5,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "813": {
     "name": "Euro Truck Simulator Rig",
@@ -8235,8 +8235,8 @@
     "currency": false,
     "quality": 4,
     "slot": 0,
-    "tradable": true,
-    "tradeIn": true
+    "tradable": false,
+    "tradeIn": false
   },
   "1028": {
     "name": "Worms W.M.D.",
@@ -8446,6 +8446,17 @@
     "slot": 1,
     "tradable": false,
     "tradeIn": true
+  },
+  "1077": {
+    "name": "Merc: Snakeskin",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
   },
   "1078": {
     "name": "Merc: Vector",
@@ -10149,8 +10160,8 @@
     "currency": false,
     "quality": 3,
     "slot": 2,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "1426": {
     "name": "Road Hog XL: Horus",
@@ -13211,7 +13222,7 @@
     "tradeIn": false
   },
   "1856": {
-    "name": "Jäger 619",
+    "name": "J ger 619",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -13255,7 +13266,7 @@
     "tradeIn": false
   },
   "1869": {
-    "name": "Jäger 619",
+    "name": "J ger 619",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14828,7 +14839,7 @@
     "tradeIn": true
   },
   "2081": {
-    "name": "Jäger 619: Stripes",
+    "name": "J ger 619: Stripes",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14872,7 +14883,7 @@
     "tradeIn": false
   },
   "2097": {
-    "name": "Jäger 619: The Summit",
+    "name": "J ger 619: The Summit",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -14883,7 +14894,7 @@
     "tradeIn": false
   },
   "2157": {
-    "name": "Jäger 619: Kraken",
+    "name": "J ger 619: Kraken",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15224,7 +15235,7 @@
     "tradeIn": true
   },
   "2277": {
-    "name": "Jäger 619: Storm Warning",
+    "name": "J ger 619: Storm Warning",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15235,7 +15246,7 @@
     "tradeIn": false
   },
   "2278": {
-    "name": "Jäger 619: Euphoria",
+    "name": "J ger 619: Euphoria",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15763,7 +15774,7 @@
     "tradeIn": true
   },
   "2378": {
-    "name": "Jäger 619: Circuit Pro",
+    "name": "J ger 619: Circuit Pro",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15807,7 +15818,7 @@
     "tradeIn": false
   },
   "2391": {
-    "name": "Jäger 619: Distortion",
+    "name": "J ger 619: Distortion",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15818,7 +15829,7 @@
     "tradeIn": false
   },
   "2392": {
-    "name": "Jäger 619: Snakeskin",
+    "name": "J ger 619: Snakeskin",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -15829,7 +15840,7 @@
     "tradeIn": true
   },
   "2393": {
-    "name": "Jäger 619: Vector",
+    "name": "J ger 619: Vector",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -16587,6 +16598,17 @@
     "tradable": true,
     "tradeIn": true
   },
+  "2479": {
+    "name": "Contagion",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
   "2480": {
     "name": "Endo: Polar Force",
     "blueprint": false,
@@ -17204,7 +17226,7 @@
     "tradeIn": true
   },
   "2548": {
-    "name": "Jäger 619: Mister Monsoon",
+    "name": "J ger 619: Mister Monsoon",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17215,7 +17237,7 @@
     "tradeIn": true
   },
   "2549": {
-    "name": "Jäger 619: Shark Tooth",
+    "name": "J ger 619: Shark Tooth",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17226,7 +17248,7 @@
     "tradeIn": true
   },
   "2550": {
-    "name": "Jäger 619: Hip-Hop",
+    "name": "J ger 619: Hip-Hop",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17237,7 +17259,7 @@
     "tradeIn": true
   },
   "2551": {
-    "name": "Jäger 619: StarLighter",
+    "name": "J ger 619: StarLighter",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17468,7 +17490,7 @@
     "tradeIn": true
   },
   "2581": {
-    "name": "Jäger 619: XVI",
+    "name": "J ger 619: XVI",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -17600,7 +17622,7 @@
     "tradeIn": true
   },
   "2599": {
-    "name": "Jäger 619: Camazotz",
+    "name": "J ger 619: Camazotz",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -18160,6 +18182,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "2684": {
+    "name": "X-Devil: Grim Weeper",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": true
+  },
   "2685": {
     "name": "Scarab: Ankylo",
     "blueprint": false,
@@ -18491,7 +18524,7 @@
     "tradeIn": true
   },
   "2729": {
-    "name": "Balla-Carrà",
+    "name": "Balla-Carr ",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -18562,7 +18595,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18628,7 +18661,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18639,7 +18672,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18650,7 +18683,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18661,7 +18694,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18672,7 +18705,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18793,7 +18826,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18881,7 +18914,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 3,
     "slot": 1,
     "tradable": true,
     "tradeIn": true
@@ -18980,7 +19013,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 2,
+    "quality": 4,
     "slot": 3,
     "tradable": true,
     "tradeIn": true
@@ -19105,6 +19138,17 @@
     "slot": 4,
     "tradable": true,
     "tradeIn": true
+  },
+  "2809": {
+    "name": "Siiick Reads",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
   },
   "2813": {
     "name": "Kayak",
@@ -19789,7 +19833,7 @@
     "tradeIn": true
   },
   "2919": {
-    "name": "Jurassic Jeep® Wrangler",
+    "name": "Jurassic Jeep  Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -19855,7 +19899,7 @@
     "tradeIn": false
   },
   "2927": {
-    "name": "Jurassic Jeep® Wrangler",
+    "name": "Jurassic Jeep  Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -20064,7 +20108,7 @@
     "tradeIn": true
   },
   "2955": {
-    "name": "Jurassic Jeep® Wrangler",
+    "name": "Jurassic Jeep  Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -20192,8 +20236,8 @@
     "currency": false,
     "quality": 5,
     "slot": 2,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "2972": {
     "name": "Dynamo",
@@ -20731,8 +20775,8 @@
     "currency": false,
     "quality": 4,
     "slot": 0,
-    "tradable": false,
-    "tradeIn": false
+    "tradable": true,
+    "tradeIn": true
   },
   "3036": {
     "name": "Title",
@@ -20941,6 +20985,17 @@
     "quality": 0,
     "slot": 1,
     "tradable": false,
+    "tradeIn": false
+  },
+  "3108": {
+    "name": "Braid Brigade",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
+    "tradable": true,
     "tradeIn": false
   },
   "3110": {
@@ -22659,6 +22714,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "3359": {
+    "name": "Tatsu",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
+    "tradable": false,
+    "tradeIn": false
+  },
   "3364": {
     "name": "Hot Wheels Gorilla",
     "blueprint": false,
@@ -22866,6 +22932,17 @@
     "quality": 2,
     "slot": 1,
     "tradable": false,
+    "tradeIn": false
+  },
+  "3394": {
+    "name": "Road Hog: Heart Hog",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
     "tradeIn": false
   },
   "3395": {
@@ -23297,6 +23374,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "3445": {
+    "name": "Paladin: Virgule",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "3446": {
     "name": "Haunted House",
     "blueprint": false,
@@ -23372,6 +23460,17 @@
     "quality": 6,
     "slot": 15,
     "tradable": true,
+    "tradeIn": false
+  },
+  "3454": {
+    "name": "Road Hog: Bugbastic",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
     "tradeIn": false
   },
   "3455": {
@@ -24585,7 +24684,7 @@
     "tradeIn": false
   },
   "3608": {
-    "name": "Octane: Piñata Monster",
+    "name": "Octane: Pi ata Monster",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -26170,6 +26269,17 @@
   },
   "3811": {
     "name": "Taxi Top",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "3813": {
+    "name": "Obelisk",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -28132,7 +28242,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 8,
+    "quality": 3,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -28165,7 +28275,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 8,
+    "quality": 3,
     "slot": 2,
     "tradable": false,
     "tradeIn": false
@@ -28344,6 +28454,17 @@
     "quality": 2,
     "slot": 16,
     "tradable": false,
+    "tradeIn": false
+  },
+  "4096": {
+    "name": "Breakout: CombedOut",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
     "tradeIn": false
   },
   "4097": {
@@ -28997,6 +29118,17 @@
   },
   "4192": {
     "name": "Dominus: Cherry Bomb",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "4193": {
+    "name": "Dominus: Firestarter",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -30128,6 +30260,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "4342": {
+    "name": "Intercooler",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "4343": {
     "name": "Qilin Horns II",
     "blueprint": false,
@@ -30764,6 +30907,17 @@
     "quality": 0,
     "slot": 1,
     "tradable": false,
+    "tradeIn": false
+  },
+  "4411": {
+    "name": "Tinfoil Hat",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": true,
     "tradeIn": false
   },
   "4412": {
@@ -31800,6 +31954,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "4559": {
+    "name": "Sabr-619",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": true
+  },
   "4560": {
     "name": "Scoops Ahoy",
     "blueprint": false,
@@ -32086,6 +32251,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "4617": {
+    "name": "Avatrack",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
+    "tradable": false,
+    "tradeIn": false
+  },
   "4618": {
     "name": "Chikara: Stripes",
     "blueprint": false,
@@ -32349,6 +32525,17 @@
     "slot": 1,
     "tradable": false,
     "tradeIn": false
+  },
+  "4664": {
+    "name": "Special Delivery",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 1,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": true
   },
   "4665": {
     "name": "Stitched",
@@ -32965,6 +33152,17 @@
     "slot": 1,
     "tradable": true,
     "tradeIn": false
+  },
+  "4740": {
+    "name": "Rigid Fringe",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": true
   },
   "4741": {
     "name": "Grassy",
@@ -37069,6 +37267,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "5331": {
+    "name": "Orwellian",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "5332": {
     "name": "Softset",
     "blueprint": false,
@@ -38170,7 +38379,7 @@
     "tradeIn": false
   },
   "5442": {
-    "name": "Jäger 619",
+    "name": "J ger 619",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -38994,6 +39203,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "5531": {
+    "name": "Octane: ZapTrap",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 1,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": true
+  },
   "5532": {
     "name": "Stay Puft",
     "blueprint": false,
@@ -39445,6 +39665,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "5596": {
+    "name": "Dominus: MidLine",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
   "5597": {
     "name": "Dominus: Aggressor",
     "blueprint": false,
@@ -39578,7 +39809,7 @@
     "tradeIn": false
   },
   "5617": {
-    "name": "Octane: Pelé",
+    "name": "Octane: Pel ",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -39622,7 +39853,7 @@
     "tradeIn": true
   },
   "5621": {
-    "name": "Pelé",
+    "name": "Pel ",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -39633,7 +39864,7 @@
     "tradeIn": false
   },
   "5622": {
-    "name": "Pelé",
+    "name": "Pel ",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -40049,6 +40280,17 @@
     "slot": 2,
     "tradable": false,
     "tradeIn": true
+  },
+  "5678": {
+    "name": "Omnikron",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
   },
   "5680": {
     "name": "Fennec: Team BDS",
@@ -41602,7 +41844,7 @@
     "tradeIn": true
   },
   "5853": {
-    "name": "Pelé",
+    "name": "Pel ",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -41632,6 +41874,17 @@
     "quality": 5,
     "slot": 2,
     "tradable": false,
+    "tradeIn": false
+  },
+  "5856": {
+    "name": "Broadbolt",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 14,
+    "tradable": true,
     "tradeIn": false
   },
   "5857": {
@@ -42581,7 +42834,7 @@
     "tradeIn": false
   },
   "5964": {
-    "name": "Lamborghini Huracán STO",
+    "name": "Lamborghini Hurac n STO",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -42690,6 +42943,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "5978": {
+    "name": "ForceFlux",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
   "5979": {
     "name": "Tyranno GXT",
     "blueprint": false,
@@ -42702,7 +42966,7 @@
     "tradeIn": false
   },
   "5980": {
-    "name": "Lamborghini Huracán STO",
+    "name": "Lamborghini Hurac n STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -42724,7 +42988,7 @@
     "tradeIn": false
   },
   "5982": {
-    "name": "Lamborghini Huracán STO v1",
+    "name": "Lamborghini Hurac n STO v1",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -42845,7 +43109,7 @@
     "tradeIn": false
   },
   "6003": {
-    "name": "Lamborghini Huracán STO v2",
+    "name": "Lamborghini Hurac n STO v2",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -42856,7 +43120,7 @@
     "tradeIn": false
   },
   "6004": {
-    "name": "Lamborghini Huracán STO: Lamborghini Huracán STO",
+    "name": "Lamborghini Hurac n STO: Lamborghini Hurac n STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -42867,7 +43131,7 @@
     "tradeIn": false
   },
   "6006": {
-    "name": "Lamborghini Huracán STO",
+    "name": "Lamborghini Hurac n STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -43076,7 +43340,7 @@
     "tradeIn": false
   },
   "6027": {
-    "name": "Lamborghini Huracán STO",
+    "name": "Lamborghini Hurac n STO",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -44616,7 +44880,7 @@
     "tradeIn": false
   },
   "6207": {
-    "name": "Jurassic Jeep® Wrangler",
+    "name": "Jurassic Jeep  Wrangler",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -44945,6 +45209,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "6246": {
+    "name": "Happy Medium",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 5,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": true
+  },
   "6247": {
     "name": "McLaren 765LT",
     "blueprint": false,
@@ -45145,6 +45420,17 @@
   },
   "6279": {
     "name": "The Brick",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": true
+  },
+  "6280": {
+    "name": "Vixen Punk",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -52976,7 +53262,7 @@
     "tradeIn": false
   },
   "7376": {
-    "name": "Painted Piñata",
+    "name": "Painted Pi ata",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -52987,7 +53273,7 @@
     "tradeIn": false
   },
   "7377": {
-    "name": "Fútbol",
+    "name": "F tbol",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -55637,6 +55923,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7663": {
+    "name": "Toasted",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 1,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": true
+  },
   "7665": {
     "name": "Debutante",
     "blueprint": false,
@@ -56506,6 +56803,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7786": {
+    "name": "Orwellian",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
   "7787": {
     "name": "NASCAR Next Gen Ford Mustang: NASCAR Next Gen Ford Mustang",
     "blueprint": false,
@@ -56738,7 +57046,7 @@
     "tradeIn": false
   },
   "7814": {
-    "name": "Octane: Nike Air Zoom Mercurial – Yellow",
+    "name": "Octane: Nike Air Zoom Mercurial   Yellow",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -56782,7 +57090,7 @@
     "tradeIn": false
   },
   "7818": {
-    "name": "Octane: Nike Air Zoom Mercurial – Pink",
+    "name": "Octane: Nike Air Zoom Mercurial   Pink",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -56793,7 +57101,7 @@
     "tradeIn": false
   },
   "7819": {
-    "name": "Octane: Nike Air Zoom Mercurial – Green",
+    "name": "Octane: Nike Air Zoom Mercurial   Green",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -57089,6 +57397,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7855": {
+    "name": "Holodrone",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
   "7856": {
     "name": "Lunation",
     "blueprint": false,
@@ -57331,6 +57650,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "7892": {
+    "name": "Octane: Bob's Rameness",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "7893": {
     "name": "Octane: Flametress",
     "blueprint": false,
@@ -57338,6 +57668,17 @@
     "paintable": false,
     "currency": false,
     "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "7894": {
+    "name": "Octane: Songstress",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -57750,7 +58091,7 @@
     "tradeIn": false
   },
   "7951": {
-    "name": "Octane: Síganme los Buenos",
+    "name": "Octane: S ganme los Buenos",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -58025,7 +58366,7 @@
     "tradeIn": false
   },
   "7991": {
-    "name": "Más Rápido que una Tortuga",
+    "name": "M s R pido que una Tortuga",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -58034,6 +58375,17 @@
     "slot": 2,
     "tradable": false,
     "tradeIn": false
+  },
+  "7993": {
+    "name": "Octane: Doodled",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": true
   },
   "7994": {
     "name": "Franko Fone",
@@ -58421,7 +58773,7 @@
     "tradeIn": true
   },
   "8044": {
-    "name": "Héroe Colorado",
+    "name": "H roe Colorado",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59356,7 +59708,7 @@
     "tradeIn": false
   },
   "8141": {
-    "name": "Fiesta Latina 2022",
+    "name": "Fiesta Latina",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -59706,6 +60058,17 @@
     "slot": 1,
     "tradable": false,
     "tradeIn": false
+  },
+  "8192": {
+    "name": "Twisted Tornado",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 4,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": true
   },
   "8193": {
     "name": "Argentina",
@@ -60423,7 +60786,7 @@
     "tradeIn": true
   },
   "8262": {
-    "name": "Chipote Chillón",
+    "name": "Chipote Chill n",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -60939,6 +61302,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "8322": {
+    "name": "MechMania",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": true
+  },
   "8324": {
     "name": "Trick or Treat",
     "blueprint": false,
@@ -61178,6 +61552,17 @@
     "currency": false,
     "quality": 5,
     "slot": 3,
+    "tradable": false,
+    "tradeIn": true
+  },
+  "8351": {
+    "name": "Twisted Tornado",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
+    "slot": 14,
     "tradable": false,
     "tradeIn": true
   },
@@ -63084,6 +63469,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8563": {
+    "name": "Shellington",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 3,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": true
+  },
   "8564": {
     "name": "Laser-Light",
     "blueprint": false,
@@ -63092,7 +63488,7 @@
     "currency": false,
     "quality": 8,
     "slot": 14,
-    "tradable": false,
+    "tradable": true,
     "tradeIn": false
   },
   "8565": {
@@ -64360,6 +64756,17 @@
     "tradable": true,
     "tradeIn": false
   },
+  "8730": {
+    "name": "Mole Miner",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": true
+  },
   "8731": {
     "name": "Octane: INSPECTION",
     "blueprint": false,
@@ -64889,7 +65296,7 @@
     "tradeIn": false
   },
   "8833": {
-    "name": "AC Milan (PUMA x KOCHÉ)",
+    "name": "AC Milan (PUMA x KOCH )",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -65021,12 +65428,23 @@
     "tradeIn": false
   },
   "8849": {
-    "name": "Octane: AC Milan (PUMA x KOCHÉ)",
+    "name": "Octane: AC Milan (PUMA x KOCH )",
     "blueprint": false,
     "special": 0,
     "paintable": false,
     "currency": false,
     "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "8850": {
+    "name": "Sugar High",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 6,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -65054,7 +65472,7 @@
     "tradeIn": true
   },
   "8853": {
-    "name": "Dominus: AC Milan (PUMA x KOCHÉ)",
+    "name": "Dominus: AC Milan (PUMA x KOCH )",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -65548,6 +65966,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8921": {
+    "name": "Obsolete PC",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
   "8922": {
     "name": "Whip",
     "blueprint": false,
@@ -65659,7 +66088,7 @@
     "tradeIn": false
   },
   "8940": {
-    "name": "Jäger 619: Neo-Viral",
+    "name": "J ger 619: Neo-Viral",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -65922,6 +66351,17 @@
     "tradable": false,
     "tradeIn": true
   },
+  "8987": {
+    "name": "Munzonic",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
   "8988": {
     "name": "ORACLE",
     "blueprint": false,
@@ -65988,6 +66428,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "8999": {
+    "name": "Kilowut",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 6,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9003": {
     "name": "Redline: Tech",
     "blueprint": false,
@@ -65999,6 +66450,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9010": {
+    "name": "Tech-nickel",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 2,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": true
+  },
   "9012": {
     "name": "Autobahn",
     "blueprint": false,
@@ -66006,6 +66468,17 @@
     "paintable": true,
     "currency": false,
     "quality": 6,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9014": {
+    "name": "Ochazuke",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -66019,6 +66492,17 @@
     "quality": 8,
     "slot": 15,
     "tradable": true,
+    "tradeIn": false
+  },
+  "9020": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 1,
+    "tradable": false,
     "tradeIn": false
   },
   "9025": {
@@ -66097,6 +66581,17 @@
     "slot": 7,
     "tradable": false,
     "tradeIn": false
+  },
+  "9044": {
+    "name": "Dominus: Buzzer Beater",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 1,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": true
   },
   "9045": {
     "name": "Showoff",
@@ -66208,6 +66703,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9065": {
+    "name": "Bubble Cloth",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 7,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9066": {
     "name": "Gauged",
     "blueprint": false,
@@ -66238,6 +66744,17 @@
     "currency": false,
     "quality": 0,
     "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9074": {
+    "name": "Keyboard",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 7,
     "tradable": false,
     "tradeIn": false
   },
@@ -66287,6 +66804,39 @@
   },
   "9085": {
     "name": "Nissan Silvia RLE",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 0,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9087": {
+    "name": "Twisted Tornado",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 6,
+    "slot": 15,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9088": {
+    "name": "Porsche 911 Turbo",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 0,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9089": {
+    "name": "Porsche 911 Turbo RLE",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -66450,6 +67000,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9106": {
+    "name": "Billiard Cue",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 1,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": true
+  },
+  "9107": {
+    "name": "Golden Egg '23",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": true,
+    "tradeIn": false
+  },
   "9108": {
     "name": "Gauged",
     "blueprint": false,
@@ -66458,6 +67030,28 @@
     "currency": false,
     "quality": 8,
     "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9109": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9110": {
+    "name": "Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
     "tradable": false,
     "tradeIn": false
   },
@@ -66496,6 +67090,17 @@
   },
   "9116": {
     "name": "Gasolina (Safari Riot Remix) ft. Myke Towers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9117": {
+    "name": "HOPE",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -66667,7 +67272,7 @@
     "currency": false,
     "quality": 8,
     "slot": 1,
-    "tradable": false,
+    "tradable": true,
     "tradeIn": false
   },
   "9138": {
@@ -66689,6 +67294,28 @@
     "currency": false,
     "quality": 3,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9140": {
+    "name": "Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 6,
+    "slot": 0,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9141": {
+    "name": "Waned Flame",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
     "tradable": false,
     "tradeIn": false
   },
@@ -66725,8 +67352,30 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9148": {
+    "name": "Porsche 911",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9151": {
+    "name": "Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9152": {
-    "name": "Piñata",
+    "name": "Pi ata",
     "blueprint": false,
     "special": 0,
     "paintable": true,
@@ -66746,6 +67395,17 @@
     "slot": 2,
     "tradable": false,
     "tradeIn": true
+  },
+  "9154": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
   },
   "9155": {
     "name": "Holochrome",
@@ -66802,6 +67462,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9162": {
+    "name": "Waned Flame",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 14,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9163": {
+    "name": "Optimus Prime",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 5,
+    "slot": 15,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9164": {
     "name": "Smoke Bomb",
     "blueprint": false,
@@ -66835,6 +67517,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9175": {
+    "name": "Crossword",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 7,
+    "tradable": true,
+    "tradeIn": false
+  },
   "9176": {
     "name": "Cyclone: Migraine",
     "blueprint": false,
@@ -66842,6 +67535,17 @@
     "paintable": true,
     "currency": false,
     "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9177": {
+    "name": "Octane: Shmeedian",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -66912,6 +67616,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9188": {
+    "name": "8th Birthday Crown",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9190": {
     "name": "Smoke Run",
     "blueprint": false,
@@ -66932,6 +67647,39 @@
     "quality": 8,
     "slot": 16,
     "tradable": false,
+    "tradeIn": false
+  },
+  "9202": {
+    "name": "Octane: RLCS 22-23 Spring Major",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9203": {
+    "name": "Fennec: RLCS 22-23 Spring Major",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9204": {
+    "name": "Dominus: RLCS 22-23 Spring Major",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
     "tradeIn": false
   },
   "9206": {
@@ -67044,6 +67792,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9220": {
+    "name": "Low-Bit",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 7,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9222": {
     "name": "SFX",
     "blueprint": false,
@@ -67051,6 +67810,17 @@
     "paintable": false,
     "currency": false,
     "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9223": {
+    "name": "Hemi Birthday",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
     "slot": 18,
     "tradable": false,
     "tradeIn": false
@@ -67072,7 +67842,7 @@
     "special": 0,
     "paintable": false,
     "currency": false,
-    "quality": 0,
+    "quality": 8,
     "slot": 1,
     "tradable": false,
     "tradeIn": false
@@ -67088,6 +67858,28 @@
     "tradable": true,
     "tradeIn": false
   },
+  "9232": {
+    "name": "Transformers",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9233": {
+    "name": "Transformers Theme",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9237": {
     "name": "Nissan Silvia",
     "blueprint": false,
@@ -67099,6 +67891,28 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9239": {
+    "name": "8th Birthday",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9240": {
+    "name": "Scn-Ln",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
   "9245": {
     "name": "Smoke Mask",
     "blueprint": false,
@@ -67107,6 +67921,17 @@
     "currency": false,
     "quality": 8,
     "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9246": {
+    "name": "Fennec: Borussia Dortmund",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
     "tradable": false,
     "tradeIn": false
   },
@@ -67129,6 +67954,17 @@
     "currency": false,
     "quality": 8,
     "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9250": {
+    "name": "Blueprint Bumblebee",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
     "tradable": false,
     "tradeIn": false
   },
@@ -67176,6 +68012,17 @@
     "tradable": false,
     "tradeIn": false
   },
+  "9259": {
+    "name": "BurnIn",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
   "9263": {
     "name": "Octane: Demonio",
     "blueprint": false,
@@ -67198,8 +68045,19 @@
     "tradable": false,
     "tradeIn": true
   },
+  "9268": {
+    "name": "J-Peggy",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": true,
+    "tradeIn": false
+  },
   "9270": {
-    "name": "Não Sei Parar",
+    "name": "N o Sei Parar",
     "blueprint": false,
     "special": 0,
     "paintable": false,
@@ -67216,6 +68074,1117 @@
     "paintable": false,
     "currency": false,
     "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9272": {
+    "name": "Revenant Pro",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9274": {
+    "name": "Interchiller",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9292": {
+    "name": "ChickenBot",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9293": {
+    "name": "Hypno-Web",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 6,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9294": {
+    "name": "1. FC Union Berlin",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9295": {
+    "name": "Sport-Club Freiburg",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9296": {
+    "name": "FC Bayern M nchen",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9297": {
+    "name": "Borussia Dortmund",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9298": {
+    "name": "Bayer 04 Leverkusen",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9299": {
+    "name": "Bundesliga",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9300": {
+    "name": "RB Leipzig",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9306": {
+    "name": "Porsche 911 Turbo: Flames",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9307": {
+    "name": "Porsche 911 Turbo: Huntress",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9308": {
+    "name": "Porsche 911 Turbo: Lightning",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9309": {
+    "name": "Porsche 911 Turbo: Stripes",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9311": {
+    "name": "Porsche 911 Turbo: Wings",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9313": {
+    "name": "Fennec: 1. FC Union Berlin",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9314": {
+    "name": "Fennec: RB Leipzig",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9317": {
+    "name": "Tri-oomph",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9319": {
+    "name": "Firewall",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 14,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9324": {
+    "name": "Octane: Puma: AC Milan",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9329": {
+    "name": "Golden Trophy '23",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9330": {
+    "name": "Accolade XII",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 2,
+    "slot": 11,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9331": {
+    "name": "Octane: Puma: Borussia Dortmund",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9332": {
+    "name": "Octane: Puma: Manchester City",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9333": {
+    "name": "Pro-Tek",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9335": {
+    "name": "Afterclapp",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9336": {
+    "name": "Boslen",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9337": {
+    "name": "Carola",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9338": {
+    "name": "Circadian",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9340": {
+    "name": "CHYL",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9341": {
+    "name": "LUX",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9342": {
+    "name": "S11 - Bronze",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9343": {
+    "name": "S11 - Silver",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9344": {
+    "name": "S11 - Gold",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9345": {
+    "name": "S11 - Platinum",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9346": {
+    "name": "S11 - Diamond",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9348": {
+    "name": "Octane: Puma: Olympique de Marseille",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9352": {
+    "name": "Fennec: Bayer 04 Leverkusen",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9355": {
+    "name": "Puma: Classic",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9358": {
+    "name": "InfoSec",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9359": {
+    "name": "10-Senz",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9361": {
+    "name": "Rocket League World Championship Trophy",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9362": {
+    "name": "Puma: Forever Better",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9363": {
+    "name": "S11 - Champion",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9364": {
+    "name": "S11 - Grand Champion",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9365": {
+    "name": "S11 - Supersonic Legend",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9367": {
+    "name": "Giga-Hurts",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9368": {
+    "name": "Let's Goooooo!",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9369": {
+    "name": "Power-Shot SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 7,
+    "slot": 3,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9371": {
+    "name": "InfoSec",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 14,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9374": {
+    "name": "Porsche 911 Turbo: Ombre",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9375": {
+    "name": "Porsche 911 Turbo: Porsche 75th Anniversary",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9376": {
+    "name": "Fennec: Puma: AC Milan",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9377": {
+    "name": "Puma",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 3,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9378": {
+    "name": "Fennec: Puma: Olympique de Marseille",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9380": {
+    "name": "Fennec: Puma: Borussia Dortmund",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9381": {
+    "name": "Fennec: Puma: Manchester City",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9383": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9384": {
+    "name": "RLCS Crystalline",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9385": {
+    "name": "Fennec: Sport-Club Freiburg",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9389": {
+    "name": "Bundesliga Match Ball",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9390": {
+    "name": "Bundesliga",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9391": {
+    "name": "Fennec: FC Bayern M nchen",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9392": {
+    "name": "Unicorn SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9393": {
+    "name": "Merc: Narwhal SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9394": {
+    "name": "Asik SKB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 7,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9397": {
+    "name": "Sabr-619",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 5,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": true
+  },
+  "9398": {
+    "name": "Zero's World",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 15,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9399": {
+    "name": "EZ Sweep",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9400": {
+    "name": "PANDEMONIUM",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9401": {
+    "name": "Bundesliga Hymn",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9403": {
+    "name": "Interchiller: Radiant",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9404": {
+    "name": "Zero-Day",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9408": {
+    "name": "Porsche 911 Turbo",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9417": {
+    "name": "Zomba: Glitched",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 5,
+    "slot": 2,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9418": {
+    "name": "Merc: Distortion",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 1,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9424": {
+    "name": "Porsche 911 Turbo RLE",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9435": {
+    "name": "Omnikron",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9436": {
+    "name": "Hacked Halo",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 5,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9444": {
+    "name": "Pixel Burn",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9445": {
+    "name": "Firewall",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 3,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9447": {
+    "name": "Intercooler",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 2,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9448": {
+    "name": "Badbeat",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9450": {
+    "name": "Lewis Thompson",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9451": {
+    "name": "NUZB",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9452": {
+    "name": " wnboss",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9453": {
+    "name": "Punctual",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9455": {
+    "name": "Selva",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9460": {
+    "name": "CrypTEK",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 13,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9463": {
+    "name": "Virused",
+    "blueprint": false,
+    "special": 0,
+    "paintable": true,
+    "currency": false,
+    "quality": 8,
+    "slot": 15,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9465": {
+    "name": "HIGHT",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 0,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9471": {
+    "name": "BooBoo",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 4,
+    "tradable": true,
+    "tradeIn": false
+  },
+  "9472": {
+    "name": "Eggshellsior",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9473": {
+    "name": "PunkMetal",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 4,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9500": {
+    "name": "CRT",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 20,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9521": {
+    "name": "Zero-Day",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9526": {
+    "name": "Porsche 911",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 16,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9610": {
+    "name": "Dial-Up",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9630": {
+    "name": "Burbank Nights",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 4,
+    "slot": 18,
+    "tradable": false,
+    "tradeIn": false
+  },
+  "9680": {
+    "name": "Bob's Ramen Theme",
+    "blueprint": false,
+    "special": 0,
+    "paintable": false,
+    "currency": false,
+    "quality": 8,
     "slot": 18,
     "tradable": false,
     "tradeIn": false

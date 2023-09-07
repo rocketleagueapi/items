@@ -264,6 +264,12 @@
 		"Map Variant Name": "None"
 	},
 	{
+		"Map Base Name": "Neo Tokyo",
+		"Map File Name": "NeoTokyo_Hax_P",
+		"Map Weather Variant Id": 5,
+		"Map Variant Name": "Hacked"
+	},
+	{
 		"Map Base Name": "Tokyo Underpass",
 		"Map File Name": "NeoTokyo_P",
 		"Map Weather Variant Id": 6,
