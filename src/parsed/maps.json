@@ -175,6 +175,10 @@
     "name": "Neon Fields",
     "variant": "None"
   },
+  "NeoTokyo_Hax_P": {
+    "name": "Neo Tokyo",
+    "variant": "Hacked"
+  },
   "NeoTokyo_P": {
     "name": "Tokyo Underpass",
     "variant": "None"
