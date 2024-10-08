@@ -1,20 +1,33 @@
-import { writeFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import path from 'path';
-import CertificationDump from './raw/CertificationDump.json';
-import PaintDump from './raw/PaintDump.json';
-import ProductDump from './raw/ProductDump.json';
-import SeriesDump from './raw/SeriesDump.json';
-import SlotDump from './raw/SlotDump.json';
-import SpecialEditionDump from './raw/SpecialEditionDump.json';
-import MapDump from './raw/MapDump.json';
-import PlaylistDump from './raw/PlaylistDump.json';
-import TitleDump from './raw/TitleDump.json';
+// eslint-disable-next-line import/no-extraneous-dependencies
+import iconv from 'iconv-lite';
 import specialMap from './specialMap';
 import { Product } from './@types/exports';
 
-function write(name: string, data: any) {
-    writeFileSync(path.join(__dirname, './parsed/', `${name}.json`), JSON.stringify(data, null, 2));
+// Generic function to read a JSON file with Windows 1252 encoding
+function readJSONWindows1252(fileName: string) {
+    const filePath = path.join(__dirname, './raw/', `${fileName}.json`);
+    const buffer = readFileSync(filePath);
+    const content = iconv.decode(buffer, 'windows-1252'); // Decode from Windows 1252
+    return JSON.parse(content) as Record<string, any>[];
 }
+
+// Function to write data as UTF-8 encoded JSON
+function write(name: string, data: any) {
+    writeFileSync(path.join(__dirname, './parsed/', `${name}.json`), JSON.stringify(data, null, 2), 'utf8');
+}
+
+// Read and process the dump files
+const CertificationDump = readJSONWindows1252('CertificationDump');
+const PaintDump = readJSONWindows1252('PaintDump');
+const ProductDump = readJSONWindows1252('ProductDump');
+const SeriesDump = readJSONWindows1252('SeriesDump');
+const SlotDump = readJSONWindows1252('SlotDump');
+const SpecialEditionDump = readJSONWindows1252('SpecialEditionDump');
+const MapDump = readJSONWindows1252('MapDump');
+const PlaylistDump = readJSONWindows1252('PlaylistDump');
+const TitleDump = readJSONWindows1252('TitleDump');
 
 const certs = CertificationDump.reduce((acc, c) => {
     acc[c['Certified Database Id']] = c['Certified Database Label'];
