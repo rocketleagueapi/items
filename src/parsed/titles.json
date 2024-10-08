@@ -2515,8 +2515,396 @@
     "name": "Obsolete Version",
     "color": "#FFFFFF"
   },
+  "The_Writer": {
+    "name": "The Writer",
+    "color": "#FFFFFF"
+  },
   "Gooooal": {
     "name": "Gooooal!",
+    "color": "#FFFFFF"
+  },
+  "SE_PumpkinKing": {
+    "name": "Pumpkin King",
+    "color": "#FFFFFF"
+  },
+  "Ghoulish_Gamer": {
+    "name": "Ghoulish Gamer",
+    "color": "#FFFFFF"
+  },
+  "Billion_Dollar_Racer": {
+    "name": "Sir Supersonic",
+    "color": "#FFFFFF"
+  },
+  "Retrofitted": {
+    "name": "Retrofitted",
+    "color": "#FFFFFF"
+  },
+  "90s_Kid": {
+    "name": "90's Kid",
+    "color": "#FFFFFF"
+  },
+  "Y2K_Ready": {
+    "name": "Y2K Ready",
+    "color": "#FFFFFF"
+  },
+  "Mad_Millennial": {
+    "name": "Mad Millennial",
+    "color": "#FFFFFF"
+  },
+  "S26_SSL_Rumble": {
+    "name": "S12 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S26_SSL_DropShot": {
+    "name": "S12 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S26_SSL_SnowDay": {
+    "name": "S12 Ice Titan",
+    "color": "#E8E8E8"
+  },
+  "S26_SSL_Hoops": {
+    "name": "S12 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "S26_SuperSonic_Legend": {
+    "name": "S12 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S26_Grand_Champion_Rumble": {
+    "name": "S12 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S26_Grand_Champion_DropShot": {
+    "name": "S12 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S26_Grand_Champion_SnowDay": {
+    "name": "S12 Blizzard Wizard",
+    "color": "#FF2800"
+  },
+  "S26Grand_Champion_Hoops": {
+    "name": "S12 Dunk Master",
+    "color": "#FF2800"
+  },
+  "Season26GrandChampion": {
+    "name": "S12 Grand Champion",
+    "color": "#FF2800"
+  },
+  "AutoTour_13_Bronze": {
+    "name": "S13 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_13_Silver": {
+    "name": "S13 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_13_Gold": {
+    "name": "S13 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_13_Platinum": {
+    "name": "S13 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_13_Diamond": {
+    "name": "S13 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_13_Champion": {
+    "name": "S13 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_13_GrandChampion": {
+    "name": "S13 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_13_SuperSonicLegend": {
+    "name": "S13 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "Cold_As_Ice": {
+    "name": "Cold As Ice",
+    "color": "#FFFFFF"
+  },
+  "SE_ThisIsTheWay": {
+    "name": "This is the Way",
+    "color": "#FFFFFF"
+  },
+  "SE_Mandalorian": {
+    "name": "Mandalorian",
+    "color": "#FFFFFF"
+  },
+  "Cool_Captain": {
+    "name": "Cool Captain",
+    "color": "#FFFFFF"
+  },
+  "Swag_Surfer": {
+    "name": "Swag Surfer",
+    "color": "#FFFFFF"
+  },
+  "Beach_Bum": {
+    "name": "Beach Bum",
+    "color": "#FFFFFF"
+  },
+  "Solid_Swimmer": {
+    "name": "Solid Swimmer",
+    "color": "#FFFFFF"
+  },
+  "Season27GrandChampion": {
+    "name": "S13 Grand Champion",
+    "color": "#FF2800"
+  },
+  "S27_Grand_Champion_Hoops": {
+    "name": "S13 DUNK MASTER",
+    "color": "#FF2800"
+  },
+  "S27_SSL_Hoops": {
+    "name": "S13 LEGENDARY BALLER",
+    "color": "#E8E8E8"
+  },
+  "S27_Grand_Champion_Rumble": {
+    "name": "S13 RNG CHAMP",
+    "color": "#FF2800"
+  },
+  "S27_SSL_Rumble": {
+    "name": "S13 RNGENIUS",
+    "color": "#E8E8E8"
+  },
+  "S27_Grand_Champion_SnowDay": {
+    "name": "S13 BLIZZARD WIZARD",
+    "color": "#FF2800"
+  },
+  "S27_SSL_SnowDay": {
+    "name": "S13 ICE TITAN",
+    "color": "#E8E8E8"
+  },
+  "S27_SuperSonic_Legend": {
+    "name": "S13 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "AutoTour_14_Bronze": {
+    "name": "S14 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_14_Silver": {
+    "name": "S14 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_14_Gold": {
+    "name": "S14 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_14_Platinum": {
+    "name": "S14 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_14_Diamond": {
+    "name": "S14 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_14_Champion": {
+    "name": "S14 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_14_GrandChampion": {
+    "name": "S14 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_14_SuperSonicLegend": {
+    "name": "S14 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "Mutant": {
+    "name": "Mutant",
+    "color": "#FFFFFF"
+  },
+  "CRL_Fall_2023_Champion": {
+    "name": "CRL Fall 2023 Champion",
+    "color": "#FFEB5C"
+  },
+  "CRL_Fall_2023_Contender": {
+    "name": "CRL Fall 2023 Contender",
+    "color": "#FFEB5C"
+  },
+  "CRL_Fall_2023_Elite": {
+    "name": "CRL Fall 2023 Elite",
+    "color": "#FFEB5C"
+  },
+  "Mosh_Maniac": {
+    "name": "Mosh Maniac",
+    "color": "#FFFFFF"
+  },
+  "Elder_Emo": {
+    "name": "Elder Emo",
+    "color": "#FFFFFF"
+  },
+  "Headliner": {
+    "name": "Vocalist",
+    "color": "#FFFFFF"
+  },
+  "Indie_Artist": {
+    "name": "Indie Artist",
+    "color": "#FFFFFF"
+  },
+  "Season28GrandChampion": {
+    "name": "S14 Grand Champion",
+    "color": "#FF2800"
+  },
+  "S28_Grand_Champion_Rumble": {
+    "name": "S14 RNG Champ",
+    "color": "#FF2800"
+  },
+  "S28_Grand_Champion_DropShot": {
+    "name": "S14 Floor Destroyer",
+    "color": "#FF2800"
+  },
+  "S28_Grand_Champion_Hoops": {
+    "name": "S14 Dunk Master",
+    "color": "#FF2800"
+  },
+  "S28_SuperSonic_Legend": {
+    "name": "S14 Supersonic Legend",
+    "color": "#E8E8E8"
+  },
+  "S28_SSL_Rumble": {
+    "name": "S14 RNGenius",
+    "color": "#E8E8E8"
+  },
+  "S28_SSL_DropShot": {
+    "name": "S14 Tile Annihilator",
+    "color": "#E8E8E8"
+  },
+  "S28_SSL_Hoops": {
+    "name": "S14 Legendary Baller",
+    "color": "#E8E8E8"
+  },
+  "AutoTour_15_Bronze": {
+    "name": "S15 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_15_Silver": {
+    "name": "S15 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_15_Gold": {
+    "name": "S15 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_15_Platinum": {
+    "name": "S15 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_15_Diamond": {
+    "name": "S15 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_15_Champion": {
+    "name": "S15 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_15_GrandChampion": {
+    "name": "S15 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_15_SuperSonicLegend": {
+    "name": "S15 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "Shoobie": {
+    "name": "Shoobie",
+    "color": "#FFFFFF"
+  },
+  "S29_GRAND_CHAMPION": {
+    "name": "S15 GRAND CHAMPION",
+    "color": "#FF2800"
+  },
+  "S29_DUNK_MASTER": {
+    "name": "S15 DUNK MASTER",
+    "color": "#FF2800"
+  },
+  "S29_LEGENDARY_BALLER": {
+    "name": "S15 LEGENDARY BALLER",
+    "color": "#E8E8E8"
+  },
+  "S29_RNG_CHAMP": {
+    "name": "S15 RNG CHAMP",
+    "color": "#FF2800"
+  },
+  "S29_RNGENIUS": {
+    "name": "S15 RNGENIUS",
+    "color": "#E8E8E8"
+  },
+  "S29_BLIZZARD_WIZARD": {
+    "name": "S15 BLIZZARD WIZARD",
+    "color": "#FF2800"
+  },
+  "S29_ICE_TITAN": {
+    "name": "S15 ICE TITAN",
+    "color": "#E8E8E8"
+  },
+  "S29_SUPERSONIC_LEGEND": {
+    "name": "S15 SUPERSONIC LEGEND",
+    "color": "#E8E8E8"
+  },
+  "AutoTour_16_Bronze": {
+    "name": "S16 {Bronze} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_16_Silver": {
+    "name": "S16 {Silver} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_16_Gold": {
+    "name": "S16 {Gold} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_16_Platinum": {
+    "name": "S16 {Platinum} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_16_Diamond": {
+    "name": "S16 {Diamond} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_16_Champion": {
+    "name": "S16 {Champion} Tournament Winner",
+    "color": "#9BFF00"
+  },
+  "AutoTour_16_GrandChampion": {
+    "name": "S16 {GrandChampion} Tournament Winner",
+    "color": "#FF2800"
+  },
+  "AutoTour_16_SuperSonicLegend": {
+    "name": "S16 {Legend} Tournament Winner",
+    "color": "#FF8DDD"
+  },
+  "Outdoorsy": {
+    "name": "Outdoorsy",
+    "color": "#FFFFFF"
+  },
+  "OffTheGrid": {
+    "name": "Off The Grid",
+    "color": "#FFFFFF"
+  },
+  "HappyCamper": {
+    "name": "Happy Camper",
+    "color": "#FFFFFF"
+  },
+  "Cryptozoologist": {
+    "name": "Cryptozoologist",
+    "color": "#FFFFFF"
+  },
+  "GOAT_IN_TRAINING": {
+    "name": "GOAT IN TRAINING",
+    "color": "#FFFFFF"
+  },
+  "FOREVER_FASTER": {
+    "name": "FOREVER. FASTER.",
+    "color": "#FFFFFF"
+  },
+  "CompletelyLost": {
+    "name": "Completely Lost",
     "color": "#FFFFFF"
   }
 }

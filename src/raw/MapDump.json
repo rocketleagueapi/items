@@ -25,6 +25,12 @@
 	},
 	{
 		"Map Base Name": "Salty Shores",
+		"Map File Name": "Beach_Night_GRS_P",
+		"Map Weather Variant Id": 3,
+		"Map Variant Name": "Salty Fest"
+	},
+	{
+		"Map Base Name": "Salty Shores",
 		"Map File Name": "beach_night_p",
 		"Map Weather Variant Id": 5,
 		"Map Variant Name": "Night"
@@ -67,6 +73,12 @@
 	},
 	{
 		"Map Base Name": "Mannfield",
+		"Map File Name": "EuroStadium_Dusk_P",
+		"Map Weather Variant Id": 3,
+		"Map Variant Name": "Dusk"
+	},
+	{
+		"Map Base Name": "Mannfield",
 		"Map File Name": "EuroStadium_Night_P",
 		"Map Weather Variant Id": 5,
 		"Map Variant Name": "Night"
@@ -88,6 +100,12 @@
 		"Map File Name": "eurostadium_snownight_p",
 		"Map Weather Variant Id": 7,
 		"Map Variant Name": "Snowy"
+	},
+	{
+		"Map Base Name": "Farmstead",
+		"Map File Name": "Farm_GRS_P",
+		"Map Weather Variant Id": 3,
+		"Map Variant Name": "Pitched"
 	},
 	{
 		"Map Base Name": "Farmstead",
@@ -409,6 +427,12 @@
 	},
 	{
 		"Map Base Name": "AquaDome",
+		"Map File Name": "Underwater_GRS_P",
+		"Map Weather Variant Id": 2,
+		"Map Variant Name": "Salty Shallows"
+	},
+	{
+		"Map Base Name": "AquaDome",
 		"Map File Name": "Underwater_P",
 		"Map Weather Variant Id": 2,
 		"Map Variant Name": "None"
@@ -438,6 +462,12 @@
 		"Map Variant Name": "Snowy"
 	},
 	{
+		"Map Base Name": "Wasteland",
+		"Map File Name": "Wasteland_GRS_P",
+		"Map Weather Variant Id": 5,
+		"Map Variant Name": "Pitched"
+	},
+	{
 		"Map Base Name": "Badlands",
 		"Map File Name": "Wasteland_Night_P",
 		"Map Weather Variant Id": 5,
@@ -459,6 +489,12 @@
 		"Map Base Name": "Wasteland",
 		"Map File Name": "wasteland_s_p",
 		"Map Weather Variant Id": 2,
+		"Map Variant Name": "None"
+	},
+	{
+		"Map Base Name": "Drift Woods",
+		"Map File Name": "woods_p",
+		"Map Weather Variant Id": 1,
 		"Map Variant Name": "None"
 	}
 ]

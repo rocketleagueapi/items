@@ -3650,8 +3650,653 @@
 		"Title Database Color": "#FFFFFF"
 	},
 	{
+		"Title Database Id": "The_Writer",
+		"Title Database Text": "The Writer",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
 		"Title Database Id": "Gooooal",
 		"Title Database Text": "Gooooal!",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_PumpkinKing",
+		"Title Database Text": "Pumpkin King",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Ghoulish_Gamer",
+		"Title Database Text": "Ghoulish Gamer",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Billion_Dollar_Racer",
+		"Title Database Text": "Sir Supersonic",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Retrofitted",
+		"Title Database Text": "Retrofitted",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "90s_Kid",
+		"Title Database Text": "90's Kid",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Y2K_Ready",
+		"Title Database Text": "Y2K Ready",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Mad_Millennial",
+		"Title Database Text": "Mad Millennial",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S26_SSL_Rumble",
+		"Title Database Text": "S12 RNGenius",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S26_SSL_DropShot",
+		"Title Database Text": "S12 Tile Annihilator",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S26_SSL_SnowDay",
+		"Title Database Text": "S12 Ice Titan",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S26_SSL_Hoops",
+		"Title Database Text": "S12 Legendary Baller",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S26_SuperSonic_Legend",
+		"Title Database Text": "S12 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S26_Grand_Champion_Rumble",
+		"Title Database Text": "S12 RNG Champ",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S26_Grand_Champion_DropShot",
+		"Title Database Text": "S12 Floor Destroyer",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S26_Grand_Champion_SnowDay",
+		"Title Database Text": "S12 Blizzard Wizard",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S26Grand_Champion_Hoops",
+		"Title Database Text": "S12 Dunk Master",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "Season26GrandChampion",
+		"Title Database Text": "S12 Grand Champion",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Bronze",
+		"Title Database Text": "S13 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Bronze",
+		"Title Database Text": "S13 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Silver",
+		"Title Database Text": "S13 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Silver",
+		"Title Database Text": "S13 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Gold",
+		"Title Database Text": "S13 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Gold",
+		"Title Database Text": "S13 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Platinum",
+		"Title Database Text": "S13 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Platinum",
+		"Title Database Text": "S13 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Diamond",
+		"Title Database Text": "S13 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Diamond",
+		"Title Database Text": "S13 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Champion",
+		"Title Database Text": "S13 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_13_Champion",
+		"Title Database Text": "S13 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_13_GrandChampion",
+		"Title Database Text": "S13 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_13_GrandChampion",
+		"Title Database Text": "S13 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_13_SuperSonicLegend",
+		"Title Database Text": "S13 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_13_SuperSonicLegend",
+		"Title Database Text": "S13 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "Cold_As_Ice",
+		"Title Database Text": "Cold As Ice",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_ThisIsTheWay",
+		"Title Database Text": "This is the Way",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "SE_Mandalorian",
+		"Title Database Text": "Mandalorian",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Cool_Captain",
+		"Title Database Text": "Cool Captain",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Swag_Surfer",
+		"Title Database Text": "Swag Surfer",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Beach_Bum",
+		"Title Database Text": "Beach Bum",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Solid_Swimmer",
+		"Title Database Text": "Solid Swimmer",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Season27GrandChampion",
+		"Title Database Text": "S13 Grand Champion",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S27_Grand_Champion_Hoops",
+		"Title Database Text": "S13 DUNK MASTER",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S27_SSL_Hoops",
+		"Title Database Text": "S13 LEGENDARY BALLER",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S27_Grand_Champion_Rumble",
+		"Title Database Text": "S13 RNG CHAMP",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S27_SSL_Rumble",
+		"Title Database Text": "S13 RNGENIUS",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S27_Grand_Champion_SnowDay",
+		"Title Database Text": "S13 BLIZZARD WIZARD",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S27_SSL_SnowDay",
+		"Title Database Text": "S13 ICE TITAN",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S27_SuperSonic_Legend",
+		"Title Database Text": "S13 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Bronze",
+		"Title Database Text": "S14 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Bronze",
+		"Title Database Text": "S14 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Silver",
+		"Title Database Text": "S14 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Silver",
+		"Title Database Text": "S14 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Gold",
+		"Title Database Text": "S14 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Gold",
+		"Title Database Text": "S14 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Platinum",
+		"Title Database Text": "S14 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Platinum",
+		"Title Database Text": "S14 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Diamond",
+		"Title Database Text": "S14 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Diamond",
+		"Title Database Text": "S14 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Champion",
+		"Title Database Text": "S14 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_14_Champion",
+		"Title Database Text": "S14 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_14_GrandChampion",
+		"Title Database Text": "S14 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_14_GrandChampion",
+		"Title Database Text": "S14 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_14_SuperSonicLegend",
+		"Title Database Text": "S14 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_14_SuperSonicLegend",
+		"Title Database Text": "S14 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "Mutant",
+		"Title Database Text": "Mutant",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2023_Champion",
+		"Title Database Text": "CRL Fall 2023 Champion",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2023_Contender",
+		"Title Database Text": "CRL Fall 2023 Contender",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "CRL_Fall_2023_Elite",
+		"Title Database Text": "CRL Fall 2023 Elite",
+		"Title Database Color": "#FFEB5C"
+	},
+	{
+		"Title Database Id": "Mosh_Maniac",
+		"Title Database Text": "Mosh Maniac",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Elder_Emo",
+		"Title Database Text": "Elder Emo",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Headliner",
+		"Title Database Text": "Vocalist",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Indie_Artist",
+		"Title Database Text": "Indie Artist",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Season28GrandChampion",
+		"Title Database Text": "S14 Grand Champion",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S28_Grand_Champion_Rumble",
+		"Title Database Text": "S14 RNG Champ",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S28_Grand_Champion_DropShot",
+		"Title Database Text": "S14 Floor Destroyer",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S28_Grand_Champion_Hoops",
+		"Title Database Text": "S14 Dunk Master",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S28_SuperSonic_Legend",
+		"Title Database Text": "S14 Supersonic Legend",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S28_SSL_Rumble",
+		"Title Database Text": "S14 RNGenius",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S28_SSL_DropShot",
+		"Title Database Text": "S14 Tile Annihilator",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S28_SSL_Hoops",
+		"Title Database Text": "S14 Legendary Baller",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Bronze",
+		"Title Database Text": "S15 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Bronze",
+		"Title Database Text": "S15 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Silver",
+		"Title Database Text": "S15 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Silver",
+		"Title Database Text": "S15 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Gold",
+		"Title Database Text": "S15 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Gold",
+		"Title Database Text": "S15 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Platinum",
+		"Title Database Text": "S15 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Platinum",
+		"Title Database Text": "S15 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Diamond",
+		"Title Database Text": "S15 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Diamond",
+		"Title Database Text": "S15 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Champion",
+		"Title Database Text": "S15 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_15_Champion",
+		"Title Database Text": "S15 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_15_GrandChampion",
+		"Title Database Text": "S15 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_15_GrandChampion",
+		"Title Database Text": "S15 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_15_SuperSonicLegend",
+		"Title Database Text": "S15 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_15_SuperSonicLegend",
+		"Title Database Text": "S15 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "Shoobie",
+		"Title Database Text": "Shoobie",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "S29_GRAND_CHAMPION",
+		"Title Database Text": "S15 GRAND CHAMPION",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S29_DUNK_MASTER",
+		"Title Database Text": "S15 DUNK MASTER",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S29_LEGENDARY_BALLER",
+		"Title Database Text": "S15 LEGENDARY BALLER",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S29_RNG_CHAMP",
+		"Title Database Text": "S15 RNG CHAMP",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S29_RNGENIUS",
+		"Title Database Text": "S15 RNGENIUS",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S29_BLIZZARD_WIZARD",
+		"Title Database Text": "S15 BLIZZARD WIZARD",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "S29_ICE_TITAN",
+		"Title Database Text": "S15 ICE TITAN",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "S29_SUPERSONIC_LEGEND",
+		"Title Database Text": "S15 SUPERSONIC LEGEND",
+		"Title Database Color": "#E8E8E8"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Bronze",
+		"Title Database Text": "S16 {Bronze} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Bronze",
+		"Title Database Text": "S16 {Bronze} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Silver",
+		"Title Database Text": "S16 {Silver} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Silver",
+		"Title Database Text": "S16 {Silver} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Gold",
+		"Title Database Text": "S16 {Gold} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Gold",
+		"Title Database Text": "S16 {Gold} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Platinum",
+		"Title Database Text": "S16 {Platinum} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Platinum",
+		"Title Database Text": "S16 {Platinum} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Diamond",
+		"Title Database Text": "S16 {Diamond} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Diamond",
+		"Title Database Text": "S16 {Diamond} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Champion",
+		"Title Database Text": "S16 {Champion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_16_Champion",
+		"Title Database Text": "S16 {Champion} Tournament Winner",
+		"Title Database Color": "#9BFF00"
+	},
+	{
+		"Title Database Id": "AutoTour_16_GrandChampion",
+		"Title Database Text": "S16 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "AutoTour_16_GrandChampion",
+		"Title Database Text": "S16 {GrandChampion} Tournament Winner",
+		"Title Database Color": "#FF2800"
+	},
+	{
+		"Title Database Id": "AutoTour_16_SuperSonicLegend",
+		"Title Database Text": "S16 {Legend} Tournament Winner",
+		"Title Database Color": "#F0FFF9"
+	},
+	{
+		"Title Database Id": "AutoTour_16_SuperSonicLegend",
+		"Title Database Text": "S16 {Legend} Tournament Winner",
+		"Title Database Color": "#FF8DDD"
+	},
+	{
+		"Title Database Id": "Outdoorsy",
+		"Title Database Text": "Outdoorsy",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "OffTheGrid",
+		"Title Database Text": "Off The Grid",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "HappyCamper",
+		"Title Database Text": "Happy Camper",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "Cryptozoologist",
+		"Title Database Text": "Cryptozoologist",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "GOAT_IN_TRAINING",
+		"Title Database Text": "GOAT IN TRAINING",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "FOREVER_FASTER",
+		"Title Database Text": "FOREVER. FASTER.",
+		"Title Database Color": "#FFFFFF"
+	},
+	{
+		"Title Database Id": "CompletelyLost",
+		"Title Database Text": "Completely Lost",
 		"Title Database Color": "#FFFFFF"
 	}
 ]

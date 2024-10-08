@@ -4,48 +4,16 @@
 		"Database Series Label": "Player's Choice"
 	},
 	{
-		"Database Series Id": 1,
-		"Database Series Label": "Postgame"
+		"Database Series Id": 21,
+		"Database Series Label": "Secret Santa"
 	},
 	{
 		"Database Series Id": 19,
 		"Database Series Label": "Velocity"
 	},
 	{
-		"Database Series Id": 13,
-		"Database Series Label": "Overdrive"
-	},
-	{
-		"Database Series Id": 18,
-		"Database Series Label": "Accelerator"
-	},
-	{
-		"Database Series Id": 7,
-		"Database Series Label": "Champions 4"
-	},
-	{
-		"Database Series Id": 21,
-		"Database Series Label": "Secret Santa"
-	},
-	{
-		"Database Series Id": 29,
-		"Database Series Label": "Triumph"
-	},
-	{
-		"Database Series Id": 26,
-		"Database Series Label": "Victory"
-	},
-	{
-		"Database Series Id": 2,
-		"Database Series Label": "Champions 1"
-	},
-	{
-		"Database Series Id": 34,
-		"Database Series Label": "RL Beach Blast"
-	},
-	{
-		"Database Series Id": 33,
-		"Database Series Label": "Impact"
+		"Database Series Id": 443,
+		"Database Series Label": "Golden Egg '19"
 	},
 	{
 		"Database Series Id": 48,
@@ -56,60 +24,96 @@
 		"Database Series Label": "Nitro"
 	},
 	{
-		"Database Series Id": 207,
-		"Database Series Label": "Golden Gift '18"
-	},
-	{
-		"Database Series Id": 191,
-		"Database Series Label": "Golden Pumpkin '18"
-	},
-	{
-		"Database Series Id": 10,
-		"Database Series Label": "Turbo"
-	},
-	{
-		"Database Series Id": 443,
-		"Database Series Label": "Golden Egg '19"
-	},
-	{
-		"Database Series Id": 403,
-		"Database Series Label": "Totally Awesome"
-	},
-	{
-		"Database Series Id": 299,
-		"Database Series Label": "Ferocity"
-	},
-	{
-		"Database Series Id": 635,
-		"Database Series Label": "Bonus Gift"
-	},
-	{
-		"Database Series Id": 541,
-		"Database Series Label": "Golden Pumpkin '19"
+		"Database Series Id": 26,
+		"Database Series Label": "Victory"
 	},
 	{
 		"Database Series Id": 47,
 		"Database Series Label": "Golden Egg '18"
 	},
 	{
-		"Database Series Id": 6,
-		"Database Series Label": "Champions 3"
+		"Database Series Id": 34,
+		"Database Series Label": "RL Beach Blast"
+	},
+	{
+		"Database Series Id": 7,
+		"Database Series Label": "Champions 4"
+	},
+	{
+		"Database Series Id": 2,
+		"Database Series Label": "Champions 1"
+	},
+	{
+		"Database Series Id": 1,
+		"Database Series Label": "Postgame"
 	},
 	{
 		"Database Series Id": 190,
 		"Database Series Label": "Elevation"
 	},
 	{
-		"Database Series Id": 3,
-		"Database Series Label": "Champions 2"
+		"Database Series Id": 6,
+		"Database Series Label": "Champions 3"
+	},
+	{
+		"Database Series Id": 10,
+		"Database Series Label": "Turbo"
+	},
+	{
+		"Database Series Id": 737,
+		"Database Series Label": "Ignition"
+	},
+	{
+		"Database Series Id": 207,
+		"Database Series Label": "Golden Gift '18"
+	},
+	{
+		"Database Series Id": 403,
+		"Database Series Label": "Totally Awesome"
+	},
+	{
+		"Database Series Id": 18,
+		"Database Series Label": "Accelerator"
 	},
 	{
 		"Database Series Id": 534,
 		"Database Series Label": "Vindicator"
 	},
 	{
-		"Database Series Id": 737,
-		"Database Series Label": "Ignition"
+		"Database Series Id": 191,
+		"Database Series Label": "Golden Pumpkin '18"
+	},
+	{
+		"Database Series Id": 29,
+		"Database Series Label": "Triumph"
+	},
+	{
+		"Database Series Id": 3,
+		"Database Series Label": "Champions 2"
+	},
+	{
+		"Database Series Id": 33,
+		"Database Series Label": "Impact"
+	},
+	{
+		"Database Series Id": 1761,
+		"Database Series Label": "Accolade IV"
+	},
+	{
+		"Database Series Id": 541,
+		"Database Series Label": "Golden Pumpkin '19"
+	},
+	{
+		"Database Series Id": 13,
+		"Database Series Label": "Overdrive"
+	},
+	{
+		"Database Series Id": 635,
+		"Database Series Label": "Bonus Gift"
+	},
+	{
+		"Database Series Id": 299,
+		"Database Series Label": "Ferocity"
 	},
 	{
 		"Database Series Id": 900,
@@ -120,24 +124,20 @@
 		"Database Series Label": "Revival"
 	},
 	{
-		"Database Series Id": 1761,
-		"Database Series Label": "Accolade IV"
-	},
-	{
 		"Database Series Id": 2281,
 		"Database Series Label": "Accolade V"
-	},
-	{
-		"Database Series Id": 542,
-		"Database Series Label": "Golden Gift '19"
 	},
 	{
 		"Database Series Id": 3216,
 		"Database Series Label": "Golden Gift Basket '22"
 	},
 	{
-		"Database Series Id": 2717,
-		"Database Series Label": "Accolade VI"
+		"Database Series Id": 3766,
+		"Database Series Label": "Accolade VIII"
+	},
+	{
+		"Database Series Id": 4292,
+		"Database Series Label": "Golden Gift '22"
 	},
 	{
 		"Database Series Id": 3246,
@@ -148,16 +148,16 @@
 		"Database Series Label": "Accolade VII"
 	},
 	{
-		"Database Series Id": 3766,
-		"Database Series Label": "Accolade VIII"
+		"Database Series Id": 2717,
+		"Database Series Label": "Accolade VI"
 	},
 	{
 		"Database Series Id": 4145,
 		"Database Series Label": "Golden Pumpkin '22"
 	},
 	{
-		"Database Series Id": 4292,
-		"Database Series Label": "Golden Gift '22"
+		"Database Series Id": 542,
+		"Database Series Label": "Golden Gift '19"
 	},
 	{
 		"Database Series Id": 4575,
@@ -168,28 +168,44 @@
 		"Database Series Label": "Golden Trophy '23"
 	},
 	{
-		"Database Series Id": 20,
-		"Database Series Label": "Haunted Hallows"
+		"Database Series Id": 6164,
+		"Database Series Label": "Accolade XIV"
 	},
 	{
-		"Database Series Id": 27,
-		"Database Series Label": "Spring Fever"
+		"Database Series Id": 4595,
+		"Database Series Label": "Accolade X"
+	},
+	{
+		"Database Series Id": 4950,
+		"Database Series Label": "Golden Egg '23"
+	},
+	{
+		"Database Series Id": 1180,
+		"Database Series Label": "Season 2"
+	},
+	{
+		"Database Series Id": 2737,
+		"Database Series Label": "Fornax"
+	},
+	{
+		"Database Series Id": 2208,
+		"Database Series Label": "Dorado"
+	},
+	{
+		"Database Series Id": 4941,
+		"Database Series Label": "Golden Toolkit"
 	},
 	{
 		"Database Series Id": 300,
 		"Database Series Label": "Golden Lantern '19"
 	},
 	{
-		"Database Series Id": 5440,
-		"Database Series Label": "Accolade XII"
+		"Database Series Id": 5674,
+		"Database Series Label": "Golden Pumpkin '23"
 	},
 	{
-		"Database Series Id": 902,
-		"Database Series Label": "Golden Egg '20"
-	},
-	{
-		"Database Series Id": 935,
-		"Database Series Label": "Kismet"
+		"Database Series Id": 1649,
+		"Database Series Label": "Auriga"
 	},
 	{
 		"Database Series Id": 1032,
@@ -200,16 +216,48 @@
 		"Database Series Label": "Golden Pumpkin '20"
 	},
 	{
-		"Database Series Id": 1154,
-		"Database Series Label": "Golden Gift '20"
+		"Database Series Id": 20,
+		"Database Series Label": "Haunted Hallows"
+	},
+	{
+		"Database Series Id": 3249,
+		"Database Series Label": "Select Favorites 2"
 	},
 	{
 		"Database Series Id": 1181,
 		"Database Series Label": "Golden Lantern '21"
 	},
 	{
-		"Database Series Id": 1180,
-		"Database Series Label": "Season 2"
+		"Database Series Id": 2699,
+		"Database Series Label": "Golden Moon '22"
+	},
+	{
+		"Database Series Id": 902,
+		"Database Series Label": "Golden Egg '20"
+	},
+	{
+		"Database Series Id": 27,
+		"Database Series Label": "Spring Fever"
+	},
+	{
+		"Database Series Id": 1154,
+		"Database Series Label": "Golden Gift '20"
+	},
+	{
+		"Database Series Id": 2331,
+		"Database Series Label": "Golden Gift '21"
+	},
+	{
+		"Database Series Id": 1651,
+		"Database Series Label": "Select Favorites"
+	},
+	{
+		"Database Series Id": 6802,
+		"Database Series Label": "Accolade XVI"
+	},
+	{
+		"Database Series Id": 935,
+		"Database Series Label": "Kismet"
 	},
 	{
 		"Database Series Id": 855,
@@ -224,51 +272,51 @@
 		"Database Series Label": "Accolade III"
 	},
 	{
-		"Database Series Id": 1649,
-		"Database Series Label": "Auriga"
-	},
-	{
-		"Database Series Id": 1651,
-		"Database Series Label": "Select Favorites"
-	},
-	{
-		"Database Series Id": 2208,
-		"Database Series Label": "Dorado"
-	},
-	{
-		"Database Series Id": 2699,
-		"Database Series Label": "Golden Moon '22"
-	},
-	{
-		"Database Series Id": 2737,
-		"Database Series Label": "Fornax"
-	},
-	{
-		"Database Series Id": 2331,
-		"Database Series Label": "Golden Gift '21"
-	},
-	{
-		"Database Series Id": 3249,
-		"Database Series Label": "Select Favorites 2"
-	},
-	{
 		"Database Series Id": 4206,
 		"Database Series Label": "Accolade IX"
-	},
-	{
-		"Database Series Id": 4595,
-		"Database Series Label": "Accolade X"
-	},
-	{
-		"Database Series Id": 4941,
-		"Database Series Label": "Golden Toolkit"
 	},
 	{
 		"Database Series Id": 4971,
 		"Database Series Label": "Accolade XI"
 	},
 	{
-		"Database Series Id": 4950,
-		"Database Series Label": "Golden Egg '23"
+		"Database Series Id": 5440,
+		"Database Series Label": "Accolade XII"
+	},
+	{
+		"Database Series Id": 6005,
+		"Database Series Label": "Accolade XIII"
+	},
+	{
+		"Database Series Id": 6010,
+		"Database Series Label": "Golden Gift '23"
+	},
+	{
+		"Database Series Id": 6372,
+		"Database Series Label": "Golden Cup '24"
+	},
+	{
+		"Database Series Id": 6029,
+		"Database Series Label": "Golden Moon '24"
+	},
+	{
+		"Database Series Id": 6385,
+		"Database Series Label": "Golden X-Crate"
+	},
+	{
+		"Database Series Id": 6763,
+		"Database Series Label": "Golden Record '24"
+	},
+	{
+		"Database Series Id": 6508,
+		"Database Series Label": "Golden Egg '24"
+	},
+	{
+		"Database Series Id": 6533,
+		"Database Series Label": "Accolade XV"
+	},
+	{
+		"Database Series Id": 6896,
+		"Database Series Label": "Golden Trophy '24"
 	}
 ]

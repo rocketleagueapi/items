@@ -135,7 +135,7 @@
 	{
 		"Playlist Id": 16,
 		"Playlist Title": "Rocket Labs",
-		"Playlist Description": "Rocket Labs features experimental Arenas and Mutators. This weekend, play Soccar on the new Loophole Arena!",
+		"Playlist Description": "Rocket Labs features experimental Arenas",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 6
 	},
@@ -217,6 +217,27 @@
 		"Playlist Player Count": 6
 	},
 	{
+		"Playlist Id": 64,
+		"Playlist Title": "Haunted Heatseeker",
+		"Playlist Description": "Heatseeker is now 2v2! Touching the ball automatically sends it in the direction of the opposing team’s goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins! ",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 4
+	},
+	{
+		"Playlist Id": 66,
+		"Playlist Title": "Heatseeker Ricochet",
+		"Playlist Description": "Heatseeker with a fun twist thanks to three unique Rocket Labs Arenas: Barricade, Colossus, and Hourglass. Touching the ball automatically sends it in the direction of the opposing team's goal. The ball gains speed with each touch. Scoring 7 goals wins!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 65,
+		"Playlist Title": "Haunted Heatseeker",
+		"Playlist Description": "The spooky side of Heatseeker! Touching the ball automatically sends it in the direction of the opposing team's goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
 		"Playlist Id": 43,
 		"Playlist Title": "Heatseeker Doubles",
 		"Playlist Description": "Heatseeker is now 2v2! Touching the ball automatically sends it in the direction of the opposing team’s goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins! ",
@@ -231,6 +252,13 @@
 		"Playlist Player Count": 6
 	},
 	{
+		"Playlist Id": 70,
+		"Playlist Title": "Dropshot Rumble",
+		"Playlist Description": "Dropshot and Rumble have collided! Get ready to break your opponents' floor, but now with the power-ups of Rumble!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 4
+	},
+	{
 		"Playlist Id": 41,
 		"Playlist Title": "Boomer Ball",
 		"Playlist Description": "Feel the boom in this twist on classic 3v3 Soccar! Ball speed and bounciness are increased. Boost is more powerful and unlimited. Touch the ball and watch it ricochet around the arena!",
@@ -240,7 +268,7 @@
 	{
 		"Playlist Id": 35,
 		"Playlist Title": "Rocket Labs",
-		"Playlist Description": "Rocket Labs features experimental Arenas and Mutators. This weekend, play Soccar on the new Loophole Arena!",
+		"Playlist Description": "Rocket Labs features experimental Arenas",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 6
 	},
@@ -262,6 +290,13 @@
 		"Playlist Id": 47,
 		"Playlist Title": "Super Cube",
 		"Playlist Description": "Square up for 3v3 Super Cube! The ball has been replaced with a Cube with increased maximum speed and bounciness. Think fast!",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
+		"Playlist Id": 67,
+		"Playlist Title": "Spooky Cube",
+		"Playlist Description": "Ready to smash some pumpkins? Spooky Cube will put your reflexes to the test as this jack-o'-lantern cube ricochets around Farmstead (Spooky) Arena. With a mess of mutators increasing max speed and bounciness, you’ll need a lot of luck chasing this pumpkin down!",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 6
 	},
@@ -301,10 +336,24 @@
 		"Playlist Player Count": 8
 	},
 	{
+		"Playlist Id": 55,
+		"Playlist Title": "confidential_thirdwheel_test",
+		"Playlist Description": "Devin will fill this in later. Try to make 3 wheels sound like a good thing.",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
+	},
+	{
 		"Playlist Id": 62,
 		"Playlist Title": "Nike FC Showdown",
 		"Playlist Description": "Football meets Soccar in a Nike-Branded Arena! Nike FC Showdown uses a new Nike Ball that curves through the air with modified Mutator Settings. Higher max speed and low bounce mean that this LTM is best played fast and close to the ground.",
 		"Playlist Ranked": false,
 		"Playlist Player Count": 8
+	},
+	{
+		"Playlist Id": 68,
+		"Playlist Title": "G-Force Frenzy",
+		"Playlist Description": "In this new Limited Time Mode you will battle 3x3 in low gravity, plus use an added unlimited boost, 5x its usual power, to send you hurtling through the air. Reckon you’re up to the task, pilot?",
+		"Playlist Ranked": false,
+		"Playlist Player Count": 6
 	}
 ]

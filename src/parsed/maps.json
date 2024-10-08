@@ -15,6 +15,10 @@
     "name": "Champions Field (NFL)",
     "variant": "None"
   },
+  "Beach_Night_GRS_P": {
+    "name": "Salty Shores",
+    "variant": "Salty Fest"
+  },
   "beach_night_p": {
     "name": "Salty Shores",
     "variant": "Night"
@@ -43,6 +47,10 @@
     "name": "Champions Field",
     "variant": "None"
   },
+  "EuroStadium_Dusk_P": {
+    "name": "Mannfield",
+    "variant": "Dusk"
+  },
   "EuroStadium_Night_P": {
     "name": "Mannfield",
     "variant": "Night"
@@ -58,6 +66,10 @@
   "eurostadium_snownight_p": {
     "name": "Mannfield",
     "variant": "Snowy"
+  },
+  "Farm_GRS_P": {
+    "name": "Farmstead",
+    "variant": "Pitched"
   },
   "Farm_HW_P": {
     "name": "Farmstead",
@@ -271,6 +283,10 @@
     "name": "Urban Central",
     "variant": "None"
   },
+  "Underwater_GRS_P": {
+    "name": "AquaDome",
+    "variant": "Salty Shallows"
+  },
   "Underwater_P": {
     "name": "AquaDome",
     "variant": "None"
@@ -291,6 +307,10 @@
     "name": "Utopia Coliseum",
     "variant": "Snowy"
   },
+  "Wasteland_GRS_P": {
+    "name": "Wasteland",
+    "variant": "Pitched"
+  },
   "Wasteland_Night_P": {
     "name": "Badlands",
     "variant": "Night"
@@ -305,6 +325,10 @@
   },
   "wasteland_s_p": {
     "name": "Wasteland",
+    "variant": "None"
+  },
+  "woods_p": {
+    "name": "Drift Woods",
     "variant": "None"
   }
 }
