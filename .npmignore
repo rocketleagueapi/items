@@ -8,3 +8,6 @@ tsconfig.*.json
 # Build scripts & resources
 dist/*/bakkesmod/
 dist/*/parse.*
+
+# Ignore documentation
+UPDATING.md
